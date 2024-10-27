@@ -66,7 +66,7 @@ def check_nvidia_smi():
         raise EnvironmentError('The nvidia-smi command could not be found.')
 
 
-check_nvidia_smi()
+# check_nvidia_smi()
 
 
 class Logger:
@@ -108,19 +108,19 @@ class Logger:
             'RAM' + (' (%)' if self.show_units else ''),
             'Swap' + (' (%)' if self.show_units else ''),
         ]
-        self.gpu_field_names = [
-            'GPU' + (' (%)' if self.show_units else ''),
-            'Mem' + (' (%)' if self.show_units else ''),
-            'Temp' + (' (C)' if self.show_units else ''),
-        ]
-        self.gpu_queries = [
-            'utilization.gpu',
-            'utilization.memory',
-            'temperature.gpu',
-        ]
-        self.gpu_query = ','.join(self.gpu_queries)
+#        self.gpu_field_names = [
+ #           'GPU' + (' (%)' if self.show_units else ''),
+  #          'Mem' + (' (%)' if self.show_units else ''),
+   #         'Temp' + (' (C)' if self.show_units else ''),
+#        ]
+ #       self.gpu_queries = [
+  #          'utilization.gpu',
+   #         'utilization.memory',
+    #        'temperature.gpu',
+     #   ]
+     #   self.gpu_query = ','.join(self.gpu_queries)
 
-        self.gpu_names = self.get_gpu_names()
+      #  self.gpu_names = self.get_gpu_names()
 
     def get_gpu_names(self):
         res = subprocess.check_output(['nvidia-smi', '-L'])
@@ -130,9 +130,9 @@ class Logger:
     def tabular_format(self):
         fmt = '{:>' + str(self.time_field_width) + '} |'
         fmt += ('|{:>' + str(self.col_width) + '} ') * len(self.cpu_field_names)
-        for i_gpu in range(len(self.gpu_names)):
-            fmt += '|'
-            fmt += ('|{:>' + str(self.col_width) + '} ') * len(self.gpu_field_names)
+       # for i_gpu in range(len(self.gpu_names)):
+        #    fmt += '|'
+         #   fmt += ('|{:>' + str(self.col_width) + '} ') * len(self.gpu_field_names)
         return fmt
 
     def write_header_csv(self):
@@ -142,11 +142,11 @@ class Logger:
         with smart_open(self.fname, 'a') as hf:
             print(self.time_field_name + self.sep, end='', file=hf)
             print(*self.cpu_field_names, sep=self.sep, end='', file=hf)
-            for i_gpu in range(len(self.gpu_names)):
-                print(self.sep, end='', file=hf)
-                print(*['{}:{}'.format(i_gpu, fn)
-                        for fn in self.gpu_field_names],
-                      sep=self.sep, end='', file=hf)
+          #  for i_gpu in range(len(self.gpu_names)):
+           #     print(self.sep, end='', file=hf)
+            #    print(*['{}:{}'.format(i_gpu, fn)
+             #           for fn in self.gpu_field_names],
+              #        sep=self.sep, end='', file=hf)
             print("\n", end='', file=hf)  # add a newline
 
     def write_header_tabular(self):
@@ -156,9 +156,9 @@ class Logger:
         with smart_open(self.fname, 'a') as hf:
             cols = [self.time_field_name]
             cols += self.cpu_field_names
-            for i_gpu in range(len(self.gpu_names)):
-                cols += ['{}:{}'.format(i_gpu, fn)
-                         for fn in self.gpu_field_names]
+            #for i_gpu in range(len(self.gpu_names)):
+             #   cols += ['{}:{}'.format(i_gpu, fn)
+              #           for fn in self.gpu_field_names]
 
             print(self.tabular_format.format(*cols), file=hf)
 
@@ -168,11 +168,11 @@ class Logger:
                 '+',
                 ('+' + '-' * (self.col_width + 1)) * len(self.cpu_field_names),
                 sep='', end='', file=hf)
-            for i_gpu in range(len(self.gpu_names)):
-                print(
-                    '+',
-                    ('+' + '-' * (self.col_width + 1)) * len(self.gpu_field_names),
-                    sep='', end='', file=hf)
+           # for i_gpu in range(len(self.gpu_names)):
+            #    print(
+             #       '+',
+              #      ('+' + '-' * (self.col_width + 1)) * len(self.gpu_field_names),
+               #     sep='', end='', file=hf)
             print("\n", end='', file=hf)  # add a newline
 
     def write_header(self):
@@ -234,7 +234,7 @@ class Logger:
             else:
                 t = time.strftime(self.date_format)
             stats.insert(0, t)
-            stats += self.poll_gpus(flatten=True)
+       #     stats += self.poll_gpus(flatten=True)
             if self.style == 'csv':
                 print(','.join([str(stat) for stat in stats]), file=hf)
             elif self.style == 'tabular':

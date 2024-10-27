@@ -1,6 +1,6 @@
-# import scann
+import scann
 import statistics
-
+import subprocess
 import numpy as np
 # import transformers
 # from transformers import (AutoModelForCausalLM,
@@ -66,7 +66,7 @@ class AIAssistant:
     def query(self, query):
         """Query the knowledge base of the AI assistant."""
         # Generate and print an answer to the query
-        result, answer_time, scann_time = generate_summary_and_answer(query,
+        result, answer_time, scann_time, prompt_time = generate_summary_and_answer(query,
                                                                       self.knowledge_base,
                                                                       self.searcher,
                                                                       self.embedding_model,
@@ -74,7 +74,7 @@ class AIAssistant:
                                                                       temperature=self.temperature,
                                                                       role=self.role)
         #         print(answer)
-        return result, answer_time, scann_time
+        return result, answer_time, scann_time, prompt_time
 
     def set_temperature(self, temperature):
         """Set the temperature (creativity) of the AI assistant."""
@@ -136,15 +136,14 @@ if __name__ == '__main__':
     gemma_ai_assistant.load_embeddings(filename="data/embeddings.npy")
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
-    # import subprocess
     # !rm -f log_compute.csv
-    # logger_fname = 'log_compute.csv'
-    # logger_pid = subprocess.Popen(
-    #     ['python', 'log_gpu_cpu_stats.py',
-    #      logger_fname,
-    #      '--loop',  '30',  # Interval between measurements, in seconds (optional, default=1)
-    #     ])
-    # print('Started logging compute utilisation')
+    logger_fname = 'log_compute.csv'
+    logger_pid = subprocess.Popen(
+         ['python', 'log_gpu_cpu_stats.py',
+          logger_fname,
+          '--loop',  '30',  # Interval between measurements, in seconds (optional, default=1)
+         ])
+    print('Started logging compute utilisation')
 
     answer_time_arr, scann_time_arr, prompt_time_arr = [], [], []
     i = 0
@@ -152,16 +151,18 @@ if __name__ == '__main__':
         print(f"Question #{i}")
         print(f"Question: {question}")
         print(f"Answer: {answer}")
-        result, answer_time, scann_time = gemma_ai_assistant.query(question)
+        result, answer_time, scann_time, prompt_time = gemma_ai_assistant.query(question)
         answer_time_arr.append(answer_time)
         scann_time_arr.append(scann_time)
-        # prompt_time_arr.append(prompt_time)
+        prompt_time_arr.append(prompt_time)
         print("Result:" + result)
         i += 1
-        break
-        # if i == 15:
-        #     break
-
+        #break
+        if i == 500:
+            break
+    # End the background process logging the CPU and GPU utilisation.
+    logger_pid.terminate()
+    print('Terminated the compute utilisation logger background process')
     print(f"Avg scann time {statistics.fmean(scann_time_arr)}")
     print(f"Avg prompt time {statistics.fmean(prompt_time_arr)}")
     print(f"Avg answer time {statistics.fmean(answer_time_arr)}")
