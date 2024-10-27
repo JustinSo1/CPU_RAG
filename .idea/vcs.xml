@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gemma-cpp-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gemma-cpp-python/build/temp.macosx-14.0-arm64-cpython-312/_deps/gemma-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gemma-cpp-python/build/temp.macosx-14.0-arm64-cpython-312/_deps/highway-build/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gemma-cpp-python/build/temp.macosx-14.0-arm64-cpython-312/_deps/highway-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gemma-cpp-python/build/temp.macosx-14.0-arm64-cpython-312/_deps/pybind11-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gemma-cpp-python/build/temp.macosx-14.0-arm64-cpython-312/_deps/sentencepiece-src" vcs="Git" />
   </component>
 </project>
