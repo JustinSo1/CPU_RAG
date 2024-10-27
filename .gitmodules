@@ -1,0 +1,3 @@
+[submodule "gemma-cpp-python"]
+	path = gemma-cpp-python
+	url = git@github.com:namtranase/gemma-cpp-python.git
