@@ -124,12 +124,12 @@ def generate_summary_and_answer(question, data, searcher, embedding_model, model
              SUMMARY:
              """.strip() + EOS_TOKEN
     # Generate a summary based on the prompt
-    #     print("Starting generating context summary")
-    #     start = time.time()
+    print("Starting generating context summary")
+    start = time.time()
     results = model.generate_text(prompt, max_new_tokens, temperature)
-    #     end = time.time()
-    #     prompt_time = end - start
-    #     print(f"Time taken: {prompt_time} seconds")
+    end = time.time()
+    prompt_time = end - start
+    print(f"Time taken: {prompt_time} seconds")
     # Clean the generated summary
     summary = clean_text(results[0].split("SUMMARY:")[-1], EOS_TOKEN)
 
@@ -161,7 +161,7 @@ def generate_summary_and_answer(question, data, searcher, embedding_model, model
     answer = clean_text(results[0].split("ANSWER:")[-1], EOS_TOKEN)
 
     # Return the cleaned answer
-    return answer, answer_time, scann_time
+    return answer, answer_time, scann_time, prompt_time
 
 
 # Pre-compile the regular expression pattern for better performance
