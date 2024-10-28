@@ -1,4 +1,4 @@
-# import scann
+import scann
 import multiprocessing
 import statistics
 import subprocess
@@ -115,8 +115,8 @@ def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
     # gemma_ai_assistant.save_embeddings()
 
     # Uploading the knowledge base and embeddings to the AI assistant
-    # gemma_ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
-    # gemma_ai_assistant.load_embeddings(filename="data/embeddings.npy")
+    gemma_ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
+    gemma_ai_assistant.load_embeddings(filename="data/embeddings.npy")
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
@@ -140,10 +140,10 @@ def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
         print("Result:" + result)
         i += 1
         break
-        # if i == 500:
+        # if i == 25:
         #     break
     # End the background process logging the CPU and GPU utilisation.
-    logger_pid.terminate()
+     logger_pid.terminate()
     avg_scann_time = statistics.fmean(scann_time_arr)
     avg_prompt_time = statistics.fmean(prompt_time_arr)
     avg_answer_time = statistics.fmean(answer_time_arr)
