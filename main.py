@@ -1,6 +1,8 @@
 import scann
+import multiprocessing
 import statistics
 import subprocess
+
 import numpy as np
 # import transformers
 # from transformers import (AutoModelForCausalLM,
@@ -67,12 +69,12 @@ class AIAssistant:
         """Query the knowledge base of the AI assistant."""
         # Generate and print an answer to the query
         result, answer_time, scann_time, prompt_time = generate_summary_and_answer(query,
-                                                                      self.knowledge_base,
-                                                                      self.searcher,
-                                                                      self.embedding_model,
-                                                                      self.gemma_model,
-                                                                      temperature=self.temperature,
-                                                                      role=self.role)
+                                                                                   self.knowledge_base,
+                                                                                   self.searcher,
+                                                                                   self.embedding_model,
+                                                                                   self.gemma_model,
+                                                                                   temperature=self.temperature,
+                                                                                   role=self.role)
         #         print(answer)
         return result, answer_time, scann_time, prompt_time
 
@@ -95,39 +97,19 @@ class AIAssistant:
         self.index_embeddings()
 
 
-if __name__ == '__main__':
-    text_corpus = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
-    question_answer = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
-    # text_corpus = load_dataset("hf://datasets/rag-datasets/rag-mini-bioasq/data/passages.parquet/part.0.parquet")
-    # question_answer = load_dataset("hf://datasets/rag-datasets/rag-mini-bioasq/data/test.parquet/part.0.parquet")
-    questions = question_answer['question'].tolist()
-    answers = question_answer['answer'].tolist()
-    embeddings_name = "thenlper/gte-large"
-    tokenizer = "data/gemma-gemmacpp-2b-it-sfp-v4/tokenizer.spm"
-    compressed_weights = "data/gemma-gemmacpp-2b-it-sfp-v4/2b-it-sfp.sbs"
-    model = "2b-it"
-    max_threads = 10
-
-    # for thread_count in range(1, max_threads + 1):
-    #     gemma_ai_assistant = AIAssistant(
-    #         gemma_model=GemmaCPPPython(tokenizer, compressed_weights, n_threads=thread_count), temperature=0.0,
-    #         embeddings_name=embeddings_name
-    #     )
-    # Loading the previously prepared knowledge base and embeddings
-    # knowledge_base = text_corpus['passage'].tolist()
-
+def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
+                     tokenizer, compressed_weights, model, text_corpus):
     # Create an instance of the class AIAssistant based on Gemma C++
     gemma_ai_assistant = AIAssistant(
-        gemma_model=GemmaCPPPython(tokenizer, compressed_weights, n_threads=1), temperature=0.0,
+        gemma_model=GemmaCPPPython(tokenizer, compressed_weights, n_threads=n_threads), temperature=0.0,
         embeddings_name=embeddings_name
     )
-
+    print(f"Running Gemma with {gemma_ai_assistant.gemma_model.gemma.n_threads} threads")
     # Loading the previously prepared knowledge base and embeddings
     knowledge_base = text_corpus['passage'].tolist()
 
     # Map the intended knowledge base to embeddings and index it
     # gemma_ai_assistant.learn_knowledge_base(knowledge_base=knowledge_base)
-
     # Save the embeddings to disk (for later use)
     # gemma_ai_assistant.save_embeddings()
 
@@ -137,14 +119,13 @@ if __name__ == '__main__':
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
-    logger_fname = 'log_compute.csv'
+    logger_fname = f'data/log_compute{n_threads}.csv'
     logger_pid = subprocess.Popen(
-         ['python', 'log_gpu_cpu_stats.py',
-          logger_fname,
-          '--loop',  '30',  # Interval between measurements, in seconds (optional, default=1)
+        ['python', 'log_gpu_cpu_stats.py',
+         logger_fname,
+         '--loop', '0.1',  # Interval between measurements, in seconds (optional, default=1)
          ])
     print('Started logging compute utilisation')
-
     answer_time_arr, scann_time_arr, prompt_time_arr = [], [], []
     i = 0
     for i, (question, answer) in enumerate(zip(questions, answers), i):
@@ -157,12 +138,38 @@ if __name__ == '__main__':
         prompt_time_arr.append(prompt_time)
         print("Result:" + result)
         i += 1
-        #break
-        if i == 500:
-            break
+        break
+        # if i == 500:
+        #     break
     # End the background process logging the CPU and GPU utilisation.
     logger_pid.terminate()
     print('Terminated the compute utilisation logger background process')
     print(f"Avg scann time {statistics.fmean(scann_time_arr)}")
     print(f"Avg prompt time {statistics.fmean(prompt_time_arr)}")
     print(f"Avg answer time {statistics.fmean(answer_time_arr)}")
+
+
+def main():
+    print(f"Current machine only has {multiprocessing.cpu_count()} cores")
+    text_corpus = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
+    question_answer = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
+    # text_corpus = load_dataset("hf://datasets/rag-datasets/rag-mini-bioasq/data/passages.parquet/part.0.parquet")
+    # question_answer = load_dataset("hf://datasets/rag-datasets/rag-mini-bioasq/data/test.parquet/part.0.parquet")
+    questions = question_answer['question'].tolist()
+    answers = question_answer['answer'].tolist()
+    embeddings_name = "thenlper/gte-large"
+    tokenizer = "data/gemma-gemmacpp-2b-it-sfp-v4/tokenizer.spm"
+    compressed_weights = "data/gemma-gemmacpp-2b-it-sfp-v4/2b-it-sfp.sbs"
+    model = "2b-it"
+    max_threads = 128
+    # Loading the previously prepared knowledge base and embeddings
+    # knowledge_base = text_corpus['passage'].tolist()
+    for i in range(1, max_threads + 1):
+        run_rag_pipeline(n_threads=i, questions=questions, answers=answers, embeddings_name=embeddings_name,
+                         tokenizer=tokenizer, compressed_weights=compressed_weights, model=model,
+                         text_corpus=text_corpus)
+        # break
+
+
+if __name__ == '__main__':
+    main()

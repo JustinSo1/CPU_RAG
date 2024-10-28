@@ -1,3 +1,4 @@
+import multiprocessing
 import subprocess
 import sys
 import re
@@ -85,8 +86,8 @@ class GemmaCPPPython:
             tokenizer_path=tokenizer,
             compressed_weights_path=compressed_weights,
             model_type=model_type,
-            model_training=model_training
-            #             n_threads=
+            model_training=model_training,
+            n_threads=n_threads
         )
 
     def generate_text(self, prompt, *args, **kwargs):
