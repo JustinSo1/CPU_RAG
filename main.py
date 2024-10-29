@@ -1,3 +1,5 @@
+import pickle
+
 import scann
 import multiprocessing
 import statistics
@@ -142,8 +144,8 @@ def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
         break
         # if i == 25:
         #     break
-    # End the background process logging the CPU and GPU utilisation.
-     logger_pid.terminate()
+        # End the background process logging the CPU and GPU utilisation.
+    logger_pid.terminate()
     avg_scann_time = statistics.fmean(scann_time_arr)
     avg_prompt_time = statistics.fmean(prompt_time_arr)
     avg_answer_time = statistics.fmean(answer_time_arr)
@@ -183,6 +185,8 @@ def main():
             "avg_prompt_time": avg_prompt_time,
             "avg_answer_time": avg_answer_time
         }
+        with open('avg_stats_dict_chkpt.pickle', 'wb') as handle:
+            pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
         break
     avg_stats_df = pd.DataFrame(avg_stats_dict)
     # print(avg_stats_df)
