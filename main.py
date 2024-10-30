@@ -130,6 +130,7 @@ def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
          ])
     print('Started logging compute utilisation')
     answer_time_arr, scann_time_arr, prompt_time_arr = [], [], []
+    result_arr = []
     i = 0
     for i, (question, answer) in enumerate(zip(questions, answers), i):
         print(f"Question #{i}")
@@ -139,6 +140,7 @@ def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
         answer_time_arr.append(answer_time)
         scann_time_arr.append(scann_time)
         prompt_time_arr.append(prompt_time)
+        result_arr.append(result)
         print("Result:" + result)
         i += 1
         break
@@ -153,7 +155,7 @@ def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
     print(f"Avg scann time {avg_scann_time}")
     print(f"Avg prompt time {avg_prompt_time}")
     print(f"Avg answer time {avg_answer_time}")
-    return avg_scann_time, avg_prompt_time, avg_answer_time
+    return avg_scann_time, avg_prompt_time, avg_answer_time, result_arr
 
 
 def main():
@@ -168,18 +170,18 @@ def main():
     tokenizer = "data/gemma-gemmacpp-2b-it-sfp-v4/tokenizer.spm"
     compressed_weights = "data/gemma-gemmacpp-2b-it-sfp-v4/2b-it-sfp.sbs"
     model = "2b-it"
-    max_threads = 128
+    max_threads = 30
     # Loading the previously prepared knowledge base and embeddings
     # knowledge_base = text_corpus['passage'].tolist()
     avg_stats_dict = {}
     for i in range(1, max_threads + 1):
-        avg_scann_time, avg_prompt_time, avg_answer_time = run_rag_pipeline(n_threads=i, questions=questions,
-                                                                            answers=answers,
-                                                                            embeddings_name=embeddings_name,
-                                                                            tokenizer=tokenizer,
-                                                                            compressed_weights=compressed_weights,
-                                                                            model=model,
-                                                                            text_corpus=text_corpus)
+        avg_scann_time, avg_prompt_time, avg_answer_time, results = run_rag_pipeline(n_threads=i, questions=questions,
+                                                                                     answers=answers,
+                                                                                     embeddings_name=embeddings_name,
+                                                                                     tokenizer=tokenizer,
+                                                                                     compressed_weights=compressed_weights,
+                                                                                     model=model,
+                                                                                     text_corpus=text_corpus)
         avg_stats_dict[f"{i}_threads"] = {
             "avg_scann_time": avg_scann_time,
             "avg_prompt_time": avg_prompt_time,
@@ -187,6 +189,8 @@ def main():
         }
         with open('avg_stats_dict_chkpt.pickle', 'wb') as handle:
             pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        with open('results.pickle', 'wb') as handle:
+            pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
         break
     avg_stats_df = pd.DataFrame(avg_stats_dict)
     # print(avg_stats_df)
