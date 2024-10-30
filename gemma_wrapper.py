@@ -76,7 +76,8 @@ class GemmaCPP:
 class GemmaCPPPython:
     """Wrapper for the Python Wrapper for Gemma.cpp"""
 
-    def __init__(self, tokenizer, compressed_weights, n_threads=2, model_type=ModelType.Gemma2B,
+    def __init__(self, tokenizer, compressed_weights, n_threads=max(multiprocessing.cpu_count() - 2, 1),
+                 model_type=ModelType.Gemma2B,
                  model_training=ModelTraining.GEMMA_IT):
         #         self.gemma_cpp = gemma_cpp
         #         self.tokenizer = tokenizer
