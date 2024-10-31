@@ -33,6 +33,6 @@ if __name__ == '__main__':
     for i in range(len(x)):
         res[f"Q{i + 1}"] = {"Answer": x[i]}
     print(res)
-    df = pd.DataFrame.from_dict(res, orient='index')
-    print(df)
-    df.to_csv("gemmaWikipediaAnswers.csv")
+    # df = pd.DataFrame.from_dict(res, orient='index')
+    # print(df)
+    # df.to_csv("gemmaWikipediaAnswers.csv")

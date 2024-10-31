@@ -1,6 +1,6 @@
 import pickle
 
-import scann
+# import scann
 import multiprocessing
 import statistics
 import subprocess
@@ -15,6 +15,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 
 from gemma_wrapper import GemmaCPPPython
+from llama_wrapper import LlamaCpp
 from utils import map2embeddings, generate_summary_and_answer, read_csv
 
 
@@ -100,14 +101,14 @@ class AIAssistant:
         self.index_embeddings()
 
 
-def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
-                     tokenizer, compressed_weights, model, text_corpus):
+def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
+                     tokenizer, compressed_weights, text_corpus):
     # Create an instance of the class AIAssistant based on Gemma C++
-    gemma_ai_assistant = AIAssistant(
-        gemma_model=GemmaCPPPython(tokenizer, compressed_weights, n_threads=n_threads), temperature=0.0,
+    ai_assistant = AIAssistant(
+        gemma_model=model, temperature=0.0,
         embeddings_name=embeddings_name
     )
-    print(f"Running Gemma with {gemma_ai_assistant.gemma_model.gemma.n_threads} threads")
+    print(f"Running AI Assistant with {n_threads} threads")
     # Loading the previously prepared knowledge base and embeddings
     knowledge_base = text_corpus['passage'].tolist()
 
@@ -117,8 +118,8 @@ def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
     # gemma_ai_assistant.save_embeddings()
 
     # Uploading the knowledge base and embeddings to the AI assistant
-    gemma_ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
-    gemma_ai_assistant.load_embeddings(filename="data/embeddings.npy")
+    ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
+    ai_assistant.load_embeddings(filename="data/embeddings.npy")
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
@@ -136,7 +137,7 @@ def run_rag_pipeline(n_threads, questions, answers, embeddings_name,
         print(f"Question #{i}")
         print(f"Question: {question}")
         print(f"Answer: {answer}")
-        result, answer_time, scann_time, prompt_time = gemma_ai_assistant.query(question)
+        result, answer_time, scann_time, prompt_time = ai_assistant.query(question)
         answer_time_arr.append(answer_time)
         scann_time_arr.append(scann_time)
         prompt_time_arr.append(prompt_time)
@@ -175,13 +176,15 @@ def main():
     # knowledge_base = text_corpus['passage'].tolist()
     avg_stats_dict = {}
     for i in range(1, max_threads + 1):
-        avg_scann_time, avg_prompt_time, avg_answer_time, results = run_rag_pipeline(n_threads=i, questions=questions,
-                                                                                     answers=answers,
-                                                                                     embeddings_name=embeddings_name,
-                                                                                     tokenizer=tokenizer,
-                                                                                     compressed_weights=compressed_weights,
-                                                                                     model=model,
-                                                                                     text_corpus=text_corpus)
+        avg_scann_time, avg_prompt_time, avg_answer_time, results = run_rag_pipeline(
+            # model=GemmaCPPPython(tokenizer, compressed_weights, n_threads=i),
+            model=LlamaCpp(n_threads=i),
+            n_threads=i, questions=questions,
+            answers=answers,
+            embeddings_name=embeddings_name,
+            tokenizer=tokenizer,
+            compressed_weights=compressed_weights,
+            text_corpus=text_corpus)
         avg_stats_dict[f"{i}_threads"] = {
             "avg_scann_time": avg_scann_time,
             "avg_prompt_time": avg_prompt_time,
