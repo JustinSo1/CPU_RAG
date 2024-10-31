@@ -1,6 +1,6 @@
 import pickle
 
-# import scann
+import scann
 import multiprocessing
 import statistics
 import subprocess
@@ -190,14 +190,14 @@ def main():
             "avg_prompt_time": avg_prompt_time,
             "avg_answer_time": avg_answer_time
         }
-        with open('avg_stats_dict_chkpt.pickle', 'wb') as handle:
+        with open('llama_avg_stats_dict_chkpt.pickle', 'wb') as handle:
             pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
         with open('results.pickle', 'wb') as handle:
             pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
         break
     avg_stats_df = pd.DataFrame(avg_stats_dict)
     # print(avg_stats_df)
-    avg_stats_df.to_csv('avg_rag_stats.csv', index=False)
+    avg_stats_df.to_csv('llama_avg_rag_stats.csv', index=False)
 
 
 if __name__ == '__main__':

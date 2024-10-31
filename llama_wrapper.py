@@ -9,7 +9,7 @@ class LlamaCpp:
         self.llama = Llama.from_pretrained(
             repo_id="bartowski/Llama-3.2-3B-Instruct-GGUF",
             filename="*Q6_K_L.gguf",
-            chat_format="llama-2",
+        #    chat_format="llama-2",
             verbose=False,
             n_ctx=4096,
             n_threads=n_threads
@@ -28,7 +28,7 @@ class LlamaCpp:
 
 
 if __name__ == '__main__':
-    llm = LlamaCpp()
+    llm = LlamaCpp(0)
     print("Hello")
     print(llm.generate_text("Q: Who was the 16th president of the United States? A:"))
 

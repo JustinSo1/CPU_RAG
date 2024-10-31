@@ -143,7 +143,7 @@ def generate_summary_and_answer(question, data, searcher, embedding_model, model
              any relevant information answer with 
              [I couldn't find a good match in my
              knowledge base for your question, 
-             hence I answer based on my own knowledge]. Please give the answer within 50 words. \
+             hence I answer based on my own knowledge]. \
              ANSWER:
              """.strip() + EOS_TOKEN
 
