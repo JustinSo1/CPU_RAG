@@ -5,3 +5,7 @@ tqdm~=4.66.5
 requests~=2.32.3
 setuptools~=75.1.0
 psutil~=6.0.0
+torch~=2.4.1
+rich~=13.9.3
+pygemma~=0.1.3.post3
+matplotlib~=3.9.2
