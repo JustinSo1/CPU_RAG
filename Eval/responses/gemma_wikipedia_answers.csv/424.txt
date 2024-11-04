@@ -1,0 +1,5 @@
+[PROMPT]: Does snow fall in Egypt?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response provided does not directly answer the question and lacks a clear statement regarding whether snow falls in Egypt or not. It does not align with the reference answer which states "Yes." Therefore, the response is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he sent in federal troops to chicago?
+[USER_ANSWER]: The context does not provide any information about Grant sending federal troops to Chicago, so I cannot answer this question from the context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,11 @@
+[PROMPT]: What are some economic uses for duck?
+[USER_ANSWER]: Sure, here are some economic uses for ducks:
+
+- Farming for meat, eggs, feathers, and down.
+- Keeping and breeding by aviculturists.
+- Displaying in zoos.
+- Hunting for food or sport.
+- Feed on a variety of food sources.
+[CORRECT_ANSWER]: Meat,eggs,feathers
+[FEEDBACK]: The response provided includes additional information beyond the reference answer, such as farming for down, displaying in zoos, hunting, and feeding habits, which are not directly related to economic uses for ducks. The response lacks focus on the main economic uses mentioned in the reference answer.
+[RESULT]: 3

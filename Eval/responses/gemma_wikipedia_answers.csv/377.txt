@@ -1,0 +1,5 @@
+[PROMPT]: Are adult ducks fast fliers?
+[USER_ANSWER]: Sure, adult ducks are fast fliers. The context states that adult ducks are fast fliers, but they are vulnerable to predators such as humans and the Peregrine Falcon.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. The statement aligns with the reference answer that adult ducks are fast fliers. However, the additional information about vulnerability to predators is not directly relevant to the question asked.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: What may a leopard be mistaken for?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. A leopard may be mistaken for a cheetah or a lion, as they are all members of the cat family Felidae and share similar physical characteristics.
+[CORRECT_ANSWER]: A cheetah or a jaguar
+[FEEDBACK]: The response provided is mostly correct, accurate, and factual based on the reference answer. It correctly identifies that a leopard may be mistaken for a cheetah, which is in line with the reference answer. However, it also mentions a lion instead of a jaguar, which is not accurate according to the reference answer. Therefore, the response is mostly correct but not entirely accurate.
+[RESULT]: 4

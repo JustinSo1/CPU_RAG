@@ -1,0 +1,5 @@
+[PROMPT]: Have coleopterists formed organisations to facilitate the study of beetles ?
+[USER_ANSWER]: Yes, the context says that coleopterists have formed organizations to facilitate the study of beetles, including The Coleopterists Society, an international organization based in the United States.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

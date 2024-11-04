@@ -1,0 +1,5 @@
+[PROMPT]: When did Monroe's presidency expired?
+[USER_ANSWER]: The context does not provide information about when Monroe's presidency expired, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: March 4, 1825
+[FEEDBACK]: The response correctly acknowledges that the information about Monroe's presidency expiration date is not provided in the context, aligning with the given reference answer. However, it does not provide the specific date as requested in the question.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Which future Heisman Trophy winner did Ford tackle?
+[USER_ANSWER]: Jay Berwanger was the future Heisman Trophy winner whose team faced the University of Chicago in 1934.
+[CORRECT_ANSWER]: Jay Berwanger
+[FEEDBACK]: The response accurately identifies Jay Berwanger as the future Heisman Trophy winner, aligning perfectly with the reference answer. It provides the necessary information without any errors or inaccuracies.
+[RESULT]: 5

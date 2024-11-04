@@ -1,0 +1,5 @@
+[PROMPT]: What are vehicles that frequent isolated roads often fitted with?
+[USER_ANSWER]: Vehicles that frequently frequent isolated roads are often fitted with "roo bars" to protect their occupants from damage in the event of a collision.
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

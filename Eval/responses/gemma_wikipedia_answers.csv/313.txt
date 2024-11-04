@@ -1,0 +1,7 @@
+[PROMPT]: How many provinces and territories does Canada have?
+[USER_ANSWER]: Canada has 10 provinces and 3 territories.
+
+[I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge].
+[CORRECT_ANSWER]: A federation now comprising ten provinces and three territories
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

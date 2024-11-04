@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that provinces have a large degree of autonomy?
+[USER_ANSWER]: Sure, the context says that provinces have a large degree of autonomy from the federal government.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

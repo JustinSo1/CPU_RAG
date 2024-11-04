@@ -1,0 +1,5 @@
+[PROMPT]: What percentage of the population don't speak English or French at home?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: 28%
+[FEEDBACK]: The response provided does not directly answer the question regarding the percentage of the population that don't speak English or French at home. It states that the answer is based on the responder's own knowledge, which does not align with the specific inquiry. Therefore, the response lacks accuracy and factual information based on the reference answer of 28%.
+[RESULT]: 1

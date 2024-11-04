@@ -1,0 +1,5 @@
+[PROMPT]: How many children did Grover Cleveland have?
+[USER_ANSWER]: The context does not provide any information about the number of children Grover Cleveland had. Therefore, I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 5
+[FEEDBACK]: The response correctly acknowledges the lack of information provided in the context regarding the number of children Grover Cleveland had. It does not attempt to provide a speculative answer and maintains accuracy by stating the limitation of the context. This aligns with the criteria for a score of 5 as per the rubric.
+[RESULT]: 5

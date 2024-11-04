@@ -1,0 +1,5 @@
+[PROMPT]: Is James Monrow the fifth president of US?
+[USER_ANSWER]: Yes, James Monroe was the fifth President of the United States from 1817 to 1825.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

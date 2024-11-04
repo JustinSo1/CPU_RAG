@@ -1,0 +1,5 @@
+[PROMPT]: What have been inhabited for millennia by aboriginal peoples?
+[USER_ANSWER]: Sure, the lands have been inhabited for millennia by aboriginal peoples, with evidence dating back to 26,500 years ago in northern Yukon and 9,500 years ago in southern Ontario.
+[CORRECT_ANSWER]: The lands
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The statement aligns perfectly with the reference answer provided.
+[RESULT]: 5

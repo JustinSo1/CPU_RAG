@@ -1,0 +1,5 @@
+[PROMPT]: What is Monroe's daughter's name?
+[USER_ANSWER]: The name of Monroe's daughter is Maria Hester Monroe Gouverneur.
+[CORRECT_ANSWER]: Maria Hester Monroe Gouverneur
+[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer. There is no deviation or error in the information presented.
+[RESULT]: 5

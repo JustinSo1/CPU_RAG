@@ -1,0 +1,5 @@
+[PROMPT]: Did James Monroe fight in the Continental Army?
+[USER_ANSWER]: Yes, James Monroe fought in the Continental Army at the Battle of Trenton.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer "yes." James Monroe did fight in the Continental Army, as stated in the response. Therefore, the response aligns perfectly with the reference answer.
+[RESULT]: 5

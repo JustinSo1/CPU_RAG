@@ -1,0 +1,7 @@
+[PROMPT]: How can beetle larvae be differentiated from other insect larvae?
+[USER_ANSWER]: Sure, here's an answer to the question:
+
+Beetle larvae can be differentiated from other insect larvae by their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body.
+[CORRECT_ANSWER]: their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body
+[FEEDBACK]: The response provided is accurate and factual, matching the reference answer by mentioning the hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body. However, it could have been improved by providing a bit more detail or explanation to enhance the response further.
+[RESULT]: 4

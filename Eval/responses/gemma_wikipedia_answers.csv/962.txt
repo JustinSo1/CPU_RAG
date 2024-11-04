@@ -1,0 +1,5 @@
+[PROMPT]: Is a Kangaroo a Marsupial?
+[USER_ANSWER]: Sure, the context says that Kangaroos are a large marsupial species found in Australia and New Guinea, which is a country in Oceania. Therefore, the answer is yes, Kangaroos are a Marsupial.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response accurately states that Kangaroos are a large marsupial species found in Australia and New Guinea, which aligns with the fact that Kangaroos are indeed marsupials. The explanation provided supports the correctness of the response.
+[RESULT]: 5

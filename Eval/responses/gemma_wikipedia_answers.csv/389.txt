@@ -1,0 +1,5 @@
+[PROMPT]: What expression is part of a conceptual framework for testing computer systems?
+[USER_ANSWER]: The context does not provide any information about the expression "quacks like a duck", so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Quacks like a duck
+[FEEDBACK]: The response is completely incorrect as it does not provide the expression "Quacks like a duck" which is part of a conceptual framework for testing computer systems. The response does not align with the reference answer provided.
+[RESULT]: 1

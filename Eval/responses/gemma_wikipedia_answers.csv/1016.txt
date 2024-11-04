@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard one of the four 'big cats'?
+[USER_ANSWER]: Sure, the leopard is one of the four "big cats". It is a small mammal belonging to the Felidae family and the smallest of the four "big cats" of the genus Panthera.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Were the treaties signed in 1947 and 1948 with the Ukraine?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

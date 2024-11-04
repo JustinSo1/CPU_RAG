@@ -1,0 +1,7 @@
+[PROMPT]: Is the leopard of the Felidae family?
+[USER_ANSWER]: Sure, the leopard is a member of the Felidae family.
+
+The context does not provide any other relevant information about the leopard, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: When do African elephants lie down?
+[USER_ANSWER]: The context does not specify when African elephants lie down, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: when they are sick or wounded
+[FEEDBACK]: The response correctly acknowledges that the context does not specify when African elephants lie down, aligning with the fact that the reference answer provides the specific circumstances. However, it does not provide the exact information as in the reference answer, resulting in a somewhat correct response.
+[RESULT]: 3

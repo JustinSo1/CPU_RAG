@@ -1,0 +1,5 @@
+[PROMPT]: Is an Asian elephant smaller than an African elephant?
+[USER_ANSWER]: The context does not provide any information about the size of Asian and African elephants, so I cannot answer this question from the context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,7 @@
+[PROMPT]: Who assassinated Lincoln?
+[USER_ANSWER]: John Wilkes Booth assassinated Abraham Lincoln.
+
+The context does not provide any other information about who assassinated Lincoln.
+[CORRECT_ANSWER]: John Wilkes Booth
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: How many regions is Ghana divided into?
+[USER_ANSWER]: Ghana is divided into 10 regions, subdivided into a total of 138 districts.
+[CORRECT_ANSWER]: 10
+[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer of 10 regions in Ghana. The information matches the expected answer accurately.
+[RESULT]: 5

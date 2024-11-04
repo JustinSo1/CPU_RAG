@@ -1,0 +1,7 @@
+[PROMPT]: Name an animal that is growing in number due to recent conservation efforts
+[USER_ANSWER]: Sure, the answer is African elephants.
+
+The context states that African elephants are now protected species worldwide, with restrictions in place on capture, domestic use, and trade in products such as ivory.
+[CORRECT_ANSWER]: Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)
+[FEEDBACK]: The response provided, African elephants, does not align with the reference answer of Golden Eagle, Brown Bear, or Eurasian Lynx. While the information about African elephants being a protected species is relevant to conservation efforts, it does not directly answer the question posed in the instruction. Therefore, the response is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

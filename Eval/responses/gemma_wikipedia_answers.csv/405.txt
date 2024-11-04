@@ -1,0 +1,5 @@
+[PROMPT]: Why does most of Egypt's population live near the Nile?
+[USER_ANSWER]: The aridity of Egypt's climate, limited arable land, and dependence on the Nile River have concentrated the population near the Nile River.
+[CORRECT_ANSWER]: the only arable agricultural land is found there,
+[FEEDBACK]: The response provided is mostly correct, accurate, and factual based on the reference answer. It mentions the aridity of Egypt's climate, limited arable land, and dependence on the Nile River, which aligns with the idea that the only arable agricultural land is found near the Nile. However, it does not explicitly state that the only arable land is found there, which slightly deviates from the reference answer.
+[RESULT]: 4

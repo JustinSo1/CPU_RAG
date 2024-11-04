@@ -1,0 +1,5 @@
+[PROMPT]: Is it possible that there are more than 350,000 species of beetles?
+[USER_ANSWER]: The context does not provide any information about the possibility of more than 350,000 species of beetles, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response accurately acknowledges the lack of information in the context to answer the question, which aligns with the reference answer provided. However, it does not provide a definitive answer as requested.
+[RESULT]: 3

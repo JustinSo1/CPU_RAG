@@ -1,0 +1,5 @@
+[PROMPT]: What period of rapid economic growth did the United States experience during Coolidge's presidency?
+[USER_ANSWER]: Sure, the United States experienced rapid economic growth during Coolidge's presidency. The context does not provide any other information about the period of rapid economic growth.
+[CORRECT_ANSWER]: the Roaring Twenties
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It correctly identifies the period of rapid economic growth during Coolidge's presidency as the Roaring Twenties.
+[RESULT]: 5

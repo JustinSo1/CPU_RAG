@@ -1,0 +1,5 @@
+[PROMPT]: What is the weather like at Lake Volta?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. The context does not provide any information about the weather at Lake Volta, so I cannot answer this question.
+[CORRECT_ANSWER]: Warm and comparatively dry
+[FEEDBACK]: The response provided does not address the weather at Lake Volta as requested. It acknowledges the lack of information in the knowledge base but fails to provide any relevant details or insights regarding the weather at Lake Volta. Therefore, it does not align with the reference answer provided.
+[RESULT]: 1

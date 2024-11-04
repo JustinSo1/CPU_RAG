@@ -1,0 +1,5 @@
+[PROMPT]: What is an economic use of a duck?
+[USER_ANSWER]: Sure, an economic use of a duck is for meat, eggs, feathers, and down.
+[CORRECT_ANSWER]: Meat
+[FEEDBACK]: The response provided is accurate and factual as it correctly identifies meat as an economic use of a duck, aligning with the reference answer. However, it also includes additional uses such as eggs, feathers, and down which were not mentioned in the reference answer. Therefore, the response is not completely in line with the reference answer.
+[RESULT]: 4

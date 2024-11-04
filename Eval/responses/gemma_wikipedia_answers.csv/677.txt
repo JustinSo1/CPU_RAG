@@ -1,0 +1,7 @@
+[PROMPT]: What is surplus killing?
+[USER_ANSWER]: Sure, here's the answer:
+
+Surplus killing is the killing of several prey animals too numerous to eat at one sitting.
+[CORRECT_ANSWER]: Surplus killing is defined as the killing of several prey animals too numerous to eat at one sitting.
+[FEEDBACK]: The response provided is almost identical to the reference answer, capturing the essence of surplus killing accurately. However, it lacks the exact wording of the reference answer, which slightly affects its accuracy.
+[RESULT]: 4

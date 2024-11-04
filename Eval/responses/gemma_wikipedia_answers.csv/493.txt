@@ -1,0 +1,5 @@
+[PROMPT]: What body of water lies to the south of Finland?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. The context does not specify the body of water that lies to the south of Finland, so I cannot answer this question.
+[CORRECT_ANSWER]: the Gulf of Finland
+[FEEDBACK]: The response provided acknowledges the lack of information in the knowledge base and states the inability to answer the question due to the context. While the response does not provide the specific body of water, it correctly identifies the limitation in knowledge. However, it does not align with the reference answer, which is the Gulf of Finland. Therefore, based on the rubric, the response falls under Score 2 as it is mostly incorrect, inaccurate, and not factual.
+[RESULT]: 2

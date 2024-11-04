@@ -1,0 +1,5 @@
+[PROMPT]: How many living species of Asian Elephants are there?
+[USER_ANSWER]: Sure, there are two living species of Asian elephants: the Indian Elephant (Elephas maximus indicus) and the African Elephant.
+[CORRECT_ANSWER]: 1
+[FEEDBACK]: The response provided is incorrect as it states that there are two living species of Asian elephants, which is not accurate. There is only one living species of Asian elephants, which is the Indian Elephant (Elephas maximus indicus). Therefore, the response does not align with the reference answer.
+[RESULT]: 1

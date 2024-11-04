@@ -1,0 +1,5 @@
+[PROMPT]: Where do leopards often hide their kills?
+[USER_ANSWER]: The context does not provide any information about where leopards often hide their kills, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: in dense vegetation
+[FEEDBACK]: The response correctly acknowledges that it cannot answer the question based on the provided context, which aligns with the fact that no specific information was given. However, it does not provide the actual location where leopards often hide their kills as per the reference answer. Therefore, it falls short of being considered completely correct, accurate, and factual.
+[RESULT]: 3

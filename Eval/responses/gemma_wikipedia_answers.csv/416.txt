@@ -1,0 +1,5 @@
+[PROMPT]: Since when has Egypt been a republic?
+[USER_ANSWER]: Sure, Egypt has been a republic since June 18 1953 following the assassination of former-President Mohammed Anwar El-Sadat.
+[CORRECT_ANSWER]: June 18 1953.
+[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer. It accurately states that Egypt has been a republic since June 18, 1953. There are no inaccuracies or errors in the response.
+[RESULT]: 5

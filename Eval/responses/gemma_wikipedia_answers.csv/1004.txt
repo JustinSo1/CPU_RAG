@@ -1,0 +1,5 @@
+[PROMPT]: How did early naturalists distinguish between leopards and panthers?
+[USER_ANSWER]: Early naturalists distinguished between leopards and panthers by the length of the tail. Leopards have longer tails than panthers.
+[CORRECT_ANSWER]: by the length of their tails
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that indonesia has vast areas of wilderness?
+[USER_ANSWER]: Sure, the passage states that Indonesia has vast areas of wilderness that support the world's second highest level of biodiversity.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

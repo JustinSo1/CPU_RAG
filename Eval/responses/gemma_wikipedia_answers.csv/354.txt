@@ -1,0 +1,5 @@
+[PROMPT]: What makes it more difficult for a diving duck to fly?
+[USER_ANSWER]: Sure, the context says that diving ducks are heavier than dabbling ducks, making it more difficult for them to take off and fly.
+[CORRECT_ANSWER]: They are heavier
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The statement "diving ducks are heavier than dabbling ducks" directly correlates with the fact that they are heavier, which makes it more difficult for them to fly.
+[RESULT]: 5

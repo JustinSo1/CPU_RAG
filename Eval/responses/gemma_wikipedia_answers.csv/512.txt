@@ -1,0 +1,7 @@
+[PROMPT]: Where is Finland located?
+[USER_ANSWER]: Sure, Finland is located in Northern Europe, in the Gulf of Finland.
+
+[I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge].
+[CORRECT_ANSWER]: Northern Europe
+[FEEDBACK]: The response provided is mostly correct and accurate as it correctly identifies that Finland is located in Northern Europe. However, it also adds additional information about the Gulf of Finland which is not necessary for the question asked.
+[RESULT]: 4

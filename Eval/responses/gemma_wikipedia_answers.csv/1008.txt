@@ -1,0 +1,5 @@
+[PROMPT]: What shape are a leopard's black roS08_settes in East Africa?
+[USER_ANSWER]: The context does not provide information about the shape of a leopard's black rosettes in East Africa, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: circular
+[FEEDBACK]: The response correctly acknowledges the lack of information provided in the context regarding the shape of a leopard's black rosettes in East Africa. It does not make any incorrect claims or assumptions. However, it does not provide the specific correct answer either.
+[RESULT]: 3

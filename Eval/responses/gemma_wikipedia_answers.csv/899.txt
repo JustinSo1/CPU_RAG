@@ -1,0 +1,5 @@
+[PROMPT]: Did John Adams get along with Alexander Hamilton?
+[USER_ANSWER]: The context does not provide any information about the relationship between John Adams and Alexander Hamilton, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response correctly acknowledges the lack of information in the context and refrains from providing an inaccurate answer. However, it does not align with the reference answer which is a simple "No." Therefore, it falls under the category of being mostly correct but not completely accurate.
+[RESULT]: 4

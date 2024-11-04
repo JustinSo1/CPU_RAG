@@ -1,0 +1,5 @@
+[PROMPT]: Does a large proportion of the population speak Swedish as its mother tongue?
+[USER_ANSWER]: The context does not provide any information about the proportion of the population that speaks Swedish as their mother tongue, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response correctly acknowledges that the context does not provide information about the proportion of the population speaking Swedish as their mother tongue, aligning with the reference answer "No." This demonstrates an understanding of the limitations of the information provided.
+[RESULT]: 5

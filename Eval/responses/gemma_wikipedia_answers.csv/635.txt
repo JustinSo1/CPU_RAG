@@ -1,0 +1,5 @@
+[PROMPT]: Who makes up Ghana's Parliament?
+[USER_ANSWER]: The context does not provide information about who makes up Ghana's Parliament, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: the New Patriotic Party and National Democratic Congress
+[FEEDBACK]: The response correctly acknowledges that the information about who makes up Ghana's Parliament is not provided in the context, aligning with the given reference answer. However, it does not provide the specific parties that make up the Parliament as stated in the reference answer, resulting in a partial correctness.
+[RESULT]: 3

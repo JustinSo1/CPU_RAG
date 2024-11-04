@@ -1,0 +1,5 @@
+[PROMPT]: Is he most noted for his contributions to the theory of molarity and molecular weight?
+[USER_ANSWER]: Sure, he is most noted for his contributions to the theory of molarity and molecular weight.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

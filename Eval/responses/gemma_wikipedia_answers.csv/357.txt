@@ -1,0 +1,5 @@
+[PROMPT]: Do ducks forage underwater?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided does not directly answer the question and lacks factual information. It does not align with the reference answer provided.
+[RESULT]: 1

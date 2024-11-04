@@ -1,0 +1,5 @@
+[PROMPT]: Which defense mechanism uses colour or shape to deceive potential enemies?
+[USER_ANSWER]: The context does not provide information about the use of color or shape in deception, so I cannot answer this question from the context.
+[CORRECT_ANSWER]: mimicry
+[FEEDBACK]: The response correctly acknowledges the lack of information in the context to answer the question about defense mechanisms using color or shape for deception. However, it does not provide the specific term "mimicry" which is the correct answer. Therefore, the response is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

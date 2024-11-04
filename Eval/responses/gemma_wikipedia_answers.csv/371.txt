@@ -1,0 +1,7 @@
+[PROMPT]: What are some common predators of ducks?
+[USER_ANSWER]: Sure, here are some common predators of ducks:
+
+Birds, fish, mammals, and avian hunters are some of the main predators of ducks.
+[CORRECT_ANSWER]: Pike, crocodilians, herons, hawks and eagles.
+[FEEDBACK]: The response provided includes some common predators of ducks, but it does not match the reference answer. The predators mentioned in the response are birds, fish, mammals, and avian hunters, which are general categories rather than specific predators like pike, crocodilians, herons, hawks, and eagles as in the reference answer. Therefore, the response is somewhat correct but lacks specificity compared to the reference answer.
+[RESULT]: 3

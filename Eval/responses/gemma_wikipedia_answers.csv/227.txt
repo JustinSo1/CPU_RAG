@@ -1,0 +1,5 @@
+[PROMPT]: When was Coolidge born?
+[USER_ANSWER]: John Calvin Coolidge, Jr. was born in Plymouth, Vermont, in 1872.
+[CORRECT_ANSWER]: July 4 1872
+[FEEDBACK]: The response provided the correct birth year of Coolidge, but it did not include the specific date (July 4) as mentioned in the reference answer. Therefore, it is somewhat correct but lacks the precise information.
+[RESULT]: 3

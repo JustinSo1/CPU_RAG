@@ -1,0 +1,5 @@
+[PROMPT]: When did Canada have one of the largest armed forces in the world?
+[USER_ANSWER]: Sure, Canada had one of the largest armed forces in the world during the Second World War.
+[CORRECT_ANSWER]: 1944.
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Is it the world 's second largest country by total area?
+[USER_ANSWER]: Sure, Canada is the world's second largest country by total area, after Russia.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

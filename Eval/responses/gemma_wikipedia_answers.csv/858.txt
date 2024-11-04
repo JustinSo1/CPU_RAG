@@ -1,0 +1,5 @@
+[PROMPT]: Who did James Monroe live with in New York City?
+[USER_ANSWER]: James Monroe lived with his daughter Maria Hester Monroe Gouverneur in New York City after his wife's death in 1830.
+[CORRECT_ANSWER]: His daughter Maria Hester Monroe Gouverneur
+[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer. It specifically mentions that James Monroe lived with his daughter Maria Hester Monroe Gouverneur in New York City after his wife's death in 1830, which aligns perfectly with the reference answer.
+[RESULT]: 5

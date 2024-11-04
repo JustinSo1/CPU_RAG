@@ -1,0 +1,7 @@
+[PROMPT]: Oxygen is what?
+[USER_ANSWER]: Sure, here's the answer:
+
+Oxygen is a gas that is essential for all living organisms, including aquatic turtles. It is used by aquatic turtles for respiration, and it is also involved in many metabolic processes.
+[CORRECT_ANSWER]: One kind of gas obtained via a tracheal system.
+[FEEDBACK]: The response provided is mostly correct and accurate. It describes oxygen as a gas essential for living organisms, including aquatic turtles, for respiration and metabolic processes, which aligns with the reference answer mentioning oxygen as a gas obtained via a tracheal system. However, the response does not specifically mention the tracheal system, which slightly deviates from the reference answer.
+[RESULT]: 4

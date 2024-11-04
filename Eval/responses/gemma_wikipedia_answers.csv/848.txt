@@ -1,0 +1,5 @@
+[PROMPT]: When did James Monroe die?
+[USER_ANSWER]: James Monroe died on July 4, 1831, in New York City, from heart failure and tuberculosis.
+[CORRECT_ANSWER]: July 4, 1831
+[FEEDBACK]: The response provided the correct date of James Monroe's death, which aligns perfectly with the reference answer. It is accurate and factual.
+[RESULT]: 5

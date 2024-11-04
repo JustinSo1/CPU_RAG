@@ -1,0 +1,7 @@
+[PROMPT]: Is Matti Vanhanen the Prime Minister of Finland?
+[USER_ANSWER]: Sure, Matti Vanhanen is the Prime Minister of Finland.
+
+He is the current Prime Minister and Chairman of the Centre Party.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided is accurate and factual, confirming that Matti Vanhanen is the Prime Minister of Finland. However, additional information about him being the Chairman of the Centre Party is not necessary for this specific question.
+[RESULT]: 4

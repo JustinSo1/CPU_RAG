@@ -1,0 +1,5 @@
+[PROMPT]: Who did James Monroe marry?
+[USER_ANSWER]: James Monroe married Elizabeth Kortright on February 16, 1786 at the Trinity Church in New York.
+[CORRECT_ANSWER]: Elizabeth Kortright
+[FEEDBACK]: The response provided the correct and accurate information about James Monroe's spouse, Elizabeth Kortright, and included additional details about their marriage date and location. The response aligns perfectly with the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Who represented the Continental Congress in Europe?
+[USER_ANSWER]: The context does not provide information about who represented the Continental Congress in Europe, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: John Adams
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: How has Canada helped UN peacekeeping efforts?
+[USER_ANSWER]: Canada has participated in 50 peacekeeping missions and has been a major contributor to UN forces in the Korean War, the North Atlantic Treaty Organization (NATO), and Afghanistan.
+[CORRECT_ANSWER]: During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989
+[FEEDBACK]: The response accurately mentions Canada's participation in 50 peacekeeping missions and its contributions to UN forces in the Korean War, NATO, and Afghanistan. However, it lacks specific details about Lester B. Pearson's role in proposing the United Nations Peacekeeping Force during the Suez Crisis of 1956 and the statement about Canada's involvement in every UN peacekeeping effort until 1989. Therefore, it falls short of providing a comprehensive historical context compared to the reference answer.
+[RESULT]: 3

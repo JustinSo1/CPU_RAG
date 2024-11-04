@@ -1,0 +1,5 @@
+[PROMPT]: Which spice originally attracted Europeans to Indonesia?
+[USER_ANSWER]: The context does not provide any information about the spice originally attracted Europeans to Indonesia, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: nutmeg, cloves, or cubeb pepper
+[FEEDBACK]: The response correctly acknowledges the lack of information to answer the question about the spice that originally attracted Europeans to Indonesia. However, it does not provide the specific answer nutmeg, cloves, or cubeb pepper as stated in the reference answer. Therefore, it falls under the category of being mostly incorrect and inaccurate.
+[RESULT]: 2

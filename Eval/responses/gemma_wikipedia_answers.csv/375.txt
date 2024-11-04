@@ -1,0 +1,5 @@
+[PROMPT]: Are diving ducks heavier tha dabbling ducks?
+[USER_ANSWER]: Sure, diving ducks are heavier than dabbling ducks, making them more difficult to take off to fly.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provided is not completely correct, accurate, and factual as it includes additional information about the difficulty of taking off to fly, which was not asked in the question. The response does not directly answer the question with a simple "Yes" as the reference answer.
+[RESULT]: 3

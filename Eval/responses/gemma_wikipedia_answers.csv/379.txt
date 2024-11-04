@@ -1,0 +1,5 @@
+[PROMPT]: Are ducks an accepted presence in some populated areas?
+[USER_ANSWER]: Sure, the context indicates that ducks are an accepted presence in some populated areas during the winter months.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provided is not completely accurate as it adds unnecessary information about the winter months, which was not part of the original question. It should have directly answered "Yes" without any additional context.
+[RESULT]: 3

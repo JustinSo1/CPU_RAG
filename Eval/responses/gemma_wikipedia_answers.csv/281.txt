@@ -1,0 +1,5 @@
+[PROMPT]: Did France cede nearly all of its colonies in Europe in 1763?
+[USER_ANSWER]: Yes, France ceded nearly all of its colonies in Europe in 1763 after the Seven Years War.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

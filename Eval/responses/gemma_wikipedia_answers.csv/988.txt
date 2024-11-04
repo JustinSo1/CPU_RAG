@@ -1,0 +1,7 @@
+[PROMPT]: Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?
+[USER_ANSWER]: Sure, here's the answer:
+
+Kangaroos have large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

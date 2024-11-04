@@ -1,0 +1,5 @@
+[PROMPT]: What countries border Egypt?
+[USER_ANSWER]: Sure, Egypt is bordered by Libya to the west, Sudan to the south, and by the Gaza Strip and Israel to the east.
+[CORRECT_ANSWER]: Libya, Sudan, the Gaza Strip and Israel.
+[FEEDBACK]: The response provided is mostly correct and accurate as it correctly identifies the countries that border Egypt, which are Libya, Sudan, the Gaza Strip, and Israel. However, it did not list the countries in the exact order as the reference answer.
+[RESULT]: 4

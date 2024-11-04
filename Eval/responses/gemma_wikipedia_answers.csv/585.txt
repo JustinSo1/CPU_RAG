@@ -1,0 +1,5 @@
+[PROMPT]: What district was Ford elected from?
+[USER_ANSWER]: Ford was elected from the Grand Rapids congressional district seat in Michigan.
+[CORRECT_ANSWER]: Michigan's 5th congressional district
+[FEEDBACK]: The response provided is somewhat correct, accurate, and factual. While the response correctly identifies that Ford was elected from a congressional district in Michigan, it does not specify the exact district as Michigan's 5th congressional district. Therefore, it falls short of being completely accurate and factual like the reference answer.
+[RESULT]: 3

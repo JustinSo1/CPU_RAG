@@ -1,0 +1,5 @@
+[PROMPT]: Did Grover Cleveland support women's suffrage?
+[USER_ANSWER]: The context does not provide any information about Grover Cleveland's stance on women's suffrage, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response accurately states that the context does not provide any information about Grover Cleveland's stance on women's suffrage, aligning with the reference answer that he did not support women's suffrage. However, it does not explicitly state the answer "No" as in the reference answer, which prevents it from receiving a score of 5.
+[RESULT]: 4

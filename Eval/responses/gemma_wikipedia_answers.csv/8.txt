@@ -1,0 +1,5 @@
+[PROMPT]: When did Lincoln begin his political career?
+[USER_ANSWER]: Sure, Lincoln began his political career in 1832 with an unsuccessful campaign for the Illinois General Assembly.
+[CORRECT_ANSWER]: 1832
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5
