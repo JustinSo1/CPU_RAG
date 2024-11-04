@@ -1,0 +1,5 @@
+[PROMPT]: What method of locomotion do Kangaroos Use?
+[USER_ANSWER]: Kangaroos use hopping as a means of locomotion. They can hop at speeds of up to 70 km/h (44 mph) over short distances, but they typically maintain a speed of 20-25 km/h (13-16 mph).
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response accurately states that Kangaroos use hopping as a means of locomotion, which aligns with the reference answer provided. It also includes additional information about the speed at which kangaroos can hop, demonstrating a good level of knowledge on the topic. Overall, the response is correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: When did Coolidge meet and marry Grace Anna Goodhue?
+[USER_ANSWER]: The context does not provide any information about when Calvin Coolidge met and married Grace Anna Goodhue, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 1905
+[FEEDBACK]: The response accurately acknowledges the lack of information provided in the context regarding when Calvin Coolidge met and married Grace Anna Goodhue. It does not make any incorrect or inaccurate claims. However, it does not provide the specific answer to the question.
+[RESULT]: 3

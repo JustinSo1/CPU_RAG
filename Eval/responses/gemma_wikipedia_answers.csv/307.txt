@@ -1,0 +1,5 @@
+[PROMPT]: Is Canada bilingual?
+[USER_ANSWER]: Sure, Canada is a bilingual country with English and French as its official languages.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

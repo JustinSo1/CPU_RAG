@@ -1,0 +1,5 @@
+[PROMPT]: Is Adams' birthplace part of a national park?
+[USER_ANSWER]: Yes, Adams' birthplace is part of Adams National Historical Park.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

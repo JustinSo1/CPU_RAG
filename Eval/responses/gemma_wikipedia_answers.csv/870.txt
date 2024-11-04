@@ -1,0 +1,5 @@
+[PROMPT]: What expired on March?
+[USER_ANSWER]: The context does not provide any information about what expired on March, so I cannot answer this question from the context.
+[CORRECT_ANSWER]: Monroe's presidency
+[FEEDBACK]: The response correctly acknowledges that the context does not provide the information about what expired on March, aligning with the given reference answer. However, it does not directly mention Monroe's presidency as the specific answer. Therefore, it falls under the category of "somewhat correct, accurate, and/or factual."
+[RESULT]: 3

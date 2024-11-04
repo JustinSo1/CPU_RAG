@@ -1,0 +1,5 @@
+[PROMPT]: What is the biggest city in Finland?
+[USER_ANSWER]: The context does not provide information about the biggest city in Finland, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Greater Helsinki
+[FEEDBACK]: The response correctly acknowledges the lack of information provided to answer the question about the biggest city in Finland. It does not make any factual claims and maintains accuracy by stating the limitation of the context.
+[RESULT]: 5

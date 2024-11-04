@@ -1,0 +1,5 @@
+[PROMPT]: Are certain species of beetles considered pests?
+[USER_ANSWER]: Sure, certain species of beetles are considered pests. The context provides examples of beetles that can damage crops, such as the Colorado potato beetle, boll weevil, red flour beetle, and mungbean or cowpea beetle.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response accurately confirms that certain species of beetles are considered pests, providing specific examples that support this statement. It aligns with the reference answer, which simply states "Yes." The response is both correct and factual, demonstrating a clear understanding of the topic.
+[RESULT]: 5

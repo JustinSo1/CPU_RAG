@@ -1,0 +1,5 @@
+[PROMPT]: What are dark leopards known as colloquially?
+[USER_ANSWER]: The context does not provide any information about the dark leopards' colloquially known name, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Black Panthers
+[FEEDBACK]: The response correctly acknowledges the lack of information in the context provided and accurately states that the answer cannot be given based on the provided context. However, it does not provide the colloquially known name for dark leopards. Therefore, it falls short of being completely correct, accurate, and factual as per the reference answer.
+[RESULT]: 3

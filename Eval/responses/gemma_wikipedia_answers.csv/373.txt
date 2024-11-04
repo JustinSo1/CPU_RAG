@@ -1,0 +1,7 @@
+[PROMPT]: How does a Mallard's tongue work?
+[USER_ANSWER]: Sure, here's an answer to the question:
+
+A Mallard's tongue has tiny rows of plates called lamellae that help filter water out of the side of the beak and keep food inside.
+[CORRECT_ANSWER]: It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat
+[FEEDBACK]: The response provided is somewhat correct and accurate. It mentions the presence of structures on the Mallard's tongue that aid in filtering water and retaining food, which aligns with the function of the tongue described in the reference answer. However, it lacks specific details such as the presence of a flat plate with short spikes for pushing food down the throat, which are key aspects mentioned in the reference answer. Therefore, the response falls short of being completely accurate and detailed as the reference answer.
+[RESULT]: 3

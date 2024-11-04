@@ -1,0 +1,5 @@
+[PROMPT]: What is a collective noun for kangaroos?
+[USER_ANSWER]: The collective noun for kangaroos is a "mob". A mob is a group of kangaroos that is traveling together or living in the same area.
+[CORRECT_ANSWER]: mob, troop, or court
+[FEEDBACK]: The response provided is accurate and factual as it correctly identifies "mob" as a collective noun for kangaroos, aligning with the reference answer. However, it fails to mention the additional collective nouns "troop" and "court" as stated in the reference answer, which would have made the response more comprehensive and complete.
+[RESULT]: 4

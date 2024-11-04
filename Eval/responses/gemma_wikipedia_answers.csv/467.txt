@@ -1,0 +1,5 @@
+[PROMPT]: Do they prefer forested areas?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provided does not directly answer the question asked and does not align with the reference answer. It lacks a clear statement regarding the preference for forested areas. Therefore, it does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[RESULT]: 1

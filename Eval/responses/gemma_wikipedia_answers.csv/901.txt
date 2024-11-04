@@ -1,0 +1,5 @@
+[PROMPT]: Did John Adams go to Harvard? 
+[USER_ANSWER]: Sure, John Adams attended Harvard College at age sixteen and graduated in 1755.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

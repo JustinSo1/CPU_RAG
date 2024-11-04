@@ -1,0 +1,5 @@
+[PROMPT]: Who is the most popular rock group in Finland?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. The context does not provide any information about the most popular rock group in Finland, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: CMX
+[FEEDBACK]: The response correctly acknowledges the lack of information in the context and provides a clear explanation for not being able to answer the question. It does not make any false claims or assumptions. However, it does not provide any alternative suggestions or further attempts to address the question.
+[RESULT]: 3

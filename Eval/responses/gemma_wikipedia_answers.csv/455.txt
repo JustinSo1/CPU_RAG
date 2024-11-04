@@ -1,0 +1,5 @@
+[PROMPT]: How long is the elephant's gestation period?
+[USER_ANSWER]: Sure, the elephant's gestation period is 22 months, the longest of any land animal.
+[CORRECT_ANSWER]: 22 months
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

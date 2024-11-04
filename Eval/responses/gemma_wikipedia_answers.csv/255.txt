@@ -1,0 +1,5 @@
+[PROMPT]: What years were Coolidge's two sons born in?
+[USER_ANSWER]: The context does not provide any information about the years of birth of John Calvin Coolidge's two sons, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 1906 and 1908
+[FEEDBACK]: The response correctly acknowledges the lack of information provided in the context regarding the birth years of Coolidge's two sons, which aligns with the given reference answer. However, it does not provide the specific birth years as requested in the question.
+[RESULT]: 3

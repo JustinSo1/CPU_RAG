@@ -1,0 +1,5 @@
+[PROMPT]: What happened in 1896?
+[USER_ANSWER]: Sure, here's the answer: In 1896, Cleveland supported the National Democratic Party (United States) (or "Gold Democratic") third party ticket, which promised to defend the gold standard, limit government, and oppose protectionism.
+[CORRECT_ANSWER]:  Becquerel accidentally discovered radioactivity.
+[FEEDBACK]: The response provided is not related to the question about what happened in 1896. It does not align with the reference answer or the context of the question. Therefore, it is completely incorrect, inaccurate, and not factual.
+[RESULT]: 1

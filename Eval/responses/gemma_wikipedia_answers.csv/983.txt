@@ -1,0 +1,5 @@
+[PROMPT]: Who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?
+[USER_ANSWER]: The context does not provide any information about who discovered that less than three percent of kangaroos exposed to the virus developed blindness, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Veterinarians
+[FEEDBACK]: The response is completely incorrect as it does not mention veterinarians who discovered that less than three percent of kangaroos exposed to the virus developed blindness.
+[RESULT]: 1

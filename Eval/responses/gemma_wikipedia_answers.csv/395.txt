@@ -1,0 +1,5 @@
+[PROMPT]: Is Egypt the most populated country in Africa?
+[USER_ANSWER]: Yes, Egypt is the most populous country in Africa with an estimated 78 million people.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect, inaccurate, and/or not factual based on the reference answer. Egypt is not the most populated country in Africa.
+[RESULT]: 1

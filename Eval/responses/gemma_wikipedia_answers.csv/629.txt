@@ -1,0 +1,5 @@
+[PROMPT]: What does the word Ghana mean?
+[USER_ANSWER]: Sure, the word "Ghana" means "Warrior King" in the West African language of Akan. It was derived from the name of the medieval Ghana Empire, which extended throughout much of western Africa.
+[CORRECT_ANSWER]: warrior king
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

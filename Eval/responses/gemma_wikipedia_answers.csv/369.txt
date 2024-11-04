@@ -1,0 +1,5 @@
+[PROMPT]: What does the word duck mean?
+[USER_ANSWER]: The word "duck" means to bend down low as if to get under something or to dive.
+[CORRECT_ANSWER]: It is the common name for a number of species in the Anatidae family of birds.
+[FEEDBACK]: The response provided is somewhat correct, accurate, and factual based on the reference answer. While the response mentions a different meaning of the word "duck" related to bending down low or diving, it does not align with the reference answer which defines "duck" as the common name for a number of species in the Anatidae family of birds. Therefore, the response is partially correct but lacks alignment with the reference answer.
+[RESULT]: 3

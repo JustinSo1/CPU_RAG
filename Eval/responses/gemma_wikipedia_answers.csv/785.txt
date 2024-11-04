@@ -1,0 +1,5 @@
+[PROMPT]: Is indonesia a republic?
+[USER_ANSWER]: Sure, the context confirms that the Republic of Indonesia is a republic with an elected parliament and president.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

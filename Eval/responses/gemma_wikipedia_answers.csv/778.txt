@@ -1,0 +1,5 @@
+[PROMPT]: Is Indonesia the world's largest archipelagic state?
+[USER_ANSWER]: Sure, Indonesia is the world's largest archipelagic state, with an area of 1,919,440 square kilometers (741,050 sq mi).
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

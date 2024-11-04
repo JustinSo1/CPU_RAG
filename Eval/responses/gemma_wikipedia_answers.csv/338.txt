@@ -1,0 +1,5 @@
+[PROMPT]: Did continental European immigrants not S08_settle the prairies ?
+[USER_ANSWER]: No, the context does not provide any information about whether continental European immigrants settled the prairies.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

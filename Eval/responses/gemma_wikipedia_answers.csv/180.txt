@@ -1,0 +1,7 @@
+[PROMPT]: How many species of beetles are there?
+[USER_ANSWER]: Sure, there are about 350,000 species of beetles.
+
+The context does not provide any other information about the number of species of beetles, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 350,000
+[FEEDBACK]: The response provided is accurate and matches the reference answer of 350,000 species of beetles. However, the additional statement about not being able to answer the question due to lack of context is not necessary as the response itself is correct.
+[RESULT]: 4

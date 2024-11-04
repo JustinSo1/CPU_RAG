@@ -1,0 +1,5 @@
+[PROMPT]: Adams ' opponents were what?
+[USER_ANSWER]: Adams' opponents were former Secretary of State Thomas Jefferson of Virginia and Senator Aaron Burr of New York on the Democratic-Republican ticket.
+[CORRECT_ANSWER]: Democratic Republicans
+[FEEDBACK]: The response accurately identifies Adams' opponents as former Secretary of State Thomas Jefferson of Virginia and Senator Aaron Burr of New York on the Democratic-Republican ticket, which aligns with the reference answer "Democratic Republicans." The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

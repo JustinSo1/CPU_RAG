@@ -1,0 +1,5 @@
+[PROMPT]: Do wolves leave their pack?
+[USER_ANSWER]: Sure, the context says that wolves leave their birth pack when they reach sexual maturity prior to the previous breeding season.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response accurately reflects the fact that wolves leave their birth pack when they reach sexual maturity prior to the previous breeding season, aligning with the reference answer. However, the response could have been more concise and direct in stating "Yes" to match the reference answer more closely.
+[RESULT]: 4

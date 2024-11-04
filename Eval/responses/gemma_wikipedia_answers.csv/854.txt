@@ -1,0 +1,7 @@
+[PROMPT]: Which property did James Monroe sell in 1817?
+[USER_ANSWER]: James Monroe sold his Highland Plantation in 1817.
+
+I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: Monroe Hill on the grounds of the University of Virginia.
+[FEEDBACK]: The response provided is completely incorrect as it mentions "Highland Plantation" instead of the correct answer "Monroe Hill on the grounds of the University of Virginia." This deviates significantly from the reference answer.
+[RESULT]: 1

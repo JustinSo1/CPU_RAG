@@ -1,0 +1,5 @@
+[PROMPT]: Who suggested Lincoln grow a beard?
+[USER_ANSWER]: The context does not specify who suggested Lincoln grow a beard, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 11-year-old Grace Bedell
+[FEEDBACK]: The response correctly acknowledges that the context does not specify who suggested Lincoln grow a beard, aligning with the fact that the information is not provided. Therefore, the response is accurate in this regard. However, it does not provide the specific correct answer, which is Grace Bedell. Hence, it falls under the category of "somewhat correct, accurate, and/or factual" as per the rubric.
+[RESULT]: 3

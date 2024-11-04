@@ -1,0 +1,5 @@
+[PROMPT]: Are Gray Wolves native to North America?
+[USER_ANSWER]: The context does not provide any information about whether Gray Wolves are native to North America, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response accurately acknowledges the lack of information provided in the context and refrains from making any incorrect claims. However, it does not provide the correct answer to the question. Therefore, it falls under the category of being mostly correct but lacking the specific factual information.
+[RESULT]: 3

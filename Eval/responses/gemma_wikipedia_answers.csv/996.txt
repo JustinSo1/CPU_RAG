@@ -1,0 +1,5 @@
+[PROMPT]: Are large pythons potential prey for leopards?
+[USER_ANSWER]: The context does not provide any information about large pythons being potential prey for leopards, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is correct, accurate, and factual based on the reference answer. The response aligns with the reference answer provided.
+[RESULT]: 3

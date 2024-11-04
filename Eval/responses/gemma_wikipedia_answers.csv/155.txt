@@ -1,0 +1,5 @@
+[PROMPT]: What happened in 1745?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: The scale was reversed
+[FEEDBACK]: The response is completely incorrect and does not align with the reference answer provided. The statement about not finding a good match in the knowledge base does not address the question asked.
+[RESULT]: 1

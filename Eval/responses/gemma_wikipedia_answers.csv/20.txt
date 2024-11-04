@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln start his political career in 1832?
+[USER_ANSWER]: Sure, Lincoln began his political career in 1832. The context states that he became a leader of the Illinois Whig party and served four successive terms in the Illinois House of Representatives.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response accurately states that Lincoln began his political career in 1832, aligning with the reference answer. However, it provides additional context about his leadership in the Illinois Whig party and terms in the Illinois House of Representatives, which is not necessary for this specific question.
+[RESULT]: 4

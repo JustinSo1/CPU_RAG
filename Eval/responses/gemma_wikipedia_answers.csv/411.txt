@@ -1,0 +1,5 @@
+[PROMPT]: Is Egypt in Asia?
+[USER_ANSWER]: No, Egypt is not in Asia. It is located in North Africa.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

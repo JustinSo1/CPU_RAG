@@ -1,0 +1,5 @@
+[PROMPT]: What led Becquerel to investigate the spontaneous emission of nuclear radiation?
+[USER_ANSWER]: Becquerel investigated spontaneous nuclear radiation after he found that photographic plates were fully exposed prior to performing the experiment.
+[CORRECT_ANSWER]: phographic plates being fully exposed
+[FEEDBACK]: The response provided is mostly correct and accurate as it mentions that Becquerel investigated spontaneous nuclear radiation after finding that photographic plates were fully exposed. However, the response could have been more specific by directly stating "photographic plates being fully exposed" to align perfectly with the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Who was John Monroe standing behind in the painting of  Washington Crossing the Delaware?
+[USER_ANSWER]: The context does not provide any information about John Monroe, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: George Washington
+[FEEDBACK]: The response correctly acknowledges the lack of information provided in the context and states the inability to answer the question based on that. It does not provide any incorrect or inaccurate information. However, it does not directly answer the question, which would have been ideal for a higher score.
+[RESULT]: 3

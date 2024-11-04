@@ -1,0 +1,7 @@
+[PROMPT]: What happened on plants and fungi?
+[USER_ANSWER]: Sure, here's the answer:
+
+Plants and fungi were able to grow and thrive after the last ice age due to the exposure of the soil.
+[CORRECT_ANSWER]: They are food to beetles.
+[FEEDBACK]: The response provided does not align with the reference answer as it talks about plants and fungi growing and thriving after the last ice age due to soil exposure, which is not related to them being food to beetles. The information provided is not accurate based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: What is a collective noun for a kangaroo?
+[USER_ANSWER]: A collective noun for a kangaroo is a "kangaroo herd". The context does not provide any other information about the collective noun, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: a mob, troop, or court
+[FEEDBACK]: The response provided, "A collective noun for a kangaroo is a 'kangaroo herd'," is not accurate based on the reference answer which lists "a mob, troop, or court" as the correct collective nouns for a kangaroo. The response does not align with the factual information provided in the reference answer.
+[RESULT]: 2

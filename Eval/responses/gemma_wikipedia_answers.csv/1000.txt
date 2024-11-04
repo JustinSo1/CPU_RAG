@@ -1,0 +1,5 @@
+[PROMPT]: What is a hybrid animal resulting from a union between a leopard and a puma?
+[USER_ANSWER]: Sure, a pumapard is a hybrid animal resulting from a union between a leopard and a puma.
+[CORRECT_ANSWER]: a pumapard
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

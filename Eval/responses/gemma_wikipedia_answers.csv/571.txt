@@ -1,0 +1,5 @@
+[PROMPT]: Who did Ford nominate for Vice President?
+[USER_ANSWER]: The context does not provide information about who Ford nominated for Vice President, hence I cannot answer this question from the context.
+[CORRECT_ANSWER]: Bob Dole
+[FEEDBACK]: The response correctly acknowledges that the context does not provide the information about who Ford nominated for Vice President, aligning with the given reference answer of Bob Dole. However, it does not provide the specific answer, resulting in a score of 3.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?
+[USER_ANSWER]: The context does not provide any information about the benefits of forceful prevention of other wolves from mating, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: A pack can only suppport one littler per year
+[FEEDBACK]: The response correctly identifies that the context does not provide information about the benefits of forceful prevention of other wolves from mating, aligning with the reference answer that a pack can only support one litter per year. However, it lacks a direct connection to the specific benefit mentioned in the reference answer.
+[RESULT]: 3

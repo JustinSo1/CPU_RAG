@@ -1,0 +1,5 @@
+[PROMPT]: What did Aristotle say about elephants?
+[USER_ANSWER]: Aristotle believed that elephants were one of the most intelligent and wise animals, comparable to cetaceans and hominids.
+[CORRECT_ANSWER]: the beast which pasS08_seth all others in wit and mind
+[FEEDBACK]: The response is somewhat correct as it captures the essence of Aristotle's view on elephants being intelligent and wise animals, although it does not match the exact wording of the reference answer.
+[RESULT]: 3

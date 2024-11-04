@@ -1,0 +1,5 @@
+[PROMPT]: Is Ford one of only four former Presidents to live to 90 or more years of age ?
+[USER_ANSWER]: The context does not provide any information about whether Ford is one of only four former Presidents to live to 90 or more years of age, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response accurately acknowledges the lack of information in the context to answer the question. However, the response does not provide a definitive answer to the question posed.
+[RESULT]: 3

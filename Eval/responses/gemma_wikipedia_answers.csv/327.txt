@@ -1,0 +1,5 @@
+[PROMPT]: What was Canada's most important industry until the 1800s?
+[USER_ANSWER]: Canada's most important industry until the 1800s was the fur trade.
+[CORRECT_ANSWER]: The fur trade
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

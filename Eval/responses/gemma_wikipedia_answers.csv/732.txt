@@ -1,0 +1,5 @@
+[PROMPT]: Who lost control of his party to the agrarians and silverites in 1896?
+[USER_ANSWER]: The Democratic party was seized by agrarian and silverite enemies in 1896, who nominated William Jennings Bryan on a Silver Platform.
+[CORRECT_ANSWER]: Grover Cleveland
+[FEEDBACK]: The response is mostly correct, accurate, and factual. While the response correctly identifies that the Democratic party was influenced by agrarian and silverite enemies in 1896, the specific individual who lost control of the party, Grover Cleveland, is not mentioned. Therefore, it is not completely accurate based on the reference answer.
+[RESULT]: 4

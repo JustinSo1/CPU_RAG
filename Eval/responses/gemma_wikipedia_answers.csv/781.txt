@@ -1,0 +1,5 @@
+[PROMPT]: Has Indonesia the world 's largest Muslim population ?
+[USER_ANSWER]: Yes, Indonesia is the world's most populous Muslim-majority nation, with almost 86% of its population declared Muslim according to the 2000 census.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

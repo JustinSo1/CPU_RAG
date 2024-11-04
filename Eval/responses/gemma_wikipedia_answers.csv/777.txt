@@ -1,0 +1,5 @@
+[PROMPT]: Are Sports in Indonesia generally male-orientated?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided is not directly related to the question asked and does not address whether sports in Indonesia are generally male-orientated. It lacks a clear connection to the topic at hand and does not provide any relevant information to support a conclusion.
+[RESULT]: 1

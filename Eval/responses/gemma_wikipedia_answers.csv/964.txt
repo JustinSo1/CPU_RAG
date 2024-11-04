@@ -1,0 +1,5 @@
+[PROMPT]: Is the kangaroo an herbivour?
+[USER_ANSWER]: The context does not provide any information about the kangaroo's diet, so I cannot answer this question from the context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is correct, accurate, and factual based on the reference answer. The context indeed does not provide any information about the kangaroo's diet, so the response is appropriate. However, the reference answer states that kangaroos are herbivores, which is a factual piece of information that could have been included in the response for a higher score.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Are beetles endopterygotes with complete metamorphosis?
+[USER_ANSWER]: Sure, the context says that beetles are endopterygotes with complete metamorphosis, meaning they go through several instars before reaching adulthood.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response accurately confirms that beetles are endopterygotes with complete metamorphosis, aligning with the reference answer. However, it includes additional information about instars, which was not necessary based on the question.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Are elephants mammals?
+[USER_ANSWER]: Sure, elephants are mammals. The context explicitly states that elephants are a family in the order Proboscidea in the class Mammalia.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

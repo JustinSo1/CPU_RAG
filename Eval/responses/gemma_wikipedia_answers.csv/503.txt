@@ -1,0 +1,5 @@
+[PROMPT]: Does it have a border with Norway?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided does not directly answer the question about whether there is a border with Norway. It only states the inability to find a match in the knowledge base and relies on personal knowledge, without giving a clear answer. Therefore, it does not align with the criteria of being correct, accurate, and factual based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: Was Grover Cleveland elected Sheriff of Erie County, New York?
+[USER_ANSWER]: Sure, Grover Cleveland was elected Sheriff of Erie County, New York in 1871.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer. Grover Cleveland was indeed elected Sheriff of Erie County, New York.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What did Coolidge do after graduating from Amherst?
+[USER_ANSWER]: Coolidge served in various political roles, including chairman of the non-partisan Railroad Commission, honorary president of the Foundation of the Blind, director of New York Life Insurance Company, president of the American Antiquarian Society, and trustee of Amherst College.
+[CORRECT_ANSWER]: Coolidge moved to Northampton, MassachuS08_setts
+[FEEDBACK]: The response provided does not align with the reference answer as it does not mention Coolidge moving to Northampton, Massachusetts after graduating from Amherst. While the response details Coolidge's various political roles, it lacks the specific information required by the question.
+[RESULT]: 2

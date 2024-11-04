@@ -1,0 +1,5 @@
+[PROMPT]: Who did MassachuS08_setts send in 1774?
+[USER_ANSWER]: Massachusetts sent Adams to the first and second Continental Congresses in 1774.
+[CORRECT_ANSWER]: John Adams
+[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer "John Adams." The information matches perfectly with the expected answer.
+[RESULT]: 5

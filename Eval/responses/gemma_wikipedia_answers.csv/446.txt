@@ -1,0 +1,5 @@
+[PROMPT]: Are elephant populations in West Africa generally small and fragmented?
+[USER_ANSWER]: Sure, elephant populations in West Africa are generally small and fragmented, with an estimated population of between 470,000 and 690,000 African elephants in the wild.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

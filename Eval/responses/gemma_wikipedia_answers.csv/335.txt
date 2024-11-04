@@ -1,0 +1,5 @@
+[PROMPT]: Is Canada a geographically vast and ethnically diverse country ?
+[USER_ANSWER]: Yes, Canada is a geographically vast and ethnically diverse country. It is the largest country in North America by land area and has a diverse population with over 20 different ethnic groups.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It affirms that Canada is geographically vast and ethnically diverse, providing specific details to support this statement.
+[RESULT]: 5

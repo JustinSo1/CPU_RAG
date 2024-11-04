@@ -1,0 +1,5 @@
+[PROMPT]: Where was Grover Cleveland married?
+[USER_ANSWER]: Sure, Grover Cleveland was married in the White House in 1886.
+[CORRECT_ANSWER]: In the White House
+[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

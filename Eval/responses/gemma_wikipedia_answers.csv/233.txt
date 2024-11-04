@@ -1,0 +1,5 @@
+[PROMPT]: Is Calvin Jr. older than John Coolidge?
+[USER_ANSWER]: The context does not provide any information about the age of Calvin Jr. compared to John Coolidge, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response correctly acknowledges the lack of information provided in the context and appropriately states that the question cannot be answered based on the given context. This aligns with the reference answer "No" as the response does not make any assumptions or provide incorrect information.
+[RESULT]: 5

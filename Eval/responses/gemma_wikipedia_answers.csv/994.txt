@@ -1,0 +1,5 @@
+[PROMPT]: Is a leopard larger and less lanky than a cheetah?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. A leopard and a cheetah are both large cats, but they are not comparable in terms of size.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided is not directly answering the question with a simple "yes" or "no" as required by the reference answer. It offers an explanation about the comparison between a leopard and a cheetah, which is not in line with the expected format. Therefore, it does not align perfectly with the reference answer.
+[RESULT]: 3

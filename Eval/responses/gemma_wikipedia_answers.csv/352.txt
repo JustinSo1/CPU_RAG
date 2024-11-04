@@ -1,0 +1,5 @@
+[PROMPT]: Who is Daffy Duck?
+[USER_ANSWER]: The context does not provide any information about Daffy Duck, so I cannot answer this question from the context.
+[CORRECT_ANSWER]: A silly cartoon character
+[FEEDBACK]: The response does not provide any information about Daffy Duck, failing to align with the reference answer which describes Daffy Duck as a silly cartoon character. Therefore, the response is completely incorrect and lacks accuracy.
+[RESULT]: 1
