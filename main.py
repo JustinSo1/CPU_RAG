@@ -1,6 +1,6 @@
 import pickle
 
-import scann
+# import scann
 import multiprocessing
 import statistics
 import subprocess
@@ -59,10 +59,12 @@ class AIAssistant:
 
     def index_embeddings(self):
         """Index the embeddings using ScaNN """
+        # print("EMBEDDINGS SHAPE", self.embeddings.shape)
         self.searcher = (
             scann.scann_ops_pybind.builder(db=self.embeddings, num_neighbors=10, distance_measure="dot_product")
-            .tree(num_leaves=min(self.embeddings.shape[0] // 2, 1000),
-                  num_leaves_to_search=100,
+            .tree(num_leaves=self.embeddings.shape[0] // 2,
+                  min_partition_size=self.embeddings.shape[0] ** 0.5,
+                  num_leaves_to_search=self.embeddings.shape[0] // 4,
                   training_sample_size=self.embeddings.shape[0])
             .score_ah(2, anisotropic_quantization_threshold=0.2)
             .reorder(100)
@@ -123,12 +125,12 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
-    logger_fname = f'data/log_compute{n_threads}.csv'
-    logger_pid = subprocess.Popen(
-        ['python', 'log_gpu_cpu_stats.py',
-         logger_fname,
-         '--loop', '30',  # Interval between measurements, in seconds (optional, default=1)
-         ])
+    # logger_fname = f'data/log_compute{n_threads}.csv'
+    # logger_pid = subprocess.Popen(
+    #     ['python', 'log_gpu_cpu_stats.py',
+    #      logger_fname,
+    #      '--loop', '30',  # Interval between measurements, in seconds (optional, default=1)
+    #      ])
     print('Started logging compute utilisation')
     answer_time_arr, scann_time_arr, prompt_time_arr = [], [], []
     result_arr = []
@@ -148,7 +150,7 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
         # if i == 25:
         #     break
         # End the background process logging the CPU and GPU utilisation.
-    logger_pid.terminate()
+    # logger_pid.terminate()
     avg_scann_time = statistics.fmean(scann_time_arr)
     avg_prompt_time = statistics.fmean(prompt_time_arr)
     avg_answer_time = statistics.fmean(answer_time_arr)
@@ -171,33 +173,34 @@ def main():
     tokenizer = "data/gemma-gemmacpp-2b-it-sfp-v4/tokenizer.spm"
     compressed_weights = "data/gemma-gemmacpp-2b-it-sfp-v4/2b-it-sfp.sbs"
     model = "2b-it"
-    max_threads = 30
+    # max_threads = 30
     # Loading the previously prepared knowledge base and embeddings
     # knowledge_base = text_corpus['passage'].tolist()
     avg_stats_dict = {}
-    for i in range(1, max_threads + 1):
-        avg_scann_time, avg_prompt_time, avg_answer_time, results = run_rag_pipeline(
-            # model=GemmaCPPPython(tokenizer, compressed_weights, n_threads=i),
-            model=LlamaCpp(n_threads=i),
-            n_threads=i, questions=questions,
-            answers=answers,
-            embeddings_name=embeddings_name,
-            tokenizer=tokenizer,
-            compressed_weights=compressed_weights,
-            text_corpus=text_corpus)
-        avg_stats_dict[f"{i}_threads"] = {
-            "avg_scann_time": avg_scann_time,
-            "avg_prompt_time": avg_prompt_time,
-            "avg_answer_time": avg_answer_time
-        }
-        with open('llama_avg_stats_dict_chkpt.pickle', 'wb') as handle:
-            pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
-        with open('results.pickle', 'wb') as handle:
-            pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
-        break
+    # for i in range(1, max_threads + 1):
+    avg_scann_time, avg_prompt_time, avg_answer_time, results = run_rag_pipeline(
+        model=GemmaCPPPython(tokenizer, compressed_weights),
+        # model=LlamaCpp(n_threads=i),
+        n_threads=-1,
+        questions=questions,
+        answers=answers,
+        embeddings_name=embeddings_name,
+        tokenizer=tokenizer,
+        compressed_weights=compressed_weights,
+        text_corpus=text_corpus)
+    avg_stats_dict[f"{16}_threads"] = {
+        "avg_scann_time": avg_scann_time,
+        "avg_prompt_time": avg_prompt_time,
+        "avg_answer_time": avg_answer_time
+    }
+    with open('gemma_cpp.pickle', 'wb') as handle:
+        pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    with open('results.pickle', 'wb') as handle:
+        pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        # break
     avg_stats_df = pd.DataFrame(avg_stats_dict)
-    # print(avg_stats_df)
-    avg_stats_df.to_csv('llama_avg_rag_stats.csv', index=False)
+    print(avg_stats_df)
+    avg_stats_df.to_csv('gemma_cpp_config.csv', index=False)
 
 
 if __name__ == '__main__':
