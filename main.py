@@ -1,6 +1,6 @@
 import pickle
 
-# import scann
+import scann
 import multiprocessing
 import statistics
 import subprocess
@@ -62,9 +62,10 @@ class AIAssistant:
         # print("EMBEDDINGS SHAPE", self.embeddings.shape)
         self.searcher = (
             scann.scann_ops_pybind.builder(db=self.embeddings, num_neighbors=10, distance_measure="dot_product")
-            .tree(num_leaves=self.embeddings.shape[0] // 2,
-                  min_partition_size=self.embeddings.shape[0] ** 0.5,
-                  num_leaves_to_search=self.embeddings.shape[0] // 4,
+            .tree(num_leaves=int(self.embeddings.shape[0] ** 0.5) * 2, # of partitions
+                  num_leaves_to_search=int(self.embeddings.shape[0] ** 0.5)* 2,
+                  min_partition_size=10,
+                  # quantize_centroids=True,
                   training_sample_size=self.embeddings.shape[0])
             .score_ah(2, anisotropic_quantization_threshold=0.2)
             .reorder(100)
@@ -146,9 +147,9 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
         result_arr.append(result)
         print("Result:" + result)
         i += 1
-        break
-        # if i == 25:
-        #     break
+        #break
+        if i == 50:
+            break
         # End the background process logging the CPU and GPU utilisation.
     # logger_pid.terminate()
     avg_scann_time = statistics.fmean(scann_time_arr)
@@ -193,14 +194,14 @@ def main():
         "avg_prompt_time": avg_prompt_time,
         "avg_answer_time": avg_answer_time
     }
-    with open('gemma_cpp.pickle', 'wb') as handle:
+    with open('gemma_cpp_recom_part1.pickle', 'wb') as handle:
         pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
-    with open('results.pickle', 'wb') as handle:
+    with open('results2.pickle', 'wb') as handle:
         pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
         # break
     avg_stats_df = pd.DataFrame(avg_stats_dict)
     print(avg_stats_df)
-    avg_stats_df.to_csv('gemma_cpp_config.csv', index=False)
+    avg_stats_df.to_csv('gemma_cpp_config1.csv', index=False)
 
 
 if __name__ == '__main__':
