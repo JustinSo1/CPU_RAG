@@ -1,5 +1,5 @@
 [PROMPT]: Who is depicted holding the flag in the famous painting of Washington Crossing the Delaware?
 [USER_ANSWER]: The context describes John Monroe, a slaveholder, as the person depicted holding the flag in the famous painting of Washington Crossing the Delaware.
 [CORRECT_ANSWER]: Monroe
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The person depicted holding the flag in the famous painting of Washington Crossing the Delaware is not John Monroe. The reference answer indicates "Monroe," but the response adds incorrect information by describing John Monroe as a slaveholder, which is not relevant or accurate in this context. Therefore, the response does not align well with the reference answer.
+[RESULT]: 2

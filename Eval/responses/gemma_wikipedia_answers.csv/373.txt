@@ -3,5 +3,5 @@
 
 A Mallard's tongue has tiny rows of plates called lamellae that help filter water out of the side of the beak and keep food inside.
 [CORRECT_ANSWER]: It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat
-[FEEDBACK]: The response provided is somewhat correct and accurate. It mentions the presence of structures on the Mallard's tongue that aid in filtering water and retaining food, which aligns with the function of the tongue described in the reference answer. However, it lacks specific details such as the presence of a flat plate with short spikes for pushing food down the throat, which are key aspects mentioned in the reference answer. Therefore, the response falls short of being completely accurate and detailed as the reference answer.
+[FEEDBACK]: The response provides some correct information about the Mallard's tongue, specifically mentioning the lamellae that help filter water and keep food inside. However, it does not mention the flat plate structure of the tongue, the liftable flap, or the short spikes that push food down the throat, which are key details in the reference answer. Therefore, the response is somewhat correct but lacks significant details to be considered mostly or completely accurate.
 [RESULT]: 3

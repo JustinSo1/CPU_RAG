@@ -1,5 +1,5 @@
 [PROMPT]: What is the difference between leopards and cheetahs?
 [USER_ANSWER]: The context does not provide any information about the differences between leopards and cheetahs, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: The leopard has roS08_settes rather than cheetah's simple spots and the leopard is larger and less lanky than the cheetah.
-[FEEDBACK]: The response correctly acknowledges the lack of information provided in the context regarding the differences between leopards and cheetahs. However, it does not provide any additional details or comparisons as requested in the question. Therefore, it falls short of being considered somewhat correct, accurate, and factual based on the reference answer.
-[RESULT]: 2
+[FEEDBACK]: The response does not provide any factual information about the differences between leopards and cheetahs. Instead, it states that the context does not provide information, which is not relevant to the instruction. The response is completely incorrect and does not address the question asked.
+[RESULT]: 1

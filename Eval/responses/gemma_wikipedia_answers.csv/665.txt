@@ -1,5 +1,5 @@
 [PROMPT]: Do wolf pups tend to have darker fur than adults?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not directly answer the question and lacks factual information. It does not align with the reference answer provided.
+[FEEDBACK]: The response does not directly answer the question about whether wolf pups tend to have darker fur than adults. Instead, it states that the responder could not find a good match in their knowledge base and provides no factual information. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "Yes."
 [RESULT]: 1

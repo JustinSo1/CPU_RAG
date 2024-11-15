@@ -1,5 +1,5 @@
 [PROMPT]: What is the most extensively celebrated holiday?
 [USER_ANSWER]: Christmas is the most extensively celebrated holiday in Finland, with at least 23rd to 26th of December being holidays.
 [CORRECT_ANSWER]: Christmas
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response identifies Christmas as the most extensively celebrated holiday, which aligns with the reference answer. However, it adds specific information about Finland, which is not required by the instruction and could be seen as limiting the scope of the answer. Despite this, the core information remains correct and factual.
+[RESULT]: 4

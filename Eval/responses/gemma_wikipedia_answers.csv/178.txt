@@ -1,5 +1,5 @@
 [PROMPT]: Are beetles endopterygotes?
 [USER_ANSWER]: Sure, the context says that beetles are endopterygotes, meaning they go through a complete life cycle with a larval stage.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response provided is not completely accurate as it includes additional information about the life cycle of beetles, which was not necessary based on the reference answer that simply states "yes." This extra information could potentially lead to confusion and is not directly relevant to the question asked.
-[RESULT]: 3
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that beetles are endopterygotes and provides additional context about their life cycle, which is accurate. However, the reference answer is a simple "yes," and the response could be seen as overly detailed for the given instruction.
+[RESULT]: 4

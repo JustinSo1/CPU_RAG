@@ -1,5 +1,5 @@
 [PROMPT]: In what year did East Timor secede from Indonesia?
 [USER_ANSWER]: In 1999, East Timor voted to secede from Indonesia.
 [CORRECT_ANSWER]: 1999
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the year 1999 as the year East Timor voted to secede from Indonesia. However, it includes additional information about the voting process, which is not necessary for the answer. The reference answer is more concise and directly answers the question without extra details.
+[RESULT]: 4

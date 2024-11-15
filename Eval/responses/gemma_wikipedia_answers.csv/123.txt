@@ -1,5 +1,5 @@
 [PROMPT]: Did the scientific community not reserve great attention to his theory ?
 [USER_ANSWER]: No, the context does not provide any information about the scientific community's reserve towards Isaac Newton's theory of light.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The reference answer "yes" aligns perfectly with the response provided, which states that the context does not provide any information about the scientific community's reserve towards Isaac Newton's theory of light. Therefore, the response is accurate and on point.
-[RESULT]: 5
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer is a simple "yes," indicating that the scientific community did not reserve great attention to the theory. The evaluated response, however, incorrectly states that there is no information provided about the scientific community's reserve towards the theory, which contradicts the reference answer.
+[RESULT]: 1

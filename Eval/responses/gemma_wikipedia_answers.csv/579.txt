@@ -1,5 +1,5 @@
 [PROMPT]: Was Gerald Ford the 38th President of the United States?
 [USER_ANSWER]: Sure, Gerald Ford was the 38th President of the United States from 1974 to 1977.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Gerald Ford as the 38th President of the United States and provides additional accurate information about his term in office from 1974 to 1977. This level of detail, while not necessary, does not detract from the correctness of the response.
 [RESULT]: 5

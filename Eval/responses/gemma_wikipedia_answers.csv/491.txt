@@ -1,5 +1,5 @@
 [PROMPT]: In what year were the "Games of the XV Olympiad" held?
 [USER_ANSWER]: The context does not provide any information about the year in which the "Games of the XV Olympiad" were held, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: 1952
-[FEEDBACK]: The response correctly acknowledges the lack of information to answer the question about the year of the "Games of the XV Olympiad." It does not provide a specific year but acknowledges the limitation of the context.
-[RESULT]: 3
+[FEEDBACK]: The response does not provide the correct year for the "Games of the XV Olympiad." Instead, it states that the context does not provide the information needed to answer the question. This makes the response completely incorrect and not factual based on the reference answer, which is 1952.
+[RESULT]: 1

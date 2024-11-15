@@ -1,5 +1,5 @@
 [PROMPT]: Who graduated in ecclesiastical law at the early age of 20 and began to practice?
 [USER_ANSWER]: I cannot answer this question from the context, as the context does not specify who graduated in ecclesiastical law at the early age of 20 and began to practice.
 [CORRECT_ANSWER]: Amedeo Avogadro
-[FEEDBACK]: The response provided does not align with the reference answer, as it does not mention Amedeo Avogadro who graduated in ecclesiastical law at the early age of 20 and began to practice. Therefore, it does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer clearly states that Amedeo Avogadro is the person who graduated in ecclesiastical law at the early age of 20 and began to practice, but the response fails to provide this information and instead states an inability to answer the question.
 [RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: Where do wolves have scent glands?
 [USER_ANSWER]: Sure, the context says that wolves have scent glands all over their bodies, including at the base of the tail, between toes, and in the eyes, genitalia, and skin.
 [CORRECT_ANSWER]: Helping the woldf to effectively navigate over large expanses while concurrently keeping others informed of its whereabouts.
-[FEEDBACK]: The response accurately identifies the locations of scent glands on wolves' bodies as stated in the reference answer. However, it lacks the specific function of these scent glands mentioned in the reference answer, which is crucial for a complete and accurate response. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[FEEDBACK]: The response provided does not align with the reference answer. The reference answer explains the purpose of the scent glands in wolves, while the response lists the locations of the scent glands on a wolf's body. The response is factually correct in terms of the locations of the scent glands, but it does not address the question in the same manner as the reference answer, which focuses on the function of the scent glands. Therefore, the response is somewhat correct but does not fully meet the criteria based on the reference answer.
 [RESULT]: 3

@@ -3,5 +3,5 @@
 
 According to the context, Egypt is one of the most populous countries in Africa, with an estimated 78 million people.
 [CORRECT_ANSWER]: More than 78 million.
-[FEEDBACK]: The response provided is not completely accurate as it states the estimated population of Egypt as 78 million, while the reference answer indicates it is more than 78 million. This discrepancy makes the response fall short of being completely correct, accurate, and factual.
+[FEEDBACK]: The response states that the estimated population of Egypt is 78 million, which is not completely accurate based on the reference answer "More than 78 million." While the response provides a specific number, it does not fully capture the fact that the population is more than 78 million. Therefore, the response is somewhat correct but not entirely accurate or factual.
 [RESULT]: 3

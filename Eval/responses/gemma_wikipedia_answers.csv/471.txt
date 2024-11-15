@@ -1,5 +1,5 @@
 [PROMPT]: What part of an elephant is very important for temperature regulation?
 [USER_ANSWER]: Sure, the large flapping ears of an elephant are very important for temperature regulation. They create a slight breeze that cools the surface blood vessels, and then the cooler blood gets circulated to the rest of the animal's body.
 [CORRECT_ANSWER]: Ears
-[FEEDBACK]: The response correctly identifies the large flapping ears of an elephant as very important for temperature regulation, which aligns with the reference answer "Ears." The explanation provided about how the ears help in temperature regulation further supports the accuracy of the response. Overall, the response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the ears as the important part for temperature regulation in elephants and provides additional accurate information about how the ears help in cooling the blood. However, the reference answer is more concise and to the point, simply stating "Ears." The response, while accurate, includes extra details that were not necessary for the question asked.
+[RESULT]: 4

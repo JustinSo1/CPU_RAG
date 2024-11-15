@@ -1,5 +1,5 @@
 [PROMPT]: What is used to protect a vehicale from a Kangaroo?
 [USER_ANSWER]: The context describes various methods used to protect vehicles from kangaroos, including "roo bars" and bonnet-mounted devices.
 [CORRECT_ANSWER]: roo bars
-[FEEDBACK]: The response accurately identifies "roo bars" as a method used to protect vehicles from kangaroos, aligning perfectly with the reference answer. It is completely correct, accurate, and factual.
-[RESULT]: 5
+[FEEDBACK]: The response mentions "roo bars," which is correct and factual. However, it also includes "bonnet-mounted devices," which is not mentioned in the reference answer. This additional information makes the response somewhat correct but not completely accurate based on the reference answer.
+[RESULT]: 3

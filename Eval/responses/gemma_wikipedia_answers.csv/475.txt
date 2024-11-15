@@ -1,5 +1,5 @@
 [PROMPT]: Is an Asian elephant smaller than an African elephant?
 [USER_ANSWER]: The context does not provide any information about the size of Asian and African elephants, so I cannot answer this question from the context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response does not directly answer the question about the size comparison between Asian and African elephants. Instead, it states that the context does not provide information, which is not relevant to the instruction. The reference answer is a simple "yes," indicating that the correct response should affirm that an Asian elephant is indeed smaller than an African elephant. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

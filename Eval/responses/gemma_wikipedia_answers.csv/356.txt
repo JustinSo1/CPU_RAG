@@ -1,5 +1,5 @@
 [PROMPT]: What are the reasons for hunting wild ducks?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Meat, eggs, and feathers
-[FEEDBACK]: The response provided does not align with the reference answer as it does not mention any reasons for hunting wild ducks. It lacks factual information related to the question asked.
+[FEEDBACK]: The response does not address the reasons for hunting wild ducks at all. Instead, it provides an irrelevant statement about the knowledge base. It does not mention any of the reasons such as meat, eggs, or feathers, which are the correct and factual reasons based on the reference answer.
 [RESULT]: 1

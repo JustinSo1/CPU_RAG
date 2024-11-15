@@ -3,5 +3,5 @@
 
 [I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge].
 [CORRECT_ANSWER]: seven
-[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer. Lincoln was indeed seven years old in 1816.
+[FEEDBACK]: The response "Lincoln was seven years old in 1816" is completely correct, accurate, and factual based on the reference answer "seven." The additional sentence explaining the source of the information does not detract from the accuracy of the response.
 [RESULT]: 5

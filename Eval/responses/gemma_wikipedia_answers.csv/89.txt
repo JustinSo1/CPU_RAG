@@ -1,5 +1,5 @@
 [PROMPT]: When did he become a professor?
 [USER_ANSWER]: The context does not provide any information about when Wilson became a professor, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: 1820
-[FEEDBACK]: The response correctly acknowledges the lack of information in the context regarding when Wilson became a professor, aligning with the reference answer. However, it does not provide the specific date of 1820 as the reference answer does. Therefore, it falls short of being completely correct, accurate, and factual.
-[RESULT]: 4
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information that Wilson became a professor in 1820. Instead, it states that the context does not provide the information, which is not aligned with the reference answer.
+[RESULT]: 1

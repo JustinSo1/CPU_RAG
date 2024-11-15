@@ -1,5 +1,5 @@
 [PROMPT]: Did John Adams represent the Continental Congress in Europe?
 [USER_ANSWER]: Yes, John Adams represented the Continental Congress in Europe. He was a driving force for independence in Massachusetts and represented the Continental Congress in Europe.
 [CORRECT_ANSWER]: Yes.
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that John Adams represented the Continental Congress in Europe, which aligns with the reference answer. However, it includes additional information about his role in Massachusetts, which, while true, is not directly relevant to the question asked.
+[RESULT]: 4

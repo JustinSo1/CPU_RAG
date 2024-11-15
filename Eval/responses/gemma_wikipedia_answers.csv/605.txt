@@ -1,5 +1,5 @@
 [PROMPT]: Does Ghana have twice the per capita output of the poorer countries in West Africa?
 [USER_ANSWER]: Yes, Ghana has twice the per capita output of the poorer countries in West Africa.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It directly answers the question with a clear and precise statement, aligning with the reference answer's affirmation.
 [RESULT]: 5

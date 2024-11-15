@@ -1,5 +1,5 @@
 [PROMPT]: Was Becquerel elected Permanent Secretary of the Académie des Sciences?
 [USER_ANSWER]: Sure, Becquerel was elected Permanent Secretary of the Académie des Sciences in 1908.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct and factual, as it states that Becquerel was elected Permanent Secretary of the Académie des Sciences. However, the additional detail about the year 1908 is not verified by the reference answer, which simply states "yes." This extra information could potentially be inaccurate, but the core response aligns with the reference answer.
+[RESULT]: 4

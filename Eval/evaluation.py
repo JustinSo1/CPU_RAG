@@ -38,7 +38,7 @@ def process_csv_and_call_api():
     for row in csv_reader:
       answer = row['Answer']
       id = row['ID']
-      if check_failures:
+      if check_failures(answer):
         counter_context_missing += 1
       else:
         counter_context_exist += 1
@@ -80,4 +80,5 @@ for index in map.keys():
   total_score += curScore
 print(f"Context missing: {counter_context_missing}")
 print(f"Content exist: {counter_context_exist}")
-print(f"Average Score: {total_score / counter_context_exist}")
+print(f"Average Score: {total_score / (counter_context_missing + counter_context_exist)}")
+print(score_map)

@@ -1,5 +1,5 @@
 [PROMPT]: Why are ducklings particularly vulnerable?
 [USER_ANSWER]: Ducklings are particularly vulnerable because they are unable to fly, making them easy prey for birds, fish, and mammals.
 [CORRECT_ANSWER]: Their inability to fly.
-[FEEDBACK]: The response accurately identifies the main reason why ducklings are particularly vulnerable, which is their inability to fly, aligning perfectly with the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the inability to fly as a reason for ducklings' vulnerability, which aligns with the reference answer. However, it adds additional information about predators that is not present in the reference answer. While this extra detail is not incorrect, it is not necessary based on the reference answer provided.
+[RESULT]: 4

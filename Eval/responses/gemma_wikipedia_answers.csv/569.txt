@@ -1,5 +1,5 @@
 [PROMPT]: What did Ford say about his biological father?
 [USER_ANSWER]: The context does not provide any information about what Ford said about his biological father, so I cannot answer this question from the context.
 [CORRECT_ANSWER]: He was abusive and had a history of hitting his mother.
-[FEEDBACK]: The response is accurate and factual based on the reference answer provided. However, it lacks specific details that directly address what Ford said about his biological father.
-[RESULT]: 3
+[FEEDBACK]: The response does not provide any information about what Ford said about his biological father, which is the main point of the question. Instead, it states that the context does not provide this information, which is not aligned with the reference answer. The reference answer clearly states that Ford mentioned his biological father was abusive and had a history of hitting his mother. Therefore, the response is completely incorrect and does not address the question based on the reference answer.
+[RESULT]: 1

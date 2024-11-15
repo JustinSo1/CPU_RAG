@@ -1,5 +1,5 @@
 [PROMPT]: What is the biggest city in Finland?
 [USER_ANSWER]: The context does not provide information about the biggest city in Finland, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Greater Helsinki
-[FEEDBACK]: The response correctly acknowledges the lack of information provided to answer the question about the biggest city in Finland. It does not make any factual claims and maintains accuracy by stating the limitation of the context.
-[RESULT]: 5
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question, which is not relevant to the task of identifying the biggest city in Finland. The correct answer, "Greater Helsinki," is not mentioned at all. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

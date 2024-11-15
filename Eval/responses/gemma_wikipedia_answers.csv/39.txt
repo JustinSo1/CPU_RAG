@@ -1,5 +1,5 @@
 [PROMPT]: Did lincoln have 18 months of schooling?
 [USER_ANSWER]: The context does not provide any information about the number of months Lincoln spent in school, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response correctly acknowledges the lack of information in the context and refrains from providing an inaccurate answer. However, it does not align with the reference answer, which is "Yes." Therefore, it cannot be considered completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 3
+[FEEDBACK]: The response does not provide a correct, accurate, or factual answer to the question. Instead, it states that the context does not provide the information needed to answer the question, which is not aligned with the reference answer. The reference answer is a simple "Yes," indicating that Lincoln did have 18 months of schooling. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factuality.
+[RESULT]: 1
