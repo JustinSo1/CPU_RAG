@@ -76,24 +76,24 @@ def natural_keys(text):
 
 
 if __name__ == '__main__':
-    # logger_fname = "log_compute.csv"
-    # visualize_log_compute_file(logger_fname)
-    # convert_answers_to_csv('results.pickle', 'gemmaWikipediaAnswers.csv')
+    logger_fname = "data/archives/run3bio/log_compute-1.csv"
+    visualize_log_compute_file(logger_fname,33)
+    # convert_answers_to_csv('results_bio.pickle', 'gemmaBioAnswers.csv')
     # visualize_rag_pipeline_stats("llama_avg_rag_stats.csv", "Llama 3.2 3b")
-    avg_util_usage = {}
-    for i, fname in enumerate(sorted(glob.glob("data/archives/run2/*.csv"), key=natural_keys), start=1):
-        print(i)
-        avg_cpu_usage, avg_ram_usage = visualize_log_compute_file(fname, i)
-        avg_util_usage[f"{i}_threads"] = {
-            "AVG_CPU_USAGE": avg_cpu_usage,
-            "AVG_RAM_USAGE": avg_ram_usage
-        }
-    df = pd.DataFrame.from_dict(avg_util_usage, orient='index')
-    print(df)
-    df.plot()
-    plt.legend(title='Gemma RAG pipeline utilization vs number of threads')
-    # get rid of the ticks between the labels - not necessary
-    plt.xticks(ticks=range(0, len(df)))
-    plt.ylabel("Avg %")
-    plt.savefig("gemma_avg_util_rate.png")
-    plt.show()
+    # avg_util_usage = {}
+    # for i, fname in enumerate(sorted(glob.glob("data/archives/run3bio/*.csv"), key=natural_keys), start=1):
+    #     print(i)
+    #     avg_cpu_usage, avg_ram_usage = visualize_log_compute_file(fname, i)
+    #     avg_util_usage[f"{-1}_threads"] = {
+    #         "AVG_CPU_USAGE": avg_cpu_usage,
+    #         "AVG_RAM_USAGE": avg_ram_usage
+    #     }
+    # df = pd.DataFrame.from_dict(avg_util_usage, orient='index')
+    # print(df)
+    # df.plot()
+    # plt.legend(title='Gemma RAG pipeline utilization vs number of threads')
+    # # get rid of the ticks between the labels - not necessary
+    # plt.xticks(ticks=range(0, len(df)))
+    # plt.ylabel("Avg %")
+    # plt.savefig("gemma_avg_util_rate.png")
+    # plt.show()

@@ -62,7 +62,7 @@ class AIAssistant:
         # print("EMBEDDINGS SHAPE", self.embeddings.shape)
         self.searcher = (
             scann.scann_ops_pybind.builder(db=self.embeddings, num_neighbors=10, distance_measure="dot_product")
-            .tree(num_leaves=int(self.embeddings.shape[0] ** 0.5), # of partitions
+            .tree(num_leaves=int(self.embeddings.shape[0] ** 0.5),  # of partitions
                   num_leaves_to_search=int(self.embeddings.shape[0] ** 0.5),
                   min_partition_size=10,
                   # quantize_centroids=True,
@@ -113,7 +113,7 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
     )
     print(f"Running AI Assistant with {n_threads} threads")
     # Loading the previously prepared knowledge base and embeddings
-    knowledge_base = text_corpus['passage'].tolist()
+    knowledge_base = text_corpus.tolist()
 
     # Map the intended knowledge base to embeddings and index it
     # gemma_ai_assistant.learn_knowledge_base(knowledge_base=knowledge_base)
@@ -128,10 +128,10 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
     # !rm -f log_compute.csv
     logger_fname = f'data/log_compute{n_threads}.csv'
     logger_pid = subprocess.Popen(
-            ['python', 'log_gpu_cpu_stats.py',
-            logger_fname,
-            '--loop', '1',  # Interval between measurements, in seconds (optional, default=1)
-            ])
+        ['python', 'log_gpu_cpu_stats.py',
+         logger_fname,
+         '--loop', '1',  # Interval between measurements, in seconds (optional, default=1)
+         ])
     print('Started logging compute utilisation')
     answer_time_arr, scann_time_arr, prompt_time_arr = [], [], []
     result_arr = []
@@ -164,11 +164,11 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
 
 def main():
     print(f"Current machine only has {multiprocessing.cpu_count()} cores")
-    # text_corpus = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
-    # question_answer = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
+    text_corpus = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
+    question_answer = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
 
-    text_corpus = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-bioasq/data/passages.parquet/part.0.parquet")
-    question_answer = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-bioasq/data/test.parquet/part.0.parquet")
+    # text_corpus = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-bioasq/data/passages.parquet/part.0.parquet")
+    # question_answer = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-bioasq/data/test.parquet/part.0.parquet")
     questions = question_answer['question'].tolist()
     answers = question_answer['answer'].tolist()
     embeddings_name = "thenlper/gte-large"
@@ -178,6 +178,10 @@ def main():
     # max_threads = 30
     # Loading the previously prepared knowledge base and embeddings
     # knowledge_base = text_corpus['passage'].tolist()
+    # print(knowledge_base)
+    chunk_size = 100
+    df = text_corpus['passage'].apply(lambda line: [line[i:i + chunk_size] for i in range(0, len(line), chunk_size)])
+    df = df.explode()
     avg_stats_dict = {}
     # for i in range(1, max_threads + 1):
     avg_scann_time, avg_prompt_time, avg_answer_time, results = run_rag_pipeline(
@@ -189,7 +193,7 @@ def main():
         embeddings_name=embeddings_name,
         tokenizer=tokenizer,
         compressed_weights=compressed_weights,
-        text_corpus=text_corpus)
+        text_corpus=df)
     avg_stats_dict[f"{16}_threads"] = {
         "avg_scann_time": avg_scann_time,
         "avg_prompt_time": avg_prompt_time,
