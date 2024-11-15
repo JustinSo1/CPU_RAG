@@ -1,0 +1,5 @@
+[PROMPT]: Are kangaroos and wallabies adept swimmers?
+[USER_ANSWER]: Sure, kangaroos and wallabies are adept swimmers and often flee into waterways if presented with the option.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that kangaroos and wallabies are adept swimmers, which aligns with the reference answer. However, the additional information about them fleeing into waterways, while not incorrect, is not necessary to answer the question directly and concisely as the reference answer does.
+[RESULT]: 4

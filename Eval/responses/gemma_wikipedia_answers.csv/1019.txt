@@ -1,0 +1,7 @@
+[PROMPT]: Where is the leopard distributed?
+[USER_ANSWER]: Sure, the leopard is distributed across southern Eurasia and Africa.
+
+The best locations to see leopards in Africa are in the Sabi Sand Private Game Reserve in South Africa, where leopards are habituated to safari vehicles and are seen on a daily basis at very close range.
+[CORRECT_ANSWER]: southern Eurasia and Africa
+[FEEDBACK]: The response correctly identifies the distribution of leopards as being across southern Eurasia and Africa, which matches the reference answer. However, the additional information about the best locations to see leopards in Africa, while interesting, is not directly relevant to the question asked. This extra detail does not detract from the accuracy of the initial answer but does not add to the correctness of the response either. Therefore, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

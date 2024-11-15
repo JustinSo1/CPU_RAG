@@ -1,0 +1,5 @@
+[PROMPT]: How much does a leopard weigh?
+[USER_ANSWER]: The context does not provide information about the weight of a leopard, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females. 
+[FEEDBACK]: The response does not provide any factual information about the weight of a leopard. Instead, it states that the context does not provide the information needed to answer the question. This is not aligned with the reference answer, which provides specific weight ranges for male and female leopards. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What is a country with which Finland is involved in an international conflict?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: Finland is not involved in international conflicts or border disputes. 
+[FEEDBACK]: The response does not provide any factual information regarding Finland's involvement in international conflicts. Instead, it states an inability to find a match in the knowledge base and relies on the responder's own knowledge without providing a clear answer. This does not align with the reference answer, which clearly states that Finland is not involved in international conflicts or border disputes. Therefore, the response is completely incorrect and not factual.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he shared the nobel prize in physics?
+[USER_ANSWER]: The context does not provide any information about whether Marconi shared the Nobel Prize in Physics in 1909.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct or accurate based on the reference answer. The reference answer clearly states "yes," indicating that Marconi did share the Nobel Prize in Physics. The response provided does not confirm this fact and instead states that the context does not provide information, which is not aligned with the reference answer. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

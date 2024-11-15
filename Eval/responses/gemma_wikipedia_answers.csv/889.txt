@@ -1,0 +1,5 @@
+[PROMPT]: When did Adams graduate from college?
+[USER_ANSWER]: The context does not provide information about when Adams graduated from college, so I cannot answer this question from the context.
+[CORRECT_ANSWER]: 1755.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer clearly states that Adams graduated in 1755, while the response claims that the context does not provide this information. This indicates a lack of accuracy and correctness in the response.
+[RESULT]: 1

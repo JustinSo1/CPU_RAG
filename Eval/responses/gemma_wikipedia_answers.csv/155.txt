@@ -1,0 +1,5 @@
+[PROMPT]: What happened in 1745?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: The scale was reversed
+[FEEDBACK]: The response does not provide any factual information about what happened in 1745, nor does it mention the reversal of the scale, which is the correct answer according to the reference. The response is completely incorrect and does not address the question accurately or factually.
+[RESULT]: 1

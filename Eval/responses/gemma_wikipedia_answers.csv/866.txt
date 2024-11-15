@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he practiced law in fredericksburg?
+[USER_ANSWER]: The context does not provide any information about John C. Coolidge's practice location in Fredericksburg, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that the correct response should affirm that he practiced law in Fredericksburg. The evaluated response, however, states that there is no information provided about the practice location, which contradicts the reference answer.
+[RESULT]: 1

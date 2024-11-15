@@ -1,0 +1,5 @@
+[PROMPT]: Does it have a border with Norway?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not provide an answer to the question about whether a country has a border with Norway. Instead, it states an inability to find a match in the knowledge base and relies on the responder's own knowledge without providing a factual answer. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "yes" or "no" response.
+[RESULT]: 1

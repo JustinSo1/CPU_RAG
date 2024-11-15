@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard smaller than the other members of Panthera?
+[USER_ANSWER]: Yes, the leopard is smaller than the other members of Panthera, with a body length between 90 and 190 cm, a tail length of 60 to 110cm, and a shoulder height between 45 to 80 cm.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that the leopard is smaller than the other members of Panthera. However, the additional details about the body length, tail length, and shoulder height, while accurate, are not necessary to answer the question directly. The reference answer is concise and directly addresses the question without extra information. Therefore, the response is mostly correct but not as concise as the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: What method is used by Kangaroos to travel?
+[USER_ANSWER]: Kangaroos use hopping as a means of locomotion to regularly cover large distances in search of food and water.
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "hopping" as the method used by kangaroos to travel, which aligns with the reference answer. However, it includes additional information about covering large distances in search of food and water, which, while factual, is not necessary to answer the question directly. The extra details do not detract from the accuracy but are not required for a perfect score based on the rubric.
+[RESULT]: 4

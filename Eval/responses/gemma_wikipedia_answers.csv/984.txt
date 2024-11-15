@@ -1,0 +1,7 @@
+[PROMPT]: Different species of kangaroos eat what?
+[USER_ANSWER]: Sure, here's the answer:
+
+Different species of kangaroos eat grasses, shrubs, and both grasses and shrubs.
+[CORRECT_ANSWER]: different diets
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that different species of kangaroos eat grasses and shrubs, which aligns with the idea of different diets. However, it does not fully capture the broadness of "different diets" as mentioned in the reference answer. The response could be improved by mentioning a wider variety of food sources or explicitly stating that different species have different diets.
+[RESULT]: 4

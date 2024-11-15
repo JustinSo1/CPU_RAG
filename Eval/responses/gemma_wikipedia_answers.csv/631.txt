@@ -1,0 +1,5 @@
+[PROMPT]: Who was Kwame Nkrumah?
+[USER_ANSWER]: Kwame Nkrumah was a prominent African anti-colonial leader who established the modern Ghana by merging the dreams of Marcus Garvey and W.E.B. Du Bois.
+[CORRECT_ANSWER]: founder and first president
+[FEEDBACK]: The response provides some correct information about Kwame Nkrumah, identifying him as a prominent African anti-colonial leader. However, it does not mention that he was the founder and first president of Ghana, which is a crucial part of the reference answer. The response is somewhat correct and factual but lacks the key details provided in the reference answer.
+[RESULT]: 3

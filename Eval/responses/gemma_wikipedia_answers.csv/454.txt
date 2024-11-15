@@ -1,0 +1,5 @@
+[PROMPT]: When do African elephants lie down?
+[USER_ANSWER]: The context does not specify when African elephants lie down, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: when they are sick or wounded
+[FEEDBACK]: The response does not provide any factual information about when African elephants lie down. Instead, it states that the context does not specify the information, which is not relevant to the question. The reference answer indicates that African elephants lie down when they are sick or wounded, which is specific and factual. The response fails to address this and does not provide any correct or accurate information based on the reference answer.
+[RESULT]: 1

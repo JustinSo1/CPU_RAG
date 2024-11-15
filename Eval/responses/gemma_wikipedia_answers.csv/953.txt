@@ -1,0 +1,5 @@
+[PROMPT]: When did the first official report of kangaroo blindness take place?
+[USER_ANSWER]: The first official report of kangaroo blindness took place in 1994 in central New South Wales.
+[CORRECT_ANSWER]: 1994
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the year 1994, which matches the reference answer. However, it includes additional information about the location (central New South Wales) that is not present in the reference answer. While this additional detail is not incorrect, it is not necessary for the response to be considered completely correct based on the reference answer provided.
+[RESULT]: 4

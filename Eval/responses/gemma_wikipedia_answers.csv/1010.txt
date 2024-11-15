@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard an Old World mammal?
+[USER_ANSWER]: The context does not provide any information about the leopard's status as an Old World mammal, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether the leopard is an Old World mammal. Instead, it states that the context does not provide information to answer the question, which is not relevant to the instruction. The reference answer is a simple "yes," indicating that the correct response should affirm that the leopard is indeed an Old World mammal. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

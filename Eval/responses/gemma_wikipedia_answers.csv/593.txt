@@ -1,0 +1,5 @@
+[PROMPT]: Did Ford need to do extra work to pay for college?
+[USER_ANSWER]: The context does not provide any information about whether Ford needed to do extra work to pay for college, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer clearly states "yes," indicating that Ford did need to do extra work to pay for college. The response, however, states that there is no information provided to answer the question, which contradicts the reference answer.
+[RESULT]: 1

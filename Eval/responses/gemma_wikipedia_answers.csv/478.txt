@@ -1,0 +1,5 @@
+[PROMPT]: What land animal is larger than an elephant?
+[USER_ANSWER]: The largest land animal that is larger than an elephant is the rhinoceros. It can weigh up to 15,000 kg (33,000 lb) and stand up to 5.5 m (18 ft) tall.
+[CORRECT_ANSWER]: None, the elephant is the largest land animal.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The rhinoceros is not larger than an elephant. The reference answer clearly states that no land animal is larger than an elephant, making the response factually wrong.
+[RESULT]: 1

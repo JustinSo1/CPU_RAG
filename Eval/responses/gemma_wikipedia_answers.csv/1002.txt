@@ -1,0 +1,5 @@
+[PROMPT]: Where do leopards often hide their kills?
+[USER_ANSWER]: The context does not provide any information about where leopards often hide their kills, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: in dense vegetation
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide information, which is not relevant to the task of answering the question based on general knowledge. The correct answer, "in dense vegetation," is not mentioned at all. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

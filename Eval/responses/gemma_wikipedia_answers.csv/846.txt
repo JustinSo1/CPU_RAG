@@ -1,0 +1,5 @@
+[PROMPT]: When was James Monroe appointed to Secretary of War?
+[USER_ANSWER]: The context does not provide any information about when James Monroe was appointed to Secretary of War, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 1814
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information based on the reference answer. Instead of stating the year 1814, it mentions the lack of context, which is not relevant to the task of providing the specific year of appointment. Therefore, the response is completely incorrect and does not meet the criteria for accuracy and factuality.
+[RESULT]: 1

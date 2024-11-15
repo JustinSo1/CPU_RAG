@@ -1,0 +1,5 @@
+[PROMPT]: How many species of African elephants have been proposed?
+[USER_ANSWER]: The context proposes that there are three distinct species of African elephants, bringing the total number of species to three.
+[CORRECT_ANSWER]: three
+[FEEDBACK]: The response is mostly correct in stating that there are three distinct species of African elephants. However, it adds unnecessary context about the total number of species, which is not required by the instruction. The reference answer is concise and directly answers the question with "three." The response could be improved by being more concise and directly answering the question without additional context.
+[RESULT]: 4

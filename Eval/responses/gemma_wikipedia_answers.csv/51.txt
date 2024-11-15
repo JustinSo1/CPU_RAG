@@ -1,0 +1,5 @@
+[PROMPT]: Did Abraham Lincoln live in the Frontier?
+[USER_ANSWER]: The context does not provide any information about Abraham Lincoln's living environment, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that Abraham Lincoln did live in the Frontier. The evaluated response, however, states that there is no information provided about Lincoln's living environment, which is not aligned with the reference answer. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

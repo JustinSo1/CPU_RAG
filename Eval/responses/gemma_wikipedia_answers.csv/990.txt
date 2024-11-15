@@ -1,0 +1,5 @@
+[PROMPT]: What kinds of changes have larger kangaroos adapted much better to?
+[USER_ANSWER]: Sure, here's the answer: Kangaroos have adapted much better to changes wrought to the Australian landscape by humans by reducing the number of dingoes, cutting down forests to create vast grasslands for sheep and cattle grazing, and adding stock watering points in arid areas.
+[CORRECT_ANSWER]: Changes wrought to the Australian landscape by humans.
+[FEEDBACK]: The response is mostly correct and factual, as it accurately identifies the changes to the Australian landscape by humans that kangaroos have adapted to. However, it includes additional details that are not necessary to answer the question directly. The reference answer is more concise and directly addresses the question without extra information.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Who is the head of state of Ghana?
+[USER_ANSWER]: According to the context, the head of state of Ghana is President John Agyekum Kufuor.
+[CORRECT_ANSWER]: President John Agyekum Kofuor
+[FEEDBACK]: The response is mostly correct and factual, as it identifies John Agyekum Kufuor as the head of state of Ghana. However, the addition of "According to the context" is unnecessary and slightly detracts from the precision of the answer. Additionally, the correct spelling of the name should be "Kufuor" instead of "Kofuor." Despite these minor issues, the response is largely accurate.
+[RESULT]: 4

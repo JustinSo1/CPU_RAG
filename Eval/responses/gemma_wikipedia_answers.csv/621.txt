@@ -1,0 +1,5 @@
+[PROMPT]: What is the weather like at Lake Volta?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. The context does not provide any information about the weather at Lake Volta, so I cannot answer this question.
+[CORRECT_ANSWER]: Warm and comparatively dry
+[FEEDBACK]: The response does not provide any information about the weather at Lake Volta, which is the main requirement of the instruction. Instead, it states an inability to answer the question due to a lack of information. This makes the response completely incorrect and not factual based on the reference answer, which clearly states that the weather is "warm and comparatively dry." The response fails to address the weather conditions at all.
+[RESULT]: 1

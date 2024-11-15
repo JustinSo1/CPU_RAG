@@ -1,0 +1,5 @@
+[PROMPT]: What was Adams' political party?
+[USER_ANSWER]: The context does not provide information about John Adams' political party, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: The Federalist Party.
+[FEEDBACK]: The response does not provide the correct answer to the question about John Adams' political party. Instead, it states that the context does not provide the information, which is not relevant to the task of identifying Adams' political party. The correct answer, as indicated in the reference answer, is the Federalist Party. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness.
+[RESULT]: 1

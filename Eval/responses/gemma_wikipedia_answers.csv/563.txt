@@ -1,0 +1,5 @@
+[PROMPT]: Did ford get an award called "Congressman's congressman"?
+[USER_ANSWER]: The context does not provide any information about whether Gerald R. Ford received an award called "Congressman's congressman".
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and does not provide the correct information. The reference answer clearly states "Yes," indicating that Gerald R. Ford did receive an award called "Congressman's congressman." The response fails to acknowledge this fact and instead states that the context does not provide any information, which is not relevant to the question asked.
+[RESULT]: 1

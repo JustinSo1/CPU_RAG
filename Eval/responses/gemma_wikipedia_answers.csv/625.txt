@@ -1,0 +1,5 @@
+[PROMPT]: Is English the official language?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question "Is English the official language?" and instead provides an explanation about the knowledge base. It does not provide any factual information or a clear answer to the question. Therefore, it is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

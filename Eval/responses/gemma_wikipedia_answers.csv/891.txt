@@ -1,0 +1,5 @@
+[PROMPT]: Who was on the committee with Adams to draft  a Declaration of Independence?
+[USER_ANSWER]: The committee with Adams to draft a Declaration of Independence was composed of Thomas Jefferson, Benjamin Franklin, Robert R. Livingston, and Roger Sherman.
+[CORRECT_ANSWER]: Thomas Jefferson, Benjamin Franklin, Robert R. Livingston and Roger Sherman.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It lists all the members of the committee with Adams to draft the Declaration of Independence, matching the reference answer exactly.
+[RESULT]: 5

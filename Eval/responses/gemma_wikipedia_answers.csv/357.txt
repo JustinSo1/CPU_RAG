@@ -1,0 +1,5 @@
+[PROMPT]: Do ducks forage underwater?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether ducks forage underwater. Instead, it provides an explanation about the knowledge base, which is not relevant to the question. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

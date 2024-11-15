@@ -1,0 +1,5 @@
+[PROMPT]: Have elephants been used as working animals?
+[USER_ANSWER]: Sure, elephants have been used as working animals throughout history in India, Africa, and Southeast Asia for uprooting trees, moving logs, and as executioners.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that elephants have been used as working animals in various regions and provides specific examples of their uses. However, the reference answer is very brief and simply states "yes," which is completely correct and factual. The evaluated response, while detailed, introduces additional information that is accurate but not necessary to meet the criteria of the reference answer. Therefore, it does not fully align with the simplicity and completeness of the reference answer.
+[RESULT]: 4

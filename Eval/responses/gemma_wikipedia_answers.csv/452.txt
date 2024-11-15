@@ -1,0 +1,5 @@
+[PROMPT]: How do elephants communicate over long distances?
+[USER_ANSWER]: Elephants communicate over long distances by producing and receiving low-frequency sound (infrasound), a sub-sonic rumbling, which can travel farther than sound travels through the air.
+[CORRECT_ANSWER]: by producing and receiving low frequency sound
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that elephants communicate over long distances by producing and receiving low-frequency sound (infrasound). However, it includes additional information about sub-sonic rumbling and sound travel through the air, which, while not incorrect, is not necessary based on the reference answer. The core information is accurate but slightly elaborated beyond the reference answer.
+[RESULT]: 4

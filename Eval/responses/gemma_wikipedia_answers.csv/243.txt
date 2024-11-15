@@ -1,0 +1,5 @@
+[PROMPT]: Did Coolidge meet and marry Grace Anna Goodhue?
+[USER_ANSWER]: Sure, Coolidge met and married Grace Anna Goodhue. The context states that they were married in 1905.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Coolidge met and married Grace Anna Goodhue, which aligns with the reference answer. However, the additional detail about the year they were married, while accurate, is not necessary based on the reference answer provided. The response goes beyond the simplicity of the reference answer, which might not be required.
+[RESULT]: 4

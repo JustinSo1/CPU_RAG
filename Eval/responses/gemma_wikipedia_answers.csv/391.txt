@@ -1,0 +1,5 @@
+[PROMPT]: Where did the expression "a sitting duck" come from?
+[USER_ANSWER]: The expression "a sitting duck" comes from the idea that ducks are often seen as a silly and easy target for hunters.
+[CORRECT_ANSWER]: In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.
+[FEEDBACK]: The response is somewhat correct in that it identifies ducks as targets, which aligns with the idea of being easy targets for hunters. However, it lacks the detail and context provided in the reference answer, which explains that ducks are hunted for food or sport and mentions methods like shooting and decoys. The response does not fully capture the origin of the expression as described in the reference answer.
+[RESULT]: 3

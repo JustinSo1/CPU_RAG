@@ -1,0 +1,5 @@
+[PROMPT]: With what party did Adams run for presidency?
+[USER_ANSWER]: Sure, Adams ran for the Presidency of the United States as a candidate of the Federalist Party in 1796.
+[CORRECT_ANSWER]: The Federalist Party
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the Federalist Party as the party with which Adams ran for presidency. However, the additional information about the year 1796, while accurate, is not necessary to answer the question directly and concisely as the reference answer does.
+[RESULT]: 4

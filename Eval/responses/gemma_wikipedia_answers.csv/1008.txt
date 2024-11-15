@@ -1,0 +1,5 @@
+[PROMPT]: What shape are a leopard's black roS08_settes in East Africa?
+[USER_ANSWER]: The context does not provide information about the shape of a leopard's black rosettes in East Africa, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: circular
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information, which is not relevant to the task of identifying the shape of a leopard's black rosettes in East Africa. The correct answer is "circular," and the response fails to mention this. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

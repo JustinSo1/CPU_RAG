@@ -1,0 +1,7 @@
+[PROMPT]: What are prey of various animals including birds and mammals?
+[USER_ANSWER]: Sure, here's the answer:
+
+The context provides information about the prey of various animals, including birds and mammals, with a preferred weight range of 10 to 40 kg, with 25 kg being the most preferred. Young animals, such as ducklings, are vulnerable prey for predators due to their inability to fly.
+[CORRECT_ANSWER]: Beetles.
+[FEEDBACK]: The response provided does not accurately address the question about the prey of various animals, including birds and mammals. Instead, it gives a general statement about the vulnerability of young animals and a preferred weight range for prey, which is not relevant to the specific prey mentioned in the reference answer. The reference answer simply states "Beetles," which is a direct and factual response to the question. The evaluated response fails to mention beetles or any other specific prey, making it completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

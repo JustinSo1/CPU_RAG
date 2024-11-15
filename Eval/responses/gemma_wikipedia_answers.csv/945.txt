@@ -1,0 +1,5 @@
+[PROMPT]: Are wild kangaroos shot for meat?
+[USER_ANSWER]: Sure, the context does not provide any information about whether wild kangaroos are shot for meat, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer is a simple "yes," indicating that wild kangaroos are indeed shot for meat. The response provided does not address the question directly and instead states that there is no information available, which is not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+[USER_ANSWER]: Sure, Lorenzo Romano Amedeo Carlo Avogadro was an Italian savant. He was recognized as a great Italian chemist and is considered one of the greatest chemists of the 19th century.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Lorenzo Romano Amedeo Carlo Avogadro as an Italian savant and provides additional accurate information about his contributions to chemistry. However, the reference answer is very brief and simply confirms the fact without additional details. The response goes beyond the reference answer by adding extra information, which is not required by the instruction.
+[RESULT]: 4

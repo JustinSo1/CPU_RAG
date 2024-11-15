@@ -1,0 +1,5 @@
+[PROMPT]: Is it the world 's fourth most populous country and the most populous muslim-majority nation?
+[USER_ANSWER]: Sure, the context says that the Republic of Indonesia is the world's fourth most populous country and the most populous Muslim-majority nation.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Indonesia as the world's fourth most populous country and the most populous Muslim-majority nation. However, the response is more detailed than necessary compared to the reference answer, which is a simple "yes." While the additional information is accurate, it is not required by the instruction.
+[RESULT]: 4

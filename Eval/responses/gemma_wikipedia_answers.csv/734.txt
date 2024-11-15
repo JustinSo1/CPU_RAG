@@ -1,0 +1,5 @@
+[PROMPT]: Was Cleveland born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal?
+[USER_ANSWER]: The context does not provide information about Cleveland's birthplace, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that Cleveland was indeed born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal. The response fails to provide this factual information and instead states that the context does not provide the information, which is not relevant to the accuracy of the answer itself.
+[RESULT]: 1

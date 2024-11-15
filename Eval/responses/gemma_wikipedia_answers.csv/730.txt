@@ -1,0 +1,5 @@
+[PROMPT]: How many children did Grover Cleveland have?
+[USER_ANSWER]: The context does not provide any information about the number of children Grover Cleveland had. Therefore, I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 5
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks for the number of children Grover Cleveland had, and the correct answer is "5." The response does not provide this information and instead states that the context does not provide the information, which is irrelevant to the question asked.
+[RESULT]: 1

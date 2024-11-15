@@ -1,0 +1,7 @@
+[PROMPT]: How long is a leopard's tail?
+[USER_ANSWER]: A leopard's tail reaches 60 to 110cm.
+
+Therefore, a leopard's tail is between 60 and 110cm long.
+[CORRECT_ANSWER]: 60 to 110cm
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides the correct range of 60 to 110 cm for a leopard's tail length. However, it includes an additional sentence that is not necessary and slightly deviates from the concise format of the reference answer.
+[RESULT]: 4

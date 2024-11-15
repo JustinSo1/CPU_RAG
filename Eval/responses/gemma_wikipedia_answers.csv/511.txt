@@ -1,0 +1,5 @@
+[PROMPT]: What is Finland's economy like?
+[USER_ANSWER]: Sure, Finland's economy is highly industrialised, with a strong focus on manufacturing and services.
+[CORRECT_ANSWER]: a highly industrialised, free-market economy
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Finland's economy is highly industrialised and mentions the focus on manufacturing and services, which aligns with the reference answer's description of a highly industrialised economy. However, it does not mention that Finland's economy is a free-market economy, which is a key component of the reference answer.
+[RESULT]: 4

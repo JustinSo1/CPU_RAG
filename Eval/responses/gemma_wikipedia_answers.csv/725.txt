@@ -1,0 +1,5 @@
+[PROMPT]: When did he die?
+[USER_ANSWER]: He died at 6:45 p.m. Pacific Standard Time (02:45, December 27, UTC) on December 26, 2006 at his home in Rancho Mirage, California of arteriosclerotic cerebrovascular disease and diffuse arteriosclerosis.
+[CORRECT_ANSWER]: June 24 1908
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates a date of June 24, 1908, while the response provides a different date and additional details that are not relevant to the reference answer.
+[RESULT]: 1

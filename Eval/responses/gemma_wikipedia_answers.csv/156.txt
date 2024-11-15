@@ -1,0 +1,5 @@
+[PROMPT]: Are beetles insects?
+[USER_ANSWER]: Sure, beetles are insects. They are endopterygotes with complete metamorphosis, meaning they go through a complete metamorphosis process with distinct larval, pupa, and adult stages.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies beetles as insects and provides additional accurate information about their metamorphosis process, which is not required but still correct.
+[RESULT]: 5

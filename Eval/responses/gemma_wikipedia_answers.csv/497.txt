@@ -1,0 +1,5 @@
+[PROMPT]: Today, are there more cell phone subscriptions than people in Finland?
+[USER_ANSWER]: I cannot answer this question from the context, as the passage does not provide any information about the current number of cell phone subscriptions in Finland.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question as required. Instead, it states an inability to answer due to lack of context, which is not aligned with the reference answer. The reference answer is a simple "yes," indicating that the correct response should be straightforward and affirmative. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
+[RESULT]: 1

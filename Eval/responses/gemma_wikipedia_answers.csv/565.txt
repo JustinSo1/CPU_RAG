@@ -1,0 +1,5 @@
+[PROMPT]: Did ford attend the University of Michigan?
+[USER_ANSWER]: Sure, Ford attended the University of Michigan as an undergraduate and played center and linebacker for the school's football team.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Ford attended the University of Michigan, which aligns with the reference answer. However, it includes additional information about Ford playing center and linebacker for the school's football team, which, while factual, is not necessary to answer the question directly. The extra details do not detract from the accuracy but are not required for a perfect score based on the rubric.
+[RESULT]: 4

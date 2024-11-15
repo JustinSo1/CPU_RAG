@@ -1,0 +1,5 @@
+[PROMPT]: What is the dominant religion in Ghana?
+[USER_ANSWER]: The dominant religion in Ghana is Christianity, with 63% of the population identifying as Christian.
+[CORRECT_ANSWER]: Christian
+[FEEDBACK]: The response correctly identifies Christianity as the dominant religion in Ghana, which aligns with the reference answer. Additionally, it provides an accurate percentage of the population identifying as Christian, enhancing the factual accuracy of the response. Therefore, the response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

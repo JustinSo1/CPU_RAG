@@ -1,0 +1,5 @@
+[PROMPT]: Is the Asian elephant larger than the African?
+[USER_ANSWER]: The context does not provide information about the size of the Asian and African elephants, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question about the size comparison between Asian and African elephants. Instead, it states that the context does not provide information, which is not relevant to the instruction. The reference answer is a simple "no," indicating that the Asian elephant is not larger than the African elephant. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

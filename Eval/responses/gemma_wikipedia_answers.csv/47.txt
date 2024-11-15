@@ -1,0 +1,5 @@
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: Lincoln's legal career spanned over 23 years, with over 5,100 cases handled in Illinois alone.
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln's legal career spanned over 23 years, which aligns with the reference answer. However, it includes additional information about the number of cases handled, which, while factual, is not directly relevant to the question asked. This additional detail does not detract from the accuracy of the primary information but is unnecessary for the specific query.
+[RESULT]: 4

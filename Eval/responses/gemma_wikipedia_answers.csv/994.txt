@@ -1,0 +1,5 @@
+[PROMPT]: Is a leopard larger and less lanky than a cheetah?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. A leopard and a cheetah are both large cats, but they are not comparable in terms of size.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The question asks for a comparison between a leopard and a cheetah in terms of size and build. The response fails to provide a direct answer to the question and incorrectly states that leopards and cheetahs are not comparable in terms of size, which is not factual. Leopards are generally larger and more robust compared to the more slender and lanky cheetahs. The response does not align with the reference answer, which is a simple "yes" indicating that leopards are indeed larger and less lanky than cheetahs.
+[RESULT]: 2

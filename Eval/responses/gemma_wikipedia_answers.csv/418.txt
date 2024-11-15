@@ -1,0 +1,5 @@
+[PROMPT]: When were the Great Sphinx and the Pyramids of Giza built?
+[USER_ANSWER]: The context does not specify when the Great Sphinx and the Pyramids of Giza were built, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: During the Old Kingdom.
+[FEEDBACK]: The response does not provide any factual information about when the Great Sphinx and the Pyramids of Giza were built. Instead, it states that the context does not specify the information, which is not relevant to the question. The reference answer clearly states that they were built during the Old Kingdom, which is a factual and accurate response. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

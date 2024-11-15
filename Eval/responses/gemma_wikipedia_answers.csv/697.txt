@@ -1,0 +1,5 @@
+[PROMPT]: Forward, erect ears and slightly bristle hackles are a sign of what in wolves?
+[USER_ANSWER]: According to the context, erect ears and slightly bristle hackles are a sign of aggression in wolves.
+[CORRECT_ANSWER]: Dominance
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that forward, erect ears and slightly bristle hackles are a sign of dominance in wolves, whereas the response states it is a sign of aggression. While there might be some overlap between dominance and aggression, the specific context provided in the reference answer is not accurately reflected in the response.
+[RESULT]: 2

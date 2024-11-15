@@ -1,0 +1,7 @@
+[PROMPT]: What is Canada's national unemployment rate?
+[USER_ANSWER]: Sure, Canada's national unemployment rate is 1.7%.
+
+The context states that Canada has a low national unemployment rate of 1.7%.
+[CORRECT_ANSWER]: While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years. Provincial unemployment rates vary from a low of 3.6% in Alberta to a high of 14.6% in Newfoundland and Labrador. 
+[FEEDBACK]: The response is completely incorrect and inaccurate. The national unemployment rate of Canada is not 1.7%, and the context provided does not align with the reference answer. The reference answer states that as of October 2007, the national unemployment rate was 5.9%, which is significantly different from the response given. Additionally, the response does not provide any information about the provincial unemployment rates, which is a key detail in the reference answer. Therefore, the response fails to meet the criteria for correctness, accuracy, and factuality based on the reference answer.
+[RESULT]: 1

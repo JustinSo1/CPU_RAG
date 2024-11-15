@@ -1,0 +1,5 @@
+[PROMPT]: What allows a duck to filter water out of the side of their beaks and keep food inside?
+[USER_ANSWER]: The lamellae on the inside of a duck's beak help filter water out of the side of their beaks and keep food inside by trapping and filtering water molecules.
+[CORRECT_ANSWER]: Tiny rows of plates called lamellae
+[FEEDBACK]: The response correctly identifies the lamellae as the structures that help filter water and keep food inside a duck's beak. However, it inaccurately describes the lamellae as trapping and filtering water molecules, which is not mentioned in the reference answer. The reference answer simply states that lamellae are tiny rows of plates without additional details on their function. Therefore, the response is mostly correct but includes some inaccuracies.
+[RESULT]: 4

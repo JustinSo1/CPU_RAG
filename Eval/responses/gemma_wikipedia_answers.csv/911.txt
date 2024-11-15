@@ -1,0 +1,5 @@
+[PROMPT]: Where is Adams buried?
+[USER_ANSWER]: The context does not provide information about the location of the tombs of Presidents John Adams and John Quincy Adams and their wives in a family crypt beneath the United First Parish Church in Quincy, Massachusetts.
+[CORRECT_ANSWER]: United First Parish Church
+[FEEDBACK]: The response provides a detailed and accurate description of the burial location of Presidents John Adams and John Quincy Adams and their wives, specifying the family crypt beneath the United First Parish Church in Quincy, Massachusetts. However, the instruction only asked for the location of Adams' burial, and the reference answer is simply "United First Parish Church." The response, while accurate, includes additional information that was not requested.
+[RESULT]: 4

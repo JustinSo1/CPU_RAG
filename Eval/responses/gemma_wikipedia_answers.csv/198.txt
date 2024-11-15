@@ -1,0 +1,5 @@
+[PROMPT]: Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?
+[USER_ANSWER]: Sure, the context indicates that there is a thriving industry in the collection of beetle specimens for amateur and professional collectors.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly indicates that there is a thriving industry in the collection of beetle specimens for both amateur and professional collectors. However, it adds unnecessary context ("the context indicates") that is not present in the reference answer, which is a simple "Yes." This additional context does not change the factual accuracy but makes the response slightly more verbose than needed.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Does Egypt receive the least rainfall in the world?
+[USER_ANSWER]: Yes, Egypt receives the least rainfall in the world, with an average annual rainfall of only 2 to 5 mm (0.1 to 0.2 in).
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly correct and factual, as it correctly states that Egypt receives very little rainfall. However, the additional information about the specific amount of rainfall (2 to 5 mm) is not necessary and could be misleading, as there are other places in the world, such as the Atacama Desert in Chile, that receive even less rainfall. Therefore, the response is not completely accurate based on the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Are kangaroos farmed to any extent?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response does not provide a direct answer to the question about whether kangaroos are farmed. Instead, it states that the responder could not find a good match in their knowledge base and will answer based on their own knowledge, but then does not provide any factual information. This makes the response completely incorrect and not factual based on the reference answer, which is a clear "No."
+[RESULT]: 1

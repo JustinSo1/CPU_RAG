@@ -1,0 +1,5 @@
+[PROMPT]: Had Monroe racked up many debts during his years of public life ?
+[USER_ANSWER]: Sure, the context indicates that Monroe had racked up many debts during his years of public life.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct and accurate, as it indicates that Monroe had racked up many debts during his years of public life. However, it adds unnecessary context ("Sure, the context indicates that") which is not present in the reference answer. The reference answer is more concise and direct.
+[RESULT]: 4

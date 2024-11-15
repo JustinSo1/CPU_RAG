@@ -1,0 +1,5 @@
+[PROMPT]: Who makes up Ghana's Parliament?
+[USER_ANSWER]: The context does not provide information about who makes up Ghana's Parliament, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: the New Patriotic Party and National Democratic Congress
+[FEEDBACK]: The response does not provide any information about who makes up Ghana's Parliament. Instead, it states that the context does not provide the information needed to answer the question. This does not align with the reference answer, which specifies the New Patriotic Party and National Democratic Congress as the main parties in Ghana's Parliament. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factuality based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Was Adams an opponent of the Stamp Act?
+[USER_ANSWER]: Sure, Adams was an opponent of the Stamp Act of 1765. He argued that it deprived the American colonists of their basic rights.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Adams was an opponent of the Stamp Act and provides additional context about his opposition, which is accurate. However, the reference answer is very concise, and the response includes extra information that, while accurate, is not necessary to answer the question directly.
+[RESULT]: 4

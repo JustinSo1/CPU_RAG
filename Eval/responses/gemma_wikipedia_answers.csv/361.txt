@@ -1,0 +1,5 @@
+[PROMPT]: Is foie gras often made from ducks?
+[USER_ANSWER]: The context does not specify whether foie gras is often made from ducks, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether foie gras is often made from ducks. Instead, it states that the context does not specify this information, which is not relevant to the question itself. The reference answer is a simple "yes," indicating that foie gras is indeed often made from ducks. Therefore, the response is completely incorrect and does not provide the factual information required.
+[RESULT]: 1

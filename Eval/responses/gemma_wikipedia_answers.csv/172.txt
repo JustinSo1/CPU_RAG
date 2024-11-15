@@ -1,0 +1,5 @@
+[PROMPT]: What are the similarities between beetles and grasshoppers?
+[USER_ANSWER]: The context does not provide any information about the similarities between beetles and grasshoppers, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: mouthparts
+[FEEDBACK]: The response does not address the similarities between beetles and grasshoppers as requested. Instead, it states that the context does not provide information, which is irrelevant to the question. The reference answer indicates that "mouthparts" is a similarity, but the response does not mention this or any other similarity. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness.
+[RESULT]: 1

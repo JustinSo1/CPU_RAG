@@ -1,0 +1,5 @@
+[PROMPT]: How many living species of African Elephants are there?
+[USER_ANSWER]: Sure, there are two living species of African elephants: African elephants and Asian elephants.
+[CORRECT_ANSWER]: 2
+[FEEDBACK]: The response is mostly incorrect and inaccurate. It incorrectly states that there are two living species of African elephants, but it also includes Asian elephants, which are not a species of African elephants. This shows a fundamental misunderstanding of the question.
+[RESULT]: 2

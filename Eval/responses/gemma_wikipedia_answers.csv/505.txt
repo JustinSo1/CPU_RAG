@@ -1,0 +1,5 @@
+[PROMPT]: What is the life expectancy for men?
+[USER_ANSWER]: Sure, the average life expectancy for men in Liechtenstein is 75 years.
+[CORRECT_ANSWER]: 75 years
+[FEEDBACK]: The response provides the correct life expectancy for men, which is 75 years, matching the reference answer. However, it adds unnecessary information by specifying "in Liechtenstein," which was not part of the original question. This additional detail does not affect the accuracy of the life expectancy figure but introduces an element that was not required by the instruction. Therefore, while the response is mostly correct and factual, it is not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4
