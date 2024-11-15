@@ -116,7 +116,7 @@ def generate_summary_and_answer(question, data, searcher, embedding_model, model
 
     # Add a determinative adjective to the role
     role = add_indefinite_article(role)
-    #     print(context)
+    #print(context)
 
     #     # Generate a prompt for summarizing the context
     prompt = f"""

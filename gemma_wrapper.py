@@ -93,6 +93,6 @@ class GemmaCPPPython:
 
     def generate_text(self, prompt, *args, **kwargs):
         """Generate text using the cpp tokenizer and model"""
-        output_text = self.gemma(prompt=prompt, max_tokens=4096, max_generated_tokens=2048)
+        output_text = self.gemma(prompt=prompt, max_tokens=4096, max_generated_tokens=512)
 
         return [output_text]

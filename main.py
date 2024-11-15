@@ -62,8 +62,8 @@ class AIAssistant:
         # print("EMBEDDINGS SHAPE", self.embeddings.shape)
         self.searcher = (
             scann.scann_ops_pybind.builder(db=self.embeddings, num_neighbors=10, distance_measure="dot_product")
-            .tree(num_leaves=int(self.embeddings.shape[0] ** 0.5) * 2, # of partitions
-                  num_leaves_to_search=int(self.embeddings.shape[0] ** 0.5)* 2,
+            .tree(num_leaves=int(self.embeddings.shape[0] ** 0.5), # of partitions
+                  num_leaves_to_search=int(self.embeddings.shape[0] ** 0.5),
                   min_partition_size=10,
                   # quantize_centroids=True,
                   training_sample_size=self.embeddings.shape[0])
@@ -122,16 +122,16 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
 
     # Uploading the knowledge base and embeddings to the AI assistant
     ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
-    ai_assistant.load_embeddings(filename="data/embeddings.npy")
+    ai_assistant.load_embeddings(filename="data/embeddings_bio.npy")
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
-    # logger_fname = f'data/log_compute{n_threads}.csv'
-    # logger_pid = subprocess.Popen(
-    #     ['python', 'log_gpu_cpu_stats.py',
-    #      logger_fname,
-    #      '--loop', '30',  # Interval between measurements, in seconds (optional, default=1)
-    #      ])
+    logger_fname = f'data/log_compute{n_threads}.csv'
+    logger_pid = subprocess.Popen(
+            ['python', 'log_gpu_cpu_stats.py',
+            logger_fname,
+            '--loop', '1',  # Interval between measurements, in seconds (optional, default=1)
+            ])
     print('Started logging compute utilisation')
     answer_time_arr, scann_time_arr, prompt_time_arr = [], [], []
     result_arr = []
@@ -147,11 +147,11 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
         result_arr.append(result)
         print("Result:" + result)
         i += 1
-        #break
+        # break
         if i == 50:
             break
         # End the background process logging the CPU and GPU utilisation.
-    # logger_pid.terminate()
+    logger_pid.terminate()
     avg_scann_time = statistics.fmean(scann_time_arr)
     avg_prompt_time = statistics.fmean(prompt_time_arr)
     avg_answer_time = statistics.fmean(answer_time_arr)
@@ -164,10 +164,11 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
 
 def main():
     print(f"Current machine only has {multiprocessing.cpu_count()} cores")
-    text_corpus = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
-    question_answer = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
-    # text_corpus = load_dataset("hf://datasets/rag-datasets/rag-mini-bioasq/data/passages.parquet/part.0.parquet")
-    # question_answer = load_dataset("hf://datasets/rag-datasets/rag-mini-bioasq/data/test.parquet/part.0.parquet")
+    # text_corpus = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
+    # question_answer = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
+
+    text_corpus = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-bioasq/data/passages.parquet/part.0.parquet")
+    question_answer = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-bioasq/data/test.parquet/part.0.parquet")
     questions = question_answer['question'].tolist()
     answers = question_answer['answer'].tolist()
     embeddings_name = "thenlper/gte-large"
@@ -194,14 +195,14 @@ def main():
         "avg_prompt_time": avg_prompt_time,
         "avg_answer_time": avg_answer_time
     }
-    with open('gemma_cpp_recom_part1.pickle', 'wb') as handle:
+    with open('gemma_cpp_recom_bio.pickle', 'wb') as handle:
         pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
-    with open('results2.pickle', 'wb') as handle:
+    with open('results_bio.pickle', 'wb') as handle:
         pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
         # break
     avg_stats_df = pd.DataFrame(avg_stats_dict)
     print(avg_stats_df)
-    avg_stats_df.to_csv('gemma_cpp_config1.csv', index=False)
+    avg_stats_df.to_csv('gemma_cpp_config_bio.csv', index=False)
 
 
 if __name__ == '__main__':
