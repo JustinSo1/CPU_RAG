@@ -1,5 +1,5 @@
 [PROMPT]: Was Abraham Lincoln the sixteenth President of the United States?
 [USER_ANSWER]: Sure, Abraham Lincoln was the 16th President of the United States.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Abraham Lincoln was the 16th President of the United States, which aligns with the reference answer. The additional detail provided does not detract from the accuracy of the response.
 [RESULT]: 5

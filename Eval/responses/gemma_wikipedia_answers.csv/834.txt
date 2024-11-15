@@ -3,5 +3,5 @@
 
 [I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge].
 [CORRECT_ANSWER]: Westmoreland County, Virginia
-[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer. It precisely states the birthplace of James Monroe as Westmoreland County, Virginia. There are no inaccuracies or errors in the response.
+[FEEDBACK]: The response "James Monroe was born in Westmoreland County, Virginia." is completely correct, accurate, and factual based on the reference answer. The additional sentence explaining the source of the information does not detract from the accuracy of the response itself.
 [RESULT]: 5

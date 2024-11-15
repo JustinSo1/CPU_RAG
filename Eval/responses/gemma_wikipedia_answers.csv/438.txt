@@ -1,5 +1,5 @@
 [PROMPT]: Why does the phrase 'elephants never forget' have no metaphorical meaning?
 [USER_ANSWER]: The phrase 'elephants never forget' has no metaphorical meaning because it refers literally to elephants supposedly having an excellent memory.
 [CORRECT_ANSWER]: it refers literally to elephants supposedly having an excellent memory
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The explanation aligns perfectly with the given reference answer.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It clearly states that the phrase 'elephants never forget' has no metaphorical meaning because it refers literally to elephants supposedly having an excellent memory, which aligns perfectly with the reference answer.
 [RESULT]: 5

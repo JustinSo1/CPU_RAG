@@ -1,5 +1,5 @@
 [PROMPT]: Are elephants the largest land animals alive today?
 [USER_ANSWER]: Yes, elephants are the largest land animals alive today, with the largest elephant ever recorded weighing about 12,000 kg (26,400 lb).
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that elephants are the largest land animals alive today, which aligns with the reference answer. However, the additional information about the largest elephant ever recorded, while factual, is not necessary to answer the question and slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

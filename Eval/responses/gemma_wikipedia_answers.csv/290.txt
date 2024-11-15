@@ -1,5 +1,5 @@
 [PROMPT]: What is one significant non-official language?
 [USER_ANSWER]: Sure, the significant non-official language is Chinese. It is spoken by over 1.4 million people in Canada and is one of the most widely spoken languages in the country.
 [CORRECT_ANSWER]: Chinese.
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The response correctly identifies Chinese as a significant non-official language. It provides additional information about the number of Chinese speakers in Canada and its prevalence in the country, which supports the accuracy of the response.
-[RESULT]: 5
+[FEEDBACK]: The response correctly identifies Chinese as a significant non-official language, which aligns with the reference answer. However, the additional information provided about the number of speakers and its prevalence in Canada is not necessary and slightly detracts from the simplicity and directness of the reference answer. Despite this, the response remains factually accurate and correct.
+[RESULT]: 4

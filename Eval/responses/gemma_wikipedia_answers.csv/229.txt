@@ -1,5 +1,5 @@
 [PROMPT]: Where did Coolidge's grandfather had government offices?
 [USER_ANSWER]: The context does not provide any information about where Coolidge's grandfather had government offices, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Plymouth
-[FEEDBACK]: The response correctly acknowledges the lack of information in the context and states that the question cannot be answered based on the provided information. This aligns with the criteria of accuracy and factualness as the response does not provide any incorrect information. However, it does not provide the specific correct answer.
-[RESULT]: 3
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information, which is not accurate based on the reference answer. The reference answer clearly states that Coolidge's grandfather had government offices in Plymouth. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

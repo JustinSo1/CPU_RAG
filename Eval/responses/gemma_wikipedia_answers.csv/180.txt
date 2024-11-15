@@ -3,5 +3,5 @@
 
 The context does not provide any other information about the number of species of beetles, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: 350,000
-[FEEDBACK]: The response provided is accurate and matches the reference answer of 350,000 species of beetles. However, the additional statement about not being able to answer the question due to lack of context is not necessary as the response itself is correct.
+[FEEDBACK]: The response initially provides the correct number of beetle species, which is 350,000. However, it then adds unnecessary information about the context not providing additional information, which is irrelevant to the question asked. This additional information does not affect the accuracy of the initial answer but does detract from the conciseness and directness of the response. Therefore, while the response is mostly correct and factual, it is not completely aligned with the reference answer in terms of brevity and focus.
 [RESULT]: 4

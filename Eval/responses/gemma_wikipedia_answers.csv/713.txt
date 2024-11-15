@@ -1,5 +1,5 @@
 [PROMPT]: Who did Cleveland run against in 1884?
 [USER_ANSWER]: Cleveland ran against Benjamin Harrison for the Presidency in 1884.
 [CORRECT_ANSWER]: former Senator James G. Blaine of Maine
-[FEEDBACK]: The response provided is not completely correct as it mentions Benjamin Harrison instead of the correct answer, James G. Blaine. While the response is related to the topic of the U.S. Presidency in 1884, it does not match the specific individual Cleveland ran against.
-[RESULT]: 2
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. Cleveland ran against James G. Blaine in 1884, not Benjamin Harrison. Benjamin Harrison was Cleveland's opponent in the 1888 election, not the 1884 election.
+[RESULT]: 1

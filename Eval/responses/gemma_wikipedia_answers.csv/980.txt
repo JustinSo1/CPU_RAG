@@ -6,5 +6,5 @@
 - Western Grey Kangaroo (Macropus robustus)
 - Antilopine Kangaroo (Macropus antilopinus)
 [CORRECT_ANSWER]: The Red Kangaroo, The Eastern Grey Kangaroo, The Western Grey Kangaroo, and The Antilopine Kangaroo
-[FEEDBACK]: The response provided is completely correct, accurate, and factual based on the reference answer. Each of the four species mentioned matches the ones in the reference answer. Well done!
+[FEEDBACK]: The response is completely correct, accurate, and factual. It lists the four species commonly referred to as kangaroos, matching the reference answer. The scientific names provided are also accurate and add to the completeness of the response.
 [RESULT]: 5

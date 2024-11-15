@@ -1,5 +1,5 @@
 [PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
 [USER_ANSWER]: The Emancipation Proclamation was issued to free slaves in territories not under Union control as an official war goal.
 [CORRECT_ANSWER]: To free slaves 
-[FEEDBACK]: The response accurately states that the Emancipation Proclamation was issued to free slaves in territories not under Union control, aligning with the reference answer. However, it lacks the concise and direct wording of the reference answer "To free slaves."
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the Emancipation Proclamation was issued to free slaves, which aligns with the reference answer. However, it adds additional context about the territories not under Union control and the official war goal, which, while accurate, is not necessary for the core answer. The core reason for issuing the Emancipation Proclamation was to free slaves, and this is captured in the response, albeit with extra details.
 [RESULT]: 4

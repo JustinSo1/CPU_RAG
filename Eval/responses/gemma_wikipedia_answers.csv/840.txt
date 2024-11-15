@@ -1,5 +1,5 @@
 [PROMPT]: What did James Monroe do before being elected governor?
 [USER_ANSWER]: The context does not provide any information about what James Monroe did before being elected governor, hence I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: He practiced law in Virginia.
-[FEEDBACK]: The response correctly acknowledges that the context does not provide the information about what James Monroe did before being elected governor, aligning with the reference answer that he practiced law in Virginia. However, it does not directly provide the specific information, resulting in a somewhat correct response.
-[RESULT]: 3
+[FEEDBACK]: The response does not provide any factual information about what James Monroe did before being elected governor. Instead, it states that the context does not provide the information needed to answer the question. This makes the response completely incorrect and inaccurate based on the reference answer, which states that James Monroe practiced law in Virginia before being elected governor.
+[RESULT]: 1

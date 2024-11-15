@@ -1,5 +1,5 @@
 [PROMPT]: What happened in the election of 1816?
 [USER_ANSWER]: The context does not provide any information about what happened in the 1816 presidential election, hence I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Monroe was elected president
-[FEEDBACK]: The response is accurate and factual based on the reference answer as it acknowledges the lack of information provided in the context regarding the 1816 presidential election. It correctly states that the context does not offer any details about the election outcome, aligning with the reference answer that Monroe was elected president.
-[RESULT]: 5
+[FEEDBACK]: The response does not provide any factual information about the election of 1816. Instead, it states that the context does not provide information, which is not relevant to the instruction. The response is completely incorrect and does not address the question asked.
+[RESULT]: 1

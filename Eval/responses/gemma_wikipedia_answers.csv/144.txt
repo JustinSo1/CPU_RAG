@@ -1,5 +1,5 @@
 [PROMPT]: Was Celsius born in Uppsala in Sweden?
 [USER_ANSWER]: Sure, the context says that Anders Celsius was born in Uppsala, Sweden.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Anders Celsius was born in Uppsala, Sweden, which aligns with the reference answer. However, the response includes additional information ("the context says that") that is not necessary for answering the question directly. The reference answer is more concise and to the point.
+[RESULT]: 4

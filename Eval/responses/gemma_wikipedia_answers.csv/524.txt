@@ -3,5 +3,5 @@
 
 Cairo is Africa's largest city and a center of learning, culture, and commerce.
 [CORRECT_ANSWER]: Helsinki
-[FEEDBACK]: The response provided is completely incorrect as the capital city of Egypt is not Helsinki, it is Cairo. The information given in the response does not align with the reference answer.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the capital city is Helsinki, while the response states that it is Cairo, which is incorrect. Additionally, the extra information provided about Cairo does not align with the reference answer.
 [RESULT]: 1

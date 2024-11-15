@@ -1,5 +1,5 @@
 [PROMPT]: How much do elephants weight at birth?
 [USER_ANSWER]: The context does not provide information about the weight of an elephant calf at birth, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: 120 kilograms
-[FEEDBACK]: The response correctly acknowledges the lack of information provided in the context regarding the weight of an elephant calf at birth. It does not make any incorrect or inaccurate claims, maintaining a neutral stance due to the absence of relevant details. Therefore, it aligns with the given reference answer of 120 kilograms.
-[RESULT]: 5
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information about the weight of an elephant calf at birth. Instead, it states that the context does not provide the information, which is not relevant to the instruction. The correct answer is 120 kilograms, and the response fails to mention this. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

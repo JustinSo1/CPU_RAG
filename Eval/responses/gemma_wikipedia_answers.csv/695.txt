@@ -1,5 +1,5 @@
 [PROMPT]: What type of tools do biologists use to capture wolves for tagging?
 [USER_ANSWER]: The context does not provide information about the type of tools biologists use to capture wolves for tagging, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Darting and Foot hold traps.
-[FEEDBACK]: The response correctly acknowledges the lack of information in the given context regarding the tools used by biologists to capture wolves for tagging. It does not provide any incorrect or inaccurate details. However, it does not directly answer the question.
-[RESULT]: 3
+[FEEDBACK]: The response does not provide any information about the tools biologists use to capture wolves for tagging. Instead, it states that the context does not provide the information, which is not relevant to the question asked. The response is completely incorrect and does not align with the reference answer, which specifies "Darting and Foot hold traps."
+[RESULT]: 1

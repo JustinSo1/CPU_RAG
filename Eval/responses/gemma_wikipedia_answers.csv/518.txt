@@ -1,5 +1,5 @@
 [PROMPT]: Are there cathedrals scattered all across Finland?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response provided does not directly answer the question and lacks factual information. It does not align with the reference answer provided.
-[RESULT]: 2
+[FEEDBACK]: The response does not provide a direct answer to the question about cathedrals in Finland. Instead, it states an inability to find a match in the knowledge base and relies on the responder's own knowledge without actually addressing the query. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

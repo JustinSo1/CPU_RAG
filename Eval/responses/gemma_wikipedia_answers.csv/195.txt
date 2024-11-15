@@ -1,5 +1,5 @@
 [PROMPT]: Are many beetles territorial?
 [USER_ANSWER]: The context does not provide information about the number of beetles that are territorial, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Yes.
-[FEEDBACK]: The response correctly acknowledges the lack of information in the context and refrains from providing a definitive answer. However, the reference answer states that many beetles are territorial, which contradicts the response's conclusion of not being able to answer the question. Therefore, the response is not completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 3
+[FEEDBACK]: The response does not directly answer the question about whether many beetles are territorial. Instead, it mentions the lack of context, which is not relevant to the task of providing a factual answer. The reference answer is a simple "Yes," indicating that the correct response should affirm that many beetles are territorial. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

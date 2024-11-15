@@ -3,5 +3,5 @@
 
 The Monroe Doctrine was a proclamation that declared the Americas free from European colonization and intervention.
 [CORRECT_ANSWER]: A doctrine declaring U.S. opposition to European interference in the Americas.
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It captures the essence of the Monroe Doctrine by mentioning its purpose of declaring the Americas free from European colonization and intervention, although it lacks the specific mention of U.S. opposition to European interference as in the reference answer.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the Monroe Doctrine as a proclamation related to European colonization and intervention in the Americas. However, it does not explicitly mention the U.S. opposition to European interference, which is a key aspect of the doctrine as highlighted in the reference answer.
 [RESULT]: 4

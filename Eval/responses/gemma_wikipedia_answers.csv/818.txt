@@ -1,5 +1,5 @@
 [PROMPT]: What is Monroe's father's name?
 [USER_ANSWER]: The context does not provide the father's name, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Spence
-[FEEDBACK]: The response correctly acknowledges that the father's name is not provided in the context, which aligns with the given information. However, it does not provide the actual name requested in the question. Therefore, it falls under the category of "mostly correct, accurate, and factual" as per the rubric.
-[RESULT]: 4
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Monroe's father's name is Spence, while the response claims that the context does not provide the father's name. This indicates a lack of factual accuracy and correctness.
+[RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: Were the treaties signed in 1947 and 1948 with the Ukraine?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: no
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response does not provide a clear answer to the question. It states that the information could not be found in the knowledge base and does not address whether the treaties were signed with Ukraine in 1947 and 1948. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "no."
+[RESULT]: 1

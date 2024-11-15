@@ -1,5 +1,5 @@
 [PROMPT]: Who represented the Continental Congress in Europe?
 [USER_ANSWER]: The context does not provide information about who represented the Continental Congress in Europe, hence I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: John Adams
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question, which is not relevant to the task. The correct answer, "John Adams," is not mentioned at all. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
 [RESULT]: 1

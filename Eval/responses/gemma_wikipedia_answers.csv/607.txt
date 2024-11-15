@@ -1,5 +1,5 @@
 [PROMPT]: Is English Ghana's official language?
 [USER_ANSWER]: Yes, English is Ghana's official language. It is used for government and business affairs.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It aligns perfectly with the given reference answer of "yes." However, additional information provided about English being used for government and business affairs is not necessary for this specific question.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that English is Ghana's official language and provides additional relevant information about its use in government and business affairs, which aligns with the reference answer.
 [RESULT]: 5

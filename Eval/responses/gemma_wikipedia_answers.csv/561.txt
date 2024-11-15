@@ -1,5 +1,5 @@
 [PROMPT]: Was Gerald Ford a member of Delta Kappa Epsilon?
 [USER_ANSWER]: The context does not provide any information about Gerald Ford's membership in Delta Kappa Epsilon, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response correctly acknowledges the lack of information provided in the context regarding Gerald Ford's membership in Delta Kappa Epsilon, which aligns with the reference answer stating "Yes." However, the response does not provide a definitive answer, resulting in uncertainty.
-[RESULT]: 3
+[FEEDBACK]: The response does not provide a correct, accurate, or factual answer to the question. Instead of confirming Gerald Ford's membership in Delta Kappa Epsilon, it states that the context does not provide the information needed to answer the question. This is not aligned with the reference answer, which clearly states "Yes." Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

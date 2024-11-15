@@ -1,5 +1,5 @@
 [PROMPT]: What kinds of coats do wolves have?
 [USER_ANSWER]: Sure, wolves have two layers of fur: a tough guard hair layer and a dense, water-resistant undercoat.
 [CORRECT_ANSWER]: bulky coats with two layers
-[FEEDBACK]: The response accurately describes the types of coats wolves have, mentioning the two layers of fur - guard hair layer and undercoat, which aligns with the reference answer of "bulky coats with two layers." The information provided is correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that wolves have two layers of fur, which aligns with the reference answer. However, it provides additional details about the types of layers (guard hair and undercoat) that are not mentioned in the reference answer. While this additional information is accurate, it slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

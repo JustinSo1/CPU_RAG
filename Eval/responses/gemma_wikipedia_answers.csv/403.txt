@@ -1,5 +1,5 @@
 [PROMPT]: What is the poulation of Egypt?
 [USER_ANSWER]: Sure, the population of Egypt is approximately 78 million people.
 [CORRECT_ANSWER]: more than 78 million
-[FEEDBACK]: The response provided is not completely accurate as it states "approximately 78 million people" while the reference answer is "more than 78 million." This slight discrepancy affects the accuracy of the response.
-[RESULT]: 4
+[FEEDBACK]: The response states that the population of Egypt is approximately 78 million people. While this is close to the reference answer, which states "more than 78 million," it does not fully capture the fact that the population is over 78 million. Therefore, the response is somewhat correct and accurate but not completely factual as it does not emphasize the "more than" aspect.
+[RESULT]: 3

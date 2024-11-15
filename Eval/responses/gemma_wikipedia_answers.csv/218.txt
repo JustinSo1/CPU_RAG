@@ -1,5 +1,5 @@
 [PROMPT]: Of what state was Coolidge governor?
 [USER_ANSWER]: Sure, the context says that Calvin Coolidge was the governor of Massachusetts.
 [CORRECT_ANSWER]: MassachuS08_setts
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The state of Massachusetts is correctly identified as the state where Coolidge was governor.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Calvin Coolidge was the governor of Massachusetts. However, the phrase "the context says" is unnecessary and slightly detracts from the directness of the answer. The reference answer is more concise and to the point.
+[RESULT]: 4

@@ -1,5 +1,5 @@
 [PROMPT]: What do kangaroos use for "crawl-walking?"
 [USER_ANSWER]: Kangaroos use their tail to form a tripod with their two forelimbs and then raise their hind feet forward, in a form of locomotion called "crawl-walking."
 [CORRECT_ANSWER]: its hind feet
-[FEEDBACK]: The response accurately identifies that kangaroos use their tail to form a tripod with their two forelimbs and then raise their hind feet forward, which is not in line with the reference answer "its hind feet." While the response provides additional information about the locomotion method, it deviates from the specific answer requested.
-[RESULT]: 3
+[FEEDBACK]: The response is mostly correct and factual, as it accurately describes the process of "crawl-walking" in kangaroos, including the use of their tail and forelimbs. However, it does not directly address the specific part mentioned in the reference answer, which is the hind feet. The reference answer focuses solely on the hind feet, while the response includes additional details about the tail and forelimbs. This makes the response mostly correct but not completely aligned with the reference answer.
+[RESULT]: 4

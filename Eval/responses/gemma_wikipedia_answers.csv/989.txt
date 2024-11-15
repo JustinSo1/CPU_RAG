@@ -1,5 +1,5 @@
 [PROMPT]: Is a kangaroo a marsupial from the family macropodidae -LRB- macropods , meaning (`` ` large foot ('' ' -RRB-?
 [USER_ANSWER]: The context does not provide any information about the family macropodidae -LRB- macropods, so I cannot answer this question from the context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response correctly acknowledges the lack of information in the context to answer the question, which aligns with the reference answer provided. However, it does not provide a direct answer to the question.
-[RESULT]: 3
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether a kangaroo is a marsupial from the family macropodidae, and the correct answer is simply "yes." The response provided does not address the question and instead states that the context does not provide information, which is irrelevant to the question itself.
+[RESULT]: 1

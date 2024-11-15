@@ -1,5 +1,5 @@
 [PROMPT]: Are ducks in the Arctic Northern Hemisphere migratory?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Some are
-[FEEDBACK]: The response is somewhat correct, accurate, and/or factual as it acknowledges that some ducks are migratory, aligning with the reference answer. However, it lacks specificity and could have provided more information to enhance the response.
-[RESULT]: 3
+[FEEDBACK]: The response does not provide any factual information or a direct answer to the question. It states an inability to find a match in the knowledge base and does not address whether ducks in the Arctic Northern Hemisphere are migratory. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: Have kangaroos fared well since European S08_settlement?
 [USER_ANSWER]: The context does not provide any information about whether kangaroos have fared well since European settlement, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response correctly acknowledges that the context does not provide any information about the well-being of kangaroos since European settlement, hence not providing a direct answer to the question. This aligns with the reference answer of "yes" as it neither confirms nor denies the positive or negative impact on kangaroos.
-[RESULT]: 4
+[FEEDBACK]: The response does not directly answer the question about whether kangaroos have fared well since European settlement. Instead, it states that the context does not provide information, which is not relevant to the task of evaluating the factual accuracy based on the reference answer. The reference answer is a simple "yes," indicating that kangaroos have fared well. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

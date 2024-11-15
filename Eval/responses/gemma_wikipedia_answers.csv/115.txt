@@ -1,5 +1,5 @@
 [PROMPT]: Was King Victor Emmanuel III there to pay homage to Avogadro ?
 [USER_ANSWER]: Yes, King Victor Emmanuel III was there to pay homage to Avogadro.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question with a clear and precise statement, similar to the reference answer. The additional detail provided does not detract from the accuracy of the response.
 [RESULT]: 5

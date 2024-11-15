@@ -1,5 +1,5 @@
 [PROMPT]: According to Reader's Digest, is Finland best for living?
 [USER_ANSWER]: The context does not provide any information about whether Finland is best for living, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response accurately reflects the reference answer by stating that the context does not provide information about whether Finland is best for living, aligning with the reference answer of "Yes." This demonstrates an understanding of the question and the limitations of the context.
-[RESULT]: 5
+[FEEDBACK]: The response does not directly answer the question as the reference answer does. Instead, it states that there is no information provided to answer the question, which is not aligned with the reference answer. Therefore, the response is mostly incorrect and does not meet the criteria for accuracy and factuality based on the reference answer.
+[RESULT]: 2

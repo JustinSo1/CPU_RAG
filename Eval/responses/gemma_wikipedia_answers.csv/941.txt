@@ -1,5 +1,5 @@
 [PROMPT]: Why do kangaroos have a wide bite?
 [USER_ANSWER]: Kangaroos have a wide bite because their lower jaw is not joined together, giving them a wider bite.
 [CORRECT_ANSWER]: The two sides of the lower jaw are not joined together and the lower incisors are farther apart.
-[FEEDBACK]: The response accurately explains that kangaroos have a wide bite because their lower jaw is not joined together, which aligns with the reference answer stating that the two sides of the lower jaw are not joined together. However, the response does not mention that the lower incisors are farther apart, which is a key detail from the reference answer. Therefore, the response is somewhat correct but lacks a specific detail.
-[RESULT]: 3
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that the lower jaw of kangaroos is not joined together, which contributes to their wide bite. However, it misses the additional detail that the lower incisors are farther apart, which is also a contributing factor according to the reference answer.
+[RESULT]: 4

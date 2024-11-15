@@ -1,5 +1,5 @@
 [PROMPT]: Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
 [USER_ANSWER]: Sure, the context says that Finnish is a member of the Baltic-Finnic subgroup of the Uralic languages.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct and accurate, as it confirms that Finnish is a member of the Baltic-Finnic subgroup of the Uralic languages. However, it adds unnecessary context ("the context says that"), which is not required and deviates slightly from the simplicity of the reference answer. The reference answer is a straightforward "yes," while the response adds extra information that is not needed to answer the question directly.
+[RESULT]: 4

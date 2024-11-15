@@ -3,5 +3,5 @@
 
 The best locations to see leopards in Africa are in the Sabi Sand Private Game Reserve in South Africa, where leopards are habituated to safari vehicles and are seen on a daily basis at very close range.
 [CORRECT_ANSWER]: southern Eurasia and Africa
-[FEEDBACK]: The response provided is mostly correct and accurate as it correctly identifies the distribution of leopards across southern Eurasia and Africa. However, additional information about specific locations in Africa where leopards can be commonly observed does not directly address the question about the leopard's distribution. Therefore, the response is not entirely focused on the distribution aspect.
+[FEEDBACK]: The response correctly identifies the distribution of leopards as being across southern Eurasia and Africa, which matches the reference answer. However, the additional information about the best locations to see leopards in Africa, while interesting, is not directly relevant to the question asked. This extra detail does not detract from the accuracy of the initial answer but does not add to the correctness of the response either. Therefore, the response is mostly correct, accurate, and factual.
 [RESULT]: 4

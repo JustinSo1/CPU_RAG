@@ -1,5 +1,5 @@
 [PROMPT]: Was Grover Cleveland born in New York?
 [USER_ANSWER]: The context does not provide any information about Grover Cleveland's birthplace, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: no
-[FEEDBACK]: The response correctly acknowledges the lack of information in the context and refrains from providing an answer that could be inaccurate. It aligns with the reference answer by not making any false claims. However, it does not directly answer the question, which could have been improved by stating that the birthplace of Grover Cleveland is not provided in the context.
-[RESULT]: 3
+[FEEDBACK]: The response does not directly answer the question about Grover Cleveland's birthplace. Instead, it states that the context does not provide the information needed to answer the question. The reference answer is a simple "no," indicating that Grover Cleveland was not born in New York. The response fails to provide this factual information and is therefore not accurate based on the reference answer.
+[RESULT]: 1

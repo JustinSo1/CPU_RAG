@@ -1,5 +1,5 @@
 [PROMPT]: Are elephants good swimmers?
 [USER_ANSWER]: The context does not provide any information about whether elephants are good swimmers, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response correctly acknowledges that the context does not provide information about whether elephants are good swimmers, aligning with the reference answer of "yes." However, it does not directly answer the question, resulting in a somewhat correct response.
-[RESULT]: 3
+[FEEDBACK]: The response does not address the question directly and instead comments on the lack of context, which is not relevant to the evaluation criteria. The reference answer is a simple "yes," indicating that elephants are indeed good swimmers. The response fails to provide this factual information and is therefore not correct or accurate based on the reference answer.
+[RESULT]: 1
