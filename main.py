@@ -44,7 +44,7 @@ class AIAssistant:
         """Store the knowledge base"""
         self.knowledge_base = knowledge_base
 
-    def learn_knowledge_base(self, knowledge_base):
+    def learn_knowledge_base(self, knowledge_base, num_neighbors):
         """Store and index the knowledge based to be used by the assistant"""
         # Storing the knowledge base
         self.store_knowledge_base(knowledge_base)
@@ -55,13 +55,14 @@ class AIAssistant:
         self.embeddings = np.array(embeddings).astype(np.float32)
 
         # Instantiate the searcher for similarity search
-        self.index_embeddings()
+        self.index_embeddings(num_neighbors=num_neighbors)
 
-    def index_embeddings(self):
+    def index_embeddings(self, num_neighbors):
         """Index the embeddings using ScaNN """
         # print("EMBEDDINGS SHAPE", self.embeddings.shape)
         self.searcher = (
-            scann.scann_ops_pybind.builder(db=self.embeddings, num_neighbors=10, distance_measure="dot_product")
+            scann.scann_ops_pybind.builder(db=self.embeddings, num_neighbors=num_neighbors,
+                                           distance_measure="dot_product")
             .tree(num_leaves=int(self.embeddings.shape[0] ** 0.5),  # of partitions
                   num_leaves_to_search=int(self.embeddings.shape[0] ** 0.5),
                   min_partition_size=10,
@@ -97,15 +98,15 @@ class AIAssistant:
         """Save the embeddings to disk"""
         np.save(filename, self.embeddings)
 
-    def load_embeddings(self, filename="embeddings.npy"):
+    def load_embeddings(self, filename="embeddings.npy", num_neighbors=10):
         """Load the embeddings from disk and index them"""
         self.embeddings = np.load(filename)
         # Re-instantiate the searcher
-        self.index_embeddings()
+        self.index_embeddings(num_neighbors)
 
 
-def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
-                     tokenizer, compressed_weights, text_corpus, logger_fname, embeddings=None):
+def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name, text_corpus, logger_fname, num_neighbors,
+                     embeddings=None):
     # Create an instance of the class AIAssistant based on Gemma C++
     ai_assistant = AIAssistant(
         gemma_model=model, temperature=0.0,
@@ -113,15 +114,15 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
     )
     print(f"Running AI Assistant with {n_threads} threads")
     # Loading the previously prepared knowledge base and embeddings
-    knowledge_base = text_corpus.tolist()
+    knowledge_base = text_corpus
 
     if embeddings:
         # Uploading the knowledge base and embeddings to the AI assistant
         ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
-        ai_assistant.load_embeddings(filename=embeddings)
+        ai_assistant.load_embeddings(filename=embeddings, num_neighbors=num_neighbors)
     else:
         # Map the intended knowledge base to embeddings and index it
-        ai_assistant.learn_knowledge_base(knowledge_base=knowledge_base)
+        ai_assistant.learn_knowledge_base(knowledge_base=knowledge_base, num_neighbors=num_neighbors)
         # Save the embeddings to disk (for later use)
         ai_assistant.save_embeddings()
 
@@ -180,37 +181,46 @@ def main():
     # max_threads = 30
     # Loading the previously prepared knowledge base and embeddings
     # knowledge_base = text_corpus['passage'].tolist()
-    # print(knowledge_base)
-    chunk_size = 100
-    df = text_corpus['passage'].apply(lambda line: [line[i:i + chunk_size] for i in range(0, len(line), chunk_size)])
-    df = df.explode()
-    avg_stats_dict = {}
+
     # for i in range(1, max_threads + 1):
-    avg_scann_time, avg_prompt_time, avg_answer_time, results = run_rag_pipeline(
-        model=GemmaCPPPython(tokenizer, compressed_weights),
-        # model=LlamaCpp(n_threads=i),
-        n_threads=-1,
-        questions=questions,
-        answers=answers,
-        embeddings_name=embeddings_name,
-        tokenizer=tokenizer,
-        compressed_weights=compressed_weights,
-        text_corpus=df,
-        logger_fname="data/archives/run4/",
-        embeddings="data/dataset/rag_wikipedia/embeddings/embeddings.npy")
-    avg_stats_dict[f"{16}_threads"] = {
-        "avg_scann_time": avg_scann_time,
-        "avg_prompt_time": avg_prompt_time,
-        "avg_answer_time": avg_answer_time
-    }
-    with open('gemma_cpp_recom_bio.pickle', 'wb') as handle:
-        pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
-    with open('data/dataset/rag_wikipedia/results/results_bio.pickle', 'wb') as handle:
-        pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
-        # break
+    run_chunk_size_experiment(model=GemmaCPPPython(tokenizer, compressed_weights), questions=questions, answers=answers,
+                              text_corpus=text_corpus, logger_fname="data/archives/run4/log_compute.csv",
+                              embeddings_model_name=embeddings_name,
+                              embeddings="data/dataset/rag_wikipedia/embeddings/embeddings.npy")
+
+
+def run_chunk_size_experiment(model, questions, answers, text_corpus, logger_fname,
+                              embeddings_model_name, embeddings):
+    chunk_size = 100
+    avg_stats_dict = {}
+    for chunk_size, num_neighbors in [(100, 1), (100, 10), (100, 50), (100, 100), (1000, 1), (1000, 10), (1000, 50),
+                                      (1000, 100)]:
+        df = text_corpus['passage'].apply(
+            lambda line: [line[i:i + chunk_size] for i in range(0, len(line), chunk_size)])
+        df = df.explode()
+        avg_scann_time, avg_prompt_time, avg_answer_time, results = run_rag_pipeline(
+            model=model,
+            n_threads=-1,
+            questions=questions,
+            answers=answers,
+            embeddings_name=embeddings_model_name,
+            text_corpus=df.tolist(),
+            logger_fname=logger_fname,
+            num_neighbors=num_neighbors,
+            embeddings=embeddings)
+        avg_stats_dict[f"{chunk_size}_chunk_size_{num_neighbors}_neighbors"] = {
+            "avg_scann_time": avg_scann_time,
+            "avg_prompt_time": avg_prompt_time,
+            "avg_answer_time": avg_answer_time
+        }
+        with open(f'gemma_{chunk_size}_{num_neighbors}.pickle', 'wb') as handle:
+            pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        with open(f'data/dataset/rag_wikipedia/results/results_{chunk_size}_{num_neighbors}.pickle', 'wb') as handle:
+            pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
+            # break
     avg_stats_df = pd.DataFrame(avg_stats_dict)
     print(avg_stats_df)
-    avg_stats_df.to_csv('gemma_cpp_config_bio.csv', index=False)
+    avg_stats_df.to_csv(f'gemma_{chunk_size}.csv', index=False)
 
 
 if __name__ == '__main__':
