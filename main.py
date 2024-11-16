@@ -122,7 +122,7 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
 
     # Uploading the knowledge base and embeddings to the AI assistant
     ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
-    ai_assistant.load_embeddings(filename="data/dataset/rag_bio/embeddings/embeddings_bio.npy")
+    ai_assistant.load_embeddings(filename="data/models/embeddings_bio.npy")
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
