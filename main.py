@@ -1,6 +1,7 @@
+import os
 import pickle
 
-import scann
+# import scann
 import multiprocessing
 import statistics
 import subprocess
@@ -14,8 +15,7 @@ import pandas as pd
 #                          )
 from sentence_transformers import SentenceTransformer
 
-from gemma_wrapper import GemmaCPPPython
-from llama_wrapper import LlamaCpp
+from model_wrappers.gemma_wrapper import GemmaCPPPython
 from utils import map2embeddings, generate_summary_and_answer, read_csv
 
 
@@ -105,7 +105,7 @@ class AIAssistant:
 
 
 def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
-                     tokenizer, compressed_weights, text_corpus):
+                     tokenizer, compressed_weights, text_corpus, logger_fname):
     # Create an instance of the class AIAssistant based on Gemma C++
     ai_assistant = AIAssistant(
         gemma_model=model, temperature=0.0,
@@ -122,11 +122,11 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
 
     # Uploading the knowledge base and embeddings to the AI assistant
     ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
-    ai_assistant.load_embeddings(filename="data/embeddings_bio.npy")
+    ai_assistant.load_embeddings(filename="data/dataset/rag_bio/embeddings/embeddings_bio.npy")
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
-    logger_fname = f'data/log_compute{n_threads}.csv'
+    # logger_fname = f'data/log_compute{n_threads}.csv'
     logger_pid = subprocess.Popen(
         ['python', 'log_gpu_cpu_stats.py',
          logger_fname,
@@ -172,8 +172,8 @@ def main():
     questions = question_answer['question'].tolist()
     answers = question_answer['answer'].tolist()
     embeddings_name = "thenlper/gte-large"
-    tokenizer = "data/gemma-gemmacpp-2b-it-sfp-v4/tokenizer.spm"
-    compressed_weights = "data/gemma-gemmacpp-2b-it-sfp-v4/2b-it-sfp.sbs"
+    tokenizer = os.path.join("data", "models", "gemma-gemmacpp-2b-it-sfp-v4", "tokenizer.spm")
+    compressed_weights = os.path.join("data", "models", "gemma-gemmacpp-2b-it-sfp-v4", "2b-it-sfp.sbs")
     model = "2b-it"
     # max_threads = 30
     # Loading the previously prepared knowledge base and embeddings
@@ -193,7 +193,8 @@ def main():
         embeddings_name=embeddings_name,
         tokenizer=tokenizer,
         compressed_weights=compressed_weights,
-        text_corpus=df)
+        text_corpus=df,
+        logger_fname="data/archives/run4/")
     avg_stats_dict[f"{16}_threads"] = {
         "avg_scann_time": avg_scann_time,
         "avg_prompt_time": avg_prompt_time,
@@ -201,7 +202,7 @@ def main():
     }
     with open('gemma_cpp_recom_bio.pickle', 'wb') as handle:
         pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
-    with open('results_bio.pickle', 'wb') as handle:
+    with open('data/dataset/rag_wikipedia/results/results_bio.pickle', 'wb') as handle:
         pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
         # break
     avg_stats_df = pd.DataFrame(avg_stats_dict)

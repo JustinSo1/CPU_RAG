@@ -17,7 +17,7 @@ def main():
     # callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
     # Make sure the model path is correct for your system!
     llm = LlamaCpp(
-        model_path="../data/gemma2/2b_it_v2.gguf",
+        model_path="../data/models/gemma2/2b_it_v2.gguf",
         n_ctx=512,
         # temperature=0.75,
         # max_tokens=4096,
