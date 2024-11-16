@@ -213,7 +213,7 @@ def run_chunk_size_experiment(model, questions, answers, text_corpus, logger_fna
             "avg_prompt_time": avg_prompt_time,
             "avg_answer_time": avg_answer_time
         }
-        with open(f'gemma_{chunk_size}_{num_neighbors}.pickle', 'wb') as handle:
+        with open(f'gemma_{chunk_size}_{num_neighbors}_avg_stats.pickle', 'wb') as handle:
             pickle.dump(avg_stats_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
         with open(f'data/dataset/rag_wikipedia/results/results_{chunk_size}_{num_neighbors}.pickle', 'wb') as handle:
             pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
