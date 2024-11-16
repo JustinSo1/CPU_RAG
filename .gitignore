@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 /data/models/
+**/embeddings/**
 # C extensions
 *.so
 
