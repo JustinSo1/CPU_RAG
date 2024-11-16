@@ -105,7 +105,7 @@ class AIAssistant:
 
 
 def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
-                     tokenizer, compressed_weights, text_corpus, logger_fname):
+                     tokenizer, compressed_weights, text_corpus, logger_fname, embeddings=None):
     # Create an instance of the class AIAssistant based on Gemma C++
     ai_assistant = AIAssistant(
         gemma_model=model, temperature=0.0,
@@ -115,20 +115,22 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name,
     # Loading the previously prepared knowledge base and embeddings
     knowledge_base = text_corpus.tolist()
 
-    # Map the intended knowledge base to embeddings and index it
-    # gemma_ai_assistant.learn_knowledge_base(knowledge_base=knowledge_base)
-    # Save the embeddings to disk (for later use)
-    # gemma_ai_assistant.save_embeddings()
+    if embeddings:
+        # Uploading the knowledge base and embeddings to the AI assistant
+        ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
+        ai_assistant.load_embeddings(filename=embeddings)
+    else:
+        # Map the intended knowledge base to embeddings and index it
+        ai_assistant.learn_knowledge_base(knowledge_base=knowledge_base)
+        # Save the embeddings to disk (for later use)
+        ai_assistant.save_embeddings()
 
-    # Uploading the knowledge base and embeddings to the AI assistant
-    ai_assistant.store_knowledge_base(knowledge_base=knowledge_base)
-    ai_assistant.load_embeddings(filename="data/models/embeddings_bio.npy")
     # # Start the logger running in a background process. It will keep running until you tell it to stop.
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
     # logger_fname = f'data/log_compute{n_threads}.csv'
     logger_pid = subprocess.Popen(
-        ['python', 'log_gpu_cpu_stats.py',
+        ['python', 'log_visualizer/log_gpu_cpu_stats.py',
          logger_fname,
          '--loop', '1',  # Interval between measurements, in seconds (optional, default=1)
          ])
@@ -194,7 +196,8 @@ def main():
         tokenizer=tokenizer,
         compressed_weights=compressed_weights,
         text_corpus=df,
-        logger_fname="data/archives/run4/")
+        logger_fname="data/archives/run4/",
+        embeddings="data/dataset/rag_wikipedia/embeddings/embeddings.npy")
     avg_stats_dict[f"{16}_threads"] = {
         "avg_scann_time": avg_scann_time,
         "avg_prompt_time": avg_prompt_time,
