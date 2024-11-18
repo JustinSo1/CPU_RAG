@@ -5,6 +5,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 import re
+import os
 
 
 def visualize_log_compute_file(logger_fname, i):
@@ -76,9 +77,15 @@ def natural_keys(text):
 
 
 if __name__ == '__main__':
-    logger_fname = "data/archives/run3bio/log_compute-1.csv"
-    visualize_log_compute_file(logger_fname,33)
-    # convert_answers_to_csv('results_bio.pickle', 'gemmaBioAnswers.csv')
+    # logger_fname = "data/archives/run3bio/log_compute-1.csv"
+    # visualize_log_compute_file(logger_fname,33)
+    for i, fname in enumerate(sorted(glob.glob("data/dataset/rag_wikipedia/results/*.pickle"), key=natural_keys),
+                              start=1):
+        _, chunk_size, neighbors = os.path.basename(fname).split("_")
+        # print(chunk_size, neighbors.split(".")[0])
+        convert_answers_to_csv(fname,
+                               f"data/dataset/rag_wikipedia/results/gemma_answers_{chunk_size}_chunk_size"
+                               f"_{neighbors.split('.')[0]}_neighbors.csv")
     # visualize_rag_pipeline_stats("llama_avg_rag_stats.csv", "Llama 3.2 3b")
     # avg_util_usage = {}
     # for i, fname in enumerate(sorted(glob.glob("data/archives/run3bio/*.csv"), key=natural_keys), start=1):
