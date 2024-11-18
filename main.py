@@ -1,7 +1,7 @@
 import os
 import pickle
 
-# import scann
+import scann
 import multiprocessing
 import statistics
 import subprocess
@@ -130,12 +130,12 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name, text
     # # We will save the CPU and GPU utilisation stats to a CSV file every 0.2 seconds.
     # !rm -f log_compute.csv
     # logger_fname = f'data/log_compute{n_threads}.csv'
-    logger_pid = subprocess.Popen(
-        ['python', 'log_visualizer/log_gpu_cpu_stats.py',
-         logger_fname,
-         '--loop', '1',  # Interval between measurements, in seconds (optional, default=1)
-         ])
-    print('Started logging compute utilisation')
+#    logger_pid = subprocess.Popen(
+#       ['python', 'log_visualizer/log_gpu_cpu_stats.py',
+#         logger_fname,
+#         '--loop', '1',  # Interval between measurements, in seconds (optional, default=1)
+#         ])
+#    print('Started logging compute utilisation')
     answer_time_arr, scann_time_arr, prompt_time_arr = [], [], []
     result_arr = []
     i = 0
@@ -150,11 +150,11 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name, text
         result_arr.append(result)
         print("Result:" + result)
         i += 1
-        # break
+#        break
         if i == 50:
             break
         # End the background process logging the CPU and GPU utilisation.
-    logger_pid.terminate()
+#    logger_pid.terminate()
     avg_scann_time = statistics.fmean(scann_time_arr)
     avg_prompt_time = statistics.fmean(prompt_time_arr)
     avg_answer_time = statistics.fmean(answer_time_arr)
@@ -185,15 +185,13 @@ def main():
     # for i in range(1, max_threads + 1):
     run_chunk_size_experiment(model=GemmaCPPPython(tokenizer, compressed_weights), questions=questions, answers=answers,
                               text_corpus=text_corpus, logger_fname="data/archives/run4/log_compute.csv",
-                              embeddings_model_name=embeddings_name,
-                              embeddings="data/dataset/rag_wikipedia/embeddings/embeddings.npy")
+                              embeddings_model_name=embeddings_name)
 
 
 def run_chunk_size_experiment(model, questions, answers, text_corpus, logger_fname,
-                              embeddings_model_name, embeddings):
-    chunk_size = 100
+                              embeddings_model_name):
     avg_stats_dict = {}
-    for chunk_size, num_neighbors in [(100, 1), (100, 10), (100, 50), (100, 100), (1000, 1), (1000, 10), (1000, 50),
+    for chunk_size, num_neighbors in [(50, 1), (50, 10), (50, 50), (50, 100), (100, 1), (100, 10), (100, 50), (100, 100), (1000, 1), (1000, 10), (1000, 50),
                                       (1000, 100)]:
         df = text_corpus['passage'].apply(
             lambda line: [line[i:i + chunk_size] for i in range(0, len(line), chunk_size)])
@@ -207,7 +205,7 @@ def run_chunk_size_experiment(model, questions, answers, text_corpus, logger_fna
             text_corpus=df.tolist(),
             logger_fname=logger_fname,
             num_neighbors=num_neighbors,
-            embeddings=embeddings)
+            embeddings=f"data/dataset/rag_wikipedia/embeddings/embeddings_{chunk_size}.npy")
         avg_stats_dict[f"{chunk_size}_chunk_size_{num_neighbors}_neighbors"] = {
             "avg_scann_time": avg_scann_time,
             "avg_prompt_time": avg_prompt_time,
@@ -220,7 +218,7 @@ def run_chunk_size_experiment(model, questions, answers, text_corpus, logger_fna
             # break
     avg_stats_df = pd.DataFrame(avg_stats_dict)
     print(avg_stats_df)
-    avg_stats_df.to_csv(f'gemma_{chunk_size}.csv', index=False)
+    avg_stats_df.to_csv(f'gemma_chunk_size_neighbor_experiment.csv', index=False)
 
 
 if __name__ == '__main__':
