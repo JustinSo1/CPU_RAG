@@ -1,11 +1,10 @@
-import glob
+import collections
 import pickle
-
-import pandas as pd
-from matplotlib import pyplot as plt
-
 import re
-import os
+
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt, cm
 
 
 def visualize_log_compute_file(logger_fname, i):
@@ -76,17 +75,66 @@ def natural_keys(text):
     return [atoi(c) for c in re.split(r'(\d+)', text)]
 
 
+def plottable_3d_info(df: pd.DataFrame):
+    """
+    Transform Pandas data into a format that's compatible with
+    Matplotlib's surface and wireframe plotting.
+    """
+    index = df.index
+    columns = df.columns
+
+    x, y = np.meshgrid(np.arange(len(columns)), np.arange(len(index)))
+    z = np.array([[df[c][i] for c in columns] for i in index])
+
+    xticks = dict(ticks=np.arange(len(columns)), labels=columns)
+    yticks = dict(ticks=np.arange(len(index)), labels=index)
+
+    return x, y, z, xticks, yticks
+
+
+def visualize_chunk_size_experiment_stats(fname, model_name):
+    df = pd.read_csv(fname)
+
+    chunk_stats = collections.defaultdict(dict)
+    for col in df.columns:
+        arr = col.split("_")
+        chunk_size, neighbors = arr[0], arr[3]
+        chunk_stats[chunk_size][neighbors] = df[col].sum()
+
+    stats_df = pd.DataFrame.from_dict(chunk_stats)
+
+    # Transform to Matplotlib friendly format.
+    x, y, z, xticks, yticks = plottable_3d_info(stats_df)
+
+    # Set up axes and put data on the surface.
+    fig = plt.figure()
+    axes = fig.add_subplot(projection='3d')
+    axes.plot_surface(x, y, z)
+
+    # Customize labels and ticks (only really necessary with
+    # non-numeric axes).
+    axes.set_xlabel('Chunk Size')
+    axes.set_ylabel('Neighbors')
+    axes.set_zlabel('Runtime')
+    axes.set_zlim3d(bottom=0)
+    plt.xticks(**xticks)
+    plt.yticks(**yticks)
+    plt.savefig("gemma_chunk_size_exp")
+    plt.show()
+
+
 if __name__ == '__main__':
     # logger_fname = "data/archives/run3bio/log_compute-1.csv"
     # visualize_log_compute_file(logger_fname,33)
-    for i, fname in enumerate(sorted(glob.glob("data/dataset/rag_wikipedia/results/*.pickle"), key=natural_keys),
-                              start=1):
-        _, chunk_size, neighbors = os.path.basename(fname).split("_")
-        # print(chunk_size, neighbors.split(".")[0])
-        convert_answers_to_csv(fname,
-                               f"data/dataset/rag_wikipedia/results/gemma_answers_{chunk_size}_chunk_size"
-                               f"_{neighbors.split('.')[0]}_neighbors.csv")
+    # for i, fname in enumerate(sorted(glob.glob("data/dataset/rag_wikipedia/results/*.pickle"), key=natural_keys),
+    #                           start=1):
+    #     _, chunk_size, neighbors = os.path.basename(fname).split("_")
+    #     # print(chunk_size, neighbors.split(".")[0])
+    #     convert_answers_to_csv(fname,
+    #                            f"data/dataset/rag_wikipedia/results/gemma_answers_{chunk_size}_chunk_size"
+    #                            f"_{neighbors.split('.')[0]}_neighbors.csv")
     # visualize_rag_pipeline_stats("llama_avg_rag_stats.csv", "Llama 3.2 3b")
+    visualize_chunk_size_experiment_stats("gemma_chunk_size_neighbor_experiment.csv", "Gemma 2b-it")
     # avg_util_usage = {}
     # for i, fname in enumerate(sorted(glob.glob("data/archives/run3bio/*.csv"), key=natural_keys), start=1):
     #     print(i)
