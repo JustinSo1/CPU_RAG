@@ -189,5 +189,5 @@ def clean_string(input_string):
     return cleaned_string
 
 
-def read_csv(url):
+def read_parquet(url):
     return pd.read_parquet(url)

@@ -16,7 +16,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 
 from model_wrappers.gemma_wrapper import GemmaCPPPython
-from utils import map2embeddings, generate_summary_and_answer, read_csv
+from utils import map2embeddings, generate_summary_and_answer, read_parquet
 
 
 # import bitsandbytes as bnb
@@ -167,8 +167,8 @@ def run_rag_pipeline(model, n_threads, questions, answers, embeddings_name, text
 
 def main():
     print(f"Current machine only has {multiprocessing.cpu_count()} cores")
-    text_corpus = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
-    question_answer = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
+    text_corpus = read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
+    question_answer = read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
 
     # text_corpus = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-bioasq/data/passages.parquet/part.0.parquet")
     # question_answer = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-bioasq/data/test.parquet/part.0.parquet")

@@ -1,0 +1,47 @@
+2024-11-23 00:04:48,216 - target.target_benchmark.evaluators.TARGET - INFO - Logger for TARGET is set up!
+2024-11-23 00:04:48,216 - target.target_benchmark.evaluators.TARGET - INFO - Starting to load the specified tasks...
+2024-11-23 00:04:48,217 - target.target_benchmark.evaluators.TARGET - INFO - Finished loading tasks! Tasks loaded: ['Table Question Answering Task']
+2024-11-23 00:04:48,217 - target.target_benchmark.evaluators.TARGET - INFO - Started creating dataset information...
+2024-11-23 00:04:48,217 - target.target_benchmark.evaluators.TARGET - INFO - Finished creating dataset config information. Finished setting up.
+2024-11-23 00:04:48,217 - target.target_benchmark.evaluators.TARGET - INFO - Started creating data loader objects...
+2024-11-23 00:04:48,217 - target.target_benchmark.evaluators.TARGET - INFO - Start running Table Question Answering Task...
+2024-11-23 00:04:48,217 - target.target_benchmark.evaluators.TARGET - INFO - Start checking for new corpus to embed...
+2024-11-23 00:04:52,972 - target.target_benchmark.evaluators.TARGET - INFO - Finished embedding all new corpus!
+2024-11-23 00:04:52,972 - target.target_benchmark.evaluators.TARGET - INFO - start task Table Question Answering Task
+2024-11-23 00:04:52,972 - target.target_benchmark.evaluators.TARGET - INFO - running task on dataset fetaqa
+2024-11-23 00:04:53,637 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 200
+2024-11-23 00:04:53,642 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 400
+2024-11-23 00:04:53,646 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 600
+2024-11-23 00:04:53,650 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 800
+2024-11-23 00:04:53,654 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1000
+2024-11-23 00:04:53,658 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1200
+2024-11-23 00:04:53,662 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1400
+2024-11-23 00:04:53,667 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1600
+2024-11-23 00:04:53,671 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1800
+2024-11-23 00:04:53,675 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 2000
+2024-11-23 00:04:53,679 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 2200
+2024-11-23 00:04:53,683 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 2400
+2024-11-23 00:04:53,687 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 2600
+2024-11-23 00:04:53,692 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 2800
+2024-11-23 00:04:53,696 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 3000
+2024-11-23 00:04:53,700 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 3200
+2024-11-23 00:04:53,704 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 3400
+2024-11-23 00:04:53,708 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 3600
+2024-11-23 00:04:53,712 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 3800
+2024-11-23 00:04:53,717 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 4000
+2024-11-23 00:04:53,721 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 4200
+2024-11-23 00:04:53,725 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 4400
+2024-11-23 00:04:53,730 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 4600
+2024-11-23 00:04:53,734 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 4800
+2024-11-23 00:04:53,738 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 5000
+2024-11-23 00:04:53,743 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 5200
+2024-11-23 00:04:53,747 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 5400
+2024-11-23 00:04:53,751 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 5600
+2024-11-23 00:04:53,756 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 5800
+2024-11-23 00:04:53,760 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 6000
+2024-11-23 00:04:53,764 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 6200
+2024-11-23 00:04:53,768 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 6400
+2024-11-23 00:04:53,773 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 6600
+2024-11-23 00:04:53,777 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 6800
+2024-11-23 00:04:53,781 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 7000
+2024-11-23 00:04:53,785 - target.target_benchmark.evaluators.TARGET - INFO - number of queries processed: 7200

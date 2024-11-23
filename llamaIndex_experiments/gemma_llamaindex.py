@@ -5,7 +5,7 @@ from llama_index.core import Document, ServiceContext, set_global_service_contex
 from llama_index.core import StorageContext, load_index_from_storage
 from llama_index.core import VectorStoreIndex
 from llama_index.core import set_global_tokenizer
-from llama_index.core.node_parser import SentenceSplitter
+from llama_index.core.node_parser import SentenceSplitter, SemanticSplitterNodeParser
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.llama_cpp import LlamaCPP
 from llama_index.vector_stores.faiss import FaissVectorStore
@@ -14,7 +14,7 @@ import faiss
 import logging
 import sys
 
-from utils import read_csv
+from utils import read_parquet
 
 
 def get_documents(df):
@@ -32,13 +32,15 @@ def get_documents(df):
     return documents
 
 
-def split_documents(documents):
-    splitter = SentenceSplitter(
-        chunk_size=200,
-        chunk_overlap=0,
-        paragraph_separator="\n\n"
-    )
-    nodes = splitter.get_nodes_from_documents(documents, show_progress=True)
+def split_documents(documents, embed_model):
+    # splitter = SentenceSplitter(
+    #     chunk_size=200,
+    #     chunk_overlap=0,
+    #     paragraph_separator="\n\n"
+    # )
+    # nodes = splitter.get_nodes_from_documents(documents, show_progress=True)
+    splitter = SemanticSplitterNodeParser.from_defaults(embed_model=embed_model)
+    nodes = splitter.build_semantic_nodes_from_documents(documents, show_progress=True)
     return nodes
 
 
@@ -71,14 +73,14 @@ def main():
     )
     embed_model = HuggingFaceEmbedding(model_name="thenlper/gte-large")
 
-    text_corpus = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
-    question_answer = read_csv("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
+    text_corpus = read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
+    question_answer = read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
     questions = question_answer['question'].tolist()
     answers = question_answer['answer'].tolist()
 
     # question_answer = read_csv
     documents = get_documents(text_corpus)
-    nodes = split_documents(documents)
+    nodes = split_documents(documents, embed_model)
     # documents = SimpleDirectoryReader(
     #     "../data/dataset/rag_wikipedia/llamaindex_test"
     # ).load_data()
@@ -91,16 +93,19 @@ def main():
 
     # create vector store index
     # index = VectorStoreIndex(nodes, embed_model=embed_model, show_progress=True)
-    print(embed_model)
+    # print(embed_model)
     faiss_index = faiss.IndexFlatL2(1024)
     vector_store = FaissVectorStore(faiss_index=faiss_index)
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
     index = VectorStoreIndex(nodes, embed_model=embed_model, show_progress=True, storage_context=storage_context)
-
+    #
     index.storage_context.persist(persist_dir="../data/dataset/rag_wikipedia/embeddings/")
-    # rebuild storage context
-    # storage_context = StorageContext.from_defaults(persist_dir="../data/dataset/rag_wikipedia/embeddings/")
-    # load index
+    # # rebuild storage context
+    # storage_context = StorageContext.from_defaults(persist_dir="../data/dataset/rag_wikipedia/embeddings/",
+    #                                                vector_store=vector_store.from_persist_dir(
+    #                                                    persist_dir="../data/dataset/rag_wikipedia/embeddings/"
+    #                                                ))
+    # # load index
     # index = load_index_from_storage(storage_context=storage_context)
 
     # set up query engine
@@ -117,7 +122,7 @@ def main():
             break
     df = pd.DataFrame.from_dict(answer_dict)
     print(df)
-    df.to_csv("vamos.csv")
+    df.to_csv("vamos.csv", index=False)
 
 
 if __name__ == '__main__':
