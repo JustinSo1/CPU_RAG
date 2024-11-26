@@ -14,7 +14,7 @@ import faiss
 import logging
 import sys
 
-from utils import read_parquet
+#from utils import read_parquet
 
 
 def get_documents(df):
@@ -51,7 +51,7 @@ def main():
         # You can pass in the URL to a GGML model to download it automatically
         # model_url=model_url,
         # optionally, you can set the path to a pre-downloaded model instead of model_url
-        model_path="../data/models/gemma2/2b_it_v2.gguf",
+        model_path="../data/models/gemma2/gemma-2-2b-it.Q5_K_M.gguf",
         temperature=0.1,
         max_new_tokens=256,
         context_window=8192,
@@ -73,8 +73,8 @@ def main():
     )
     embed_model = HuggingFaceEmbedding(model_name="thenlper/gte-large")
 
-    text_corpus = read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
-    question_answer = read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
+    text_corpus = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
+    question_answer = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
     questions = question_answer['question'].tolist()
     answers = question_answer['answer'].tolist()
 
@@ -126,7 +126,7 @@ def main():
 
 
 if __name__ == '__main__':
-    logging.basicConfig(level=logging.INFO, filename="gemma_llamaindex.log",
+    logging.basicConfig(level=logging.INFO, filename="gemma_llamaindex_wiki.log",
                         filemode='a',
                         format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                         datefmt='%H:%M:%S')
