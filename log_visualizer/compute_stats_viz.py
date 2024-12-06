@@ -162,18 +162,18 @@ if __name__ == '__main__':
 
     # print(time_df)
 
-    time_df.plot(title="RAG Pipeline times", xlabel='Questions', ylabel='Time (s)')
+    time_df.plot(title="Wiki RAG Pipeline times", xlabel='Questions', ylabel='Time (s)')
 
     plt.tight_layout()
-    plt.savefig("rag_times.png")
+    plt.savefig("wiki_rag_times.png")
     # plt.show()
 
     token_df = df[['embedding_tokens', 'llm_prompt_tokens', 'llm_completion_tokens', 'total_llm_token_count']]
     token_df = token_df.astype(float)
 
-    token_df.plot(title="RAG Pipeline tokens", xlabel='Questions', ylabel='# of tokens')
+    token_df.plot(title="Wiki RAG Pipeline tokens", xlabel='Questions', ylabel='# of tokens')
 
     plt.tight_layout()
-    plt.savefig("rag_tokens.png")
-    plt.show()
+    plt.savefig("wiki_rag_tokens.png")
+    # plt.show()
 
