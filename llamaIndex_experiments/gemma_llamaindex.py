@@ -7,6 +7,7 @@ from llama_index.core import Document, ServiceContext, set_global_service_contex
 from llama_index.core import StorageContext, load_index_from_storage
 from llama_index.core import VectorStoreIndex
 from llama_index.core import set_global_tokenizer
+from llama_index.core.callbacks import TokenCountingHandler, CallbackManager
 from llama_index.core.indices.vector_store import VectorIndexRetriever
 from llama_index.core.node_parser import SentenceSplitter, SemanticSplitterNodeParser
 from llama_index.core.postprocessor import SimilarityPostprocessor
@@ -82,7 +83,7 @@ def main():
         # generate_kwargs={},
         # kwargs to pass to __init__()
         # set to at least 1 to use GPU
-        model_kwargs={"repeat_penalty": 1, "penalize_nl": False, "chat_format": "gemma", "n_threads": 10},
+        model_kwargs={"repeat_penalty": 1, "penalize_nl": False, "chat_format": "gemma"},
         # transform inputs into Llama2 format
         # messages_to_prompt=messages_to_prompt,
         # completion_to_prompt=completion_to_prompt,
@@ -101,8 +102,13 @@ def main():
     questions = question_answer['question'].tolist()
     answers = question_answer['answer'].tolist()
 
+    token_counter = TokenCountingHandler(
+        tokenizer=tokenizer
+    )
+
     Settings.llm = llm
     Settings.embed_model = embed_model
+    Settings.callback_manager = CallbackManager([token_counter])
     # Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
     # Settings.num_output = 512
     # Settings.context_window = 3900
@@ -113,7 +119,7 @@ def main():
     faiss_index = faiss.IndexFlatL2(1024)
     vector_store = FaissVectorStore(faiss_index=faiss_index)
     # index_start_build_time = time.perf_counter()
-    index = construct_index(text_corpus, embed_model, llama_index_embeddings_path, vector_store)
+    # index = construct_index(text_corpus, embed_model, llama_index_embeddings_path, vector_store)
     # index_end_build_time = time.perf_counter()
     # logging.log(logging.INFO, f"Index build time: {index_end_build_time - index_start_build_time}s")
 
@@ -141,7 +147,13 @@ def main():
     #     # node_postprocessors=[SimilarityPostprocessor(similarity_cutoff=0.0)],
     # )
     query_engine = RAGQueryEngine(retriever=retriever, response_synthesizer=response_synthesizer)
-
+    logging.log(logging.INFO, f"""
+        Embedding Tokens: {token_counter.total_embedding_token_count}
+        LLM Prompt Tokens: {token_counter.prompt_llm_token_count}
+        LLM Completion Tokens: {token_counter.completion_llm_token_count}
+        Total LLM Token Count: {token_counter.total_llm_token_count}
+        """
+                )
     answer_dict = {}
     for i, (question, answer) in enumerate(zip(questions, answers), 0):
         print(f"Question #{i}")
@@ -151,8 +163,20 @@ def main():
         print(f"Result: {response}")
         answer_dict[f"Q{i}"] = {"Answer": response,
                                 "retrieval_time": retrieval_time,
-                                "llm_response_time": llm_response_time
+                                "llm_response_time": llm_response_time,
+                                "embedding_tokens": token_counter.total_embedding_token_count,
+                                "llm_prompt_tokens": token_counter.prompt_llm_token_count,
+                                "llm_completion_tokens": token_counter.completion_llm_token_count,
+                                "total_llm_token_count": token_counter.total_llm_token_count
                                 }
+        logging.log(logging.INFO, f"""
+            Embedding Tokens: {token_counter.total_embedding_token_count}
+            LLM Prompt Tokens: {token_counter.prompt_llm_token_count}
+            LLM Completion Tokens: {token_counter.completion_llm_token_count}
+            Total LLM Token Count: {token_counter.total_llm_token_count}
+            """
+                    )
+        token_counter.reset_counts()
         if i == 50:
             break
         break
