@@ -1,0 +1,5 @@
+[PROMPT]: Is he most noted for his contributions to the theory of molarity and molecular weight?
+[USER_ANSWER]: Sure, the context says that Avogadro is most remembered for his contributions to the theory of molarity and molecular weight.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct and factual, as it states that Avogadro is remembered for his contributions to the theory of molarity and molecular weight. However, the response adds unnecessary context ("the context says that") which is not present in the reference answer. The reference answer is a simple "yes," which is completely accurate and factual. The additional context in the response does not detract significantly from the accuracy but makes it slightly less direct and concise compared to the reference answer.
+[RESULT]: 4

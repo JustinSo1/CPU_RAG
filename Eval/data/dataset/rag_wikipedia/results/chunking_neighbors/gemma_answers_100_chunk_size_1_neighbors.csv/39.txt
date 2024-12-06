@@ -1,0 +1,5 @@
+[PROMPT]: Did lincoln have 18 months of schooling?
+[USER_ANSWER]: Yes, Lincoln had 18 months of formal education, primarily through self-directed learning.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct in stating that Lincoln had 18 months of formal education. However, the additional detail about self-directed learning, while true, is not necessary and deviates from the simplicity of the reference answer. This makes the response slightly less accurate in the context of the given instruction.
+[RESULT]: 4

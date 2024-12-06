@@ -1,0 +1,5 @@
+[PROMPT]: How many long was Lincoln's formal education?
+[USER_ANSWER]: The context does not provide any information about the length of Lincoln's formal education, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 18 months
+[FEEDBACK]: The response does not provide the correct answer to the question about the length of Lincoln's formal education. Instead, it states that the context does not provide the information, which is not relevant to the accuracy of the answer itself. The correct answer, as per the reference, is "18 months." Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

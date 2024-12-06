@@ -1,5 +1,5 @@
 [PROMPT]: In 1905 Coolidge met and married whom?
 [USER_ANSWER]: Sure, Calvin Coolidge met and married Grace Anna Goodhue in 1905.
 [CORRECT_ANSWER]: Grace Anna Goodhue
-[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Grace Anna Goodhue as the person Calvin Coolidge met and married in 1905, matching the reference answer perfectly. The additional context provided does not detract from the accuracy of the response.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Grace Anna Goodhue as the person Calvin Coolidge met and married in 1905, matching the reference answer perfectly. Additionally, it provides extra context by including Calvin Coolidge's full name, which does not detract from the accuracy of the response.
 [RESULT]: 5

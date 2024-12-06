@@ -1,0 +1,5 @@
+[PROMPT]: Do scholars rank lincoln among the top three presidents?
+[USER_ANSWER]: The context does not provide any information about whether scholars rank Lincoln among the top three presidents, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question "Do scholars rank Lincoln among the top three presidents?" Instead, it states that the context does not provide information to answer the question. This makes the response inaccurate and not factual based on the reference answer, which is a straightforward "Yes." The response fails to provide the correct information as required by the instruction.
+[RESULT]: 1

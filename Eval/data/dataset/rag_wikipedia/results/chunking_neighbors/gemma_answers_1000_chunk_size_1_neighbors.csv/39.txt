@@ -1,0 +1,5 @@
+[PROMPT]: Did lincoln have 18 months of schooling?
+[USER_ANSWER]: Sure, the context says that Lincoln was self-educated and spent about 18 months of schooling.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct and factual, as it accurately states that Lincoln was self-educated and had about 18 months of schooling. However, it adds unnecessary context that was not required by the instruction, which makes it slightly less concise than the reference answer.
+[RESULT]: 4

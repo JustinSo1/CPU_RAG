@@ -1,5 +1,5 @@
 [PROMPT]: Are his last words often quoted as " Thomas Jefferson survives " . ?
 [USER_ANSWER]: The context does not provide any information about whether his last words are often quoted as "Thomas Jefferson survives".
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question. Instead, it states that the context does not provide information, which is not relevant to the instruction. The reference answer is a simple "yes," indicating that the correct response should affirm that Thomas Jefferson's last words are often quoted as "Thomas Jefferson survives." Therefore, the response is completely incorrect and does not align with the reference answer.
+[FEEDBACK]: The response does not directly answer the question. Instead, it states that the context does not provide information about the quotation, which is not relevant to the instruction. The reference answer is a simple "yes," indicating that the correct response should affirm that Thomas Jefferson's last words are often quoted as "Thomas Jefferson survives." Therefore, the response is completely incorrect and does not align with the reference answer.
 [RESULT]: 1

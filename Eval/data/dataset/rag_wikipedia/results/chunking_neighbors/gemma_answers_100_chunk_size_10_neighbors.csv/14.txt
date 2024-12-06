@@ -1,0 +1,5 @@
+[PROMPT]: When did the Gettysburg address argue that America was born?
+[USER_ANSWER]: Sure, the Gettysburg Address argued that America was born in 1863. The context states that Lincoln emphasized the power of his rhetoric and speeches in rallying public opinion.
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response is completely incorrect and inaccurate. The Gettysburg Address argued that America was born in 1776, not 1863. The additional context about Lincoln's rhetoric and speeches does not address the specific question asked.
+[RESULT]: 1

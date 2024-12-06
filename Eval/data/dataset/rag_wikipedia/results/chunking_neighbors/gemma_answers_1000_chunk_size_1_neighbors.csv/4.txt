@@ -1,0 +1,5 @@
+[PROMPT]: Did his mother die of pneumonia?
+[USER_ANSWER]: The context does not provide any information about the death of Roosevelt's mother of pneumonia, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is somewhat correct in that it acknowledges the lack of information in the context provided. However, it does not directly answer the question with a simple "no" as the reference answer does. The response is more elaborate than necessary and does not align perfectly with the reference answer, which is concise and to the point.
+[RESULT]: 3

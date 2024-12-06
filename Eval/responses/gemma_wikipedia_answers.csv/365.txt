@@ -1,5 +1,5 @@
 [PROMPT]: What kind of ducks feed on land?
 [USER_ANSWER]: Sure, the context describes ducks that feed on land, including grasses, aquatic plants, fish, insects, small amphibians, and worms.
 [CORRECT_ANSWER]: Dabbling ducks
-[FEEDBACK]: The response does not directly answer the question about the type of ducks that feed on land. Instead, it describes the diet of ducks in general, which includes both land and water sources. The reference answer specifically identifies "dabbling ducks" as the type of ducks that feed on land, which the response fails to mention. Therefore, the response is mostly incorrect and does not provide the accurate information required by the question.
+[FEEDBACK]: The response does not directly answer the question about the type of ducks that feed on land. Instead, it describes the diet of ducks in general, which includes both land and water-based food sources. This makes the response mostly incorrect and not aligned with the reference answer, which specifically identifies "dabbling ducks" as the type of ducks that feed on land.
 [RESULT]: 2

@@ -1,5 +1,5 @@
 [PROMPT]: Do all ducks "quack"?
 [USER_ANSWER]: The context does not provide any information about whether all ducks "quack". Therefore, I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: No
-[FEEDBACK]: The response does not directly answer the question of whether all ducks "quack". Instead, it deflects by stating that the context does not provide information, which is not relevant to the question itself. The reference answer is a simple "No", indicating that the correct response should be straightforward and factual. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[FEEDBACK]: The response does not directly answer the question of whether all ducks "quack". Instead, it states that the context does not provide information, which is not relevant to the question itself. The reference answer is a simple "No", indicating that not all ducks quack. Therefore, the response is not correct, accurate, or factual based on the reference answer.
 [RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: Did the Dutch build the Elmina Castle?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: No
-[FEEDBACK]: The response does not provide a direct answer to the question asked. Instead, it states an inability to find a match in the knowledge base and does not address whether the Dutch built the Elmina Castle. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "No."
+[FEEDBACK]: The response does not provide a clear answer to the question. Instead, it states an inability to find a match in the knowledge base and does not address whether the Dutch built the Elmina Castle. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "No."
 [RESULT]: 1

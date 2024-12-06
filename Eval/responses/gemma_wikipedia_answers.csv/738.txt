@@ -1,5 +1,5 @@
 [PROMPT]: Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?
 [USER_ANSWER]: The context does not provide any information about whether the Department of the Interior charged that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question posed in the instruction. The reference answer is a simple "yes," indicating that the Department of the Interior did charge that the rights of way for the land must be returned to the public. The response provided states that the context does not provide information about this, which is not aligned with the reference answer. Therefore, the response is not correct, accurate, or factual based on the reference answer.
-[RESULT]: 1
+[FEEDBACK]: The response does not directly answer the question with a simple "yes" or "no" as the reference answer does. Instead, it provides an explanation that the context does not provide the necessary information. This makes the response somewhat correct in terms of addressing the lack of information but does not align with the direct and factual nature of the reference answer. Therefore, it is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

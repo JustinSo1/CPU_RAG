@@ -3,5 +3,5 @@
 
 Ducks have various economic uses, including farming for meat, eggs, and feathers; keeping and breeding by aviculturists; displaying in zoos; and hunting for food or sport by humans.
 [CORRECT_ANSWER]: They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It includes the main economic uses of ducks such as farming for meat, eggs, and feathers, keeping and breeding by aviculturists, and displaying in zoos. Additionally, it mentions hunting for food or sport, which is a relevant economic use not included in the reference answer but still accurate. However, the inclusion of hunting slightly deviates from the reference answer's focus.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It includes the primary economic uses of ducks such as farming for meat, eggs, and feathers, as well as keeping and breeding by aviculturists and displaying in zoos. However, it adds an additional point about hunting for food or sport, which is not mentioned in the reference answer. While this point is factual, it is not part of the reference answer, which slightly deviates from the given criteria.
 [RESULT]: 4

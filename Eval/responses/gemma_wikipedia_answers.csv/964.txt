@@ -1,5 +1,5 @@
 [PROMPT]: Is the kangaroo an herbivour?
 [USER_ANSWER]: The context does not provide any information about the kangaroo's diet, so I cannot answer this question from the context.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not answer the question directly and instead states that the context does not provide information about the kangaroo's diet. The reference answer is a simple "Yes," indicating that the correct response should affirm that kangaroos are herbivores. Therefore, the response is completely incorrect and does not align with the reference answer.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that the kangaroo is an herbivore. The response, however, states that there is no information provided about the kangaroo's diet, which is not true. Therefore, the response does not align with the reference answer and fails to provide the correct information.
 [RESULT]: 1

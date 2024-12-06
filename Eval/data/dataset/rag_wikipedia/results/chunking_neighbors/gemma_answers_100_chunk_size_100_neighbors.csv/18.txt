@@ -1,0 +1,5 @@
+[PROMPT]: Was Abraham Lincoln the first President of the United States?
+[USER_ANSWER]: The context does not provide any information about whether Abraham Lincoln was the first President of the United States, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response does not directly answer the question "Was Abraham Lincoln the first President of the United States?" Instead, it states that the context does not provide information to answer the question. The correct and factual answer is simply "No," as Abraham Lincoln was not the first President of the United States. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 1

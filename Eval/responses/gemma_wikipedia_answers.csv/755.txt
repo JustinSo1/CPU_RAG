@@ -1,5 +1,5 @@
 [PROMPT]: Is Indonesia a monarchy with a presidential system?
 [USER_ANSWER]: The context does not provide any information about whether Indonesia is a monarchy with a presidential system, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: no
-[FEEDBACK]: The response does not directly answer the question about whether Indonesia is a monarchy with a presidential system. Instead, it states that the context does not provide information to answer the question, which is not relevant to the instruction. The correct and factual answer is simply "no," as Indonesia is not a monarchy but a republic with a presidential system. Therefore, the response is not accurate or factual based on the reference answer.
+[FEEDBACK]: The response does not directly answer the question about whether Indonesia is a monarchy with a presidential system. Instead, it states that the context does not provide information to answer the question. This is not accurate or factual based on the reference answer, which is a simple "no." The response fails to provide the correct information that Indonesia is not a monarchy but a republic with a presidential system.
 [RESULT]: 1

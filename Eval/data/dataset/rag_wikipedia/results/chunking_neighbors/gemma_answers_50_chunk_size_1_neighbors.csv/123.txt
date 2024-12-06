@@ -1,0 +1,5 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: The context does not provide any information about whether the scientific community reserved great attention to his theory, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question as the reference answer does. Instead, it states that there is no information in the context to answer the question, which deviates from the expected simple affirmative response. Therefore, it is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

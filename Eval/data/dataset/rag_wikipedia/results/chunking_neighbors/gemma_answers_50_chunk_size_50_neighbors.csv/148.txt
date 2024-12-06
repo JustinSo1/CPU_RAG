@@ -1,0 +1,7 @@
+[PROMPT]: The Celsius crater on the Moon is what?
+[USER_ANSWER]: Sure, here's an answer to the question:
+
+The Celsius crater on the Moon is named after Anders Celsius, a Swedish astronomer who performed groundbreaking research on the Moon's orbital period and the force that holds it in orbit.
+[CORRECT_ANSWER]: named after him
+[FEEDBACK]: The response provides additional information about Anders Celsius and his contributions, which is not required by the question. The essential part of the answer, "named after Anders Celsius," is correct, but the extra details about his research are not necessary and could be seen as inaccurate since the reference answer is very concise. Therefore, the response is mostly correct but includes unnecessary and potentially misleading information.
+[RESULT]: 4

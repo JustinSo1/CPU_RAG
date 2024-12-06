@@ -1,0 +1,5 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: The context does not provide any information about the name of Abraham Lincoln, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response does not provide any factual information related to the question "What is named after him?" and does not mention the Celsius crater on the Moon, which is the correct answer according to the reference. Therefore, the response is completely incorrect and inaccurate based on the given score rubric.
+[RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: When did the first verifiable written documents appear?
 [USER_ANSWER]: Sure, the first verifiable written documents appeared in the twelfth century. The context does not provide any other relevant information about the date of their appearance.
 [CORRECT_ANSWER]: Twelfth Century
-[FEEDBACK]: The response states that the first verifiable written documents appeared in the twelfth century, which matches the reference answer. However, the additional sentence about the context not providing other relevant information is unnecessary and does not add value to the response. Despite this, the core information provided is completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 5
+[FEEDBACK]: The response correctly identifies the twelfth century as the time when the first verifiable written documents appeared, which matches the reference answer. However, the additional statement about the context not providing other relevant information is unnecessary and slightly detracts from the precision of the response. Despite this, the core information is accurate and factual.
+[RESULT]: 4

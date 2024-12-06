@@ -1,5 +1,5 @@
 [PROMPT]: What are the largest and politically dominant ethnic group?
 [USER_ANSWER]: The largest and politically dominant ethnic group in Egypt is the English (20.2%).
 [CORRECT_ANSWER]: the Javanese
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The largest and politically dominant ethnic group in Egypt is not the English, and the percentage provided is also incorrect. The reference answer indicates that the Javanese are the correct ethnic group, which is not related to Egypt. Therefore, the response fails to meet any of the criteria for correctness, accuracy, or factuality.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The largest and politically dominant ethnic group in Egypt is not the English, and the percentage provided (20.2%) is also incorrect. The reference answer indicates that the Javanese are the correct group, which is not related to Egypt. Therefore, the response fails to meet the criteria for accuracy and correctness.
 [RESULT]: 1

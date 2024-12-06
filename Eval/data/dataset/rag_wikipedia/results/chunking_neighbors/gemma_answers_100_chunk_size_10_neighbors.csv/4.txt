@@ -1,0 +1,5 @@
+[PROMPT]: Did his mother die of pneumonia?
+[USER_ANSWER]: The context does not provide any information about whether Coolidge's mother died of pneumonia, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response indicates that the context does not provide information about whether Coolidge's mother died of pneumonia, which is not a direct answer to the question. The reference answer is a simple "no," which directly addresses the question. The response is somewhat correct in that it acknowledges the lack of information, but it does not provide the factual answer as required by the reference answer. Therefore, it is not completely correct, accurate, and factual.
+[RESULT]: 3

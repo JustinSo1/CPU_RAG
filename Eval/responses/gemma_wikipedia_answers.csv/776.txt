@@ -1,5 +1,5 @@
 [PROMPT]: Is Indonesia a republic?
 [USER_ANSWER]: The context does not provide any information about whether Indonesia is a republic, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The question asks whether Indonesia is a republic, and the correct answer is simply "yes." The response instead states that the context does not provide information, which is irrelevant to the question itself. Therefore, the response does not meet the criteria for correctness or accuracy.
+[FEEDBACK]: The response does not directly answer the question of whether Indonesia is a republic. Instead, it states that the context does not provide the information needed to answer the question. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "yes." The response fails to provide the correct, accurate, and factual information required.
 [RESULT]: 1

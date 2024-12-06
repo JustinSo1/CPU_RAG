@@ -3,5 +3,5 @@
 
 Plants and fungi were able to grow and thrive after the last ice age due to the exposure of the soil.
 [CORRECT_ANSWER]: They are food to beetles.
-[FEEDBACK]: The response provided does not align with the reference answer. The reference answer states that plants and fungi are food to beetles, while the response discusses the growth and thriving of plants and fungi after the last ice age due to soil exposure. This information is not relevant to the reference answer and is therefore incorrect and inaccurate based on the given criteria.
+[FEEDBACK]: The response provided does not align with the reference answer. The reference answer states that plants and fungi are food to beetles, while the response discusses the growth and thriving of plants and fungi after the last ice age due to soil exposure. This indicates that the response is completely incorrect and not factual based on the reference answer.
 [RESULT]: 1

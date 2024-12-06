@@ -1,5 +1,5 @@
 [PROMPT]: Is it possible that there are more than 350,000 species of beetles?
 [USER_ANSWER]: The context does not provide any information about the possibility of more than 350,000 species of beetles, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question about the possibility of there being more than 350,000 species of beetles. Instead, it states that the context does not provide information, which is not relevant to the question itself. The reference answer is a simple "yes," indicating that the correct response should affirm the possibility. Therefore, the response is completely incorrect and does not align with the reference answer.
+[FEEDBACK]: The response does not directly answer the question about the possibility of there being more than 350,000 species of beetles. Instead, it states that the context does not provide information to answer the question, which is not relevant to the instruction. The reference answer is a simple "yes," indicating that the correct response should affirm the possibility. Therefore, the response is completely incorrect and does not align with the reference answer.
 [RESULT]: 1

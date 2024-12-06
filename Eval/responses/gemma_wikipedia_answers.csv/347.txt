@@ -1,5 +1,5 @@
 [PROMPT]: What is the name of a specialized species of duck adapted to catch large fish?
 [USER_ANSWER]: The name of a specialized species of duck adapted to catch large fish is not explicitly mentioned in the context, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: the smew
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The question asks for the name of a specialized species of duck adapted to catch large fish, which is "the smew." The response does not provide this information and instead states that the answer cannot be given based on the provided context, which is irrelevant to the task.
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the information is not available in the provided context, which is not relevant to the task. The correct answer, "the smew," is not mentioned at all. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

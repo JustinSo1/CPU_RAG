@@ -1,5 +1,5 @@
 [PROMPT]: Is there a becquerel crater on the moon and a becquerel crater on mars?
 [USER_ANSWER]: The context does not provide any information about a becquerel crater on the moon or Mars, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks whether there is a Becquerel crater on the moon and Mars, and the reference answer is a simple "yes," indicating that such craters exist on both celestial bodies. The response, however, states that there is no information provided to answer the question, which is not true. The response does not address the question correctly and fails to provide the factual information required.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states "yes," indicating that there are becquerel craters on both the moon and Mars. The response fails to provide this factual information and instead states that the context does not provide the information, which is not relevant to the correctness of the answer.
 [RESULT]: 1

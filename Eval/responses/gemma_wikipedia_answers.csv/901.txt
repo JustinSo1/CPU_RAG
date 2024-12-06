@@ -1,5 +1,5 @@
 [PROMPT]: Did John Adams go to Harvard? 
 [USER_ANSWER]: Sure, John Adams attended Harvard College at age sixteen and graduated in 1755.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information that John Adams attended Harvard College at age sixteen and graduated in 1755, which is accurate and enhances the response. However, the reference answer is very brief, and the rubric does not penalize for additional correct information.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that John Adams attended Harvard College and provides additional details about his age and graduation year. However, the reference answer is a simple "yes," which directly answers the question without additional information. While the response is factually accurate, it goes beyond the simplicity of the reference answer.
+[RESULT]: 4

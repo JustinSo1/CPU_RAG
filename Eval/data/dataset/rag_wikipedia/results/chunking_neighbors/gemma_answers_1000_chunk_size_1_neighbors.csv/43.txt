@@ -1,0 +1,5 @@
+[PROMPT]: How old was Lincoln in 1816?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. Lincoln's birth date in 1816 is not mentioned in the context, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: seven
+[FEEDBACK]: The response does not provide the correct answer to the question. It mentions the inability to find the information in the context, which is not relevant to the task of determining Lincoln's age in 1816. The correct answer is "seven," as Lincoln was born in 1809. The response is completely incorrect and does not address the question accurately or factually.
+[RESULT]: 1

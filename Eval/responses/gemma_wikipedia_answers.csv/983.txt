@@ -1,5 +1,5 @@
 [PROMPT]: Who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?
 [USER_ANSWER]: The context does not provide any information about who discovered that less than three percent of kangaroos exposed to the virus developed blindness, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Veterinarians
-[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question. The correct answer, according to the reference, is "Veterinarians." Therefore, the response is completely incorrect and does not align with the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question. This is completely incorrect and does not align with the reference answer, which is "Veterinarians." Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
 [RESULT]: 1

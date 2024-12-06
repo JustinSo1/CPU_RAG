@@ -113,7 +113,7 @@ def main():
     faiss_index = faiss.IndexFlatL2(1024)
     vector_store = FaissVectorStore(faiss_index=faiss_index)
     # index_start_build_time = time.perf_counter()
-    # index = construct_index(text_corpus, embed_model, llama_index_embeddings_path, vector_store)
+    index = construct_index(text_corpus, embed_model, llama_index_embeddings_path, vector_store)
     # index_end_build_time = time.perf_counter()
     # logging.log(logging.INFO, f"Index build time: {index_end_build_time - index_start_build_time}s")
 

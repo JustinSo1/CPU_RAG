@@ -1,5 +1,5 @@
 [PROMPT]: What is the average life expectancy of a kangaroo?
 [USER_ANSWER]: Sure, the average life expectancy of a kangaroo is about 4 6 years.
 [CORRECT_ANSWER]: 4.6 years
-[FEEDBACK]: The response "Sure, the average life expectancy of a kangaroo is about 4 6 years." is somewhat correct but contains a typographical error. The correct answer is "4.6 years," and the response seems to have intended to convey this but failed to do so accurately due to the missing punctuation. This makes the response somewhat accurate but not completely correct.
+[FEEDBACK]: The response "about 4 6 years" is somewhat correct but lacks clarity and precision. The correct answer is "4.6 years," which is a specific and accurate figure. The response seems to be a typographical error or a misinterpretation of the number, leading to a less accurate and clear answer.
 [RESULT]: 3
