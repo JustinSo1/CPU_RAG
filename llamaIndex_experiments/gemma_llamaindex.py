@@ -177,12 +177,12 @@ def main():
             """
                     )
         token_counter.reset_counts()
-        if i == 50:
+        if i == 10:
             break
-        break
+        # break
     df = pd.DataFrame.from_dict(answer_dict)
     print(df)
-    df.to_csv("llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv", index=False)
+    df.to_csv("llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv")
 
 
 if __name__ == '__main__':

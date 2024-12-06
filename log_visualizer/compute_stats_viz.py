@@ -134,7 +134,7 @@ if __name__ == '__main__':
     #                            f"data/dataset/rag_wikipedia/results/gemma_answers_{chunk_size}_chunk_size"
     #                            f"_{neighbors.split('.')[0]}_neighbors.csv")
     # visualize_rag_pipeline_stats("llama_avg_rag_stats.csv", "Llama 3.2 3b")
-    visualize_chunk_size_experiment_stats("gemma_chunk_size_neighbor_experiment.csv", "Gemma 2b-it")
+    # visualize_chunk_size_experiment_stats("gemma_chunk_size_neighbor_experiment.csv", "Gemma 2b-it")
     # avg_util_usage = {}
     # for i, fname in enumerate(sorted(glob.glob("data/archives/run3bio/*.csv"), key=natural_keys), start=1):
     #     print(i)
@@ -152,3 +152,28 @@ if __name__ == '__main__':
     # plt.ylabel("Avg %")
     # plt.savefig("gemma_avg_util_rate.png")
     # plt.show()
+    fname = 'llamaIndex_experiments/llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv'
+    df = pd.read_csv(fname, index_col=0)
+    # print(df)
+    df = df.transpose()
+    # df = df.drop('Answer', axis=1)
+    time_df = df[['retrieval_time', 'llm_response_time']]
+    time_df = time_df.astype(float)
+
+    # print(time_df)
+
+    time_df.plot(title="RAG Pipeline times", xlabel='Questions', ylabel='Time (s)')
+
+    plt.tight_layout()
+    plt.savefig("rag_times.png")
+    # plt.show()
+
+    token_df = df[['embedding_tokens', 'llm_prompt_tokens', 'llm_completion_tokens', 'total_llm_token_count']]
+    token_df = token_df.astype(float)
+
+    token_df.plot(title="RAG Pipeline tokens", xlabel='Questions', ylabel='# of tokens')
+
+    plt.tight_layout()
+    plt.savefig("rag_tokens.png")
+    plt.show()
+
