@@ -1,0 +1,7 @@
+[PROMPT]: When did Lincoln first serve as President?
+[USER_ANSWER]: 
+John Wilkes Booth 
+
+[CORRECT_ANSWER]: March 4, 1861
+[FEEDBACK]: The response "John Wilkes Booth" is completely incorrect, inaccurate, and not factual in relation to the question about when Lincoln first served as President. The correct answer is a specific date, March 4, 1861, and the response provided does not address the question at all.
+[RESULT]: 1

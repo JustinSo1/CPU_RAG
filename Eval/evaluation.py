@@ -76,7 +76,17 @@ def process_feedback(feedback, id, inputPrompt, userAnswer, correctAnswer, file_
 if __name__ == '__main__':
     accuracy_dict = {}
     # rag-mini-wikipedia
-    for file_name in glob.glob("../data/dataset/rag_wikipedia/results/chunking_neighbors/*.csv"):
+    # file_names = glob.glob("../data/dataset/rag_wikipedia/results/chunking_neighbors/*.csv")
+    file_names = ['llama_index_wiki_gemma-2-2b-it-Q5_K_M_1.csv']
+    # ====================================================
+    # TODO: this code is for preprocessing file for one time use. Remove in future and add in proper formatting
+    # df = pd.read_csv(file_names[0], index_col=0)
+    # df = df.transpose()
+    # print(df)
+    # df.to_csv('llama_index_wiki_gemma-2-2b-it-Q5_K_M_1.csv')
+    # ====================================================
+
+    for file_name in file_names:
         print(f"Processing {file_name}")
         process_csv_and_call_api(file_name)
         global_ds = load_the_dataset()
@@ -100,7 +110,7 @@ if __name__ == '__main__':
             "missing_context": counter_context_missing,
             "exist_content": counter_context_exist,
             'average_score': total_score / (counter_context_missing + counter_context_exist),
-            'score_map': score_map
+            'score_map': dict(score_map)
         }
     df = pd.DataFrame.from_dict(accuracy_dict)
-    df.to_csv('gemma_wiki_chunking_accuracy_stats.csv')
+    df.to_csv('gemma_wiki_llamaindex_accuracy_stats.csv')

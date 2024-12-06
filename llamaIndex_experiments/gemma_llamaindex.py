@@ -192,6 +192,7 @@ if __name__ == '__main__':
                         format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                         datefmt='%H:%M:%S')
     # logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
+    # logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
     logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
     # logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stderr))
     with open(log_file, "a") as log:

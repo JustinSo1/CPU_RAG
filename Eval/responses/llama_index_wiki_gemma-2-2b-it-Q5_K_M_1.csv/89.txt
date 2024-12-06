@@ -1,0 +1,7 @@
+[PROMPT]: When did he become a professor?
+[USER_ANSWER]: 
+Yes, it is true that he became a professor of physics at the University of Turin in 1820. 
+
+[CORRECT_ANSWER]: 1820
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides the correct year (1820) when he became a professor, which aligns with the reference answer. However, the additional information about the University of Turin and the subject of physics, while accurate, is not necessary for the response. The instruction specifically asks for the year, and the extra details, although correct, are not required.
+[RESULT]: 4

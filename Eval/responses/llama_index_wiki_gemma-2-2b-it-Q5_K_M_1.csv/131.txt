@@ -1,0 +1,7 @@
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: 
+Joseph Henry was elected to the 25th Congress. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the question about translating the title of a famous 1811 paper into English. Instead, it provides unrelated information about Joseph Henry and the 25th Congress.
+[RESULT]: 1

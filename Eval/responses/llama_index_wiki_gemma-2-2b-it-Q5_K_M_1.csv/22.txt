@@ -1,0 +1,7 @@
+[PROMPT]: Did Lincoln ever represent Alton & Sangamon Railroad?
+[USER_ANSWER]: 
+ Hardin County, Kentucky 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Hardin County, Kentucky" is completely incorrect and not factual in relation to the question "Did Lincoln ever represent Alton & Sangamon Railroad?" The correct answer is "Yes," and the response does not address the question at all.
+[RESULT]: 1

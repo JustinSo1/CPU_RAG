@@ -1,0 +1,6 @@
+[PROMPT]: Did his mother die of pneumonia?
+[USER_ANSWER]: 18 months. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response "18 months." is completely incorrect and does not address the question of whether his mother died of pneumonia. It does not provide any factual information related to the question asked.
+[RESULT]: 1

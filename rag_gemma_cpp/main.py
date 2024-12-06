@@ -175,8 +175,8 @@ def main():
     questions = question_answer['question'].tolist()
     answers = question_answer['answer'].tolist()
     embeddings_name = "thenlper/gte-large"
-    tokenizer = os.path.join("data", "models", "gemma-gemmacpp-2b-it-sfp-v4", "tokenizer.spm")
-    compressed_weights = os.path.join("data", "models", "gemma-gemmacpp-2b-it-sfp-v4", "2b-it-sfp.sbs")
+    tokenizer = os.path.join("../data", "models", "gemma-gemmacpp-2b-it-sfp-v4", "tokenizer.spm")
+    compressed_weights = os.path.join("../data", "models", "gemma-gemmacpp-2b-it-sfp-v4", "2b-it-sfp.sbs")
     model = "2b-it"
     # max_threads = 30
     # Loading the previously prepared knowledge base and embeddings

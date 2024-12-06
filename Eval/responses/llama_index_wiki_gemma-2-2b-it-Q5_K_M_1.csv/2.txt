@@ -1,0 +1,7 @@
+[PROMPT]: Did Lincoln sign the National Banking Act of 1863?
+[USER_ANSWER]: 
+No, the context does not state that his mother died of pneumonia. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and not factual. The instruction asks whether Lincoln signed the National Banking Act of 1863, and the correct answer is "yes." The response provided does not address the question at all and instead talks about an unrelated topic regarding someone's mother dying of pneumonia.
+[RESULT]: 1
