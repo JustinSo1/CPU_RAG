@@ -1,0 +1,5 @@
+[PROMPT]: When did the Gettysburg address argue that America was born?
+[USER_ANSWER]: The context does not provide any information about when the Gettysburg address argued that America was born. Therefore, I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response does not provide the correct answer to the question. The Gettysburg Address argues that America was born in 1776, but the response fails to mention this and instead states that the context does not provide the information. This makes the response completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

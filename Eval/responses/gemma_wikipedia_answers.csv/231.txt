@@ -1,5 +1,5 @@
 [PROMPT]: Which state were Coolidge born in?
 [USER_ANSWER]: John Calvin Coolidge Jr. was born in Plymouth, Windsor County, Vermont.
 [CORRECT_ANSWER]: Plymouth, Windsor County, Vermont
-[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact location where Coolidge was born, including the state, county, and town, which matches the reference answer.
+[FEEDBACK]: The response "John Calvin Coolidge Jr. was born in Plymouth, Windsor County, Vermont." is completely correct, accurate, and factual based on the reference answer. It provides the exact location of Coolidge's birth, including the state, county, and town, which matches the reference answer perfectly.
 [RESULT]: 5

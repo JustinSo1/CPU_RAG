@@ -1,5 +1,5 @@
 [PROMPT]: How do cuba and declining participation relate?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Canada maintains full relations with both.
-[FEEDBACK]: The response does not address the question about the relationship between Cuba and declining participation. It instead states a limitation of the knowledge base and provides no factual information or relevant content. Therefore, it is completely incorrect and not factual based on the reference answer.
+[FEEDBACK]: The response does not address the question about the relationship between Cuba and declining participation. It instead states an inability to find a match in the knowledge base and provides no factual information related to the question. This makes the response completely incorrect and not factual based on the reference answer.
 [RESULT]: 1

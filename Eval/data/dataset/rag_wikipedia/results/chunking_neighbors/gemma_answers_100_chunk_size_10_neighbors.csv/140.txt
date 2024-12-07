@@ -1,0 +1,5 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: The name of the SI unit of power, the watt, is named after the scientist James Watt.
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the Celsius crater on the Moon is named after him, while the response incorrectly states that the SI unit of power, the watt, is named after James Watt, who is a different individual.
+[RESULT]: 1

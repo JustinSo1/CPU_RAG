@@ -1,0 +1,8 @@
+[PROMPT]: When was the first photgraph of lincoln taken?
+[USER_ANSWER]: 
+---------------------
+Lincoln's legal career lasted for **23 years**. 
+
+[CORRECT_ANSWER]: 1846
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the question about the first photograph of Lincoln and instead provides unrelated information about Lincoln's legal career.
+[RESULT]: 1

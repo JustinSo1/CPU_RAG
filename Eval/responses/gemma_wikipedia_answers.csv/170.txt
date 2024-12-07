@@ -3,5 +3,5 @@
 
 Beetles eat both plants and animals, or they are highly specialized in their diet. Many species are host specific, feeding on only a single species of plant.
 [CORRECT_ANSWER]: Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that beetles eat both plants and animals and mentions that many species are host-specific. However, it adds unnecessary information about beetles being highly specialized in their diet, which is not explicitly mentioned in the reference answer. The response could be more concise and aligned with the reference answer.
+[FEEDBACK]: The response is mostly correct and accurate. It correctly states that beetles eat both plants and animals and mentions that many species are host-specific, which aligns with the idea of specialization in their diet. However, the response adds extra information about host specificity that is not present in the reference answer. While this additional detail is not incorrect, it slightly deviates from the simplicity and directness of the reference answer.
 [RESULT]: 4

@@ -1,5 +1,5 @@
 [PROMPT]: What is named after him?
 [USER_ANSWER]: The context names Nikola Tesla as the namesake of the Tesla company and its products.
 [CORRECT_ANSWER]: The Celsius crater on the Moon
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the Celsius crater on the Moon is named after him, while the response incorrectly mentions Nikola Tesla and the Tesla company, which is unrelated to the reference answer.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the Celsius crater on the Moon is named after him, while the response incorrectly states that Nikola Tesla is the namesake of the Tesla company and its products. This does not align with the reference answer provided.
 [RESULT]: 1

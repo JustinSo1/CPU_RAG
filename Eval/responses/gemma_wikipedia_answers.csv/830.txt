@@ -1,5 +1,5 @@
 [PROMPT]: Did James Monroe attend the College of William and Mary?
 [USER_ANSWER]: The context does not provide any information about whether James Monroe attended the College of William and Mary, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that James Monroe did attend the College of William and Mary, while the response claims that there is no information available to answer the question. This shows a lack of factual accuracy and correctness.
+[FEEDBACK]: The response states that the context does not provide information about whether James Monroe attended the College of William and Mary, which implies a lack of knowledge rather than providing a factual answer. The reference answer clearly states "yes," indicating that James Monroe did attend the College of William and Mary. Therefore, the response is completely incorrect and does not align with the reference answer.
 [RESULT]: 1

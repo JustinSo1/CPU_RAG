@@ -1,5 +1,5 @@
 [PROMPT]: Is it true that he sent in federal troops to chicago?
 [USER_ANSWER]: The context does not provide any information about Grant sending federal troops to Chicago, so I cannot answer this question from the context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question and instead states that the context does not provide information about Grant sending federal troops to Chicago. This is not aligned with the reference answer, which is a simple "yes." Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[FEEDBACK]: The response does not directly answer the question as the reference answer does. Instead, it states that the context does not provide information about Grant sending federal troops to Chicago, which is not aligned with the reference answer "yes." Therefore, the response is not correct, accurate, or factual based on the reference answer.
 [RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: When did Lincoln first serve as President?
+[USER_ANSWER]: The context does not provide any information about when Lincoln first served as President, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: March 4, 1861
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information based on the reference answer. The reference answer clearly states that Lincoln first served as President on March 4, 1861, while the response claims that the context does not provide this information, which is not relevant to the accuracy of the answer itself.
+[RESULT]: 1

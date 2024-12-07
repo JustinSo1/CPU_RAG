@@ -1,0 +1,5 @@
+[PROMPT]: Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+[USER_ANSWER]: Sure, the context says that Avogadro's number is commonly used to compute the results of chemical reactions.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It acknowledges that Avogadro's number is used in the context of chemical reactions, which aligns with the reference answer. However, the response adds unnecessary context ("the context says that"), which slightly deviates from the simplicity and directness of the reference answer. This additional context does not make the response incorrect, but it does make it less concise than the reference answer.
+[RESULT]: 4

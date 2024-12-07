@@ -1,0 +1,5 @@
+[PROMPT]: Is The Celsius crater on the Moon named after him?
+[USER_ANSWER]: Yes, The Celsius crater on the Moon is named after Anders Celsius. The context states that Celsius was a professor of astronomy at Uppsala University from 1730 to 1744.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response correctly states that the Celsius crater on the Moon is named after Anders Celsius, which aligns with the reference answer. However, it includes additional information about Celsius being a professor of astronomy at Uppsala University, which is not necessary to answer the question. While this extra detail does not make the response incorrect, it is not required for a completely accurate and factual answer based on the reference answer. Therefore, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

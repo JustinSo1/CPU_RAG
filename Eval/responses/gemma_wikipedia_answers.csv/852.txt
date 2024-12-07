@@ -1,5 +1,5 @@
 [PROMPT]: When was James Monroe elected president?
 [USER_ANSWER]: The context does not provide information about the year of James Monroe's election, hence I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Monroe was elected president in the election of 1816, and re-elected in 1820.
-[FEEDBACK]: The response does not provide the correct information about the year James Monroe was elected president. Instead, it states that the context does not provide the information, which is not relevant to the task of answering the question. The response is completely incorrect and does not align with the reference answer, which clearly states the years Monroe was elected and re-elected.
+[FEEDBACK]: The response does not provide the correct information about the year of James Monroe's election. Instead, it states that the context does not provide the information, which is not relevant to the accuracy of the answer itself. The response fails to mention the years 1816 and 1820, which are crucial to answering the question accurately. Therefore, the response is completely incorrect and not factual based on the reference answer.
 [RESULT]: 1

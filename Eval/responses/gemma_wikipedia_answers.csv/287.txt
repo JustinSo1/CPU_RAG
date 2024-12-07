@@ -1,5 +1,5 @@
 [PROMPT]: Is Canada's official language Zulu?
 [USER_ANSWER]: The context does not provide any information about Canada's official language Zulu, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: No.
-[FEEDBACK]: The response is not correct or accurate. The question asks if Zulu is Canada's official language, and the correct answer is simply "No." The response provided does not address the question directly and instead mentions the lack of context, which is irrelevant to the factual nature of the question. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[FEEDBACK]: The response does not directly answer the question about whether Zulu is Canada's official language. Instead, it deflects by stating that the context does not provide information, which is not relevant to the question. The correct and factual answer is simply "No," as Zulu is not an official language of Canada. Therefore, the response is not accurate or factual based on the reference answer.
 [RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: What are the elephant's ears important for?
 [USER_ANSWER]: Sure, the elephant's ears are important for hearing and smell. They are used for various purposes, including communication, temperature regulation, and sensory perception.
 [CORRECT_ANSWER]: temperature regulation
-[FEEDBACK]: The response includes some correct information about the functions of an elephant's ears, such as communication and temperature regulation. However, it also includes incorrect information, such as hearing and smell, which are not primary functions of the ears. The reference answer specifically mentions temperature regulation, which is correctly included in the response, but the additional incorrect information reduces the overall accuracy.
+[FEEDBACK]: The response mentions that the elephant's ears are important for hearing and smell, which is incorrect. It also lists communication, temperature regulation, and sensory perception. While temperature regulation is correct, the other functions mentioned are not accurate based on the reference answer. Therefore, the response is somewhat correct but includes several inaccuracies.
 [RESULT]: 3

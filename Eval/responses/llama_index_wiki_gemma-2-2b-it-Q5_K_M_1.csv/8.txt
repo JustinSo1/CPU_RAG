@@ -1,0 +1,7 @@
+[PROMPT]: When did Lincoln begin his political career?
+[USER_ANSWER]: 
+The Legal Tender Act of 1862 established the United States Note, the first paper currency in United States history. 
+
+[CORRECT_ANSWER]: 1832
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the question about when Lincoln began his political career and instead discusses the Legal Tender Act of 1862, which is unrelated to the question.
+[RESULT]: 1

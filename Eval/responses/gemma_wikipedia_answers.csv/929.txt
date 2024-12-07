@@ -1,5 +1,5 @@
 [PROMPT]: Is a kangaroo a reptile?
 [USER_ANSWER]: The context does not provide information about whether a kangaroo is a reptile, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: no
-[FEEDBACK]: The response is not correct, accurate, or factual. The question asks whether a kangaroo is a reptile, and the correct answer is simply "no." The response instead states that the context does not provide information, which is irrelevant to the factual nature of the question. Therefore, the response does not address the question correctly.
+[FEEDBACK]: The response is not correct, accurate, or factual. The question asks whether a kangaroo is a reptile, and the correct answer is simply "no." The response incorrectly states that the context does not provide information, which is irrelevant to the factual nature of the question. Therefore, the response does not address the question accurately.
 [RESULT]: 1

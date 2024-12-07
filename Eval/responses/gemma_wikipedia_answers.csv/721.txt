@@ -1,5 +1,5 @@
 [PROMPT]: Was Grover Cleveland married in the whitehouse?
 [USER_ANSWER]: The context does not provide any information about Grover Cleveland's marital status in the White House, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Yes.
-[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that Grover Cleveland was indeed married in the White House. The response, however, states that there is no information provided about his marital status in the White House, which is not true according to the reference answer. Therefore, the response does not align with the correct, accurate, and factual information required.
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "Yes," indicating that Grover Cleveland was indeed married in the White House. The response, however, states that there is no information provided about his marital status in the White House, which is incorrect.
 [RESULT]: 1

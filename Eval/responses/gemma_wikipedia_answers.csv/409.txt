@@ -1,5 +1,5 @@
 [PROMPT]: During what period was Akhenaten a Pharaoh?
 [USER_ANSWER]: The context does not mention what period Akhenaten was a Pharaoh, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: The New Kingdom (c.1550&#8722;1070 BC) 
-[FEEDBACK]: The response does not provide the correct period during which Akhenaten was a Pharaoh. Instead, it states that the context does not mention the period, which is not an accurate or factual answer to the question. The correct answer, as indicated in the reference, is "The New Kingdom (c.1550–1070 BC)." Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factuality based on the reference answer.
+[FEEDBACK]: The response does not provide the correct period during which Akhenaten was a Pharaoh. Instead, it states that the context does not mention the period, which is not a factual answer to the question. The response fails to provide any accurate information about the New Kingdom period (c.1550–1070 BC) when Akhenaten ruled. Therefore, it does not meet the criteria for correctness, accuracy, or factuality based on the reference answer.
 [RESULT]: 1

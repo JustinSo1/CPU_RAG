@@ -1,0 +1,5 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: Sure, the context indicates that the scientific community did not reserve great attention to Newton's theory.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly indicates that the scientific community did not reserve great attention to the theory, which aligns with the reference answer. However, the response includes additional context about Newton's theory, which is not necessary for the answer. The reference answer is more concise and directly addresses the question with a simple "yes."
+[RESULT]: 4

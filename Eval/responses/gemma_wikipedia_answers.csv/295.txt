@@ -1,5 +1,5 @@
 [PROMPT]: What was the Consitution Act formerly called?
 [USER_ANSWER]: Sure, the Constitution Act, 1867 was formerly called the British North America Act.
 [CORRECT_ANSWER]: The British North America Act.
-[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that the Constitution Act, 1867 was formerly called the British North America Act, which matches the reference answer perfectly.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the former name of the Constitution Act as the British North America Act. However, the additional information "Sure, the Constitution Act, 1867" is not necessary and slightly deviates from the concise nature of the reference answer.
+[RESULT]: 4

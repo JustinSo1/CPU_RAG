@@ -1,0 +1,7 @@
+[PROMPT]: Who suggested Lincoln grow a beard?
+[USER_ANSWER]: 
+The Gettysburg Address argued that America was born in **1776**. 
+
+[CORRECT_ANSWER]: 11-year-old Grace Bedell
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the question of who suggested Lincoln grow a beard and instead provides unrelated information about the Gettysburg Address.
+[RESULT]: 1

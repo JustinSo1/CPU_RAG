@@ -1,5 +1,5 @@
 [PROMPT]: Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: no!
-[FEEDBACK]: The response does not directly address the question asked. Instead, it provides a statement about the responder's knowledge base, which does not answer whether Mainland Nova Scotia came under British rule with the Treaty of Utrecht. Therefore, it is completely incorrect, inaccurate, and not factual based on the reference answer.
+[FEEDBACK]: The response does not directly address the question asked. Instead, it provides a general statement about the responder's knowledge base without giving a factual answer. The reference answer is a simple "no," indicating that the correct response should be a clear and direct negation. The evaluated response fails to provide this and does not offer any factual information related to the question.
 [RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: Who were Grover Cleveland's parents?
 [USER_ANSWER]: The context does not provide information about Grover Cleveland's parents, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Cleveland was born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal.
-[FEEDBACK]: The response does not provide the correct information about Grover Cleveland's parents. Instead, it states that the context does not provide the information, which is not relevant to the question asked. The response is completely incorrect and does not align with the reference answer, which clearly states the names of Grover Cleveland's parents.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer provides specific names of Grover Cleveland's parents, while the response incorrectly states that the context does not provide this information.
 [RESULT]: 1

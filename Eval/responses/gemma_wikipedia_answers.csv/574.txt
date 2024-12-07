@@ -1,5 +1,5 @@
 [PROMPT]: hard
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. The context does not provide any information about the posture of an elephant's throat and mouth area, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: hard
-[FEEDBACK]: The response provided does not align with the reference answer, which is simply "hard." The response goes into an explanation that is not relevant to the instruction given. Therefore, it is not correct, accurate, or factual based on the reference answer.
+[FEEDBACK]: The response does not align with the reference answer, which is simply "hard." The response provided is an explanation that does not match the reference answer in any way. Therefore, it is completely incorrect and does not meet the criteria for correctness, accuracy, or factuality based on the reference answer.
 [RESULT]: 1

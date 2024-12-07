@@ -1,5 +1,5 @@
 [PROMPT]: When was the Six Day War?
 [USER_ANSWER]: The context does not provide any information about the Six Day War, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: 1967
-[FEEDBACK]: The response does not provide the correct answer to the question "When was the Six Day War?" Instead, it states that the context does not provide information about the Six Day War, which is not relevant to the question asked. The correct answer, as indicated by the reference answer, is "1967." Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness.
+[FEEDBACK]: The response does not provide the correct answer to the question "When was the Six Day War?" Instead, it states that the context does not provide information about the Six Day War, which is not relevant to the task of answering the question. The response is completely incorrect and does not align with the reference answer, which is "1967."
 [RESULT]: 1

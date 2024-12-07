@@ -1,5 +1,5 @@
 [PROMPT]: What are the three sections of a beetle?
 [USER_ANSWER]: Sure, the three sections of a beetle are the head, thorax, and abdomen.
 [CORRECT_ANSWER]: the head, the thorax, and the abdomen
-[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies the three sections of a beetle as the head, thorax, and abdomen, which matches the reference answer.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It identifies the three sections of a beetle as the head, thorax, and abdomen, which matches the reference answer.
 [RESULT]: 5

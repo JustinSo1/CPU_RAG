@@ -1,5 +1,5 @@
 [PROMPT]: Who asked a nearby local what the creatures were called?
 [USER_ANSWER]: The context does not provide any information about who asked a nearby local what the creatures were called, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Captain James Cook and naturalist Sir Joseph Banks
-[FEEDBACK]: The response is completely incorrect and does not provide the factual information that Captain James Cook and naturalist Sir Joseph Banks asked a nearby local what the creatures were called. Instead, it states that the context does not provide this information, which is inaccurate based on the reference answer.
+[FEEDBACK]: The response to the question is completely incorrect and does not provide the factual information that Captain James Cook and naturalist Sir Joseph Banks asked a nearby local what the creatures were called. Instead, the response states that the context does not provide any information, which is inaccurate based on the reference answer.
 [RESULT]: 1

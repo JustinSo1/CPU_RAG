@@ -1,5 +1,5 @@
 [PROMPT]: Who is the most popular rock group in Finland?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. The context does not provide any information about the most popular rock group in Finland, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: CMX
-[FEEDBACK]: The response does not provide the correct answer to the question. It states that the context does not provide information about the most popular rock group in Finland, which is not relevant to the task of identifying the most popular rock group. The reference answer is "CMX," and the response does not mention this at all. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the context does not provide information about the most popular rock group in Finland, which is not accurate as the reference answer is "CMX." The response is completely incorrect and does not align with the factual information provided in the reference answer.
 [RESULT]: 1

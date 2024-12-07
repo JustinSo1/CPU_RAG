@@ -3,5 +3,5 @@
 
 When the Srivijaya Kingdom established trade links with China and other countries, it shaped Indonesian history and influenced the development of the country's culture and economy.
 [CORRECT_ANSWER]: The indonesian archipelago became an important trade region
-[FEEDBACK]: The response is somewhat correct and factual. It mentions that the Srivijaya Kingdom established trade links and that this influenced Indonesian history, culture, and economy. However, it does not specifically mention that the Indonesian archipelago became an important trade region, which is the key point in the reference answer. Therefore, while the response is on the right track, it lacks the specific detail that would make it fully accurate.
+[FEEDBACK]: The response is somewhat correct and factual. It mentions the establishment of trade links by the Srivijaya Kingdom and its influence on Indonesian history, culture, and economy. However, it does not specifically address the key point from the reference answer, which is the Indonesian archipelago becoming an important trade region. The response lacks the direct connection to the significance of the trade region, which is a crucial aspect of the reference answer.
 [RESULT]: 3

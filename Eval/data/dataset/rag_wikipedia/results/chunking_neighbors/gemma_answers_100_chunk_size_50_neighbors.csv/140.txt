@@ -1,0 +1,5 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: Sure, according to the context, the name of the SI unit of power, the watt, is named after Thomas Edison.
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response is completely incorrect and inaccurate. The watt is named after James Watt, not Thomas Edison. Additionally, the reference answer indicates that the correct response should be "The Celsius crater on the Moon," which is not related to Thomas Edison or the watt. Therefore, the response does not align with the reference answer in any way.
+[RESULT]: 1

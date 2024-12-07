@@ -1,0 +1,5 @@
+[PROMPT]: Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?
+[USER_ANSWER]: The context does not provide any information about who performed and published careful experiments aiming at defining an international temperature scale on scientific grounds, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Anders Celsius
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question, which is not relevant to the task. The correct answer, as indicated in the reference, is "Anders Celsius." Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
+[RESULT]: 1

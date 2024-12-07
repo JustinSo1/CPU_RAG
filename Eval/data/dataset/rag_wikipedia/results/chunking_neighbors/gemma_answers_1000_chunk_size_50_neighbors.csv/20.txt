@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln start his political career in 1832?
+[USER_ANSWER]: The context does not provide any information about the year Lincoln started his political career, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question about whether Lincoln started his political career in 1832. Instead, it mentions the lack of context, which is not relevant to the accuracy of the answer. The reference answer is a simple "Yes," indicating that the correct response should affirm that Lincoln did start his political career in 1832. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

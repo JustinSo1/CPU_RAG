@@ -3,5 +3,5 @@
 
 The context does not provide any other relevant information about the gray wolf's genus, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Canis
-[FEEDBACK]: The response correctly identifies the genus of the gray wolf as Canis, which matches the reference answer. However, the additional information about the context not providing other relevant information is unnecessary and detracts from the conciseness of the answer. The response is mostly correct, accurate, and factual, but the extra commentary is not needed.
+[FEEDBACK]: The response correctly identifies the genus of the gray wolf as Canis, which matches the reference answer. However, the additional information about the context not providing other relevant information is unnecessary and detracts from the directness and simplicity of the answer. The response is mostly correct, accurate, and factual, but the extra commentary is not needed for this specific question.
 [RESULT]: 4

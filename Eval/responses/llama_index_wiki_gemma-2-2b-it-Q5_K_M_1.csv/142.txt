@@ -1,0 +1,7 @@
+[PROMPT]: Is it true that he published a collection in 1738?
+[USER_ANSWER]: 
+Yes, the text states that Anders Celsius's thermometer had 100 for the freezing point of water. 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely incorrect and not factual. The instruction asks about the publication of a collection in 1738, but the response talks about Anders Celsius's thermometer, which is unrelated to the question. The correct answer should have been a simple "No," as indicated by the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
+[USER_ANSWER]: Sure, Anders Celsius was a Swedish astronomer. The context explicitly mentions that he was born in Uppsala and died in Uppsala, Sweden.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Anders Celsius as a Swedish astronomer, which aligns with the reference answer. However, the additional information about his birth and death in Uppsala, Sweden, while accurate, is not necessary to answer the question directly. This extra detail does not detract from the correctness but is not required for a perfect score based on the simplicity of the reference answer.
+[RESULT]: 4

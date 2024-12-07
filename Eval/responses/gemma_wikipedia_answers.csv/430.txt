@@ -1,5 +1,5 @@
 [PROMPT]: Can an elephant kill a rhinoceros?
 [USER_ANSWER]: The context does not provide any information about elephants killing rhinoceroses, so I cannot answer this question from the context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question and instead refers to the lack of context, which is not relevant to the task. The reference answer is a simple "yes," indicating that the response should be straightforward and factual. The evaluated response fails to provide a correct, accurate, and factual answer based on the reference answer.
+[FEEDBACK]: The response does not directly answer the question "Can an elephant kill a rhinoceros?" Instead, it states that the context does not provide information about this, which is not relevant to the question itself. The reference answer is a simple "yes," indicating that the correct response should affirm the possibility. Therefore, the response is completely incorrect and does not align with the reference answer.
 [RESULT]: 1

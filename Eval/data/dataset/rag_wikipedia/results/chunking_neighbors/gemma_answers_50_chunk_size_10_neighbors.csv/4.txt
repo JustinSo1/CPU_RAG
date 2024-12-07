@@ -1,0 +1,5 @@
+[PROMPT]: Did his mother die of pneumonia?
+[USER_ANSWER]: The context does not provide any information about whether Wilson's mother died of pneumonia, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is not aligned with the reference answer, which is a simple "no." The response provides additional context about the lack of information, which is not required and deviates from the direct answer expected. Therefore, it is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

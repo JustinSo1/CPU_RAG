@@ -1,5 +1,5 @@
 [PROMPT]: For how long was Ford a member of the House of Representatives?
 [USER_ANSWER]: Ford was a member of the House of Representatives for 24 years, from 1949 to 1973.
 [CORRECT_ANSWER]: Over eight years.
-[FEEDBACK]: The response states that Ford was a member of the House of Representatives for 24 years, from 1949 to 1973. This information is factually correct. However, it does not align with the reference answer, which states "over eight years." The reference answer is incorrect, as Ford indeed served from 1949 to 1973, totaling 24 years. Therefore, the response is accurate and factual, but it does not match the reference answer provided.
+[FEEDBACK]: The response states that Ford was a member of the House of Representatives for 24 years, from 1949 to 1973. This is factually accurate and provides specific details about the duration and years of service. However, the reference answer states "over eight years," which is significantly different. Therefore, the response does not align with the reference answer and is not considered correct based on the given rubric.
 [RESULT]: 1

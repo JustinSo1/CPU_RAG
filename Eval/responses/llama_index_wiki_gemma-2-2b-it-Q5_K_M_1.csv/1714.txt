@@ -1,0 +1,10 @@
+[PROMPT]: What happened in 1917?
+[USER_ANSWER]: 
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: "Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination." 
+
+[CORRECT_ANSWER]: raised billions through Liberty loans, imposed an income tax, S08_set up the War Industries Board, promoted labor union growth, supervised agriculture and food production through the Lever Act, took over control of the railroads, and suppressed anti-war movements
+[FEEDBACK]: The response provided does not address the question "What happened in 1917?" at all. Instead, it mentions Abraham Lincoln, who was not relevant to the events of 1917. The response is completely incorrect, inaccurate, and not factual based on the reference answer, which details various actions taken during 1917 such as raising funds through Liberty loans, imposing an income tax, and other wartime measures.
+[RESULT]: 1

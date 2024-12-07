@@ -1,0 +1,5 @@
+[PROMPT]: Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+[USER_ANSWER]: Sure, Lorenzo Romano Amedeo Carlo Avogadro was an Italian savant. He was born in Turin in 1776 and died in 1856. He was recognized as a great Italian chemist and is considered one of the greatest chemists of the 19th century.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Lorenzo Romano Amedeo Carlo Avogadro as an Italian savant and provides additional accurate information about his birth, death, and contributions to chemistry. However, the reference answer is very concise, and the additional details, while accurate, are not necessary to meet the criteria of the reference answer.
+[RESULT]: 4

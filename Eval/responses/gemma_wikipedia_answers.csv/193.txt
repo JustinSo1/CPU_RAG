@@ -1,5 +1,5 @@
 [PROMPT]: What was given by Aristotle for the hardened shield like forewings?
 [USER_ANSWER]: Sure, according to the context, the name "Coleoptera" was given by Aristotle for the hardened shield-like forewings of beetles.
 [CORRECT_ANSWER]: The name "Coleoptera".
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "Coleoptera" as the term given by Aristotle for the hardened shield-like forewings of beetles. However, the additional context provided ("according to the context") is unnecessary and slightly detracts from the precision of the answer.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "Coleoptera" as the name given by Aristotle for the hardened shield-like forewings of beetles. However, the additional context provided ("according to the context") is unnecessary and slightly detracts from the precision of the answer.
 [RESULT]: 4

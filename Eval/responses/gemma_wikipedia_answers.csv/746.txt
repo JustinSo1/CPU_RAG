@@ -1,5 +1,5 @@
 [PROMPT]: Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?
 [USER_ANSWER]: The context does not provide any information about Becquerel's birthplace in Paris, or whether his family produced four generations of scientists. Therefore, I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not provide a correct, accurate, or factual answer to the question. Instead, it states that the context does not provide the necessary information, which is not aligned with the reference answer. The reference answer is a simple "yes," indicating that the correct response should affirm the statement about Becquerel's birthplace and family. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factuality.
+[FEEDBACK]: The response does not provide a direct answer to the question. Instead, it states that the context does not provide the necessary information to answer the question. This is not aligned with the reference answer, which is a simple "yes." Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
 [RESULT]: 1

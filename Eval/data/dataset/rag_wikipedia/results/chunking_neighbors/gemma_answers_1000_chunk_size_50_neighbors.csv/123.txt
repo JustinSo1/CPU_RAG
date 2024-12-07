@@ -1,0 +1,5 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question and instead provides an explanation about the knowledge base. It does not address whether the scientific community reserved great attention to the theory, making it completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

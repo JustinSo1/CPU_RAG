@@ -1,5 +1,5 @@
 [PROMPT]: Is indonesia a republic?
 [USER_ANSWER]: Sure, the context confirms that the Republic of Indonesia is a republic with an elected parliament and president.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Indonesia as a republic and provides additional context about its political structure, which is accurate. However, the reference answer is a simple "yes," indicating that a concise response is sufficient. The additional information, while accurate, is not necessary to answer the question directly.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Indonesia as a republic, which aligns with the reference answer. However, it includes additional information about the elected parliament and president, which, while accurate, is not necessary to answer the question directly. The reference answer is more concise and to the point.
 [RESULT]: 4

@@ -1,5 +1,5 @@
 [PROMPT]: Do beetles antennae function primarily as organs of smell?
 [USER_ANSWER]: Sure, the context says that beetles antennae primarily function as organs of smell.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is mostly correct and accurate, as it confirms that beetles' antennae primarily function as organs of smell. However, the additional phrase "the context says" introduces unnecessary information that is not present in the reference answer. The reference answer is more concise and direct.
+[FEEDBACK]: The response is mostly correct and accurate, as it confirms that beetles' antennae primarily function as organs of smell. However, it adds unnecessary context ("the context says that"), which is not required and deviates slightly from the simplicity of the reference answer.
 [RESULT]: 4

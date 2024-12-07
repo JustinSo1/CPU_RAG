@@ -1,5 +1,5 @@
 [PROMPT]: Are the Javanese the largest and politically dominant ethnic group in Indonesia?
 [USER_ANSWER]: The context does not provide any information about the largest and politically dominant ethnic group in Indonesia, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question about whether the Javanese are the largest and politically dominant ethnic group in Indonesia. Instead, it states that the context does not provide the information needed to answer the question. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "yes." The response fails to address the question directly and does not provide any factual information related to the Javanese ethnic group in Indonesia.
-[RESULT]: 1
+[FEEDBACK]: The response does not directly answer the question about whether the Javanese are the largest and politically dominant ethnic group in Indonesia. Instead, it states that the context does not provide the information needed to answer the question. This makes the response somewhat correct in terms of acknowledging the lack of context but does not provide the factual answer that the Javanese are indeed the largest and politically dominant ethnic group in Indonesia. Therefore, it does not align well with the reference answer, which is a straightforward "yes."
+[RESULT]: 3

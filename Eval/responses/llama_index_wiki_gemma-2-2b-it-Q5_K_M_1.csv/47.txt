@@ -1,0 +1,7 @@
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: 
+The trial where Lincoln used a Farmers' Almanac to show that an eyewitness had lied on the stand was the case of William "Duff" Armstrong, who was charged with murder. 
+
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response does not address the question about the length of Lincoln's legal career. Instead, it provides information about a specific case in which Lincoln was involved. This information is not relevant to the question asked and does not provide any factual details about the duration of Lincoln's legal career. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

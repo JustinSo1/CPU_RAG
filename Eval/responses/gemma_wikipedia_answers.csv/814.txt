@@ -1,5 +1,5 @@
 [PROMPT]: What is the first number on the page?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. The first number on the page is not mentioned in the context, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: 28
-[FEEDBACK]: The response is completely incorrect and does not provide the correct answer to the question. The reference answer is "28," but the response does not mention this number at all. Instead, it provides an explanation that does not address the question directly or accurately. Therefore, the response is not factual based on the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the first number on the page is not mentioned in the context, which is not accurate based on the reference answer. The response is completely incorrect and does not align with the reference answer provided.
 [RESULT]: 1

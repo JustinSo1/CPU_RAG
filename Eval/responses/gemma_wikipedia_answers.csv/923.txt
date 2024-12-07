@@ -1,5 +1,5 @@
 [PROMPT]: Who did MassachuS08_setts send in 1774?
 [USER_ANSWER]: Massachusetts sent Adams to the first and second Continental Congresses in 1774.
 [CORRECT_ANSWER]: John Adams
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Massachusetts sent Adams in 1774, but it adds additional information about the Continental Congresses that is not present in the reference answer. The reference answer simply states "John Adams," while the response specifies "Adams" and includes details about the first and second Continental Congresses. This additional information is not incorrect but is not necessary for the given instruction.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Massachusetts sent Adams, but it adds additional information about the first and second Continental Congresses, which is not required by the question. The reference answer is more concise and directly answers the question with "John Adams." The response could be improved by being more precise and directly answering the question without additional context.
 [RESULT]: 4

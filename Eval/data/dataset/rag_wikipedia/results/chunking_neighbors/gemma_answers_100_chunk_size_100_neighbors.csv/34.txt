@@ -1,0 +1,5 @@
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
+[USER_ANSWER]: The context does not provide any information about why Lincoln issued the Emancipation Proclamation, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response does not address the question of why Lincoln issued the Emancipation Proclamation. Instead, it states that the context does not provide information, which is irrelevant to the question. The reference answer clearly states that Lincoln issued the Emancipation Proclamation to free slaves, which the response fails to mention. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

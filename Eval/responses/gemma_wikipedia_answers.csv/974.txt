@@ -1,5 +1,5 @@
 [PROMPT]: What is a roo?
 [USER_ANSWER]: A kangaroo is a marsupial native to Australia known for its large size and distinctive appearance.
 [CORRECT_ANSWER]: a kangaroo
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies a "roo" as a kangaroo, which is a marsupial native to Australia. However, it includes additional information about the kangaroo's size and appearance, which, while accurate, is not necessary based on the reference answer. The reference answer is more concise and to the point.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies a "roo" as a kangaroo, which is a marsupial native to Australia. However, it includes additional information about the kangaroo's size and appearance, which, while accurate, is not necessary to answer the question directly. The reference answer is more concise and directly to the point.
 [RESULT]: 4

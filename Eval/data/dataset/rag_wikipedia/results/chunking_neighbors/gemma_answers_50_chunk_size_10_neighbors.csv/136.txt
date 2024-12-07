@@ -1,0 +1,7 @@
+[PROMPT]: What happened in 1833?
+[USER_ANSWER]: Sure, here's an answer to the question:
+
+In 1833, the 23rd Congress met and served from 1833 to 1843.
+[CORRECT_ANSWER]: Avogadro had been recalled to Turin university
+[FEEDBACK]: The response provided is not correct, accurate, or factual based on the reference answer. The reference answer mentions Avogadro being recalled to Turin university in 1833, while the response talks about the 23rd Congress, which is unrelated to the specific event mentioned in the reference answer. Therefore, the response does not meet the criteria for correctness and accuracy.
+[RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: What did James Monroe make in 1817?
 [USER_ANSWER]: The context does not specify what James Monroe made in 1817, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: two long tours
-[FEEDBACK]: The response does not provide the correct answer to the question. Instead of stating that James Monroe made "two long tours" in 1817, the response claims that the context does not specify what he made, which is not accurate based on the reference answer. Therefore, the response is completely incorrect and does not align with the factual information provided in the reference answer.
+[FEEDBACK]: The response does not provide the correct information about what James Monroe made in 1817. The reference answer indicates that he made "two long tours," but the response states that the context does not specify this information. This makes the response completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

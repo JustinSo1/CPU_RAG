@@ -3,5 +3,5 @@
 
 The context states that Canada is a member of the OECD.
 [CORRECT_ANSWER]: Yes.
-[FEEDBACK]: The response correctly states that Canada is a member of the OECD, which aligns with the reference answer. However, the additional sentence "The context states that Canada is a member of the OECD" is unnecessary and does not add value to the response. While the factual information is accurate, the response could be more concise.
+[FEEDBACK]: The response correctly states that Canada is a member of the OECD, which aligns with the reference answer. However, the additional sentence "The context states that Canada is a member of the OECD" is unnecessary and does not add value to the response. While the factual accuracy is maintained, the response could be more concise.
 [RESULT]: 4

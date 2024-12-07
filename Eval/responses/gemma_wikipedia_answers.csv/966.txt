@@ -1,5 +1,5 @@
 [PROMPT]: Are Kangaroos Shy?
 [USER_ANSWER]: The context does not provide information about whether Kangaroos are shy, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not directly answer the question "Are Kangaroos Shy?" as the reference answer does. Instead, it states that the context does not provide information about the shyness of kangaroos, which is not aligned with the reference answer. Therefore, the response is mostly incorrect and does not provide the factual answer expected.
+[FEEDBACK]: The response does not directly answer the question "Are Kangaroos Shy?" Instead, it states that the context does not provide information to answer the question. According to the score rubric, the response should be evaluated based on its correctness, accuracy, and factuality in relation to the reference answer, which is "Yes." The response does not align with the reference answer and does not provide a factual answer to the question. Therefore, it is mostly incorrect and inaccurate.
 [RESULT]: 2

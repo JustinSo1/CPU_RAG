@@ -1,0 +1,6 @@
+[PROMPT]: What did The Legal Tender Act of 1862 establish?
+[USER_ANSWER]: 11-year-old Grace Bedell. 
+
+[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the establishment of the United States Note or any aspect of the Legal Tender Act of 1862. Instead, it mentions an unrelated individual, Grace Bedell, who has no connection to the Act.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: Sure, the title of the 1811 paper can be roughly translated into English. The context does not provide a direct translation, so I cannot provide an exact answer.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is somewhat correct in acknowledging that the title can be roughly translated into English. However, it adds unnecessary information about the context not providing a direct translation, which is not required by the instruction. The reference answer is a simple "yes," indicating that a straightforward confirmation is sufficient. The response overcomplicates the answer and does not align perfectly with the reference answer's simplicity and directness.
+[RESULT]: 3

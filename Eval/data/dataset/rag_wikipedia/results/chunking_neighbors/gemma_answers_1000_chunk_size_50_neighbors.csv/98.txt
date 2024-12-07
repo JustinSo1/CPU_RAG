@@ -1,0 +1,5 @@
+[PROMPT]: Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+[USER_ANSWER]: The context does not provide any information about Amedeo Avogadro's birthplace or family background, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and instead mentions the lack of context, which is not relevant to the evaluation criteria. The reference answer is a simple "yes," indicating that the correct response should affirm the statement. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

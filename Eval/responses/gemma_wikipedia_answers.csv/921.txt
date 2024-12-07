@@ -1,5 +1,5 @@
 [PROMPT]: Is it true that adams had spent some time as the ambassador?
 [USER_ANSWER]: The context does not provide any information about whether John Adams spent some time as the ambassador, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is somewhat correct in that it acknowledges the lack of context to answer the question definitively. However, it does not provide the factual information that John Adams did indeed spend time as an ambassador, which is what the reference answer indicates. Therefore, it is not completely correct or accurate based on the reference answer.
+[FEEDBACK]: The response is somewhat correct in that it acknowledges a lack of information from the context provided. However, it does not directly answer the question as the reference answer does. The reference answer is a simple "yes," indicating that John Adams did spend some time as an ambassador, which is factual. The evaluated response fails to provide this factual information and instead focuses on the lack of context, making it less accurate and factual compared to the reference answer.
 [RESULT]: 3

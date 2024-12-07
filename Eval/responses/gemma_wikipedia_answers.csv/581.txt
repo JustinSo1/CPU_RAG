@@ -1,5 +1,5 @@
 [PROMPT]: Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?
 [USER_ANSWER]: Yes, Gerald Ford served as the Republican Minority Leader of the House of Representatives from 1965 to 1973.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information that is not required by the instruction but is still accurate. Gerald Ford did indeed serve as the Republican Minority Leader of the House of Representatives from 1965 to 1973.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information that is accurate and relevant to the question asked. Gerald Ford did indeed serve as the Republican Minority Leader of the House of Representatives from 1965 to 1973.
 [RESULT]: 5

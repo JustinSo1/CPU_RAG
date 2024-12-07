@@ -1,5 +1,5 @@
 [PROMPT]: Does Egypt's foreign policy operates along moderate lines?
 [USER_ANSWER]: Yes, Egypt's foreign policy operates along moderate lines, with the country maintaining a strategic position in Africa and the Middle East due to its geographical location and strong historical ties with other Arab states.
 [CORRECT_ANSWER]: Yes.
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Egypt's foreign policy operates along moderate lines, which aligns with the reference answer. However, it includes additional information about Egypt's strategic position and historical ties, which, while accurate, is not necessary to answer the question directly. This additional information does not detract from the correctness but is not required for a perfect score based on the reference answer.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Egypt's foreign policy operates along moderate lines, which aligns with the reference answer. However, it includes additional information about Egypt's strategic position and historical ties, which, while factual, is not necessary to answer the question directly. This additional information does not detract from the correctness of the response but is not required based on the reference answer.
 [RESULT]: 4

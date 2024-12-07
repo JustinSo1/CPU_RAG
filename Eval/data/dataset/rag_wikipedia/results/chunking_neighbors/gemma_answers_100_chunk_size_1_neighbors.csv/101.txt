@@ -1,0 +1,5 @@
+[PROMPT]: Is he most noted for his contributions to the theory of molarity and molecular weight?
+[USER_ANSWER]: Sure, the context highlights Avogadro's contributions to the theory of molarity and molecular weights. Therefore, he is most noted for his contributions to these fields.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct and factual, as it acknowledges Avogadro's contributions to the theory of molarity and molecular weights. However, it adds unnecessary context and elaboration that were not present in the reference answer. The reference answer is a simple "yes," which is completely correct and factual. The evaluated response, while accurate, is more detailed than required.
+[RESULT]: 4

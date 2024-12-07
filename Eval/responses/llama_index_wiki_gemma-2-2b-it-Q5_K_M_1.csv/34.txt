@@ -1,0 +1,10 @@
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
+[USER_ANSWER]: 
+Yes. 
+---------------------
+Explanation: 
+The text states: "Scholars now rank Lincoln among the top three U.S. Presidents, with the majority of those surveyed placing him first." 
+
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response "Yes" is completely incorrect and does not address the question of why Lincoln issued the Emancipation Proclamation. The explanation provided is irrelevant to the question and does not offer any factual information related to the Emancipation Proclamation. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

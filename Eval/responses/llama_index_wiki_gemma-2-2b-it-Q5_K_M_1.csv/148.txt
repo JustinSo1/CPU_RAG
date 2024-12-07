@@ -1,0 +1,7 @@
+[PROMPT]: The Celsius crater on the Moon is what?
+[USER_ANSWER]: 
+Yes. 
+
+[CORRECT_ANSWER]: named after him
+[FEEDBACK]: The response "Yes." does not provide any factual information or context related to the question about the Celsius crater on the Moon. It is completely incorrect and does not align with the reference answer, which specifies that the crater is named after Celsius.
+[RESULT]: 1

@@ -1,5 +1,5 @@
 [PROMPT]: Was John Calvin Coolidge Jr. was born in Las Vegas?
 [USER_ANSWER]: The context does not provide any information about John Calvin Coolidge Jr.'s birthplace, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: No
-[FEEDBACK]: The response does not directly answer the question about John Calvin Coolidge Jr.'s birthplace. Instead, it states that the context does not provide information, which is not relevant to the accuracy of the answer. The correct and factual answer is "No," as John Calvin Coolidge Jr. was not born in Las Vegas. Therefore, the response is not accurate or factual based on the reference answer.
-[RESULT]: 1
+[FEEDBACK]: The response does not directly answer the question with a factual statement. Instead, it deflects by stating that the context does not provide information about John Calvin Coolidge Jr.'s birthplace. The reference answer is a simple "No," which is a direct and factual response to the question. Therefore, the response is somewhat correct in acknowledging the lack of information but fails to provide the accurate and factual answer required.
+[RESULT]: 3

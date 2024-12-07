@@ -1,5 +1,5 @@
 [PROMPT]: What is the largest country in the world?
 [USER_ANSWER]: The largest country in the world is Indonesia, with a land area of 17,508 islands.
 [CORRECT_ANSWER]: Canada is the second largest country in the world, after Russia, and largest on the continent.
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The largest country in the world is Russia, not Indonesia. Additionally, the mention of 17,508 islands is irrelevant to the question about the largest country by land area.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The largest country in the world is Russia, not Indonesia. The mention of 17,508 islands is irrelevant to the question about the largest country by land area.
 [RESULT]: 1

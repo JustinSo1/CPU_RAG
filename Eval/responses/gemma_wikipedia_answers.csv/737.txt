@@ -1,5 +1,5 @@
 [PROMPT]: Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?
 [USER_ANSWER]: Yes, Cleveland is buried in the Princeton Cemetery of the Nassau Presbyterian Church.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information by specifying "Cleveland" as the person buried in the Princeton Cemetery of the Nassau Presbyterian Church, which aligns with the context of the question. This additional detail does not detract from the accuracy of the response.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information by specifying "Cleveland," which is accurate and relevant to the question. The response aligns with the reference answer and does not introduce any errors or inaccuracies.
 [RESULT]: 5

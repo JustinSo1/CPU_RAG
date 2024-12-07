@@ -1,0 +1,7 @@
+[PROMPT]: Who assassinated Lincoln?
+[USER_ANSWER]: 
+Yes, Lincoln won the election of 1860. 
+
+[CORRECT_ANSWER]: John Wilkes Booth
+[FEEDBACK]: The response is completely incorrect and does not address the question of who assassinated Lincoln. Instead, it provides unrelated information about Lincoln winning the election of 1860. This does not align with the reference answer, which is "John Wilkes Booth."
+[RESULT]: 1
