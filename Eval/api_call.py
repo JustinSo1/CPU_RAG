@@ -28,48 +28,49 @@ Score 5: The response is completely correct, accurate, and factual.
 
 ###Feedback:"""
 
+
 class API_CLIENT():
-  def __init__(self):
-    #Sets the current working directory to be the same as the file.
-    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+    def __init__(self):
+        # Sets the current working directory to be the same as the file.
+        os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-    #Load environment file for secrets.
-    try:
-        if load_dotenv('.env') is False:
-            raise TypeError
-    except TypeError:
-        print('Unable to load .env file.')
-        quit()
+        # Load environment file for secrets.
+        try:
+            if load_dotenv('.env') is False:
+                raise TypeError
+        except TypeError:
+            print('Unable to load .env file.')
+            quit()
 
-    #Create Azure client
-    self.client = AzureOpenAI(
-        api_key=os.environ['OPENAI_API_KEY'],
-        api_version=os.environ['API_VERSION'],
-        azure_endpoint = os.environ['OPENAI_API_BASE'],
-        organization = "016732"
-    )
-    self.model = os.environ['MODEL']
+        # Create Azure client
+        self.client = AzureOpenAI(
+            api_key=os.environ['OPENAI_API_KEY'],
+            api_version=os.environ['API_VERSION'],
+            azure_endpoint=os.environ['OPENAI_API_BASE'],
+            organization="016732"
+        )
+        self.model = os.environ['MODEL']
 
-  def send_query(self, inputPrompt, userAnswer, correctAnswer):
-   # Format the prompt with the given instruction, response, and reference answer
-    prompt = EVALUATION_PROMPT.format(
-        instruction=inputPrompt,
-        response=userAnswer,
-        reference_answer=correctAnswer
-    )
+    def send_query(self, inputPrompt, userAnswer, correctAnswer):
+        # Format the prompt with the given instruction, response, and reference answer
+        prompt = EVALUATION_PROMPT.format(
+            instruction=inputPrompt,
+            response=userAnswer,
+            reference_answer=correctAnswer
+        )
 
-    #Create Query
-    messages=[
-            {"role": "system","content": "You are a fair evaluator language model"},
-            {"role": "user","content": prompt},
+        # Create Query
+        messages = [
+            {"role": "system", "content": "You are a fair evaluator language model"},
+            {"role": "user", "content": prompt},
         ]
 
-    # Send a completion request.
-    response = self.client.chat.completions.create(
+        # Send a completion request.
+        response = self.client.chat.completions.create(
             model=self.model,
             messages=messages,
             temperature=0,
             stop=None)
 
-    #Print response.
-    return response.choices[0].message.content
+        # Print response.
+        return response.choices[0].message.content
