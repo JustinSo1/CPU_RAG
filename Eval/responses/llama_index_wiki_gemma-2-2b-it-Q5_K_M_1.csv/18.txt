@@ -1,9 +1,7 @@
-[PROMPT]: Was Abraham Lincoln the first President of the United States?
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
 [USER_ANSWER]: 
-Yes. 
-Explanation: 
-The text states that Lincoln began his political career in 1832, at age 23, with an unsuccessful campaign for the Illinois General Assembly. 
+Lincoln issued the Emancipation Proclamation for several reasons. First, it was a war measure to weaken the rebellion by destroying the economic base of its leadership class. Second, it showed that Lincoln had the support of Congress in liberating slaves owned by rebels. Third, it was a way to make the abolition of slavery an official war goal. 
 
-[CORRECT_ANSWER]: No
-[FEEDBACK]: The response is completely incorrect and inaccurate. Abraham Lincoln was not the first President of the United States; George Washington was. The explanation provided does not address the question and is irrelevant to the accuracy of the response.
-[RESULT]: 1
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response provides a detailed explanation of the reasons behind Lincoln issuing the Emancipation Proclamation, which includes weakening the rebellion, showing Congressional support, and making abolition an official war goal. However, the reference answer is very concise and focuses solely on the primary reason: to free slaves. While the response is mostly correct and factual, it does not align perfectly with the simplicity and directness of the reference answer.
+[RESULT]: 4

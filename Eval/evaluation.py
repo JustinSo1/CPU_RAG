@@ -37,6 +37,7 @@ def check_failures(input_string):
 
 
 def process_csv_and_call_api(file_name):
+    # TODO: Refactor this to only create directories and count failures
     global counter_context_exist
     global counter_context_missing
     # TODO: Change this to use pandas package
@@ -76,30 +77,33 @@ def process_feedback(feedback, id, inputPrompt, userAnswer, correctAnswer, file_
 if __name__ == '__main__':
     accuracy_dict = {}
     # rag-mini-wikipedia
-    # file_names = glob.glob("../data/dataset/rag_wikipedia/results/chunking_neighbors/*.csv")
-    file_names = ['llama_index_wiki_gemma-2-2b-it-Q5_K_M_1.csv']
+    file_names = glob.glob("../data/dataset/rag_wikipedia/results/chunking_neighbors/*.csv")
+    # file_names = ['llama_index_wiki_gemma-2-2b-it-Q5_K_M_1.csv']
     # ====================================================
-    # TODO: this code is for preprocessing file for one time use. Remove in future and add in proper formatting
+    # # TODO: this code is for preprocessing file for one time use. Remove in future and add in proper formatting
     # df = pd.read_csv(file_names[0], index_col=0)
-    # df = df.transpose()
+    # # df = df.transpose()
+    # df = df['Answer']
     # print(df)
-    # df.to_csv('llama_index_wiki_gemma-2-2b-it-Q5_K_M_1.csv')
+    # df.to_csv('llama_index_wiki_gpt-4o_1.csv')
     # ====================================================
 
     for file_name in file_names:
         print(f"Processing {file_name}")
         process_csv_and_call_api(file_name)
         global_ds = load_the_dataset()
+        questions = global_ds['test']['question']
+        correct_answers = global_ds['test']['answer']
+
+        df = pd.read_csv(file_name, index_col=0)
+
+        user_answers = df['Answer'].tolist()
         api_obj = API_CLIENT()
-        for index in map.keys():
-            cur = global_ds['test'][index]
-            inputPrompt = cur['question']
-            userAnswer = map[index]
-            correctAnswer = cur['answer']
-            q_id = cur['id']
-            print(f"Processing {index}")
-            feedback = api_obj.send_query(inputPrompt, userAnswer, correctAnswer)
-            curScore = process_feedback(feedback, q_id, inputPrompt, userAnswer, correctAnswer, file_name)
+        for i, (question, correct_answer, user_answer) in enumerate(zip(questions, correct_answers, user_answers),
+                                                                    start=1):
+            print(f"Question ID: {i}, Question: {question}, CA: {correct_answer}, UA: {user_answer}")
+            feedback = api_obj.send_query(question, user_answer, correct_answer)
+            curScore = process_feedback(feedback, i, question, user_answer, correct_answer, file_name)
             score_map[curScore] = score_map.get(curScore, 0) + 1
             total_score += curScore
         print(f"Context missing: {counter_context_missing}")
@@ -113,4 +117,4 @@ if __name__ == '__main__':
             'score_map': dict(score_map)
         }
     df = pd.DataFrame.from_dict(accuracy_dict)
-    df.to_csv('gemma_wiki_llamaindex_accuracy_stats.csv')
+    df.to_csv('gemma_wiki_chunking_accuracy_stats.csv')

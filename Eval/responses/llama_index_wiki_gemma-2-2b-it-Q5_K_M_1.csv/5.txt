@@ -1,0 +1,5 @@
+[PROMPT]: When did Lincoln begin his political career?
+[USER_ANSWER]: 1832.0
+[CORRECT_ANSWER]: 1832
+[FEEDBACK]: The response "1832.0" is mostly correct and accurate, as it provides the correct year when Lincoln began his political career. However, the inclusion of the decimal ".0" makes it slightly inaccurate in terms of formatting, as the reference answer is simply "1832". This minor discrepancy prevents it from being completely correct.
+[RESULT]: 4

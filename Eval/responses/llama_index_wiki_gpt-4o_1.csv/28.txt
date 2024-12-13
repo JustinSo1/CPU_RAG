@@ -1,0 +1,5 @@
+[PROMPT]: Who is most noted for his contributions to the theory of molarity and molecular weight?
+[USER_ANSWER]: Lorenzo Romano Amedeo Carlo Avogadro is most noted for his contributions to the theory of molarity and molecular weight.
+[CORRECT_ANSWER]: Amedeo Avogadro
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Amedeo Avogadro as the person noted for his contributions to the theory of molarity and molecular weight. However, the inclusion of his full name, while not incorrect, is more detailed than necessary compared to the reference answer. This additional detail does not detract from the accuracy but is not required for a perfect score based on the reference answer.
+[RESULT]: 4

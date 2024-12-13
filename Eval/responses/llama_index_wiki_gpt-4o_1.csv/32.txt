@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he became a professor in 1820?
+[USER_ANSWER]: Yes, it is true that he became a professor in 1820.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question with a clear affirmation that matches the reference answer.
+[RESULT]: 5

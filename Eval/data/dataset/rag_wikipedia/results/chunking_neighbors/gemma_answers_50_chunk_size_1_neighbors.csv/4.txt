@@ -1,5 +1,5 @@
-[PROMPT]: Did his mother die of pneumonia?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: no
-[FEEDBACK]: The response does not directly answer the question and instead provides an explanation about the knowledge base, which is not relevant to the question asked. It does not provide any factual information regarding whether his mother died of pneumonia. Therefore, it is completely incorrect and inaccurate based on the reference answer.
+[PROMPT]: How many long was Lincoln's formal education?
+[USER_ANSWER]: The context does not provide any information about the length of Lincoln's formal education, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 18 months
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information regarding the length of Lincoln's formal education. The reference answer clearly states that Lincoln's formal education lasted 18 months, but the response fails to mention this and instead states that the context does not provide the information. This makes the response completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

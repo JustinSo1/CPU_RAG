@@ -1,0 +1,5 @@
+[PROMPT]: Who suggested Lincoln grow a beard?
+[USER_ANSWER]: An 11-year-old girl named Grace Bedell suggested Lincoln grow a beard.
+[CORRECT_ANSWER]: 11-year-old Grace Bedell
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the same information as the reference answer, with the addition of specifying that Grace Bedell was an 11-year-old girl, which is accurate and adds context without altering the correctness of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: When was the first photgraph of lincoln taken?
+[USER_ANSWER]: 1846.0
+[CORRECT_ANSWER]: 1846
+[FEEDBACK]: The response "1846.0" is mostly correct and accurate, as it provides the correct year. However, the inclusion of the decimal point makes it slightly imprecise compared to the reference answer "1846".
+[RESULT]: 4

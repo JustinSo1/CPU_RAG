@@ -1,5 +1,7 @@
-[PROMPT]: How many long was Lincoln's formal education?
-[USER_ANSWER]: 1832.0
-[CORRECT_ANSWER]: 18 months
-[FEEDBACK]: The response "1832.0" is completely incorrect and not factual when compared to the reference answer "18 months." The response does not provide any relevant information about the duration of Lincoln's formal education.
-[RESULT]: 1
+[PROMPT]: What did The Legal Tender Act of 1862 establish?
+[USER_ANSWER]: 
+The Legal Tender Act of 1862 established the United States Note, the first paper currency in United States history. 
+
+[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
+[FEEDBACK]: The response accurately states that The Legal Tender Act of 1862 established the United States Note, the first paper currency in United States history. This matches the reference answer completely and is factually correct.
+[RESULT]: 5

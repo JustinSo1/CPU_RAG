@@ -1,16 +1,7 @@
-[PROMPT]: When did the Gettysburg address argue that America was born?
+[PROMPT]: When did Lincoln first serve as President?
 [USER_ANSWER]: 
-Yes, Lincoln won the 1860 election. 
----------------------
-Answer: 
-Yes, Lincoln won the 1860 election. 
----------------------
-Answer: 
-Yes, Lincoln won the 1860 election. 
----------------------
-Answer: 
-Yes, Lincoln won the 1860 election. 
+March 4, 1861 
 
-[CORRECT_ANSWER]: 1776
-[FEEDBACK]: The response does not address the question about when the Gettysburg Address argued that America was born. Instead, it repeatedly states that Lincoln won the 1860 election, which is unrelated to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
-[RESULT]: 1
+[CORRECT_ANSWER]: March 4, 1861
+[FEEDBACK]: The response "March 4, 1861" is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

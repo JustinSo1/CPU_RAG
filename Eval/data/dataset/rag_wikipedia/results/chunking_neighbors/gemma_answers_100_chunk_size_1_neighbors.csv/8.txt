@@ -1,5 +1,5 @@
-[PROMPT]: When did Lincoln begin his political career?
-[USER_ANSWER]: The context does not provide any information about when Lincoln began his political career, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 1832
-[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question. This makes the response completely incorrect and inaccurate based on the reference answer, which is "1832."
+[PROMPT]: When did the Gettysburg address argue that America was born?
+[USER_ANSWER]: The context does not provide any information about when the Gettysburg address argued that America was born. Therefore, I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response does not provide the correct answer to the question. The Gettysburg Address, delivered by Abraham Lincoln, argued that America was born in 1776, which is a factual and specific detail. The response fails to address this and instead states that the context does not provide the information, which is inaccurate. Therefore, the response is completely incorrect and not factual based on the reference answer.
 [RESULT]: 1

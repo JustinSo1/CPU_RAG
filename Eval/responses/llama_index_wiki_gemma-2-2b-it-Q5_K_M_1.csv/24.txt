@@ -1,7 +1,8 @@
-[PROMPT]: Which county was Lincoln born in?
+[PROMPT]: How long was Lincoln's legal Career?
 [USER_ANSWER]: 
-March 4, 1861 
+---------------------
+Lincoln's legal career lasted for **23 years**. 
 
-[CORRECT_ANSWER]: Hardin County
-[FEEDBACK]: The response "March 4, 1861" is completely incorrect and not factual in relation to the question about the county where Lincoln was born. The correct answer is "Hardin County." The response does not address the question at all and provides an irrelevant date instead.
-[RESULT]: 1
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It states that Lincoln's legal career lasted for 23 years, which matches the reference answer exactly.
+[RESULT]: 5

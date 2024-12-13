@@ -1,7 +1,7 @@
-[PROMPT]: Who suggested Lincoln grow a beard?
+[PROMPT]: Did Lincoln ever represent Alton & Sangamon Railroad?
 [USER_ANSWER]: 
-The Gettysburg Address argued that America was born in **1776**. 
+Yes, Lincoln represented the Alton & Sangamon Railroad in a dispute with a shareholder, James A. Barret. 
 
-[CORRECT_ANSWER]: 11-year-old Grace Bedell
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the question of who suggested Lincoln grow a beard and instead provides unrelated information about the Gettysburg Address.
-[RESULT]: 1
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln represented the Alton & Sangamon Railroad, which aligns with the reference answer. However, the additional detail about the dispute with a shareholder, James A. Barret, while accurate, is not necessary to answer the question directly. This extra information does not detract from the correctness but is not required for a perfect score based on the simplicity of the reference answer.
+[RESULT]: 4

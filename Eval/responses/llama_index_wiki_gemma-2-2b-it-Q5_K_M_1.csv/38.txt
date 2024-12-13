@@ -1,0 +1,7 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: 
+Yes. The text states that "The scientific community did not reserve great attention to his theory, so Avogadro's hypothesis was not immediately accepted when announced." 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is correct, accurate, and factual. It directly addresses the question by confirming that the scientific community did not reserve great attention to his theory and provides additional context from the text to support this statement. This aligns well with the reference answer, which is a simple affirmation.
+[RESULT]: 5

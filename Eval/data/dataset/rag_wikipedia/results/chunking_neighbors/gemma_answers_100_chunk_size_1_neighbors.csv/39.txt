@@ -1,5 +1,9 @@
-[PROMPT]: Did lincoln have 18 months of schooling?
-[USER_ANSWER]: Yes, Lincoln had 18 months of formal education, primarily through self-directed learning.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is mostly correct in stating that Lincoln had 18 months of formal education. However, the additional detail about self-directed learning, while true, is not necessary and deviates from the simplicity of the reference answer. This makes the response slightly less accurate in the context of the given instruction.
-[RESULT]: 4
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: Sure, here's the answer:
+
+The title of the famous 1811 paper in French is "Sur l'intégration des infiniment petits quantités de gaz".
+
+The English translation of this title would be "On the integration of infinitely small quantities of gas".
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed translation of the title of the famous 1811 paper, which is not required by the instruction. The instruction only asks if the title can be roughly translated into English, to which the reference answer simply responds "yes." While the translation provided is accurate, the response does not align with the simplicity and directness of the reference answer. Therefore, it is not completely correct based on the given rubric.
+[RESULT]: 3

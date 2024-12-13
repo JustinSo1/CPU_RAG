@@ -1,0 +1,5 @@
+[PROMPT]: When did he become a professor?
+[USER_ANSWER]: He became a professor in 1890.
+[CORRECT_ANSWER]: 1820
+[FEEDBACK]: The response "He became a professor in 1890" is completely incorrect and inaccurate based on the reference answer "1820." The year provided in the response does not match the reference year at all.
+[RESULT]: 1

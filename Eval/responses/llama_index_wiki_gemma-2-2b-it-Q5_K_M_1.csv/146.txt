@@ -1,7 +1,0 @@
-[PROMPT]: Is The Celsius crater on the Moon named after him?
-[USER_ANSWER]: 
-Anders Celsius 
-
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response "Anders Celsius" does not directly answer the question "Is The Celsius crater on the Moon named after him?" The reference answer "Yes" indicates that the correct response should be a confirmation. The given response provides the name of the person after whom the crater is named, but it does not explicitly confirm the naming. Therefore, it is not completely correct, accurate, or factual based on the reference answer.
-[RESULT]: 2

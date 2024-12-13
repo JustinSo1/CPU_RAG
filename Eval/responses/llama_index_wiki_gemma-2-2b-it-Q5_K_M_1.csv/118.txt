@@ -1,7 +1,0 @@
-[PROMPT]: Is Avogadro 's number commonly used to compute the results of chemical reactions ?
-[USER_ANSWER]: 
-Yes. The text states that "The scientific community did not reserve great attention to his theory, so Avogadro's hypothesis was not immediately accepted when announced." 
-
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is not accurate or factual in relation to the question asked. The question is about the common use of Avogadro's number in computing chemical reactions, but the response discusses the historical acceptance of Avogadro's hypothesis, which is irrelevant to the question. Therefore, the response does not address the question correctly or accurately.
-[RESULT]: 1

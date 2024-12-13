@@ -1,7 +1,0 @@
-[PROMPT]: What happened in 1833?
-[USER_ANSWER]: 
-Anders Celsius 
-
-[CORRECT_ANSWER]: Avogadro had been recalled to Turin university
-[FEEDBACK]: The response "Anders Celsius" is completely incorrect and inaccurate based on the reference answer. Anders Celsius is not related to the event that happened in 1833, which is Avogadro being recalled to Turin university. The response does not provide any factual information relevant to the question asked.
-[RESULT]: 1

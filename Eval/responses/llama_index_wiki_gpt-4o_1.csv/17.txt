@@ -1,0 +1,5 @@
+[PROMPT]: Who was the general in charge at the Battle of Antietam?
+[USER_ANSWER]: The general in charge at the Battle of Antietam was George B. McClellan.
+[CORRECT_ANSWER]: General McClellan
+[FEEDBACK]: The response "The general in charge at the Battle of Antietam was George B. McClellan." is completely correct, accurate, and factual based on the reference answer "General McClellan." The response provides the full name of the general, which is more detailed but still accurate.
+[RESULT]: 5

@@ -1,5 +1,7 @@
-[PROMPT]: How old was Lincoln in 1816?
-[USER_ANSWER]: 1846.0
-[CORRECT_ANSWER]: seven
-[FEEDBACK]: The response "1846.0" is completely incorrect and inaccurate based on the reference answer "seven." The response does not provide a factual or relevant answer to the question about Lincoln's age in 1816.
+[PROMPT]: When did he publish a collection?
+[USER_ANSWER]: 
+**John Adams published a collection of his personal library in 1958.** 
+
+[CORRECT_ANSWER]: 1733
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer indicates that the collection was published in 1733, while the response incorrectly states that John Adams published a collection of his personal library in 1958. There is no alignment between the response and the reference answer.
 [RESULT]: 1

@@ -1,7 +1,8 @@
-[PROMPT]: How long was Lincoln's legal Career?
+[PROMPT]: Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
 [USER_ANSWER]: 
-The trial where Lincoln used a Farmers' Almanac to show that an eyewitness had lied on the stand was the case of William "Duff" Armstrong, who was charged with murder. 
+Yes. 
+---------------------
 
-[CORRECT_ANSWER]: 23 years
-[FEEDBACK]: The response does not address the question about the length of Lincoln's legal career. Instead, it provides information about a specific case in which Lincoln was involved. This information is not relevant to the question asked and does not provide any factual details about the duration of Lincoln's legal career. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It directly answers the question with a simple "Yes," which is all that is required for this particular instruction.
+[RESULT]: 5

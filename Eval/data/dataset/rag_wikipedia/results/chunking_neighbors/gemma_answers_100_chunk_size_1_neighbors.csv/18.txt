@@ -1,5 +1,5 @@
-[PROMPT]: Was Abraham Lincoln the first President of the United States?
-[USER_ANSWER]: The context does not provide any relevant information about the first President of the United States, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: No
-[FEEDBACK]: The response does not directly answer the question "Was Abraham Lincoln the first President of the United States?" Instead, it mentions the lack of context, which is not relevant to the accuracy of the answer. The correct and factual answer is simply "No," as Abraham Lincoln was not the first President of the United States. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
+[USER_ANSWER]: The context does not provide any information about the reasons why Lincoln issued the Emancipation Proclamation, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response does not address the question directly and instead mentions the lack of context, which is not relevant to the evaluation criteria. The question asks for the reason why Lincoln issued the Emancipation Proclamation, and the response fails to provide any information related to that. Therefore, it is completely incorrect and does not align with the reference answer.
 [RESULT]: 1

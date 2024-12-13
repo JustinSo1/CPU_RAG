@@ -1,0 +1,5 @@
+[PROMPT]: Did his mother die of pneumonia?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not provide a direct answer to the question. It states that the knowledge base does not have a match and then mentions answering based on its own knowledge, but it does not actually provide the factual information needed. Therefore, it is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

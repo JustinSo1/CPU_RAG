@@ -1,7 +1,7 @@
-[PROMPT]: Who was the general in charge at the Battle of Antietam?
+[PROMPT]: Is it true that he became a professor in 1820?
 [USER_ANSWER]: 
-Lincoln issued the Emancipation Proclamation for several reasons. First, it was a war measure to weaken the rebellion by destroying the economic base of its leadership class. Second, it showed that Lincoln had the support of Congress in liberating slaves owned by rebels. Third, it was a way to make the abolition of slavery an official war goal. 
+Yes, it is true that he became a professor of physics at the University of Turin in 1820. 
 
-[CORRECT_ANSWER]: General McClellan
-[FEEDBACK]: The response does not address the question asked. The instruction was to identify the general in charge at the Battle of Antietam, but the response discusses the reasons behind Lincoln issuing the Emancipation Proclamation, which is unrelated to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
-[RESULT]: 1
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that he became a professor in 1820, which aligns with the reference answer. However, it includes additional information about the specific subject and university, which, while potentially accurate, is not necessary to answer the question directly. The reference answer is more concise and directly addresses the question without additional details.
+[RESULT]: 4

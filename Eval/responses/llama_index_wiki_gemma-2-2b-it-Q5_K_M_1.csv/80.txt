@@ -1,7 +1,0 @@
-[PROMPT]: Who is most noted for his contributions to the theory of molarity and molecular weight?
-[USER_ANSWER]: 
-John Adams 
-
-[CORRECT_ANSWER]: Amedeo Avogadro
-[FEEDBACK]: The response "John Adams" is completely incorrect, inaccurate, and not factual based on the reference answer "Amedeo Avogadro," who is most noted for his contributions to the theory of molarity and molecular weight.
-[RESULT]: 1

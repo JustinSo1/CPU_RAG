@@ -1,5 +1,5 @@
-[PROMPT]: Was Lincoln chosen as a presidential candidate in 1860?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not provide a direct answer to the question about Lincoln being chosen as a presidential candidate in 1860. Instead, it mentions the inability to find a match in the knowledge base and does not address the factual accuracy of the event in question. Therefore, it is completely incorrect and not factual based on the reference answer.
+[PROMPT]: Who determined the dependence of the boiling of water with atmospheric pressure?
+[USER_ANSWER]: The context does not provide any information about who determined the dependence of the boiling of water with atmospheric pressure, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Anders Celsius
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question, which is not relevant to the task. The correct answer, as indicated by the reference answer, is "Anders Celsius." Therefore, the response is completely incorrect and not factual based on the reference answer.
 [RESULT]: 1

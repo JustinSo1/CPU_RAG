@@ -1,0 +1,5 @@
+[PROMPT]: When did he publish a collection?
+[USER_ANSWER]: He published a collection in 1967.
+[CORRECT_ANSWER]: 1733
+[FEEDBACK]: The response "He published a collection in 1967" is completely incorrect, inaccurate, and not factual based on the reference answer "1733." The year provided in the response does not match the year in the reference answer.
+[RESULT]: 1

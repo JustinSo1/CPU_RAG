@@ -1,0 +1,7 @@
+[PROMPT]: Who assassinated Lincoln?
+[USER_ANSWER]: 
+John Wilkes Booth 
+
+[CORRECT_ANSWER]: John Wilkes Booth
+[FEEDBACK]: The response "John Wilkes Booth" is completely correct, accurate, and factual based on the reference answer. It matches the reference answer exactly and provides the correct information regarding who assassinated Lincoln.
+[RESULT]: 5

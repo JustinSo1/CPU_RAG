@@ -1,5 +1,5 @@
-[PROMPT]: Did his mother die of pneumonia?
-[USER_ANSWER]: The context does not provide any information about the death of Hannah Ayscough Wilson, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: no
-[FEEDBACK]: The response is somewhat correct in that it acknowledges the lack of information in the provided context. However, it does not directly answer the question with a simple "no" as the reference answer does. The response is accurate in stating that the context does not provide the information, but it does not fully align with the reference answer's directness and simplicity.
-[RESULT]: 3
+[PROMPT]: How many long was Lincoln's formal education?
+[USER_ANSWER]: Lincoln's formal education consisted of about 18 months of schooling, primarily self-taught.
+[CORRECT_ANSWER]: 18 months
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln's formal education consisted of about 18 months of schooling, which aligns with the reference answer. However, the additional detail about being primarily self-taught, while true, is not necessary for the specific question asked. This extra information does not detract significantly from the accuracy but does make the response slightly more verbose than required.
+[RESULT]: 4

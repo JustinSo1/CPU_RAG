@@ -1,7 +1,0 @@
-[PROMPT]: What is named after him?
-[USER_ANSWER]: 
-**John Adams published a collection of his personal library in 1958.** 
-
-[CORRECT_ANSWER]: The Celsius crater on the Moon
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the Celsius crater on the Moon is named after him, while the response talks about John Adams publishing a collection of his personal library, which is unrelated to the question.
-[RESULT]: 1
