@@ -1,0 +1,5 @@
+[PROMPT]: How old was Lincoln in 1816?
+[USER_ANSWER]: Lincoln was seven years old in 1816.
+[CORRECT_ANSWER]: seven
+[FEEDBACK]: The response "Lincoln was seven years old in 1816" is mostly correct, accurate, and factual. It provides the correct age of Lincoln in 1816, which matches the reference answer "seven." However, the response includes additional context that was not required by the instruction. While this does not make the response incorrect, it slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

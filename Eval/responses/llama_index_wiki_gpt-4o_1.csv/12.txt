@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln ever represent Alton & Sangamon Railroad?
+[USER_ANSWER]: Yes, Lincoln represented the Alton & Sangamon Railroad in a legal dispute with a shareholder named James A. Barret.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln represented the Alton & Sangamon Railroad, which aligns with the reference answer. However, it includes additional information about a legal dispute with a shareholder named James A. Barret, which, while accurate, is not necessary to answer the question directly. The extra detail does not detract from the correctness but is not required for a perfect score based on the simplicity of the reference answer.
+[RESULT]: 4

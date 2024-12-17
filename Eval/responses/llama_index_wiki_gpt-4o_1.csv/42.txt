@@ -1,0 +1,5 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: Several things are named after him, including the Lincoln automobile, the ballistic missile submarine Abraham Lincoln (SSBN-602), the aircraft carrier Abraham Lincoln (CVN-72), and the Liberty ship SS Nancy Hanks, named to honor his mother. Additionally, the American faction of the International Brigades during the Spanish Civil War named themselves the Abraham Lincoln Brigade.
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response provides several examples of things named after Abraham Lincoln, which are accurate and factual. However, the reference answer specifically mentions the Celsius crater on the Moon, which is not included in the response. Therefore, while the response is correct and factual, it does not align with the specific example given in the reference answer.
+[RESULT]: 3

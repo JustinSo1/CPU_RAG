@@ -1,5 +1,5 @@
 [PROMPT]: Where is old Ghana in relation to present Ghana?
 [USER_ANSWER]: Old Ghana was located 500 miles north of present Ghana, occupying the area between Rivers Senegal and Niger.
 [CORRECT_ANSWER]: 500 miles north
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that old Ghana was located 500 miles north of present Ghana, which aligns with the reference answer. However, the additional information about the area between Rivers Senegal and Niger, while not incorrect, is not necessary for the response and slightly deviates from the simplicity of the reference answer.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that old Ghana was located 500 miles north of present Ghana, which aligns with the reference answer. However, it adds additional information about the location between Rivers Senegal and Niger, which, while not incorrect, is not necessary for the answer and slightly deviates from the simplicity of the reference answer.
 [RESULT]: 4

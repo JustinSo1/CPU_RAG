@@ -1,5 +1,5 @@
 [PROMPT]: What does "Era of Good Feelings" refers to?
 [USER_ANSWER]: Sure, the "Era of Good Feelings" refers to a period in history when the restoration of traditional language, tradition, and personal contact between peoples was maintained.
 [CORRECT_ANSWER]: Reduced tension
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The "Era of Good Feelings" refers to a period in American history characterized by a sense of national purpose and a desire for unity among Americans in the aftermath of the War of 1812, not the restoration of traditional language, tradition, and personal contact between peoples. The response does not align with the reference answer, which indicates reduced tension.
-[RESULT]: 1
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The "Era of Good Feelings" specifically refers to a period in U.S. history characterized by a sense of national purpose and a desire for unity among Americans in the aftermath of the War of 1812, rather than the restoration of traditional language, tradition, and personal contact between peoples. The reference answer "Reduced tension" is more aligned with the historical context of reduced political strife and increased national unity.
+[RESULT]: 2

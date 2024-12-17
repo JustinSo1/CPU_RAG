@@ -1,5 +1,5 @@
 [PROMPT]: Who appointed Harlan Fiske Stone to the Supreme Court?
 [USER_ANSWER]: Sure, Chief Justice Harlan Fiske Stone Coolidge appointed one Justice to the Supreme Court in 1925.
 [CORRECT_ANSWER]: Coolidge
-[FEEDBACK]: The response is mostly incorrect and inaccurate. While it correctly identifies Coolidge as the person who appointed Harlan Fiske Stone, it incorrectly states that Stone was appointed as Chief Justice and provides an incorrect year (1925) for the appointment. The correct information is that Coolidge appointed Stone as an Associate Justice in 1925, and Stone was later appointed as Chief Justice by Franklin D. Roosevelt in 1941. Therefore, the response contains significant inaccuracies and does not align well with the reference answer.
-[RESULT]: 2
+[FEEDBACK]: The response is somewhat correct in identifying Coolidge as the person who appointed Harlan Fiske Stone to the Supreme Court. However, it includes unnecessary and incorrect information about Stone being appointed in 1925 and being referred to as Chief Justice at that time, which is not accurate. The correct and factual part of the response is the mention of Coolidge.
+[RESULT]: 3

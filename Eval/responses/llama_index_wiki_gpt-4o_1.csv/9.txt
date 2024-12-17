@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln beat John C. Breckinridge in the 1860 election?
+[USER_ANSWER]: Yes, Lincoln beat John C. Breckinridge in the 1860 election.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question with the same information as the reference answer, providing a clear and concise confirmation that Lincoln beat John C. Breckinridge in the 1860 election.
+[RESULT]: 5

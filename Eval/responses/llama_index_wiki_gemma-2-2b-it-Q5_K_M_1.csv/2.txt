@@ -1,0 +1,7 @@
+[PROMPT]: Did Lincoln sign the National Banking Act of 1863?
+[USER_ANSWER]: 
+**No.** The provided text states that the National Banking Acts of 1863, 1864, and 1865 were created to allow the creation of a strong national financial system. It does not mention Lincoln signing any of these acts. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that Lincoln did sign the National Banking Act of 1863. The response incorrectly states "No" and provides an explanation that is not aligned with the factual information provided in the reference answer.
+[RESULT]: 1

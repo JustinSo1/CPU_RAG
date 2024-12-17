@@ -1,0 +1,5 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: No, the scientific community did not reserve great attention to his theory.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the correct response should be "yes," while the given response is "No, the scientific community did not reserve great attention to his theory," which directly contradicts the reference answer.
+[RESULT]: 1

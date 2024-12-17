@@ -3,5 +3,5 @@
 
 Birds, fish, mammals, and avian hunters are some of the main predators of ducks.
 [CORRECT_ANSWER]: Pike, crocodilians, herons, hawks and eagles.
-[FEEDBACK]: The response is somewhat correct and factual. It correctly identifies broad categories of predators (birds, fish, mammals, and avian hunters) but lacks the specific examples provided in the reference answer (pike, crocodilians, herons, hawks, and eagles). The response is not as detailed or specific as the reference answer, which affects its accuracy and completeness.
+[FEEDBACK]: The response is somewhat correct and factual. It correctly identifies broad categories of predators (birds, fish, mammals, and avian hunters) but does not provide specific examples as the reference answer does (pike, crocodilians, herons, hawks, and eagles). The lack of specific examples makes the response less accurate and detailed compared to the reference answer.
 [RESULT]: 3

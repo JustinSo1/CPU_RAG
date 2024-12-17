@@ -1,0 +1,5 @@
+[PROMPT]: When did the Gettysburg address argue that America was born?
+[USER_ANSWER]: The Gettysburg Address argued that America was born in 1776, not 1763.
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response correctly identifies that the Gettysburg Address argued that America was born in 1776. However, the additional information about 1763 is unnecessary and slightly detracts from the precision of the answer. While the core information is accurate, the extra detail makes the response less concise than the reference answer.
+[RESULT]: 4

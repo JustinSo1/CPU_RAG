@@ -1,0 +1,5 @@
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: Sure, the title of the 1811 paper can be roughly translated into English as "On the Relative Weight of Substances".
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a specific translation of the title of the 1811 paper, which is more detailed than the reference answer. However, the reference answer is a simple affirmation ("yes"), which is completely correct, accurate, and factual. The response, while informative, goes beyond the simplicity of the reference answer. Therefore, it is mostly correct, accurate, and factual, but not completely aligned with the reference answer's simplicity.
+[RESULT]: 4

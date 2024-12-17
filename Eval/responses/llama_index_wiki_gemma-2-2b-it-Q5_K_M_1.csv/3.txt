@@ -1,0 +1,7 @@
+[PROMPT]: Did his mother die of pneumonia?
+[USER_ANSWER]: 
+No, the context does not state that his mother died of pneumonia. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that the context does not indicate that his mother died of pneumonia. However, the response is more detailed than necessary, whereas the reference answer is a simple "no." This additional detail does not detract from the accuracy but does make the response slightly more verbose than required.
+[RESULT]: 4

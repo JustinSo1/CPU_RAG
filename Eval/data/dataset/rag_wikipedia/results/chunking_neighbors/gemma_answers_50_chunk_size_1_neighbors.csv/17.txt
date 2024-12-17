@@ -1,0 +1,5 @@
+[PROMPT]: Who was the general in charge at the Battle of Antietam?
+[USER_ANSWER]: The context does not provide the name of the general in charge at the Battle of Antietam, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: General McClellan
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it mentions the lack of context, which is not relevant to the task of identifying the general in charge at the Battle of Antietam. The correct answer, General McClellan, is not mentioned at all, making the response completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

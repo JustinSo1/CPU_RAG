@@ -1,5 +1,5 @@
 [PROMPT]: Does Egypt have political influence in the Middle East?
 [USER_ANSWER]: Yes, Egypt has significant political influence in the Middle East due to its geographical location and commitment to Arabism.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Egypt has significant political influence in the Middle East, which aligns with the reference answer. However, it provides additional information about Egypt's geographical location and commitment to Arabism, which, while accurate, is not necessary based on the reference answer. The reference answer is very brief and to the point, while the response adds extra context that was not required.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Egypt has significant political influence in the Middle East, which aligns with the reference answer. However, it adds additional information about Egypt's geographical location and commitment to Arabism, which, while accurate, is not necessary based on the reference answer. The response goes beyond the simplicity of the reference answer but remains factually correct.
 [RESULT]: 4

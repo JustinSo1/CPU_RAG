@@ -1,0 +1,5 @@
+[PROMPT]: Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
+[USER_ANSWER]: Sure, Anders Celsius was a Swedish astronomer. The context provides the birth and death dates of Celsius, which are both relevant to his status as an astronomer.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Anders Celsius as a Swedish astronomer, which aligns with the reference answer. However, the additional information about the birth and death dates being relevant to his status as an astronomer is unnecessary and does not directly address the question. This extra detail, while not incorrect, does not contribute to the accuracy of the response in the context of the question asked.
+[RESULT]: 4

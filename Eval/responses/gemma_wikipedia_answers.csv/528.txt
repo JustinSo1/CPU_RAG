@@ -1,5 +1,5 @@
 [PROMPT]: Does a large proportion of the population speak Swedish as its mother tongue?
 [USER_ANSWER]: The context does not provide any information about the proportion of the population that speaks Swedish as their mother tongue, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: No
-[FEEDBACK]: The response does not directly answer the question. Instead, it states that there is no information provided to answer the question, which is not aligned with the reference answer "No." Therefore, the response is not correct, accurate, or factual based on the reference answer.
-[RESULT]: 1
+[FEEDBACK]: The response does not directly answer the question about whether a large proportion of the population speaks Swedish as their mother tongue. Instead, it states that the context does not provide the necessary information to answer the question. This makes the response somewhat correct in terms of acknowledging the lack of information, but it does not provide the factual answer "No" as required by the reference answer. Therefore, it is not completely correct, accurate, and factual.
+[RESULT]: 3

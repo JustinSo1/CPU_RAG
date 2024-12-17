@@ -1,0 +1,5 @@
+[PROMPT]: Was Abraham Lincoln the first President of the United States?
+[USER_ANSWER]: The context does not provide any information about Abraham Lincoln being the first President of the United States, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The question "Was Abraham Lincoln the first President of the United States?" has a straightforward factual answer, which is "No." The response provided does not address the question directly and instead mentions the lack of context, which is irrelevant to the factual nature of the question. Therefore, the response fails to provide the correct information.
+[RESULT]: 1

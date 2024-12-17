@@ -79,7 +79,7 @@ class GemmaCPPPython:
     def __init__(self, tokenizer, compressed_weights, n_threads=max(multiprocessing.cpu_count() - 2, 1),
                  model_type=ModelType.Gemma2B,
                  model_training=ModelTraining.GEMMA_IT):
-        #         self.gemma_cpp = gemma_cpp
+        #         self.rag_gemma_cpp = rag_gemma_cpp
         #         self.tokenizer = tokenizer
         #         self.compressed_weights = compressed_weights
         #         self.model = model

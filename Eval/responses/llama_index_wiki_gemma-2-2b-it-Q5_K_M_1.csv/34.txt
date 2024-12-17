@@ -1,0 +1,8 @@
+[PROMPT]: Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+[USER_ANSWER]: 
+Yes. 
+---------------------
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It confirms the information provided in the instruction without any errors or additional unnecessary details.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln sign the National Banking Act of 1863?
+[USER_ANSWER]: The context does not provide any information about whether President Abraham Lincoln signed the National Banking Act of 1863, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "yes," indicating that President Abraham Lincoln did sign the National Banking Act of 1863. The response, however, states that the context does not provide information about this, which is not relevant to the correctness of the answer itself. Therefore, the response does not align with the reference answer and fails to provide the correct information.
+[RESULT]: 1

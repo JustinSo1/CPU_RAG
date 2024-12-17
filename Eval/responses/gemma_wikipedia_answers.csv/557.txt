@@ -1,5 +1,5 @@
 [PROMPT]: Was Ford a member of the House of Representatives?
 [USER_ANSWER]: Sure, Ford was a member of the House of Representatives for 24 years, serving from 1949 to 1973.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Ford was a member of the House of Representatives and provides additional details about his tenure. However, the reference answer is simply "Yes," which is a complete and accurate response to the question. The additional information, while accurate, is not necessary to answer the question as asked.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Ford was a member of the House of Representatives and provides additional details about his tenure, which are accurate. However, the reference answer is a simple "Yes," indicating that a more concise response would have been sufficient. The additional information, while accurate, is not necessary to answer the question directly.
 [RESULT]: 4

@@ -1,0 +1,7 @@
+[PROMPT]: When did Lincoln begin his political career?
+[USER_ANSWER]: Sure, here's the answer:
+
+Lincoln began his political career in 1832, when he was 10 years old, when he was elected to the Illinois House of Representatives.
+[CORRECT_ANSWER]: 1832
+[FEEDBACK]: The response contains a significant factual inaccuracy. While it correctly identifies the year 1832, it incorrectly states that Lincoln was 10 years old and that he was elected to the Illinois House of Representatives at that time. Lincoln was actually 23 years old in 1832 and ran for the Illinois General Assembly, not the House of Representatives. This makes the response mostly incorrect and inaccurate.
+[RESULT]: 2

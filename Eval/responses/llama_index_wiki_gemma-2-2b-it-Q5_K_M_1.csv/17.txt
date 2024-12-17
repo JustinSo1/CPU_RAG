@@ -1,0 +1,8 @@
+[PROMPT]: Who was the general in charge at the Battle of Antietam?
+[USER_ANSWER]: 
+Lee's invasion of Maryland prompted Lincoln to restore McClellan to command of all forces around Washington in time for the Battle of Antietam. 
+ 
+
+[CORRECT_ANSWER]: General McClellan
+[FEEDBACK]: The response provides context about the Battle of Antietam and mentions McClellan, but it does not directly answer the question of who was the general in charge. The response is somewhat correct in mentioning McClellan, but it lacks the direct and clear answer required.
+[RESULT]: 3

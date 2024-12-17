@@ -1,5 +1,5 @@
 [PROMPT]: Is it true that he became a professor in 1820?
 [USER_ANSWER]: Yes, the context says that Avogadro became a professor of physics at the University of Turin in 1820.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Avogadro became a professor in 1820 and provides additional context by specifying that he became a professor of physics at the University of Turin. This additional information does not detract from the accuracy of the response but rather enhances it.
-[RESULT]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Avogadro became a professor in 1820, which aligns with the reference answer. However, it includes additional information about Avogadro becoming a professor of physics at the University of Turin, which is not necessary to answer the question. While this additional information is accurate, it is not required for a complete and factual response based on the reference answer.
+[RESULT]: 4

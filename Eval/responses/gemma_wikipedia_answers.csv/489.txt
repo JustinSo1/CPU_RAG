@@ -3,5 +3,5 @@
 
 I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: 75 years
-[FEEDBACK]: The response states that the life expectancy for men in Finland is 75 years, which matches the reference answer. However, the additional sentence about not finding a good match in the knowledge base is unnecessary and does not contribute to the accuracy of the response. Despite this, the core information provided is correct and factual.
+[FEEDBACK]: The response states that the life expectancy for men in Finland is 75 years, which matches the reference answer. However, the additional sentence about not finding a good match in the knowledge base is unnecessary and does not contribute to the accuracy of the response. Despite this, the core information provided is completely correct, accurate, and factual based on the reference answer.
 [RESULT]: 5

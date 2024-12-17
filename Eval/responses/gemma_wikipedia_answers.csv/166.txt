@@ -1,5 +1,5 @@
 [PROMPT]: Which type of beetle is a pest of potato plants?
 [USER_ANSWER]: Sure, the Colorado potato beetle, Leptinotarsa decemlineata, is a pest of potato plants.
 [CORRECT_ANSWER]: Colorado potato beetle
-[FEEDBACK]: The response correctly identifies the Colorado potato beetle as a pest of potato plants, which matches the reference answer. Additionally, the response provides the scientific name, Leptinotarsa decemlineata, which, while not necessary, is accurate and adds value. The response is completely correct, accurate, and factual based on the reference answer.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It identifies the Colorado potato beetle as the pest of potato plants and even provides the scientific name, Leptinotarsa decemlineata, which adds additional accuracy and detail.
 [RESULT]: 5

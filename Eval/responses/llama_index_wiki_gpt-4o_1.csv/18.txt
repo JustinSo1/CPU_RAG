@@ -1,0 +1,5 @@
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
+[USER_ANSWER]: Lincoln issued the Emancipation Proclamation as a war measure to weaken the rebellion by destroying the economic base of its leadership class. This move aimed to free slaves in territories not under Union control and make the abolition of slavery in the rebel states an official war goal.
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response provides a detailed explanation of Lincoln's motivations behind issuing the Emancipation Proclamation, focusing on its strategic importance in weakening the rebellion and its economic base. However, it does not directly address the primary reason mentioned in the reference answer, which is to free slaves. While the response is mostly correct and factual, it does not align perfectly with the simplicity and directness of the reference answer.
+[RESULT]: 4

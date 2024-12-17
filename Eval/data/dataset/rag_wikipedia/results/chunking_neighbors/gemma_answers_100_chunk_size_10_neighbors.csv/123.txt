@@ -1,0 +1,5 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: Sure, the scientific community did not reserve great attention to his theory. The context states that Newton's theory of gravity was not widely accepted at the time and that he did not receive much recognition for his work.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly addresses the question by stating that the scientific community did not reserve great attention to his theory. However, the additional context about Newton's theory of gravity not being widely accepted at the time and the lack of recognition for his work is not necessary and slightly deviates from the simplicity of the reference answer. The reference answer is concise and directly to the point, while the response adds extra information that, although accurate, is not required.
+[RESULT]: 4

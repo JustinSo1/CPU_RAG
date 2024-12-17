@@ -1,5 +1,5 @@
 [PROMPT]: What happened in 1867?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Canada was formed as a federal, semi-autonomous polity
-[FEEDBACK]: The response does not provide any factual information about what happened in 1867. It merely states that the knowledge base did not have a match and does not attempt to answer the question based on the responder's own knowledge. Therefore, it is completely incorrect and inaccurate based on the reference answer.
+[FEEDBACK]: The response does not provide any factual information about what happened in 1867. It merely states that the knowledge base did not have a match and offers no relevant historical details. Therefore, it is completely incorrect and not factual based on the reference answer.
 [RESULT]: 1

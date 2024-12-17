@@ -1,0 +1,7 @@
+[PROMPT]: When did he publish a collection?
+[USER_ANSWER]: 
+**John Adams published a collection of his personal library in 1958.** 
+
+[CORRECT_ANSWER]: 1733
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer indicates that the collection was published in 1733, while the response incorrectly states that John Adams published a collection of his personal library in 1958. There is no alignment between the response and the reference answer.
+[RESULT]: 1

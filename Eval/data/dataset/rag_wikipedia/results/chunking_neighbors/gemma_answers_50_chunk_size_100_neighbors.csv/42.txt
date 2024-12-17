@@ -1,0 +1,7 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: Sure, here's the answer to your question:
+
+The context does not provide any information about the names of Abraham Lincoln, Nikola Tesla, or Stephen Grover, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response does not provide the correct answer to the question "What is named after him?" The reference answer indicates that the correct response is "The Celsius crater on the Moon." The evaluated response fails to mention this and instead states that the context does not provide information about Abraham Lincoln, Nikola Tesla, or Stephen Grover, which is irrelevant to the question. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

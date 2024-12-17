@@ -1,0 +1,7 @@
+[PROMPT]: Is it true that he became a professor in 1820?
+[USER_ANSWER]: 
+Yes, it is true that he became a professor of physics at the University of Turin in 1820. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that he became a professor in 1820, which aligns with the reference answer. However, it includes additional information about the specific subject and university, which, while potentially accurate, is not necessary to answer the question directly. The reference answer is more concise and directly addresses the question without additional details.
+[RESULT]: 4

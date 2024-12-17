@@ -1,0 +1,5 @@
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: Sure, the title of the famous 1811 paper can be roughly translated into English as "On the Molecular Weight of Gases".
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided is not completely correct, accurate, and factual based on the reference answer. The reference answer is a simple "yes," indicating that the question can be answered affirmatively without providing additional details. The response, however, includes a specific translation of the title, which is not required and may not be accurate. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

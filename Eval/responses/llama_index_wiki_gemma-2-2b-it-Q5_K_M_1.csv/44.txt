@@ -1,0 +1,7 @@
+[PROMPT]: Is it true that he published a collection in 1738?
+[USER_ANSWER]: 
+No, the provided text states that John published a collection of observations of the aurora borealis in 1733. 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly correct in stating that the collection was published in 1733, not 1738. However, the additional detail about the content of the collection (observations of the aurora borealis) is not necessary and deviates from the simplicity of the reference answer. The response could be more concise and directly aligned with the reference answer.
+[RESULT]: 4

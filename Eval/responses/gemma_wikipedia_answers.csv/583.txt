@@ -1,5 +1,5 @@
 [PROMPT]: Was Ford an Eagle Scout?
 [USER_ANSWER]: Sure, Ford was an Eagle Scout. He received the Distinguished Eagle Scout Award and Silver Buffalo Award from the Boy Scouts of America.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is completely correct, accurate, and factual. It not only confirms that Ford was an Eagle Scout, but also provides additional accurate information about the awards he received from the Boy Scouts of America. This additional information, while not necessary, does not detract from the correctness of the response.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It not only confirms that Ford was an Eagle Scout, but also provides additional accurate information about the awards he received from the Boy Scouts of America. This additional information does not detract from the correctness of the response.
 [RESULT]: 5

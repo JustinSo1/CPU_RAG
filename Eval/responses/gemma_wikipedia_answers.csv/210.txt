@@ -1,5 +1,5 @@
 [PROMPT]: When did he drop John from his name?
 [USER_ANSWER]: The context does not provide any information about when John Adams dropped his name, so I cannot answer this question from the context.
 [CORRECT_ANSWER]: upon graduating from college
-[FEEDBACK]: The response is completely incorrect and does not provide the factual information that John Adams dropped his name upon graduating from college. Instead, it states that the context does not provide the information, which is not aligned with the reference answer.
+[FEEDBACK]: The response does not provide the correct information about when John dropped his name. Instead, it states that the context does not provide this information, which is not aligned with the reference answer. The reference answer clearly states that John dropped his name upon graduating from college. Therefore, the response is completely incorrect and does not meet the criteria for accuracy and factual correctness.
 [RESULT]: 1

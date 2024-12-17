@@ -1,5 +1,5 @@
 [PROMPT]: Did his mother die of pneumonia?
 [USER_ANSWER]: The context does not provide any information about Theodore Roosevelt's mother's health or whether she died of pneumonia. Therefore, I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: no
-[FEEDBACK]: The response is somewhat correct in that it acknowledges a lack of information, but it does not directly answer the question as the reference answer does. The reference answer is a simple "no," which is clear and direct. The evaluated response, while not incorrect, does not provide the same level of clarity and directness as the reference answer. Therefore, it does not fully meet the criteria for being completely correct, accurate, and factual.
-[RESULT]: 3
+[FEEDBACK]: The response is not correct or accurate based on the reference answer. The reference answer is a simple "no," indicating that the correct response should be a straightforward denial. The evaluated response, however, states that there is no information provided about Theodore Roosevelt's mother's health, which is not aligned with the reference answer. Therefore, the response does not meet the criteria for correctness and accuracy.
+[RESULT]: 1

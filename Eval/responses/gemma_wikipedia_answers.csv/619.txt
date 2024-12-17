@@ -3,5 +3,5 @@
 
 The two subfamilies of the Native Ghanaian languages are the Kwa subfamily, spoken in the south, and the Gur subfamily, spoken in the north.
 [CORRECT_ANSWER]: Kwa and Gur
-[FEEDBACK]: The response correctly identifies the two subfamilies of the Native Ghanaian languages as the Kwa subfamily and the Gur subfamily. The additional information about their geographical distribution (spoken in the south and north, respectively) does not detract from the accuracy of the response. The response is completely correct, accurate, and factual based on the reference answer.
+[FEEDBACK]: The response correctly identifies the two subfamilies of the Native Ghanaian languages as the Kwa subfamily and the Gur subfamily. The additional information about the geographical distribution of these subfamilies (Kwa in the south and Gur in the north) is accurate and enhances the response. The response is completely correct, accurate, and factual based on the reference answer.
 [RESULT]: 5

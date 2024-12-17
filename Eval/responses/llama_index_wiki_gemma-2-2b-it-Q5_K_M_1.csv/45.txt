@@ -1,0 +1,7 @@
+[PROMPT]: Is it true that thermometer had 100 for the freezing point?
+[USER_ANSWER]: 
+Yes, the text states that Anders Celsius's thermometer had 100 for the freezing point of water. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct in stating that Anders Celsius's thermometer had 100 for the freezing point of water. However, the reference answer is simply "Yes," which is a more concise and direct response. The additional detail in the evaluated response is not necessary and slightly deviates from the simplicity of the reference answer. Therefore, while the response is accurate, it is not completely aligned with the reference answer's brevity.
+[RESULT]: 4

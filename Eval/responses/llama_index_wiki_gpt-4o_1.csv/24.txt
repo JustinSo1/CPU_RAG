@@ -1,0 +1,5 @@
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: Lincoln's legal career lasted for 23 years.
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response "Lincoln's legal career lasted for 23 years." is completely correct, accurate, and factual based on the reference answer "23 years." It provides the exact duration of Lincoln's legal career without any additional or incorrect information.
+[RESULT]: 5

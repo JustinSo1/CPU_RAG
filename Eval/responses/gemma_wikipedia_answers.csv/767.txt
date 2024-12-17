@@ -1,5 +1,5 @@
 [PROMPT]: Why did Indonesia break off relations with the People's Republic of China?
 [USER_ANSWER]: The context does not provide any information about why Indonesia broke off relations with the People's Republic of China, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: because of anti-communist purges early in the Suharto era
-[FEEDBACK]: The response does not provide any factual information about why Indonesia broke off relations with the People's Republic of China. Instead, it states that the context does not provide the information needed to answer the question. This is completely incorrect and inaccurate based on the reference answer, which clearly states the reason as anti-communist purges early in the Suharto era. The response fails to address the question and does not provide any relevant information.
+[FEEDBACK]: The response does not provide any factual information about why Indonesia broke off relations with the People's Republic of China. Instead, it states that the context does not provide the information needed to answer the question. This does not align with the reference answer, which clearly states the reason as anti-communist purges early in the Suharto era. Therefore, the response is completely incorrect and does not address the question based on the reference answer.
 [RESULT]: 1

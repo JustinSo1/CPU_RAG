@@ -1,0 +1,5 @@
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: Sure, the title of the famous 1811 paper can be roughly translated into English as "On the Density of Gases."
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a translation of the title, which aligns with the instruction. However, the reference answer is very brief and simply confirms the possibility of translation without providing the actual translation. The response goes a step further by providing the translated title, which is not required by the instruction. This additional information, while accurate, is not necessary and deviates slightly from the simplicity of the reference answer.
+[RESULT]: 4

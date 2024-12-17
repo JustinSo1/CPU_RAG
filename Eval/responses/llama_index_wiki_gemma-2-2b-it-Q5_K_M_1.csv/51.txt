@@ -1,0 +1,7 @@
+[PROMPT]: Is the Celsius crater on the Moon named after him ?
+[USER_ANSWER]: 
+Yes. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes." is completely correct, accurate, and factual based on the reference answer "Yes". It directly answers the question without any errors or inaccuracies.
+[RESULT]: 5

@@ -1,5 +1,5 @@
 [PROMPT]: Did Coolidge get in Amherst College?
 [USER_ANSWER]: The context does not provide any information about whether Coolidge got into Amherst College, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that Coolidge did get into Amherst College. The response, however, states that there is no information provided to answer the question, which is not aligned with the reference answer. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality.
+[FEEDBACK]: The response does not provide a correct, accurate, or factual answer to the question. Instead of confirming whether Coolidge got into Amherst College, it states that the context does not provide the information needed to answer the question. This is not aligned with the reference answer, which clearly states "Yes." Therefore, the response is completely incorrect based on the given score rubric.
 [RESULT]: 1

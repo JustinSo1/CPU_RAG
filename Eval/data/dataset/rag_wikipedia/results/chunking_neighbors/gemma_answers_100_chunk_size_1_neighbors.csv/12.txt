@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln ever represent Alton & Sangamon Railroad?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not provide a direct answer to the question. Instead, it states that the knowledge base does not have a match and then mentions answering based on personal knowledge without actually providing the answer. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

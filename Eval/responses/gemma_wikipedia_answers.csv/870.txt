@@ -1,5 +1,5 @@
 [PROMPT]: What expired on March?
 [USER_ANSWER]: The context does not provide any information about what expired on March, so I cannot answer this question from the context.
 [CORRECT_ANSWER]: Monroe's presidency
-[FEEDBACK]: The response does not provide the correct answer to the question "What expired on March?" based on the reference answer. The reference answer states "Monroe's presidency," while the response indicates a lack of information from the context. Therefore, the response is completely incorrect and does not align with the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question. The reference answer indicates that "Monroe's presidency" expired in March, but the response states that there is no information provided in the context, which is incorrect. Therefore, the response is completely incorrect and does not align with the reference answer.
 [RESULT]: 1

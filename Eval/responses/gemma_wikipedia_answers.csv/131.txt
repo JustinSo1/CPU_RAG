@@ -1,5 +1,5 @@
 [PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
 [USER_ANSWER]: Sure, the title of the essay can be roughly translated into English as "Essay on Determining the Relative Masses of the Elementary Molecules of Bodies".
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response provides a detailed translation of the title, which is not required by the instruction. The reference answer is a simple "yes," indicating that a brief confirmation is sufficient. While the translation itself is accurate, the response does not align with the simplicity of the reference answer. Therefore, it is not completely correct based on the given rubric.
-[RESULT]: 3
+[FEEDBACK]: The response provides a detailed translation of the title of the 1811 paper, which is more information than the reference answer. While the translation appears to be accurate, the instruction only asked for a rough translation, and the reference answer is a simple "yes." Therefore, the response is mostly correct and factual but includes unnecessary detail that was not requested.
+[RESULT]: 4

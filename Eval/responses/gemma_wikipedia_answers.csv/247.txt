@@ -3,5 +3,5 @@
 
 The context does not provide any other information about Coolidge's fraternity membership.
 [CORRECT_ANSWER]: Phi Gamma Delta
-[FEEDBACK]: The response correctly identifies the fraternity Coolidge was a member of as Phi Gamma Delta, which aligns with the reference answer. However, the additional sentence stating that the context does not provide any other information about Coolidge's fraternity membership is unnecessary and does not add value to the response. The primary answer is accurate and factual, but the extra information is irrelevant to the question asked.
+[FEEDBACK]: The response correctly identifies the fraternity Coolidge was a member of as Phi Gamma Delta, which aligns with the reference answer. However, the additional sentence stating that the context does not provide any other information about Coolidge's fraternity membership is unnecessary and does not add value to the response. Despite this, the main information provided is accurate and factual.
 [RESULT]: 4

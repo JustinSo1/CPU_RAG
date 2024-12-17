@@ -1,5 +1,5 @@
 [PROMPT]: What caused Calvin Jr.'s death?
 [USER_ANSWER]: The context does not provide any information about what caused Calvin Jr.'s death, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: heart attack
-[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Calvin Jr. died of a heart attack, while the response claims that the context does not provide any information about the cause of death. This shows a lack of alignment with the factual information provided in the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question. The reference answer indicates that Calvin Jr. died of a heart attack, but the response states that the context does not provide any information about the cause of death. This makes the response completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

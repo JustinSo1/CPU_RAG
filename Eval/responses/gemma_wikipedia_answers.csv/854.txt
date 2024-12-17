@@ -3,5 +3,5 @@
 
 I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Monroe Hill on the grounds of the University of Virginia.
-[FEEDBACK]: The response provided is not correct according to the reference answer. The reference answer states that James Monroe sold Monroe Hill on the grounds of the University of Virginia in 1817, while the response incorrectly states that he sold his Highland Plantation. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The property that James Monroe sold in 1817 was Monroe Hill on the grounds of the University of Virginia, not Highland Plantation. The additional statement about the knowledge base does not contribute to the accuracy of the response.
+[RESULT]: 2

@@ -1,5 +1,5 @@
 [PROMPT]: Is the most read newspaper in Finland Taloussanomat?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: no
-[FEEDBACK]: The response does not directly answer the question and does not provide any factual information regarding whether Taloussanomat is the most read newspaper in Finland. It fails to address the query accurately and factually, as required by the rubric.
+[FEEDBACK]: The response does not directly answer the question and instead provides an explanation about the knowledge base. It does not address whether Taloussanomat is the most read newspaper in Finland, which is the core of the question. Therefore, it is not correct, accurate, or factual based on the reference answer.
 [RESULT]: 1

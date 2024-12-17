@@ -3,5 +3,5 @@
 
 He is the current Prime Minister and Chairman of the Centre Party.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is mostly incorrect and inaccurate. Matti Vanhanen is not the current Prime Minister of Finland as of the latest information available. Additionally, the statement about him being the Chairman of the Centre Party is also outdated. The response does not align with the reference answer, which is a simple and accurate "yes" or "no" answer.
+[FEEDBACK]: The response is mostly incorrect and inaccurate. Matti Vanhanen is not the current Prime Minister of Finland. The reference answer is simply "yes," which indicates that the response should be concise and accurate. The additional information provided in the response is outdated and incorrect, as Matti Vanhanen is not the current Prime Minister nor the Chairman of the Centre Party. Therefore, the response does not meet the criteria for being correct, accurate, and factual.
 [RESULT]: 2

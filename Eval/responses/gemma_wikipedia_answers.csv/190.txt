@@ -1,5 +1,5 @@
 [PROMPT]: Do carrion beetles eat dung?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. Carrion beetles are known scavengers and will eat a variety of materials, including dead animals, garbage, and other discarded food sources.
 [CORRECT_ANSWER]: no
-[FEEDBACK]: The response provided does not directly answer the question about whether carrion beetles eat dung. Instead, it discusses the general scavenging behavior of carrion beetles, which includes eating dead animals, garbage, and other discarded food sources. This information is somewhat related but does not address the specific query about dung. Therefore, the response is somewhat correct but not fully accurate or factual in the context of the question asked.
-[RESULT]: 3
+[FEEDBACK]: The response provided does not directly answer the question "Do carrion beetles eat dung?" Instead, it gives information about the general scavenging behavior of carrion beetles, which is not relevant to the specific question asked. The reference answer is a simple "no," indicating that carrion beetles do not eat dung. Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

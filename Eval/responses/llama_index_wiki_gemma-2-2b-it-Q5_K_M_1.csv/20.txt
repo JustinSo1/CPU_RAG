@@ -1,0 +1,7 @@
+[PROMPT]: Did lincoln have 18 months of schooling?
+[USER_ANSWER]: 
+No, Lincoln had about 18 months of schooling. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is somewhat correct, accurate, and factual. While it confirms that Lincoln had about 18 months of schooling, it starts with "No," which contradicts the reference answer's straightforward "Yes." This contradiction affects the clarity and accuracy of the response.
+[RESULT]: 3

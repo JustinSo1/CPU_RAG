@@ -3,5 +3,5 @@
 
 The context explicitly states that the Charter of Rights and Freedoms defines them as such.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response correctly identifies that Canada's two official languages are English and French, which aligns with the reference answer. However, the additional information about the Charter of Rights and Freedoms is not necessary and was not requested in the instruction. While this extra detail is factual, it does not directly address the question asked. Therefore, the response is mostly correct, accurate, and factual, but not completely aligned with the simplicity of the reference answer.
+[FEEDBACK]: The response correctly identifies that Canada's two official languages are English and French, which aligns with the reference answer. However, the additional information about the Charter of Rights and Freedoms is not necessary and was not requested in the instruction. While this extra detail is factual, it does not strictly adhere to the simplicity of the reference answer. Therefore, the response is mostly correct, accurate, and factual but not completely aligned with the reference answer's simplicity.
 [RESULT]: 4

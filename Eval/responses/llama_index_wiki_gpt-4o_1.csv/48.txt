@@ -1,0 +1,5 @@
+[PROMPT]: Is The Celsius crater on the Moon named after him?
+[USER_ANSWER]: Yes, the Celsius crater on the Moon is named after him.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the Celsius crater on the Moon is named after him, which aligns with the reference answer.
+[RESULT]: 5

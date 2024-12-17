@@ -1,5 +1,5 @@
 [PROMPT]: European books and maps began referring to this region as Canada in what year?
 [USER_ANSWER]: In 1535, European books and maps began referring to the region as Canada.
 [CORRECT_ANSWER]: 1545
-[FEEDBACK]: The response provided is not correct according to the reference answer. The year given in the response is 1535, while the correct year is 1545. This discrepancy makes the response inaccurate and not factual based on the reference answer.
-[RESULT]: 1
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The correct year is 1545, but the response states 1535, which is a significant error. This discrepancy shows that the response does not align well with the factual information provided in the reference answer.
+[RESULT]: 2

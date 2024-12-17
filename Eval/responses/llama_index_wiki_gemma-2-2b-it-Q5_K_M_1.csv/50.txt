@@ -1,0 +1,7 @@
+[PROMPT]: The Celsius crater on the Moon is what?
+[USER_ANSWER]: 
+The Celsius crater on the Moon is a **crater**. 
+
+[CORRECT_ANSWER]: named after him
+[FEEDBACK]: The response is somewhat correct in identifying that the Celsius crater is a crater, but it does not provide the specific information that it is named after someone, which is the key detail in the reference answer. The response lacks the accuracy and completeness required to fully match the reference answer.
+[RESULT]: 3
