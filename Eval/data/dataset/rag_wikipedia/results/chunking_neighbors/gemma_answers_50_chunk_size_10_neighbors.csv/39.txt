@@ -1,5 +1,5 @@
-[PROMPT]: Did lincoln have 18 months of schooling?
-[USER_ANSWER]: Sure, the context says that Lincoln spent about 18 months of schooling.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is mostly correct and factual, as it confirms that Lincoln had about 18 months of schooling. However, it adds unnecessary context that was not present in the reference answer. The reference answer is more concise and direct.
-[RESULT]: 4
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: Sure, the title of the 1811 paper can be roughly translated into English as "On the Relative Weight of Substances".
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a translation of the title of the 1811 paper, which is not required by the instruction. The instruction only asks if the title can be roughly translated into English, to which the reference answer is a simple "yes." Therefore, the response is not completely correct as it goes beyond what was asked.
+[RESULT]: 3

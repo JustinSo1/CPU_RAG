@@ -1,5 +1,5 @@
-[PROMPT]: Do scholars rank lincoln among the top three presidents?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not directly answer the question about whether scholars rank Lincoln among the top three presidents. Instead, it provides an explanation about the knowledge base, which does not address the accuracy or factuality of the ranking. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[PROMPT]: Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+[USER_ANSWER]: The context does not provide any information about the commonly used value of Avogadro's number in chemical reactions, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and instead comments on the lack of context, which is not relevant to the question asked. The question is about the common use of Avogadro's number in chemical reactions, and the correct answer is simply "yes." The response fails to provide this information and is therefore completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

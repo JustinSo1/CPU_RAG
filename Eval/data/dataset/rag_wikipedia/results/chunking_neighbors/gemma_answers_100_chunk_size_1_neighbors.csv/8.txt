@@ -1,5 +1,5 @@
 [PROMPT]: When did the Gettysburg address argue that America was born?
 [USER_ANSWER]: The context does not provide any information about when the Gettysburg address argued that America was born. Therefore, I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: 1776
-[FEEDBACK]: The response does not provide the correct answer to the question. The Gettysburg Address, delivered by Abraham Lincoln, argued that America was born in 1776, which is a factual and specific detail. The response fails to address this and instead states that the context does not provide the information, which is inaccurate. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question. The Gettysburg Address argued that America was born in 1776, which is a factual and specific piece of information. The response incorrectly states that the context does not provide any information, which is not accurate based on the reference answer. Therefore, the response is completely incorrect and inaccurate.
 [RESULT]: 1

@@ -1,5 +1,5 @@
-[PROMPT]: Which county was Lincoln born in?
-[USER_ANSWER]: Lincoln was born in Hardin County, southeast of Springfield.
-[CORRECT_ANSWER]: Hardin County
-[FEEDBACK]: The response correctly identifies Hardin County as the place where Lincoln was born, which matches the reference answer. However, the additional information "southeast of Springfield" is not necessary and could be misleading, as it is not directly relevant to the question. This extra detail slightly detracts from the accuracy and precision of the response.
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: Lincoln was involved in more than 5,100 cases in Illinois during his 23-year legal career.
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response provides additional information about the number of cases Lincoln was involved in, which is not required by the question. However, it does correctly state the duration of Lincoln's legal career as 23 years. This makes the response mostly correct, accurate, and factual, but not completely aligned with the simplicity of the reference answer.
 [RESULT]: 4

@@ -1,5 +1,5 @@
-[PROMPT]: Did Lincoln start his political career in 1832?
-[USER_ANSWER]: Sure, Lincoln began his political career in 1832 at age 23.
+[PROMPT]: Did lincoln have 18 months of schooling?
+[USER_ANSWER]: Sure, the context says that Lincoln was self-educated and had about 18 months of schooling.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln began his political career in 1832, which aligns with the reference answer. However, the additional detail about Lincoln's age, while accurate, is not necessary for the response and slightly deviates from the simplicity of the reference answer.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln had about 18 months of schooling, which aligns with the reference answer. However, the additional context about Lincoln being self-educated, while true, is not necessary for the response to the specific question asked. This extra information makes the response slightly more elaborate than needed.
 [RESULT]: 4

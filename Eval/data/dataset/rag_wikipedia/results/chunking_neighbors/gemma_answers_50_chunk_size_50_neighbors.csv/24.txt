@@ -1,5 +1,5 @@
-[PROMPT]: Which county was Lincoln born in?
-[USER_ANSWER]: The context provides that Lincoln was born in Springfield, Illinois.
-[CORRECT_ANSWER]: Hardin County
-[FEEDBACK]: The response is completely incorrect and inaccurate. Lincoln was not born in Springfield, Illinois; he was born in Hardin County. The response does not align with the factual information provided in the reference answer.
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: The context does not provide any information about the length of Lincoln's legal career, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information regarding the length of Lincoln's legal career. The reference answer clearly states that Lincoln's legal career lasted 23 years, while the response claims that the context does not provide this information. This indicates that the response is completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

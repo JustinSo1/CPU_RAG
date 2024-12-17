@@ -1,7 +1,5 @@
-[PROMPT]: Which county was Lincoln born in?
-[USER_ANSWER]: The county where Abraham Lincoln was born was Hardin County, Illinois.
-
-[I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge].
-[CORRECT_ANSWER]: Hardin County
-[FEEDBACK]: The response is mostly incorrect and inaccurate. Abraham Lincoln was born in Hardin County, but it was in Kentucky, not Illinois. The additional note about the knowledge base does not contribute to the accuracy of the answer.
-[RESULT]: 2
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: The context does not provide any information about the length of Lincoln's legal career, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information about the length of Lincoln's legal career. The reference answer clearly states that Lincoln's legal career lasted 23 years, but the response fails to mention this and instead states that the context does not provide the information. This makes the response completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

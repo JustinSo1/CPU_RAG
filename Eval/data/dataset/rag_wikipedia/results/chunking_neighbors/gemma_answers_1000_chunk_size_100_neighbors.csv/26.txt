@@ -1,5 +1,5 @@
-[PROMPT]: When did Lincoln first serve as President?
-[USER_ANSWER]: The context does not provide any information about when Lincoln first served as President, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: March 4, 1861
-[FEEDBACK]: The response does not provide the correct, accurate, and factual information regarding when Lincoln first served as President. Instead, it mentions the lack of context, which is not relevant to the question asked. The correct answer is March 4, 1861, and this response does not address that at all. Therefore, it is completely incorrect and inaccurate based on the reference answer.
+[PROMPT]: Did Abraham Lincoln live in the Frontier?
+[USER_ANSWER]: The context does not provide any information about Abraham Lincoln's residence, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question directly and instead mentions the lack of context, which is not relevant to the evaluation criteria. The reference answer is a simple "Yes," indicating that Abraham Lincoln did live in the Frontier. The evaluated response fails to provide this factual information and is therefore completely incorrect.
 [RESULT]: 1

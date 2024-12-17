@@ -1,5 +1,5 @@
-[PROMPT]: When did the Gettysburg address argue that America was born?
-[USER_ANSWER]: The context does not provide any information about when the Gettysburg Address argued that America was born. Therefore, I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 1776
-[FEEDBACK]: The response is completely incorrect and does not provide the factual answer to the question. The Gettysburg Address explicitly states that America was born in 1776, which is not mentioned in the response. The response incorrectly claims that the context does not provide the information needed to answer the question, which is not true based on the reference answer.
+[PROMPT]: When did Lincoln first serve as President?
+[USER_ANSWER]: The context does not provide any information about when Lincoln first served as President, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: March 4, 1861
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information regarding when Lincoln first served as President. Instead, it mentions the lack of context, which is not relevant to the question asked. The correct answer is March 4, 1861, and this response does not address that at all. Therefore, it is completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

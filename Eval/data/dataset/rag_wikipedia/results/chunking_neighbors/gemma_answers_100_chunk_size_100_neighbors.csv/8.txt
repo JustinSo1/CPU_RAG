@@ -1,5 +1,5 @@
-[PROMPT]: When did Lincoln begin his political career?
-[USER_ANSWER]: According to the context, Abraham Lincoln began his political career in 1832 at age 23.
-[CORRECT_ANSWER]: 1832
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the year 1832 as the beginning of Lincoln's political career, which matches the reference answer. However, the additional detail about Lincoln's age (23) is not necessary and slightly deviates from the simplicity of the reference answer.
-[RESULT]: 4
+[PROMPT]: When did the Gettysburg address argue that America was born?
+[USER_ANSWER]: The Gettysburg Address argued that America was born in 1863.
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The Gettysburg Address argued that America was born in 1776, not 1863. The response does not align with the historical fact presented in the reference answer.
+[RESULT]: 1

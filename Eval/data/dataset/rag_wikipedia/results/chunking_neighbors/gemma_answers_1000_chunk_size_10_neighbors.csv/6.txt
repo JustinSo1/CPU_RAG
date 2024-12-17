@@ -1,5 +1,7 @@
-[PROMPT]: How many long was Lincoln's formal education?
-[USER_ANSWER]: The context does not provide any information about the length of Lincoln's formal education, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 18 months
-[FEEDBACK]: The response does not provide the correct answer to the question about the length of Lincoln's formal education. Instead, it states that the context does not provide the information, which is not relevant to the accuracy of the answer itself. The correct answer, as per the reference, is "18 months." Therefore, the response is completely incorrect and does not align with the reference answer.
-[RESULT]: 1
+[PROMPT]: What did The Legal Tender Act of 1862 establish?
+[USER_ANSWER]: Sure, here's an answer to the question:
+
+The Legal Tender Act of 1862 established the United States Note, the first paper currency in the country's history. This act was done to increase the money supply to pay for fighting the war.
+[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the Legal Tender Act of 1862 established the United States Note, the first paper currency in the country's history. However, the additional information about increasing the money supply to pay for the war, while relevant, is not part of the core answer required by the question. The core information aligns well with the reference answer, but the extra detail, although accurate, is not necessary for the primary question.
+[RESULT]: 4

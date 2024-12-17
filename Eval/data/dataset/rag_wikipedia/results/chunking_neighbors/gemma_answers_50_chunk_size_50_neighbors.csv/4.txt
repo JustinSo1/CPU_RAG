@@ -1,5 +1,5 @@
-[PROMPT]: Did his mother die of pneumonia?
-[USER_ANSWER]: The context does not provide any information about whether Wilson Roosevelt's mother died of pneumonia. Therefore, I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: no
-[FEEDBACK]: The response is somewhat correct in that it acknowledges the lack of information in the context, but it does not directly answer the question as the reference answer does. The reference answer is a simple "no," which is clear and direct. The evaluated response, while accurate in its explanation, does not provide the straightforward answer required.
-[RESULT]: 3
+[PROMPT]: How many long was Lincoln's formal education?
+[USER_ANSWER]: Lincoln's formal education was about 18 m of formal education.
+[CORRECT_ANSWER]: 18 months
+[FEEDBACK]: The response is mostly correct in terms of the duration of Lincoln's formal education, which is 18 months. However, the use of "18 m" instead of "18 months" makes the response slightly less clear and precise.
+[RESULT]: 4

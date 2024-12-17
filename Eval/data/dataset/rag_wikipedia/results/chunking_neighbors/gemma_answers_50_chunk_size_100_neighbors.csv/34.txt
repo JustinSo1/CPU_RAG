@@ -1,5 +1,5 @@
-[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
-[USER_ANSWER]: The context explains that Lincoln initially focused on the war effort but shifted his attention to the Declaration of Independence and the emancipation of slaves. He issued the Emancipation Proclamation in 1863, freeing all slaves in the Confederate states.
-[CORRECT_ANSWER]: To free slaves 
-[FEEDBACK]: The response provides additional context about Lincoln's initial focus on the war effort and his shift towards the Declaration of Independence and emancipation. However, it does not directly and succinctly answer the question of why Lincoln issued the Emancipation Proclamation. The reference answer is concise and directly addresses the question by stating "To free slaves." While the response includes accurate information, it is not as direct and clear as the reference answer. Therefore, it is mostly correct, accurate, and factual but not completely aligned with the simplicity and directness of the reference answer.
-[RESULT]: 4
+[PROMPT]: Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+[USER_ANSWER]: The context does not provide any information about whether Amedeo Avogadro was born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy. Therefore, I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question. Instead, it states that the context does not provide the information needed to answer the question. This makes the response mostly incorrect and inaccurate based on the reference answer, which is a simple "yes." The response fails to provide the correct, accurate, and factual information required.
+[RESULT]: 2

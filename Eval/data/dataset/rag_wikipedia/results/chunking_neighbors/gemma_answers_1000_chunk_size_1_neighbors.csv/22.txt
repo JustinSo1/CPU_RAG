@@ -1,5 +1,5 @@
-[PROMPT]: Did Lincoln ever represent Alton & Sangamon Railroad?
-[USER_ANSWER]: The context does not provide any information about whether Lincoln ever represented the Alton & Sangamon Railroad. Therefore, I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not provide a correct, accurate, or factual answer to the question. The reference answer is a simple "Yes," indicating that Lincoln did represent the Alton & Sangamon Railroad. The evaluated response fails to address this fact and instead states that the context does not provide the information, which is not relevant to the correctness of the answer. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[PROMPT]: How old was Lincoln in 1816?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge. Lincoln's birth date in 1816 is not mentioned in the context, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: seven
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it mentions the inability to find the information and does not attempt to calculate or state Lincoln's age in 1816. This makes the response completely incorrect and not factual based on the reference answer, which is "seven."
 [RESULT]: 1

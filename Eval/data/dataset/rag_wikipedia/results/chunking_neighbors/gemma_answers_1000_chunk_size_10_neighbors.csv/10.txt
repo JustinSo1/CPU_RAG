@@ -1,7 +1,5 @@
-[PROMPT]: What did The Legal Tender Act of 1862 establish?
-[USER_ANSWER]: Sure, here's an answer to the question:
-
-The Legal Tender Act of 1862 established the United States Note, the first paper currency in the country's history. This act was done to increase the money supply to pay for fighting the war.
-[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the Legal Tender Act of 1862 established the United States Note, the first paper currency in the country's history. However, the additional information about increasing the money supply to pay for the war, while relevant, is not part of the core answer required by the instruction. This extra detail does not detract from the accuracy but is not necessary for a perfect score based on the reference answer.
-[RESULT]: 4
+[PROMPT]: Was Abraham Lincoln the first President of the United States?
+[USER_ANSWER]: The context does not provide any relevant information about whether Abraham Lincoln was the first President of the United States, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response does not directly answer the question. Instead, it mentions the lack of context, which is not relevant to the accuracy of the answer. The correct and factual answer is simply "No," as Abraham Lincoln was not the first President of the United States. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

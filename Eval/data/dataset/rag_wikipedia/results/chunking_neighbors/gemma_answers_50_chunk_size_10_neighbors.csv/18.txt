@@ -1,5 +1,5 @@
-[PROMPT]: Was Abraham Lincoln the first President of the United States?
-[USER_ANSWER]: The context does not provide any information about Abraham Lincoln being the first President of the United States, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: No
-[FEEDBACK]: The response does not directly answer the question. The question asks if Abraham Lincoln was the first President of the United States, and the correct answer is simply "No." The response instead mentions the lack of context, which is not relevant to the factual accuracy of the answer. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
+[USER_ANSWER]: The context does not provide any information about the reasons why Lincoln issued the Emancipation Proclamation, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response does not address the question directly and instead mentions the lack of context, which is not relevant to the task. The reference answer clearly states that Lincoln issued the Emancipation Proclamation to free slaves, which is a factual and accurate reason. The evaluated response fails to provide this information and is therefore completely incorrect and not factual based on the reference answer.
 [RESULT]: 1

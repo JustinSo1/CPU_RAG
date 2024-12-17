@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln beat John C. Breckinridge in the 1860 election?
+[USER_ANSWER]: The context does not provide any information about whether Lincoln beat John C. Breckinridge in the 1860 election, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The question asks for a factual answer about a historical event, and the correct response is simply "yes." The evaluated response incorrectly states that the context does not provide information, which is irrelevant to the factual nature of the question. Therefore, the response does not meet the criteria for correctness and accuracy.
+[RESULT]: 1

@@ -1,5 +1,5 @@
-[PROMPT]: How long was Lincoln's legal Career?
-[USER_ANSWER]: Lincoln was involved in more than 5,100 cases in Illinois during his 23-year legal career.
-[CORRECT_ANSWER]: 23 years
-[FEEDBACK]: The response provides additional information about the number of cases Lincoln was involved in, which is not required by the instruction. However, it does correctly state the duration of Lincoln's legal career as 23 years. This makes the response mostly correct, accurate, and factual, but not as concise as the reference answer.
+[PROMPT]: Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
+[USER_ANSWER]: Sure, Anders Celsius was a Swedish astronomer. The context provides the birth and death dates of Celsius, which are both Swedish.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response correctly identifies Anders Celsius as a Swedish astronomer, which aligns with the reference answer. However, the additional information about the birth and death dates being Swedish is unnecessary and slightly inaccurate, as dates themselves cannot be Swedish. This extra detail does not detract significantly from the overall correctness of the response but does introduce a minor inaccuracy.
 [RESULT]: 4

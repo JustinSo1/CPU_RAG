@@ -1,5 +1,5 @@
-[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
-[USER_ANSWER]: The context does not provide any information about why Lincoln issued the Emancipation Proclamation, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: To free slaves 
-[FEEDBACK]: The response does not address the question directly and instead comments on the lack of context. It does not provide any factual information about why Lincoln issued the Emancipation Proclamation, which is to free slaves. Therefore, it is completely incorrect and not factual based on the reference answer.
+[PROMPT]: Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+[USER_ANSWER]: The context does not provide any information about Amedeo Avogadro's birthplace or family background, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and fails to provide the correct, accurate, and factual information as required. The reference answer is a simple "yes," indicating that the correct response should affirm the statement. The evaluated response instead states that there is no information provided, which is not aligned with the reference answer. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

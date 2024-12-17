@@ -1,5 +1,5 @@
-[PROMPT]: Which county was Lincoln born in?
-[USER_ANSWER]: The context does not provide any information about the county where Abraham Lincoln was born, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Hardin County
-[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question. The correct answer, according to the reference, is Hardin County. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: The context does not provide any information about the length of Lincoln's legal career, hence I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information regarding the length of Lincoln's legal career. The reference answer clearly states that Lincoln's legal career lasted 23 years, while the response claims that the context does not provide this information. This indicates that the response is completely incorrect and inaccurate based on the reference answer.
 [RESULT]: 1

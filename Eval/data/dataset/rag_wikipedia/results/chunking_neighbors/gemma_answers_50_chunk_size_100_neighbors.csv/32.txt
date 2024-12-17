@@ -1,5 +1,5 @@
-[PROMPT]: Who was the general in charge at the Battle of Antietam?
-[USER_ANSWER]: The context does not provide any information about the general in charge at the Battle of Antietam, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: General McClellan
-[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question, which is not relevant to the task of identifying the general in charge at the Battle of Antietam. The correct answer, as indicated in the reference, is General McClellan. Therefore, the response is completely incorrect and not factual based on the reference answer.
-[RESULT]: 1
+[PROMPT]: Is it true that he became a professor in 1820?
+[USER_ANSWER]: Sure, the context says that Wilson became a professor of physics in 1820.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that Wilson became a professor in 1820, which aligns with the reference answer. However, the additional detail about Wilson becoming a professor of physics, while potentially accurate, is not necessary for the response and slightly deviates from the simplicity of the reference answer. This additional information does not detract significantly from the correctness but does make the response slightly more complex than needed.
+[RESULT]: 4

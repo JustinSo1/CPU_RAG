@@ -1,5 +1,5 @@
 [PROMPT]: What did The Legal Tender Act of 1862 establish?
 [USER_ANSWER]: The context does not provide any information about what the Legal Tender Act of 1862 established, hence I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
-[FEEDBACK]: The response does not provide any information about what the Legal Tender Act of 1862 established. Instead, it states that the context does not provide the information needed to answer the question. This makes the response completely incorrect, inaccurate, and not factual based on the reference answer, which clearly states that the Act established the United States Note, the first paper currency in United States history.
+[FEEDBACK]: The response does not provide any information about what the Legal Tender Act of 1862 established. Instead, it states that the context does not provide the necessary information, which is not relevant to the question. The response is completely incorrect and does not address the question at all.
 [RESULT]: 1

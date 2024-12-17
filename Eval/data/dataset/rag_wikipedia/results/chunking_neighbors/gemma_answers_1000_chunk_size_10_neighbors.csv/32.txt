@@ -1,5 +1,5 @@
-[PROMPT]: Who was the general in charge at the Battle of Antietam?
-[USER_ANSWER]: The context does not provide any information about the general in charge at the Battle of Antietam, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: General McClellan
-[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it mentions the lack of context, which is not relevant to the task of identifying the general in charge at the Battle of Antietam. The correct answer, General McClellan, is not mentioned at all. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1
+[PROMPT]: Is it true that he became a professor in 1820?
+[USER_ANSWER]: Sure, the context says that Avogadro became a professor of physics at the University of Turin in 1820.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that Avogadro became a professor in 1820, which aligns with the reference answer. However, it includes additional context about Avogadro becoming a professor of physics at the University of Turin, which, while informative, is not necessary for the response to be considered completely correct based on the reference answer. The additional information does not detract from the accuracy but is not required.
+[RESULT]: 4

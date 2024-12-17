@@ -1,5 +1,5 @@
 [PROMPT]: Is it true that thermometer had 100 for the freezing point?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not address the question directly and does not provide any factual information regarding the freezing point on a thermometer. It fails to confirm or deny the statement about the freezing point being 100, which is the key aspect of the question. Therefore, it is completely incorrect and not factual based on the reference answer.
+[FEEDBACK]: The response does not address the question directly and does not provide any factual information regarding the freezing point on a thermometer. It fails to confirm or deny the statement about the freezing point being 100, which is incorrect as the freezing point of water is 0 degrees Celsius or 32 degrees Fahrenheit. Therefore, the response is completely incorrect and not factual based on the reference answer.
 [RESULT]: 1

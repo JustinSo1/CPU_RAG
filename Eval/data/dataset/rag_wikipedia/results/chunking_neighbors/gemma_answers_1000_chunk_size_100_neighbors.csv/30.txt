@@ -1,5 +1,5 @@
-[PROMPT]: Did Lincoln win the election of 1860?
+[PROMPT]: When did he publish another memoria?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not directly answer the question about whether Lincoln won the election of 1860. Instead, it provides an irrelevant statement about the knowledge base. This makes the response completely incorrect and not factual based on the reference answer.
+[CORRECT_ANSWER]: 1821
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information based on the reference answer. It fails to answer the question directly and does not mention the year 1821, which is the correct answer. Therefore, it is completely incorrect and inaccurate.
 [RESULT]: 1

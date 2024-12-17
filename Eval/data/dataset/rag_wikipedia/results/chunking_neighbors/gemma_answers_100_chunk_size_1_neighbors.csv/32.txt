@@ -1,5 +1,5 @@
 [PROMPT]: Is it true that he became a professor in 1820?
 [USER_ANSWER]: The context does not provide any information about whether a person named [name] became a professor of physics at the University of Turin in 1820, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question as the reference answer does. Instead, it states that the context does not provide the information needed to answer the question. This makes the response inaccurate and not factual based on the reference answer, which clearly states "yes." Therefore, the response is mostly incorrect and inaccurate.
-[RESULT]: 2
+[FEEDBACK]: The response does not directly answer the question and instead states that the context does not provide the necessary information. This makes the response inaccurate and not factual based on the reference answer, which is a simple "yes." The response fails to address the question directly and does not provide the correct information.
+[RESULT]: 1

@@ -1,5 +1,5 @@
-[PROMPT]: Did Lincoln start his political career in 1832?
-[USER_ANSWER]: Sure, the context says that Abraham Lincoln began his political career in 1832 at age 23.
+[PROMPT]: Did lincoln have 18 months of schooling?
+[USER_ANSWER]: The context does not provide any information about the number of months Lincoln had of schooling, hence I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that Abraham Lincoln began his political career in 1832, which aligns with the reference answer. However, the additional detail about his age, while accurate, is not necessary for the response to be considered correct. The reference answer is more concise and directly answers the question.
-[RESULT]: 4
+[FEEDBACK]: The response does not directly answer the question about Lincoln's schooling. Instead, it states that the context does not provide the information needed to answer the question. This makes the response inaccurate and not factual based on the reference answer, which is a simple "Yes." The response fails to provide the correct information and does not align with the reference answer.
+[RESULT]: 1

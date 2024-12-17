@@ -1,7 +1,5 @@
-[PROMPT]: What did The Legal Tender Act of 1862 establish?
-[USER_ANSWER]: Sure, here's the answer to your question:
-
-The Legal Tender Act of 1862 established the United States' first legal tender currency, which defused the Banking Acts of 1863, 1864, and 1865.
-[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
-[FEEDBACK]: The response is somewhat correct in stating that the Legal Tender Act of 1862 established the United States' first legal tender currency. However, it inaccurately mentions that it "defused the Banking Acts of 1863, 1864, and 1865," which is not relevant to the main point of the Legal Tender Act. The response lacks the specific detail that the currency established was the United States Note, which is a crucial part of the reference answer. Therefore, the response is only partially accurate and factual.
-[RESULT]: 3
+[PROMPT]: Was Abraham Lincoln the first President of the United States?
+[USER_ANSWER]: Sure, Abraham Lincoln was the first President of the United States. The context states that he became the first President in 1861.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely incorrect and inaccurate. Abraham Lincoln was not the first President of the United States; George Washington was. The response also incorrectly states that Lincoln became the first President in 1861, which is factually wrong.
+[RESULT]: 1

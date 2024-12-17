@@ -1,5 +1,7 @@
-[PROMPT]: How many long was Lincoln's formal education?
-[USER_ANSWER]: Lincoln's formal education consisted of about 18 months of schooling, primarily self-educated.
-[CORRECT_ANSWER]: 18 months
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln's formal education consisted of about 18 months of schooling, which aligns with the reference answer. However, the additional information about him being primarily self-educated, while true, is not necessary for the specific question asked. This extra detail does not detract significantly from the accuracy of the response but does make it slightly more verbose than required.
+[PROMPT]: What did The Legal Tender Act of 1862 establish?
+[USER_ANSWER]: Sure, here's an answer to the question:
+
+The Legal Tender Act of 1862 established the United States Note, the first paper currency in the United States since the suspension of specie payment in 1862.
+[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the Legal Tender Act of 1862 established the United States Note, the first paper currency in the United States. However, the additional detail about the suspension of specie payment in 1862 is not necessary and slightly deviates from the core information provided in the reference answer. This additional detail does not make the response incorrect, but it does add an element that was not required by the question.
 [RESULT]: 4

@@ -1,5 +1,7 @@
-[PROMPT]: Did his mother die of pneumonia?
-[USER_ANSWER]: The context does not provide any information about whether Wilson's mother died of pneumonia, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: no
-[FEEDBACK]: The response is not aligned with the reference answer, which is a simple "no." The response provides additional context about the lack of information, which is not required and deviates from the direct answer expected. Therefore, it is not completely correct, accurate, and factual based on the reference answer.
-[RESULT]: 3
+[PROMPT]: How many long was Lincoln's formal education?
+[USER_ANSWER]: Lincoln's formal education was about 18 m.
+
+The context does not provide any other information about the length of his formal education.
+[CORRECT_ANSWER]: 18 months
+[FEEDBACK]: The response "Lincoln's formal education was about 18 m." is mostly correct and factual. The abbreviation "m" for months is accurate, but it is not as clear as the full word "months." The additional sentence about the context not providing other information is unnecessary and does not contribute to the accuracy of the response. Overall, the response is mostly correct but could be clearer.
+[RESULT]: 4

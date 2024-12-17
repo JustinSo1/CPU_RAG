@@ -1,5 +1,5 @@
-[PROMPT]: Did lincoln have 18 months of schooling?
-[USER_ANSWER]: The context does not provide any information about whether Lincoln had 18 months of schooling, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not directly answer the question about Lincoln's schooling. Instead, it mentions the lack of context, which is not relevant to the accuracy of the answer. The reference answer is a simple "Yes," indicating that Lincoln did have 18 months of schooling. Therefore, the response is completely incorrect and does not align with the reference answer.
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and does not provide an answer to whether the title of the famous 1811 paper can be roughly translated into English. It is not correct, accurate, or factual based on the reference answer, which is a simple "yes." The response is completely incorrect and does not fulfill the requirement of the instruction.
 [RESULT]: 1

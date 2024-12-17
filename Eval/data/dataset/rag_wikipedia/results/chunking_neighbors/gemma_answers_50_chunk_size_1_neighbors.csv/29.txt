@@ -1,5 +1,5 @@
 [PROMPT]: Who graduated in ecclesiastical law at the early age of 20 and began to practice?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: Amedeo Avogadro
-[FEEDBACK]: The response does not provide the correct answer to the question. It states that the information could not be found and does not mention Amedeo Avogadro, who is the correct answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the information could not be found and does not mention Amedeo Avogadro, who is the correct answer. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
 [RESULT]: 1

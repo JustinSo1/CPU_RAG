@@ -1,5 +1,5 @@
-[PROMPT]: How long was Lincoln's legal Career?
-[USER_ANSWER]: The context provides that Abraham Lincoln appeared before the Illinois State Supreme Court more than 400 times and was involved in more than 5,100 cases during his 23-year legal career.
-[CORRECT_ANSWER]: 23 years
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln's legal career lasted 23 years, which aligns with the reference answer. However, it includes additional information about the number of cases and appearances before the Illinois State Supreme Court, which, while accurate, is not directly relevant to the question asked. This additional information does not detract from the accuracy but is unnecessary for the specific question.
+[PROMPT]: Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
+[USER_ANSWER]: Sure, Anders Celsius was a Swedish astronomer born in Uppsala in 1701 and died in 1744.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Anders Celsius as a Swedish astronomer and provides additional details about his birth and death years. However, the reference answer is a simple "Yes," which is completely correct and factual. The additional information in the response, while accurate, is not necessary to answer the question directly.
 [RESULT]: 4

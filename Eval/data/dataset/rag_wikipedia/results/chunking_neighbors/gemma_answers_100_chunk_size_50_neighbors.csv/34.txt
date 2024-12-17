@@ -1,5 +1,5 @@
 [PROMPT]: Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
 [USER_ANSWER]: The context does not provide any information about whether Amedeo Avogadro was born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy. Therefore, I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question as the reference answer does. Instead, it states that the context does not provide the information needed to answer the question. This makes the response inaccurate and not factual based on the reference answer, which clearly states "yes." Therefore, the response does not meet the criteria for correctness, accuracy, and factuality as outlined in the rubric.
-[RESULT]: 1
+[FEEDBACK]: The response does not directly answer the question. Instead, it states that the context does not provide the information needed to answer the question. This makes the response mostly incorrect and inaccurate based on the reference answer, which is a simple "yes." The response fails to provide the correct, accurate, and factual information required.
+[RESULT]: 2

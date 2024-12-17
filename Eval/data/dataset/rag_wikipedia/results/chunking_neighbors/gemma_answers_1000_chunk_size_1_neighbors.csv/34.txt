@@ -1,5 +1,7 @@
-[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
-[USER_ANSWER]: The context does not provide any information about the reason Lincoln issued the Emancipation Proclamation, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: To free slaves 
-[FEEDBACK]: The response does not address the question directly and instead mentions the lack of context, which is not relevant to the task. The reference answer clearly states that Lincoln issued the Emancipation Proclamation to free slaves. The evaluated response does not provide this information and is therefore completely incorrect and not factual based on the reference answer.
-[RESULT]: 1
+[PROMPT]: Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+[USER_ANSWER]: Sure, here's the answer:
+
+Yes, Amedeo Avogadro was born in Turin, Italy on August 9th, 1776, to a noble ancient family of Piedmont.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Amedeo Avogadro was born in Turin, Italy on August 9th, 1776, to a noble ancient family of Piedmont, which aligns perfectly with the reference answer.
+[RESULT]: 5

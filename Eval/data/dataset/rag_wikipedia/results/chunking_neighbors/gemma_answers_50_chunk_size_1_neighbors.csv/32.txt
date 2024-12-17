@@ -1,5 +1,5 @@
 [PROMPT]: Is it true that he became a professor in 1820?
 [USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
 [CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not provide a clear answer to the question. Instead, it states that the knowledge base does not have the information and then vaguely mentions answering based on its own knowledge without providing a definitive answer. This makes the response inaccurate and not factual in the context of the question asked.
+[FEEDBACK]: The response does not directly answer the question about whether he became a professor in 1820. Instead, it states that the knowledge base does not have a match and provides no factual information. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "yes."
 [RESULT]: 1

@@ -1,5 +1,5 @@
-[PROMPT]: Was Lincoln chosen as a presidential candidate in 1860?
-[USER_ANSWER]: Sure, the context says that Abraham Lincoln was chosen as the Republican candidate for the 1860 presidential election.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Abraham Lincoln was chosen as the Republican candidate for the 1860 presidential election. However, the reference answer is a simple "Yes," which is more concise and directly answers the question. The evaluated response provides additional context that, while accurate, is not necessary for the question asked.
+[PROMPT]: Who determined the dependence of the boiling of water with atmospheric pressure?
+[USER_ANSWER]: Anders Celsius determined the dependence of the boiling point of water with atmospheric pressure.
+[CORRECT_ANSWER]: Anders Celsius
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Anders Celsius as the person who determined the dependence of the boiling point of water with atmospheric pressure. However, the additional detail about the boiling point is not necessary and slightly deviates from the concise nature of the reference answer.
 [RESULT]: 4

@@ -1,5 +1,5 @@
-[PROMPT]: Who assassinated Lincoln?
-[USER_ANSWER]: The context does not provide any information about who assassinated Abraham Lincoln, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: John Wilkes Booth
-[FEEDBACK]: The response does not provide the correct answer to the question "Who assassinated Lincoln?" The correct answer is "John Wilkes Booth," but the response instead states that the context does not provide the information, which is not relevant to the question itself. Therefore, the response is completely incorrect and not factual based on the reference answer.
-[RESULT]: 1
+[PROMPT]: Who is most noted for his contributions to the theory of molarity and molecular weight?
+[USER_ANSWER]: According to the context, Avogadro was most noted for his contributions to the theory of molarity and molecular weight.
+[CORRECT_ANSWER]: Amedeo Avogadro
+[FEEDBACK]: The response identifies Avogadro as the person noted for his contributions to the theory of molarity and molecular weight, which is correct. However, the additional phrase "According to the context" is unnecessary and slightly detracts from the precision of the answer. Despite this, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

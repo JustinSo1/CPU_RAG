@@ -1,5 +1,5 @@
 [PROMPT]: What is named after him?
 [USER_ANSWER]: The context does not provide any information about what is named after him, so I cannot answer this question from the provided context.
 [CORRECT_ANSWER]: The Celsius crater on the Moon
-[FEEDBACK]: The response does not provide the correct information about what is named after him. It states that the context does not provide the information, which is not an accurate answer to the question. The reference answer specifies that the Celsius crater on the Moon is named after him, which the response fails to mention. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[FEEDBACK]: The response does not provide the correct answer to the question "What is named after him?" based on the reference answer. The reference answer specifies "The Celsius crater on the Moon," while the response states that the context does not provide the information. This makes the response completely incorrect and not factual according to the reference answer.
 [RESULT]: 1

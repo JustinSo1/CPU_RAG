@@ -1,5 +1,5 @@
-[PROMPT]: How long was Lincoln's legal Career?
-[USER_ANSWER]: The context does not provide any information about the length of Lincoln's legal career, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 23 years
-[FEEDBACK]: The response does not provide the correct, accurate, and factual information regarding the length of Lincoln's legal career. The reference answer clearly states that Lincoln's legal career lasted 23 years, while the response claims that the context does not provide this information. This indicates that the response is completely incorrect and inaccurate based on the reference answer.
+[PROMPT]: Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
+[USER_ANSWER]: The context does not provide any relevant information about Anders Celsius's nationality or profession, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question about Anders Celsius's nationality or profession. Instead, it states that the context does not provide relevant information, which is not an accurate or factual response to the question. The reference answer is a simple "Yes," indicating that the correct response should affirm that Anders Celsius was a Swedish astronomer. Therefore, the response is completely incorrect and does not align with the reference answer.
 [RESULT]: 1

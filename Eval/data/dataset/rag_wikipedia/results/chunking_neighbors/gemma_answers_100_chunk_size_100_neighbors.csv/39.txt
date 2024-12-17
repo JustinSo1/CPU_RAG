@@ -1,5 +1,7 @@
-[PROMPT]: Did lincoln have 18 months of schooling?
-[USER_ANSWER]: The context does not provide any information about the number of months Lincoln had of schooling, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not directly answer the question about Lincoln's schooling. Instead, it states that the context does not provide the information needed to answer the question. This makes the response inaccurate and not factual based on the reference answer, which is a simple "Yes." The response fails to provide the correct information and does not align with the reference answer.
-[RESULT]: 1
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: Sure, the title of the 1811 paper can be roughly translated into English as:
+
+"The Law of Avogadro" or "The Law of Constant Volume".
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed translation of the title of the 1811 paper, which is more information than the reference answer. However, the reference answer is simply "yes," indicating that a brief confirmation was sufficient. The response is mostly correct and factual, but it goes beyond what was required by the instruction.
+[RESULT]: 4
