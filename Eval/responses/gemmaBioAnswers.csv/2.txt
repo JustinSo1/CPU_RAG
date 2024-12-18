@@ -1,0 +1,5 @@
+[PROMPT]: Is the protein Papilin secreted?
+[USER_ANSWER]: The context does not provide any information about whether the protein Papilin is secreted, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes,  papilin is a secreted protein
+[FEEDBACK]: The response does not provide a correct, accurate, or factual answer to the question. Instead of confirming that Papilin is a secreted protein, it states that the context does not provide the information needed to answer the question. This is not aligned with the reference answer, which clearly states that Papilin is a secreted protein. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

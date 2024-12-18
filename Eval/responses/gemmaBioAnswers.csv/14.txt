@@ -1,0 +1,5 @@
+[PROMPT]: Orteronel was developed for treatment of which cancer?
+[USER_ANSWER]: The context does not provide any information about the cancer for which Orteronel was developed, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Orteronel was developed for treatment of castration-resistant prostate cancer.
+[FEEDBACK]: The response does not provide the correct information about the cancer for which Orteronel was developed. Instead, it states that the context does not provide the information, which is not relevant to the task of answering the question. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

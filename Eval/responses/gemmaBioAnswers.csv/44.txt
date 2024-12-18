@@ -1,0 +1,5 @@
+[PROMPT]: Does BNP increase after intensive exercise in athletes?
+[USER_ANSWER]: The context does not provide any information about whether BNP increases after intensive exercise in athletes, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: BNP and NTproBNP increase early after exercise in healthy athletes performing different types of sports. It is unknown the reason of this increase. The transient increases in BNP, NT-pro-BNP and troponin T are more likely to reflect myocardial stunning than cardiomyocyte damage.
+[FEEDBACK]: The response does not provide any factual information about BNP levels after intensive exercise in athletes. Instead, it states that the context does not provide the information needed to answer the question. This is not aligned with the reference answer, which clearly states that BNP and NTproBNP increase early after exercise in healthy athletes. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

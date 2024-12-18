@@ -1,0 +1,5 @@
+[PROMPT]: Are transcription and splicing connected?
+[USER_ANSWER]: The context does not provide any information about the connection between transcription and splicing, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes. There is strong evidence that splicing and transcription are intimately coupled in metazoans, with  genome wide surveys show that most splicing occurs during transcription. Chromatin structure, RNA polymerase dynamics, and recruitment of splicing factors through the transcriptional machinery are factors that explain a role for transcription in the regulation of splicing.
+[FEEDBACK]: The response does not address the question about the connection between transcription and splicing. Instead, it states that the context does not provide information, which is not relevant to the task of answering the question based on general knowledge. The response is completely incorrect and does not provide any factual information related to the connection between transcription and splicing.
+[RESULT]: 1

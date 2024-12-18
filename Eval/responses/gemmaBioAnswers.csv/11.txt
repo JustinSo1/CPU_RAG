@@ -1,0 +1,13 @@
+[PROMPT]: Which are the classes of anti-arrhythmic drugs according to Vaughan-Williams classification?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+
+According to the Vaughan-Williams classification, anti-arrhythmic drugs are classified into the following classes:
+
+- Class I: Drugs that block sodium channels.
+- Class II: Drugs that block potassium channels.
+- Class III: Drugs that block calcium channels.
+- Class IV: Drugs that block both sodium and potassium channels.
+- Class V: Drugs that block calcium and potassium channels.
+[CORRECT_ANSWER]: Antiarrhythmic drugs can be divided into four Vaughan Williams classes (I-IV). Class I antiarrhythmic agents have as a common action, blockade of the sodium channels. Class II agents are antisympathetic drugs, particularly the beta-adrenoceptor blockers. Class-III antiarrhythmics have as a common action the potassium-channel blockade. Class IV antiarrhythmic drugs are calcium channel blockers.
+[FEEDBACK]: The response contains several inaccuracies when compared to the reference answer. Specifically, Class II drugs are incorrectly described as potassium channel blockers instead of beta-adrenoceptor blockers. Class III drugs are incorrectly described as calcium channel blockers instead of potassium channel blockers. Class IV drugs are incorrectly described as blocking both sodium and potassium channels instead of being calcium channel blockers. Additionally, Class V is not a recognized category in the Vaughan-Williams classification. These errors indicate that the response is mostly incorrect and inaccurate.
+[RESULT]: 2

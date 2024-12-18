@@ -1,0 +1,5 @@
+[PROMPT]: Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?
+[USER_ANSWER]: The context does not provide any relevant information about the potential use of Trastuzumab (Herceptin) in the treatment of prostate cancer, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Although is still controversial, Trastuzumab (Herceptin) can be of potential use in the treatment of prostate cancer overexpressing HER2, either alone or in combination with other drugs.
+[FEEDBACK]: The response does not address the potential use of Trastuzumab (Herceptin) in the treatment of prostate cancer. Instead, it states that the context does not provide relevant information, which is not an accurate or factual answer to the question. The reference answer indicates that Trastuzumab can be of potential use in treating prostate cancer overexpressing HER2, which the response fails to mention. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

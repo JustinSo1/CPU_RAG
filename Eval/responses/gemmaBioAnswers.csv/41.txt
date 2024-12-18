@@ -1,0 +1,7 @@
+[PROMPT]: Which factors activate zygotic gene expression during the maternal-to-zygotic transition in zebrafish?
+[USER_ANSWER]: Sure, here's the answer to the question:
+
+The factors that activate zygotic gene expression during the maternal-to-zygotic transition in zebrafish are Nanog, Pou5f1, and SoxB1.
+[CORRECT_ANSWER]: Nanog, Pou5f1 and SoxB1 activate zygotic gene expression during the maternal-to-zygotic transition. Maternal Nanog, Pou5f1 and SoxB1 are required to initiate the zygotic developmental program and induce clearance of the maternal program by activating miR-430 expression.
+[FEEDBACK]: The response correctly identifies the factors Nanog, Pou5f1, and SoxB1 as activators of zygotic gene expression during the maternal-to-zygotic transition in zebrafish. However, it lacks the additional detail provided in the reference answer about the role of these factors in initiating the zygotic developmental program and inducing the clearance of the maternal program by activating miR-430 expression. While the response is accurate, it is not as comprehensive as the reference answer.
+[RESULT]: 4

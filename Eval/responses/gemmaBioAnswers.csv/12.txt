@@ -1,0 +1,5 @@
+[PROMPT]: Which are the different isoforms of the mammalian Notch receptor?
+[USER_ANSWER]: The different isoforms of the mammalian Notch receptor are Notch1, Notch2, and Notch3.
+[CORRECT_ANSWER]: Notch signaling is an evolutionarily conserved mechanism, used to regulate cell fate decisions. Four Notch receptors have been identified in man: Notch-1, Notch-2, Notch-3 and Notch-4.
+[FEEDBACK]: The response correctly identifies three of the four isoforms of the mammalian Notch receptor, namely Notch1, Notch2, and Notch3. However, it omits Notch4, which is also a known isoform. Therefore, the response is mostly correct but not completely accurate and factual as it misses one isoform.
+[RESULT]: 4

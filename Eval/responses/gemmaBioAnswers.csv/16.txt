@@ -1,0 +1,7 @@
+[PROMPT]: Which are the Yamanaka factors?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+
+The context does not provide any information about the Yamanaka factors, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: The Yamanaka factors are the OCT4, SOX2, MYC, and KLF4 transcription factors
+[FEEDBACK]: The response does not provide any information about the Yamanaka factors, which are the OCT4, SOX2, MYC, and KLF4 transcription factors. Instead, it states that the context does not provide information and does not attempt to answer the question based on the knowledge base. This makes the response completely incorrect and not factual according to the reference answer.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: What is the aim of the Human Chromosome-centric Proteome Project (C-HPP)?
+[USER_ANSWER]: Sure, here's the answer to your question:
+
+The aim of the Human Chromosome-centric Proteome Project (C-HPP) is to map and annotate all proteins encoded by the genes on each human chromosome.
+[CORRECT_ANSWER]: The chromosome-centric human proteome project aims to systematically map all human proteins, chromosome by chromosome, in a gene-centric manner through dedicated efforts from national and international teams
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the aim of the Human Chromosome-centric Proteome Project (C-HPP) as mapping and annotating all proteins encoded by the genes on each human chromosome. However, it lacks the detail about the systematic and gene-centric approach and the involvement of national and international teams, which are mentioned in the reference answer.
+[RESULT]: 4

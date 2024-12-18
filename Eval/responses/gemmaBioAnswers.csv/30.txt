@@ -1,0 +1,8 @@
+[PROMPT]: List the endoscopic diagnoses that have been reported in children with autism
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+
+The context does not provide any information about endoscopic diagnoses that have been reported in children with autism, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Endoscopic examinations in autistic children have been reported to show : I or II reflux esophagitis,  Achalasia, chronic gastritis and chronic duodenitis,  mild acute and chronic inflammation of the small bowel and colorectum and Ileo-colonic lymphoid nodular hyperplasia (LNH).  
+The number of Paneth's cells in the duodenal crypts was found to be significantly elevated in autistic children compared with non-autistic control subjects. Low intestinal carbohydrate digestive enzyme activity was reported although there was no abnormality found in pancreatic function. Autistic children have ben reported to have an increased pancreatico-biliary fluid output after intravenous secretin administration.
+[FEEDBACK]: The response does not provide any information about endoscopic diagnoses in children with autism. It states that the context does not provide the necessary information and does not attempt to answer the question based on the reference answer. Therefore, it is completely incorrect, inaccurate, and not factual according to the reference answer provided.
+[RESULT]: 1

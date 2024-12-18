@@ -1,0 +1,5 @@
+[PROMPT]: Are long non coding RNAs spliced?
+[USER_ANSWER]: The context does not provide any information about whether long non-coding RNAs are spliced, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Long non coding RNAs appear to be spliced through the same pathway as the mRNAs
+[FEEDBACK]: The response does not address the question about whether long non-coding RNAs are spliced. Instead, it states that the context does not provide information, which is not relevant to the accuracy of the answer. The reference answer clearly states that long non-coding RNAs are spliced through the same pathway as mRNAs. Therefore, the response is completely incorrect and does not provide any factual information related to the question.
+[RESULT]: 1

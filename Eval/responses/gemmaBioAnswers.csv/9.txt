@@ -1,0 +1,7 @@
+[PROMPT]: List the human genes encoding for the dishevelled proteins?
+[USER_ANSWER]: The context does not provide any information about the human genes encoding for the dishevelled proteins, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: DVL-1
+DVL-2
+DVL-3
+[FEEDBACK]: The response does not provide any of the human genes encoding for the dishevelled proteins, which are DVL-1, DVL-2, and DVL-3. Instead, it states that the context does not provide the information needed to answer the question. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

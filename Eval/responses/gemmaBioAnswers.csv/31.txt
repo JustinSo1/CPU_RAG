@@ -1,0 +1,8 @@
+[PROMPT]: What are the outcomes of Renal sympathetic denervation?
+[USER_ANSWER]: Sure, here's the answer to your question:
+
+The outcomes of Renal sympathetic denervation (RSD) are significant decreases and progressively higher reductions of systolic and diastolic blood pressure were observed after RSD. The complication rate was minimal.
+[CORRECT_ANSWER]: Significant decreases and progressively higher reductions of systolic and diastolic blood pressure were observed after RSD. The complication rate was minimal.
+Renal sympathetic denervation also reduces heart rate, which is a surrogate marker of cardiovascular risk.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly mentions the significant decreases and progressively higher reductions of systolic and diastolic blood pressure and the minimal complication rate, which aligns with the reference answer. However, it omits the additional outcome of reduced heart rate, which is an important aspect mentioned in the reference answer. This omission prevents the response from being completely correct and factual.
+[RESULT]: 4

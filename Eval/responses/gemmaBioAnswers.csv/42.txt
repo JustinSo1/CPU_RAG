@@ -1,0 +1,5 @@
+[PROMPT]: Is irritable bowel syndrome more common in women with endometriosis?
+[USER_ANSWER]: The context does not provide any information about the frequency of irritable bowel syndrome in women with endometriosis, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes, irritable bowel syndrome (IBS) is more common in women with endometriosis. It has been shown that 15% of the patients with endometriosis also had IBS. Women with endometriosis are more likely to have received a diagnosis of IBS. Endometriosis may coexist with or be misdiagnosed as IBS.
+[FEEDBACK]: The response does not address the question about the prevalence of irritable bowel syndrome in women with endometriosis. Instead, it states that the context does not provide information, which is not relevant to the accuracy of the answer itself. The reference answer clearly states that IBS is more common in women with endometriosis and provides specific statistics and explanations. The evaluated response fails to provide any of this information, making it completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: List signaling molecules (ligands) that interact with the receptor EGFR?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: The 7 known EGFR ligands  are: epidermal growth factor (EGF), betacellulin (BTC), epiregulin (EPR), heparin-binding EGF (HB-EGF), transforming growth factor-α [TGF-α], amphiregulin (AREG) and epigen (EPG).
+[FEEDBACK]: The response does not provide any of the signaling molecules (ligands) that interact with the receptor EGFR. Instead, it states an inability to find a match in the knowledge base and relies on the responder's own knowledge without providing any factual information. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

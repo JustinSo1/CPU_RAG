@@ -1,0 +1,5 @@
+[PROMPT]: Do mutations of AKT1 occur in meningiomas?
+[USER_ANSWER]: Sure, mutations of the AKT1 gene were found in nearly one-fourth of all meningiomas.
+[CORRECT_ANSWER]: Yes, AKT1 mutation occurs in meningiomas.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that mutations of the AKT1 gene occur in meningiomas, which aligns with the reference answer. However, the additional detail about the frequency of these mutations ("nearly one-fourth of all meningiomas") is not present in the reference answer and is not necessary to answer the question. This extra information, while potentially accurate, is not required and slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

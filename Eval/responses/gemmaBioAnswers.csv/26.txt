@@ -1,0 +1,7 @@
+[PROMPT]: What kind of chromatography is HILIC?
+[USER_ANSWER]: Sure, here's an answer to the question:
+
+HILIC is a chromatography technique that is used for the analysis of small polar molecules.
+[CORRECT_ANSWER]: Hydrophilic Interaction Chromatography (HILIC)
+[FEEDBACK]: The response correctly identifies HILIC as a chromatography technique and mentions its use for analyzing small polar molecules, which is accurate. However, it does not provide the full name "Hydrophilic Interaction Chromatography," which is a key part of the reference answer. Therefore, while the response is mostly correct and factual, it lacks completeness in terms of the full name of the technique.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Name synonym of Acrokeratosis paraneoplastica.
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: Acrokeratosis paraneoplastic (Bazex syndrome) is a rare, but distinctive paraneoplastic dermatosis characterized by erythematosquamous lesions located at the acral sites and is most commonly associated with carcinomas of the upper aerodigestive tract.
+[FEEDBACK]: The response does not provide any factual information or a synonym for Acrokeratosis paraneoplastica. It simply states that the information could not be found, which does not meet the criteria for correctness, accuracy, or factuality based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Which MAP kinase phosphorylates the transcription factor c-jun?
+[USER_ANSWER]: The context does not provide information about which MAP kinase phosphorylates the transcription factor c-jun, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: c-Jun is phosphorylated by c-Jun NH2-terminal kinase (JNK).
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question, which is not relevant to the task. The correct answer, as given in the reference, is that c-Jun is phosphorylated by c-Jun NH2-terminal kinase (JNK). Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness.
+[RESULT]: 1

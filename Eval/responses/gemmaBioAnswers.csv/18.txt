@@ -1,0 +1,5 @@
+[PROMPT]: Where is the protein Pannexin1 located?
+[USER_ANSWER]: The context does not provide any information about the location of the protein Pannexin1, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: The protein Pannexin1 is localized to the plasma membranes.
+[FEEDBACK]: The response does not provide the correct information about the location of the protein Pannexin1. Instead, it states that the context does not provide the information, which is not relevant to the question asked. The correct answer, as per the reference, is that Pannexin1 is localized to the plasma membranes. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

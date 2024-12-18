@@ -1,0 +1,5 @@
+[PROMPT]: Has Denosumab (Prolia) been approved by FDA?
+[USER_ANSWER]: Sure, the context says that Denosumab (Prolia) is approved by the FDA for the treatment of postmenopausal osteoporosis in women who are at high risk of fracture.
+[CORRECT_ANSWER]: Yes, Denosumab was approved by the FDA in 2010.
+[FEEDBACK]: The response is mostly correct and factual, as it accurately states that Denosumab (Prolia) is approved by the FDA. However, it does not mention the approval year (2010), which is a key detail present in the reference answer. The response also adds extra information about the specific use for postmenopausal osteoporosis in women at high risk of fracture, which is accurate but not necessary for the given question.
+[RESULT]: 4

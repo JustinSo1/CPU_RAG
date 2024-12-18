@@ -1,0 +1,7 @@
+[PROMPT]: What is the structural fold of bromodomain proteins?
+[USER_ANSWER]: Sure, here's the answer to your question:
+
+The structural fold of bromodomain proteins is a left-handed up-and-down four-helix bundle.
+[CORRECT_ANSWER]: The structure fold of the bromodomains is an all-alpha-helical fold, which includes a left-handed four-helix bundle topology, with two short additional helices in a long connecting loop.
+[FEEDBACK]: The response correctly identifies the structural fold of bromodomain proteins as a left-handed four-helix bundle, which is a significant part of the reference answer. However, it omits the detail that the fold is all-alpha-helical and does not mention the two short additional helices in a long connecting loop. This makes the response mostly correct but missing some important details for full accuracy.
+[RESULT]: 4

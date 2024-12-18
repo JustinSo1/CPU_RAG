@@ -1,0 +1,9 @@
+[PROMPT]: Which currently known mitochondrial diseases have been attributed to POLG mutations?
+[USER_ANSWER]: Sure, here are the currently known mitochondrial diseases that have been attributed to POLG mutations:
+
+- Alpers syndrome
+- Progressive external ophthalmoplegia
+- Ataxia-neuropathy syndrome
+[CORRECT_ANSWER]: Mutations in the POLG gene have emerged as one of the most common causes of inherited mitochondrial disease in children and adults. They are responsible for a heterogeneous group of at least 6 major phenotypes of neurodegenerative disease that include: 1) childhood Myocerebrohepatopathy Spectrum disorders (MCHS), 2) Alpers syndrome, 3) Ataxia Neuropathy Spectrum (ANS) disorders, 4) Myoclonus Epilepsy Myopathy Sensory Ataxia (MEMSA), 5) autosomal recessive Progressive External Ophthalmoplegia (arPEO), and 6) autosomal dominant Progressive External Ophthalmoplegia (adPEO).
+[FEEDBACK]: The response lists three mitochondrial diseases attributed to POLG mutations: Alpers syndrome, Progressive external ophthalmoplegia, and Ataxia-neuropathy syndrome. While these are correct, the response is incomplete as it does not mention all the major phenotypes associated with POLG mutations. The reference answer lists six major phenotypes, including Myocerebrohepatopathy Spectrum disorders, Myoclonus Epilepsy Myopathy Sensory Ataxia, and differentiates between autosomal recessive and autosomal dominant Progressive External Ophthalmoplegia. Therefore, the response is somewhat correct but lacks completeness and detail.
+[RESULT]: 3

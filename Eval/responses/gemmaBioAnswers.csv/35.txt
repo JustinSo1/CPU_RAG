@@ -1,0 +1,5 @@
+[PROMPT]: What are the main indications of lacosamide?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+[CORRECT_ANSWER]: Lacosamide is an anti-epileptic drug, licensed for refractory partial-onset seizures. In addition to this, it has demonstrated analgesic activity in various animal models. Apart from this, LCM has demonstrated potent effects in animal models for a variety of CNS disorders like schizophrenia and stress induced anxiety.
+[FEEDBACK]: The response does not provide any information about the main indications of lacosamide. It states that the knowledge base did not have a good match and does not attempt to answer the question based on known information. Therefore, it is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

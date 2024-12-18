@@ -1,0 +1,10 @@
+[PROMPT]: Which are the major characteristics of cellular senescence?
+[USER_ANSWER]: Sure, here are the major characteristics of cellular senescence:
+
+- Loss of telomere integrity
+- Formation of senescence-associated secretory phenotype (SASP)
+- Activation of p53 and Rb proteins
+- Dramatic changes in cell morphology and metabolism
+[CORRECT_ANSWER]: The defining characteristics of cellular senescence are altered morphology, arrested cell-cycle progression, development of aberrant gene expression with proinflammatory behavior, and telomere shortening.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies several major characteristics of cellular senescence, such as loss of telomere integrity, formation of SASP, and activation of p53 and Rb proteins. However, it does not mention arrested cell-cycle progression and development of aberrant gene expression with proinflammatory behavior, which are also key characteristics according to the reference answer. Additionally, while it mentions changes in cell morphology and metabolism, it does not explicitly state the arrested cell-cycle progression, which is a critical aspect of cellular senescence.
+[RESULT]: 4

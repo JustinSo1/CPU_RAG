@@ -1,0 +1,7 @@
+[PROMPT]: Which miRNAs could be used as potential biomarkers for epithelial ovarian cancer?
+[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
+
+The context does not provide any relevant information about miRNAs that could be used as potential biomarkers for epithelial ovarian cancer, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: miR-200a, miR-100, miR-141, miR-200b, miR-200c, miR-203, miR-510, miR-509-5p, miR-132, miR-26a, let-7b, miR-145, miR-182, miR-152, miR-148a, let-7a, let-7i, miR-21, miR-92 and miR-93 could be used as potential biomarkers for epithelial ovarian cancer.
+[FEEDBACK]: The response does not provide any information about miRNAs that could be used as potential biomarkers for epithelial ovarian cancer. It states that the context does not provide relevant information and therefore does not answer the question. This makes the response completely incorrect, inaccurate, and not factual based on the reference answer, which lists specific miRNAs that could be used as potential biomarkers.
+[RESULT]: 1

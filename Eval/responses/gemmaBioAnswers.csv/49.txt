@@ -1,0 +1,5 @@
+[PROMPT]: Are ultraconserved elements often transcribed?
+[USER_ANSWER]: The context does not provide any information about whether ultraconserved elements are often transcribed, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Yes.  Especially, a large fraction of non-exonic UCEs is transcribed across all developmental stages examined from only one DNA strand.
+[FEEDBACK]: The response does not address the question of whether ultraconserved elements are often transcribed. Instead, it states that the context does not provide information, which is not relevant to the accuracy of the answer itself. The reference answer clearly states that ultraconserved elements are often transcribed, particularly non-exonic UCEs across all developmental stages from one DNA strand. The response fails to provide any of this factual information.
+[RESULT]: 1

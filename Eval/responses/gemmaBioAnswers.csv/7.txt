@@ -1,0 +1,7 @@
+[PROMPT]: Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis?
+[USER_ANSWER]: Sure, here's the answer to your question:
+
+The acetylcholinesterase inhibitors used for treatment of myasthenia gravis are pyridostigmine bromide and SR-Pyr.
+[CORRECT_ANSWER]: Pyridostigmine and neostygmine are acetylcholinesterase inhibitors that are used as first-line therapy for symptomatic treatment of myasthenia gravis. Pyridostigmine is the most widely used acetylcholinesterase inhibitor. Extended release pyridotsygmine and novel acetylcholinesterase inhibitors inhibitors with oral antisense oligonucleotides are being studied.
+[FEEDBACK]: The response correctly identifies pyridostigmine bromide as an acetylcholinesterase inhibitor used for the treatment of myasthenia gravis, which aligns with the reference answer. However, it incorrectly lists "SR-Pyr" instead of neostigmine. The reference answer also provides additional context about the use of extended-release pyridostigmine and novel inhibitors, which the response does not mention. Therefore, the response is mostly correct but not completely accurate and factual.
+[RESULT]: 4

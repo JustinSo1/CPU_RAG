@@ -1,0 +1,5 @@
+[PROMPT]: Is RANKL secreted from the cells?
+[USER_ANSWER]: The context does not provide any information about whether RANKL is secreted from the cells, so I cannot answer this question from the provided context.
+[CORRECT_ANSWER]: Receptor activator of nuclear factor κB ligand (RANKL) is a cytokine predominantly secreted by osteoblasts.
+[FEEDBACK]: The response does not provide any factual information about RANKL being secreted from cells. Instead, it states that the context does not provide information, which is not relevant to the question asked. The reference answer clearly states that RANKL is a cytokine predominantly secreted by osteoblasts, which is the factual information required. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

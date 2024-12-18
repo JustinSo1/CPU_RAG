@@ -1,0 +1,7 @@
+[PROMPT]: What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?
+[USER_ANSWER]: Sure, here's the answer to the question:
+
+The mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD) is autosomal dominant. This means that the disease is caused by a mutation in one copy of the D4Z4 repeat array on chromosome 4, regardless of the genotype of the other copy.
+[CORRECT_ANSWER]: Facioscapulohumeral muscular dystrophy has an autosomal dominant inheritance pattern.
+[FEEDBACK]: The response correctly identifies the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD) as autosomal dominant, which aligns with the reference answer. Additionally, the response provides extra information about the mutation in the D4Z4 repeat array on chromosome 4, which is accurate and factual. This additional detail does not detract from the correctness of the response but rather enhances it by providing more context. Therefore, the response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5
