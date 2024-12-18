@@ -20,7 +20,7 @@ from llama_index.llms.langchain import LangChainLLM
 from llama_index.llms.llama_cpp import LlamaCPP
 from llama_index.vector_stores.faiss import FaissVectorStore
 
-from llamaIndex_experiments.RAGQueryEngine import RAGQueryEngine
+from RAGQueryEngine import RAGQueryEngine
 
 
 # from utils import read_parquet
@@ -172,9 +172,9 @@ def main():
             """
                     )
         token_counter.reset_counts()
-        if i == 50:
-            break
-        # break
+#        if i == 50:
+#            break
+#        break
     df = pd.DataFrame.from_dict(answer_dict)
     print(df)
     df.to_csv("llama_index_wiki_gpt-4o.csv")
