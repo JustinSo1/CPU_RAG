@@ -37,7 +37,8 @@ def count_context_cases(df):
     failures = [
         "The context does not",
         "I couldn't find a good match in my knowledge base",
-        "I cannot answer this question"
+        "I cannot answer this question",
+        "does not contain information"
     ]
     counter_context_missing = df.str.count('|'.join(failures)).sum()
     counter_context_exist = df.shape[0] - counter_context_missing
