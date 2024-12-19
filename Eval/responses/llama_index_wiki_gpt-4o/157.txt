@@ -1,0 +1,5 @@
+[PROMPT]: Do ducks forage underwater?
+[USER_ANSWER]: Yes, dabbling ducks typically forage underwater by tipping forward and feeding on aquatic plants and small animals just below the water's surface.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional information about how dabbling ducks forage underwater, which is accurate. However, the reference answer is very concise, and the additional details, while correct, are not necessary to meet the criteria of the reference answer. The response could be seen as over-explaining, but it does not contain any inaccuracies.
+[RESULT]: 4

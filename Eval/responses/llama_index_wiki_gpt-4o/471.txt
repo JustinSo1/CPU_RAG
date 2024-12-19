@@ -1,0 +1,5 @@
+[PROMPT]: What are four species that are commonly referred to as kangaroos?
+[USER_ANSWER]: The four species commonly referred to as kangaroos are wallaroos (Macropus robustus robustus), euros (Macropus robustus erubescens), red kangaroos (Macropus rufus), and the Australian kangaroo.
+[CORRECT_ANSWER]: The Red Kangaroo, The Eastern Grey Kangaroo, The Western Grey Kangaroo, and The Antilopine Kangaroo
+[FEEDBACK]: The response identifies four species, but only one of them (the red kangaroo) matches the reference answer. The other three species mentioned (wallaroos, euros, and the Australian kangaroo) are not among the four commonly referred to as kangaroos in the reference answer. Therefore, the response is somewhat correct but not mostly or completely accurate.
+[RESULT]: 3

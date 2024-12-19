@@ -1,0 +1,5 @@
+[PROMPT]: Where do sea turtles lay their eggs?
+[USER_ANSWER]: Sea turtles lay their eggs on sandy beaches.
+[CORRECT_ANSWER]: Holes Dug into the Mud or Sand
+[FEEDBACK]: The response "Sea turtles lay their eggs on sandy beaches" is mostly correct, accurate, and factual. It correctly identifies that sea turtles lay their eggs on sandy beaches, which aligns with the reference answer indicating that they lay eggs in holes dug into the sand. However, it does not mention the aspect of "holes" which is a part of the reference answer. Therefore, it is not completely correct but mostly accurate.
+[RESULT]: 4

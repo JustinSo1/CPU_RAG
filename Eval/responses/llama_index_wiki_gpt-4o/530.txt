@@ -1,0 +1,5 @@
+[PROMPT]: What countries border Liechtenstein?
+[USER_ANSWER]: Liechtenstein is bordered by Switzerland and Austria.
+[CORRECT_ANSWER]: Switzerland and Austria.
+[FEEDBACK]: The response "Liechtenstein is bordered by Switzerland and Austria." is completely correct, accurate, and factual based on the reference answer "Switzerland and Austria." The response includes both countries that border Liechtenstein and does not contain any inaccuracies or extraneous information.
+[RESULT]: 5

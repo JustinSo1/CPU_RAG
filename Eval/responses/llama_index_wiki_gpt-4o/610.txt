@@ -1,0 +1,5 @@
+[PROMPT]: Are otters playful animals?
+[USER_ANSWER]: Yes, otters are known to be playful animals.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides additional information that supports the accuracy of the statement.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What is Finland's economy like?
+[USER_ANSWER]: The context information provided does not contain details about Finland's economy. Therefore, I cannot provide an answer based on the given information.
+[CORRECT_ANSWER]: a highly industrialised, free-market economy
+[FEEDBACK]: The response does not provide any information about Finland's economy, which is required to be considered correct, accurate, and factual based on the reference answer. The response instead mentions the lack of context information, which does not address the question directly. Therefore, it does not meet the criteria for correctness, accuracy, and factuality as per the reference answer.
+[RESULT]: 1

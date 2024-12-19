@@ -1,0 +1,5 @@
+[PROMPT]: Was Wilson president of the American Political Science Association in 1910 ?
+[USER_ANSWER]: There is no information provided about Wilson being president of the American Political Science Association in 1910.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that Wilson was indeed president of the American Political Science Association in 1910. The evaluated response fails to provide this factual information and instead states that there is no information provided, which is not accurate.
+[RESULT]: 1

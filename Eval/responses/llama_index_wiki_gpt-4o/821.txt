@@ -1,0 +1,5 @@
+[PROMPT]: Are the largest turtles aquatic?
+[USER_ANSWER]: The information provided does not specify whether the largest turtles are aquatic.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question and instead comments on the lack of information provided. This makes the response inaccurate and not factual based on the reference answer, which is a straightforward "yes." The response fails to address the question correctly.
+[RESULT]: 1

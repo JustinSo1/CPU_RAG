@@ -1,0 +1,5 @@
+[PROMPT]: Where is Qatar's telecommunication system centered?
+[USER_ANSWER]: The telecommunications system in Qatar is centered at Hamad Bin Khalifa University.
+[CORRECT_ANSWER]: Doha.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The telecommunications system in Qatar is centered in Doha, not at Hamad Bin Khalifa University. The response does not align with the reference answer and provides incorrect information.
+[RESULT]: 1

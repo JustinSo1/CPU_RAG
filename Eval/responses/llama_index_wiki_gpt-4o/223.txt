@@ -1,0 +1,5 @@
+[PROMPT]: What is the life expectancy for men in Finland?
+[USER_ANSWER]: The life expectancy for men in Finland is not explicitly provided in the given information.
+[CORRECT_ANSWER]: 75 years
+[FEEDBACK]: The response does not provide the correct life expectancy for men in Finland, which is 75 years according to the reference answer. Instead, it states that the information is not provided, which is inaccurate based on the reference. Therefore, the response is completely incorrect and not factual.
+[RESULT]: 1

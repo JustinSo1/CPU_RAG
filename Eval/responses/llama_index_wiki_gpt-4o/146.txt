@@ -1,0 +1,5 @@
+[PROMPT]: Is it the world 's second largest country by total area?
+[USER_ANSWER]: No, it is not.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "No, it is not." is completely incorrect and inaccurate based on the reference answer "yes." The reference answer indicates that the correct response should affirm that it is the world's second largest country by total area, while the evaluated response denies it. Therefore, the response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

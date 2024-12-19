@@ -1,0 +1,5 @@
+[PROMPT]: Are polar bears excellent swimmers?
+[USER_ANSWER]: The provided information does not discuss the swimming abilities of polar bears.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question about whether polar bears are excellent swimmers. Instead, it mentions the lack of information provided, which is not relevant to the question. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: The Historical Society of the Principality of Liechtenstein plays what?
+[USER_ANSWER]: The Historical Society of the Principality of Liechtenstein is not mentioned in the provided information. Therefore, I cannot provide an answer based on the given context.
+[CORRECT_ANSWER]: a role in preserving the culture and history of the country.
+[FEEDBACK]: The response does not address the question directly and does not provide any information about the role of the Historical Society of the Principality of Liechtenstein. Instead, it states that the information is not provided, which is not accurate based on the reference answer. The response is completely incorrect and does not align with the factual information given in the reference answer.
+[RESULT]: 1

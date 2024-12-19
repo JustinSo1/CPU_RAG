@@ -1,0 +1,5 @@
+[PROMPT]: What is an otter's den called?
+[USER_ANSWER]: An otter's den is called a holt.
+[CORRECT_ANSWER]: Holt
+[FEEDBACK]: The response "An otter's den is called a holt." is completely correct, accurate, and factual based on the reference answer "Holt." The response provides the correct term for an otter's den without any errors or inaccuracies.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What kinds of changes have larger kangaroos adapted much better to?
+[USER_ANSWER]: Larger kangaroos have adapted much better to the onset of continental-wide aridification.
+[CORRECT_ANSWER]: Changes wrought to the Australian landscape by humans.
+[FEEDBACK]: The response is somewhat correct, accurate, and factual. While it mentions a significant environmental change (continental-wide aridification) that kangaroos have adapted to, it does not address the specific change mentioned in the reference answer (changes wrought to the Australian landscape by humans). Therefore, it only partially aligns with the reference answer.
+[RESULT]: 3

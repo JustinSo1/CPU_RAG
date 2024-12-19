@@ -1,0 +1,5 @@
+[PROMPT]: Who appointed Harlan Fiske Stone to the Supreme Court?
+[USER_ANSWER]: Harlan Fiske Stone was appointed to the Supreme Court by Calvin Coolidge.
+[CORRECT_ANSWER]: Coolidge
+[FEEDBACK]: The response "Harlan Fiske Stone was appointed to the Supreme Court by Calvin Coolidge" is completely correct, accurate, and factual. It provides the full name of the appointer, which aligns with the reference answer "Coolidge." The additional context does not detract from the accuracy of the information provided.
+[RESULT]: 5

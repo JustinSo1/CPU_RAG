@@ -1,0 +1,5 @@
+[PROMPT]: Are the Pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?
+[USER_ANSWER]: Yes, the Pleurodira are sometimes known as side-necked turtles, which refers to the way they withdraw their heads into their shells.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Pleurodira are known as side-necked turtles and explains the reason behind this name, which aligns with the information in the reference answer.
+[RESULT]: 5

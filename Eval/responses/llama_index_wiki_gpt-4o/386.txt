@@ -1,0 +1,5 @@
+[PROMPT]: Who did James Monroe marry?
+[USER_ANSWER]: James Monroe married Elizabeth Kortright.
+[CORRECT_ANSWER]: Elizabeth Kortright
+[FEEDBACK]: The response "James Monroe married Elizabeth Kortright" is completely correct, accurate, and factual based on the reference answer "Elizabeth Kortright." The response includes the full name and matches the reference answer precisely.
+[RESULT]: 5

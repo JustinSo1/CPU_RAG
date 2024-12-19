@@ -1,0 +1,5 @@
+[PROMPT]: Does Liechtenstein have an army?
+[USER_ANSWER]: No, Liechtenstein does not have an army.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the same information as the reference answer, confirming that Liechtenstein does not have an army.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: How can beetle larvae be differentiated from other insect larvae?
+[USER_ANSWER]: Beetle larvae can be differentiated from other insect larvae by the expression pattern of the zelda gene, which is expressed during the maternal-to-zygotic transition (MZT) in B. germanica. This gene's expression pattern and functions during development are distinctive and can be used as a distinguishing feature.
+[CORRECT_ANSWER]: their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body
+[FEEDBACK]: The response provided is not correct, accurate, or factual based on the reference answer. The reference answer highlights physical characteristics such as a hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body as distinguishing features of beetle larvae. The response, however, mentions the expression pattern of the zelda gene during the maternal-to-zygotic transition in B. germanica, which is not relevant to the physical characteristics used to differentiate beetle larvae from other insect larvae.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Did the media contribute 15.6% to Singapore's GDP in 2001?
+[USER_ANSWER]: There is no information provided regarding the media's contribution to Singapore's GDP in 2001.
+[CORRECT_ANSWER]: No, it contributed 1.56% to GDP in 2001.
+[FEEDBACK]: The response is not correct or accurate based on the reference answer. The reference answer clearly states that the media contributed 1.56% to Singapore's GDP in 2001, while the response claims there is no information provided regarding the media's contribution. This indicates a lack of factual accuracy and correctness.
+[RESULT]: 1

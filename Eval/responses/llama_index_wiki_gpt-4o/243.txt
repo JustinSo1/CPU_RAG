@@ -1,0 +1,5 @@
+[PROMPT]: Does a large proportion of the population speak Swedish as its mother tongue?
+[USER_ANSWER]: Yes, a large proportion of the population speaks Swedish as its mother tongue.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the correct response should be "No," while the evaluated response states "Yes," which is the opposite of the correct answer.
+[RESULT]: 1

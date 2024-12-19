@@ -1,0 +1,5 @@
+[PROMPT]: Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?
+[USER_ANSWER]: No, they did not claim Ford's pardon was quid pro quo in exchange for Nixon's resignation.
+[CORRECT_ANSWER]: They did claim Ford's pardon was quid pro quo.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that they did claim Ford's pardon was quid pro quo, while the response states the opposite. Therefore, the response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

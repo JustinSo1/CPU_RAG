@@ -1,0 +1,5 @@
+[PROMPT]: Which type of beetle is a pest of potato plants?
+[USER_ANSWER]: The context does not provide information about a beetle that is a pest of potato plants.
+[CORRECT_ANSWER]: Colorado potato beetle
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that the context does not provide information about a beetle that is a pest of potato plants, which is not true. The correct answer is the Colorado potato beetle. The response does not provide any factual information related to the question.
+[RESULT]: 1

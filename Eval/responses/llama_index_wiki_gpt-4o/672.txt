@@ -1,0 +1,5 @@
+[PROMPT]: What do with greenpeace and the natural resources defense council have in common?
+[USER_ANSWER]: Both Greenpeace and the Natural Resources Defense Council are organizations focused on environmental protection and conservation efforts.
+[CORRECT_ANSWER]: They filed lawsuits in California.
+[FEEDBACK]: The response is somewhat correct in that both Greenpeace and the Natural Resources Defense Council are indeed organizations focused on environmental protection and conservation efforts. However, it does not address the specific commonality mentioned in the reference answer, which is that they filed lawsuits in California. Therefore, the response lacks the specific factual detail required to be considered mostly or completely correct based on the reference answer.
+[RESULT]: 3

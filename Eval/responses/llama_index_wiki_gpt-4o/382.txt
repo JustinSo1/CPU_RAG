@@ -1,0 +1,5 @@
+[PROMPT]: Did James Monroe attend the College of William and Mary?
+[USER_ANSWER]: The information regarding James Monroe's attendance at the College of William and Mary is not provided.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that James Monroe did attend the College of William and Mary, while the response suggests that the information is not provided. This directly contradicts the factual information given in the reference answer.
+[RESULT]: 1

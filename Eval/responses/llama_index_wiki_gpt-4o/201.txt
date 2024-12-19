@@ -1,0 +1,5 @@
+[PROMPT]: Are elephant populations in West Africa generally small and fragmented?
+[USER_ANSWER]: Yes, elephant populations in West Africa are generally small and fragmented.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It directly addresses the question and provides the same information as the reference answer, confirming that elephant populations in West Africa are generally small and fragmented.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Does Qatar rank as the eighth richest country in the world per capita?
+[USER_ANSWER]: The provided information does not include details about the ranking of Qatar in terms of per capita wealth. Therefore, it is not possible to determine from this context whether Qatar ranks as the eighth richest country in the world per capita.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response does not directly answer the question as the reference answer does. Instead, it provides an explanation about the lack of information, which is not required. The reference answer is a simple "No," which is clear and direct. The response is somewhat correct in that it acknowledges the lack of information, but it does not provide the straightforward answer that is expected.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Why otters are considered as totem animals?
+[USER_ANSWER]: Otters are often considered totem animals because they symbolize playfulness, creativity, and the ability to find joy in life. They are seen as a reminder to embrace our inner child, enjoy the moment, and not take life too seriously. Their behavior in the wild, such as their playful interactions and resourcefulness, embodies these qualities.
+[CORRECT_ANSWER]: The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19. 
+[FEEDBACK]: The response does not address the specific information provided in the reference answer, which links otters as totem animals to the Aquarius sign of the Zodiac and the time period of January 20-February 19. Instead, the response focuses on the symbolic meanings of otters, such as playfulness and creativity, which, while relevant to the concept of totem animals, do not align with the factual details given in the reference answer. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

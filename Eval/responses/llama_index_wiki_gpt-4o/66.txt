@@ -1,0 +1,5 @@
+[PROMPT]: Are certain species of beetles considered pests?
+[USER_ANSWER]: Yes, certain species of beetles are considered pests.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides a bit more detail than the reference answer, but it does not introduce any inaccuracies.
+[RESULT]: 5

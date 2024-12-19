@@ -1,0 +1,5 @@
+[PROMPT]: Who is the head of state of Ghana?
+[USER_ANSWER]: This information is not provided.
+[CORRECT_ANSWER]: President John Agyekum Kofuor
+[FEEDBACK]: The response "This information is not provided" is completely incorrect, inaccurate, and not factual. It does not provide any information about the head of state of Ghana, which is expected to be President John Agyekum Kufuor based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Are the Javanese the largest and politically dominant ethnic group in Indonesia?
+[USER_ANSWER]: Yes, the Javanese are the largest and politically dominant ethnic group in Indonesia.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the Javanese are the largest and politically dominant ethnic group in Indonesia, which aligns with the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Did John Adams get along with Alexander Hamilton?
+[USER_ANSWER]: The provided information does not include any details about the relationship between John Adams and Alexander Hamilton.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response does not directly answer the question about the relationship between John Adams and Alexander Hamilton. Instead, it states that the provided information does not include details about their relationship, which is not an accurate or factual response based on the reference answer. The reference answer is a simple "No," indicating that John Adams did not get along with Alexander Hamilton. Therefore, the response is mostly incorrect and not factual.
+[RESULT]: 2

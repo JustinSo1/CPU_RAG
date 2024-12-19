@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he married louise désirée lorieux in 1890?
+[USER_ANSWER]: There is no information available regarding a marriage to Louise Désirée Lorieux in 1890.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response states that there is no information available regarding a marriage to Louise Désirée Lorieux in 1890, which contradicts the reference answer that simply states "yes." This indicates that the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

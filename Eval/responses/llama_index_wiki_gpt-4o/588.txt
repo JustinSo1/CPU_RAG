@@ -1,0 +1,5 @@
+[PROMPT]: Why are sea otters nearly extinct?
+[USER_ANSWER]: The provided context does not offer specific information about the reasons for the near extinction of sea otters. Therefore, an answer cannot be derived from the given details.
+[CORRECT_ANSWER]: They've been hunted for their fur
+[FEEDBACK]: The response does not address the specific reason for the near extinction of sea otters, which is hunting for their fur. Instead, it mentions the lack of provided context, which is not relevant to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Have elephants been used as working animals?
+[USER_ANSWER]: Yes, elephants have been used as working animals.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, elephants have been used as working animals." is completely correct, accurate, and factual based on the reference answer "yes." It provides a bit more detail but remains entirely accurate and factual.
+[RESULT]: 5

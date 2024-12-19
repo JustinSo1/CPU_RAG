@@ -1,0 +1,5 @@
+[PROMPT]: What are vehicles that frequent isolated roads often fitted with?
+[USER_ANSWER]: Vehicles that frequent isolated roads are often fitted with hobnailed boots.
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. Hobnailed boots are footwear and have no relevance to vehicles that frequent isolated roads. The correct answer is "roo bars," which are protective bars fitted to vehicles.
+[RESULT]: 1

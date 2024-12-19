@@ -1,0 +1,5 @@
+[PROMPT]: What did Cleveland die from?
+[USER_ANSWER]: Cleveland died from multiple organ failure following a deterioration of her health due to various chronic diseases and impaired immune function.
+[CORRECT_ANSWER]: A heart attack
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that Cleveland died from a heart attack, while the response mentions multiple organ failure due to chronic diseases and impaired immune function, which is not aligned with the reference answer.
+[RESULT]: 1

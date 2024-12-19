@@ -1,0 +1,5 @@
+[PROMPT]: What is Jakarta?
+[USER_ANSWER]: Jakarta is the capital city of Indonesia.
+[CORRECT_ANSWER]: Indonesia's special capital region
+[FEEDBACK]: The response "Jakarta is the capital city of Indonesia" is mostly correct, accurate, and factual. It correctly identifies Jakarta as the capital city of Indonesia, which aligns with the reference answer. However, it does not mention that Jakarta is a special capital region, which is a specific detail included in the reference answer. Therefore, while the response is accurate, it lacks the completeness of the reference answer.
+[RESULT]: 4

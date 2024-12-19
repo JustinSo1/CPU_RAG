@@ -1,0 +1,5 @@
+[PROMPT]: Is a kangaroo on the Australian coat of arms?
+[USER_ANSWER]: Yes, a kangaroo is on the Australian coat of arms.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question with the same information as the reference answer, confirming that a kangaroo is indeed on the Australian coat of arms.
+[RESULT]: 5

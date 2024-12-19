@@ -1,0 +1,5 @@
+[PROMPT]: What do kangaroos use for "crawl-walking?"
+[USER_ANSWER]: Kangaroos use their forelimbs for "crawl-walking."
+[CORRECT_ANSWER]: its hind feet
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that kangaroos use their hind feet for "crawl-walking," whereas the response incorrectly states that they use their forelimbs.
+[RESULT]: 1

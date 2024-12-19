@@ -1,0 +1,5 @@
+[PROMPT]: Is Egypt in Asia?
+[USER_ANSWER]: No, Egypt is not in Asia.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response "No, Egypt is not in Asia." is correct and factual. However, it provides additional information that is not present in the reference answer. While the additional information is accurate, the reference answer is more concise. According to the rubric, the response should be completely correct, accurate, and factual, which it is, but the extra detail slightly deviates from the conciseness of the reference answer.
+[RESULT]: 4

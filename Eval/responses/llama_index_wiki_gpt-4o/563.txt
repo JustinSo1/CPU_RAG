@@ -1,0 +1,5 @@
+[PROMPT]: Who did Millard Fillmore fall in love with?
+[USER_ANSWER]: Millard Fillmore fell in love with Abigail Powers.
+[CORRECT_ANSWER]: He fell in love with Abigail Powers
+[FEEDBACK]: The response "Millard Fillmore fell in love with Abigail Powers" is completely correct, accurate, and factual based on the reference answer. It provides the same information as the reference answer without any errors or inaccuracies.
+[RESULT]: 5

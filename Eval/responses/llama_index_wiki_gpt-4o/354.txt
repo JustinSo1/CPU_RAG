@@ -1,0 +1,5 @@
+[PROMPT]: Was Indonesia named after it became an independent country?
+[USER_ANSWER]: Yes, Indonesia was named after it became an independent country.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Indonesia was not named after it became an independent country, while the response states the opposite.
+[RESULT]: 1

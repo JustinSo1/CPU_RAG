@@ -1,0 +1,5 @@
+[PROMPT]: Who assassinated Lincoln?
+[USER_ANSWER]: Abraham Lincoln was assassinated by John Wilkes Booth.
+[CORRECT_ANSWER]: John Wilkes Booth
+[FEEDBACK]: The response "Abraham Lincoln was assassinated by John Wilkes Booth" is mostly correct, accurate, and factual. It provides the correct name of the assassin, John Wilkes Booth, which aligns with the reference answer. However, it includes additional information that was not required by the question. The reference answer is more concise and directly answers the question without extra details.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Did Woodrow Wilson create the League of Nations?
+[USER_ANSWER]: Yes, Woodrow Wilson played a key role in the creation of the League of Nations.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Woodrow Wilson played a key role in the creation of the League of Nations, which aligns with the reference answer. However, the response includes additional information that, while accurate, is not necessary to meet the criteria of the reference answer.
+[RESULT]: 4

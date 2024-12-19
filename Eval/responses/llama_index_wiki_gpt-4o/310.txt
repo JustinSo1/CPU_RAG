@@ -1,0 +1,5 @@
+[PROMPT]: Was Grover Cleveland born in New York?
+[USER_ANSWER]: No.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response "No." is completely correct, accurate, and factual based on the reference answer "no." Both responses convey the same information and are factually accurate.
+[RESULT]: 5

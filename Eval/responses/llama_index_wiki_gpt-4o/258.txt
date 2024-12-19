@@ -1,0 +1,5 @@
+[PROMPT]: Was Gerald Ford the 38th President of the United States?
+[USER_ANSWER]: Yes, Gerald Ford was the 38th President of the United States.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Gerald Ford was the 38th President of the United States, which aligns with the reference answer.
+[RESULT]: 5

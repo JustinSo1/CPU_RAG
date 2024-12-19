@@ -1,0 +1,5 @@
+[PROMPT]: How tall were the tallest prehistoric penguins?
+[USER_ANSWER]: The context does not provide information regarding the height of the tallest prehistoric penguins.
+[CORRECT_ANSWER]: 1.80 meters
+[FEEDBACK]: The response is completely incorrect and inaccurate. It does not provide any factual information about the height of the tallest prehistoric penguins, which is 1.80 meters according to the reference answer. Instead, it incorrectly states that the context does not provide the information, which is not relevant to the task of providing the height.
+[RESULT]: 1

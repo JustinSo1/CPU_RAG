@@ -1,0 +1,5 @@
+[PROMPT]: What does a polar bear's fur provide?
+[USER_ANSWER]: A polar bear's fur provides insulation to help maintain body heat in cold environments.
+[CORRECT_ANSWER]: It provides the animal with effective camouflage.
+[FEEDBACK]: The response is somewhat correct, accurate, and factual. While it is true that a polar bear's fur provides insulation to help maintain body heat in cold environments, the reference answer focuses on the fur providing effective camouflage. The response does not address the camouflage aspect, which is a key point in the reference answer. Therefore, it only partially aligns with the reference answer.
+[RESULT]: 3

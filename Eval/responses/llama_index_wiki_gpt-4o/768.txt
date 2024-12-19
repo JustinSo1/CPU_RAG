@@ -1,0 +1,5 @@
+[PROMPT]: Has Singapore Changi Airport a network of 81 airlines connecting Singapore to 185 cities in 58 countries ?
+[USER_ANSWER]: Yes, Singapore Changi Airport has a network of 81 airlines connecting Singapore to 185 cities in 58 countries.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional details that are not present in the reference answer but are still accurate and relevant to the question. The response confirms the information asked in the question without any errors or inaccuracies.
+[RESULT]: 5

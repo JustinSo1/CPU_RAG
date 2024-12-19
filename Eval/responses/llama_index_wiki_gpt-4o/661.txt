@@ -1,0 +1,5 @@
+[PROMPT]: Is a polar bear white in color?
+[USER_ANSWER]: Yes, a polar bear is white in color.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, a polar bear is white in color." is completely correct, accurate, and factual. It directly answers the question and provides the same information as the reference answer, albeit with slightly more detail. However, the additional detail does not detract from the accuracy or correctness of the response.
+[RESULT]: 5

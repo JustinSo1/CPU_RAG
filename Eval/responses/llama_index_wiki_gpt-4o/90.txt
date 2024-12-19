@@ -1,0 +1,5 @@
+[PROMPT]: When did he drop John from his name?
+[USER_ANSWER]: He dropped John from his name three years after his return from Vienna.
+[CORRECT_ANSWER]: upon graduating from college
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that he dropped John from his name upon graduating from college, while the response mentions a different event and timeframe (three years after his return from Vienna). There is no alignment between the response and the reference answer.
+[RESULT]: 1

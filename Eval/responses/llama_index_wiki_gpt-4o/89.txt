@@ -1,0 +1,5 @@
+[PROMPT]: Did Coolidge graduate from Black River Academy?
+[USER_ANSWER]: The provided information does not include details about Coolidge or Black River Academy. Therefore, it is not possible to determine if Coolidge graduated from Black River Academy.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct or accurate based on the reference answer. The reference answer clearly states "yes," indicating that Coolidge did graduate from Black River Academy. The response, however, states that the provided information does not include details about Coolidge or Black River Academy, which is not aligned with the reference answer. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

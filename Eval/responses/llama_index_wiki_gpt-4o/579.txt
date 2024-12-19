@@ -1,0 +1,5 @@
+[PROMPT]: Are there at least two films describing Tesla 's life ?
+[USER_ANSWER]: Yes, there are at least two films describing Tesla's life.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that there are at least two films describing Tesla's life, which aligns with the reference answer.
+[RESULT]: 5

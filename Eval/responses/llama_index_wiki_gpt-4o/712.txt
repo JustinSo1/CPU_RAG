@@ -1,0 +1,5 @@
+[PROMPT]: What is the official language of Romania?
+[USER_ANSWER]: The official language of Romania is Romanian.
+[CORRECT_ANSWER]: Romanian.
+[FEEDBACK]: The response "The official language of Romania is Romanian." is completely correct, accurate, and factual based on the reference answer "Romanian." It provides the same information in a slightly more detailed form, but it does not deviate from the factual content required by the question.
+[RESULT]: 5

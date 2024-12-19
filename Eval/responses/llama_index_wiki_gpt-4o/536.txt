@@ -1,0 +1,5 @@
+[PROMPT]: Does the state court rule on the conformity of laws?
+[USER_ANSWER]: The context does not provide specific information about whether the state court rules on the conformity of laws.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "Yes," indicating that the state court does rule on the conformity of laws. The evaluated response, however, states that the context does not provide specific information, which is not aligned with the reference answer. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

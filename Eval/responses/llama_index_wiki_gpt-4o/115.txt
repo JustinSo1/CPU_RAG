@@ -1,0 +1,5 @@
+[PROMPT]: Is Canada a member of the OECD?
+[USER_ANSWER]: Yes, Canada is a member of the OECD.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response "Yes, Canada is a member of the OECD." is completely correct, accurate, and factual. It provides the same information as the reference answer, with a bit more detail. However, the additional detail does not detract from the accuracy of the response.
+[RESULT]: 5

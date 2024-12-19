@@ -1,0 +1,5 @@
+[PROMPT]: Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?
+[USER_ANSWER]: Yes, Fillmore turned down the honor, explaining that he had neither the "literary nor scientific attainment" to justify the degree.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that Fillmore did not turn down the honor, while the response states that he did. This directly contradicts the reference answer.
+[RESULT]: 1

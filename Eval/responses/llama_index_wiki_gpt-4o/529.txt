@@ -1,0 +1,5 @@
+[PROMPT]: What is the official language of Liechtenstein?
+[USER_ANSWER]: German
+[CORRECT_ANSWER]: German.
+[FEEDBACK]: The response "German" is completely correct, accurate, and factual based on the reference answer "German."
+[RESULT]: 5

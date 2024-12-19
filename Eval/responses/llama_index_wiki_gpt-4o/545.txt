@@ -1,0 +1,5 @@
+[PROMPT]: Is it a winter sports resort , although it is perhaps best known as a tax haven ?
+[USER_ANSWER]: No, it is not a winter sports resort known as a tax haven.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer is a simple "Yes," indicating that the place in question is indeed a winter sports resort known as a tax haven. The response provided states the opposite, which is not factual or accurate according to the reference answer.
+[RESULT]: 1

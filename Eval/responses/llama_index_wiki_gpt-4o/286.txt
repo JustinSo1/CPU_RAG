@@ -1,0 +1,5 @@
+[PROMPT]: Is Ghana's head of state John Agyekum Kufuor?
+[USER_ANSWER]: No, Ghana's head of state is not John Agyekum Kufuor.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the correct response should be "yes," while the evaluated response states "No," which is the opposite of the correct answer.
+[RESULT]: 1

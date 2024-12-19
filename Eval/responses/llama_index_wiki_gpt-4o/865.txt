@@ -1,0 +1,5 @@
+[PROMPT]: How many square kilometres of continental land is Uruguay?
+[USER_ANSWER]: Uruguay has approximately 176,000 square kilometers of continental land.
+[CORRECT_ANSWER]: 176.215 km�� 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. The figure provided (176,000 square kilometers) is very close to the reference answer (176,215 square kilometers), but it is not exact. The slight discrepancy indicates that the response is not completely accurate.
+[RESULT]: 4

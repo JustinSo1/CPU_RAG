@@ -1,0 +1,5 @@
+[PROMPT]: What shape are a leopard's black roS08_settes in East Africa?
+[USER_ANSWER]: A leopard's black rosettes in East Africa are circular in shape.
+[CORRECT_ANSWER]: circular
+[FEEDBACK]: The response "A leopard's black rosettes in East Africa are circular in shape." is mostly correct, accurate, and factual. It provides the correct shape of the rosettes, which is circular, but it includes additional unnecessary information that was not required by the question. The reference answer is more concise.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Are beetles endopterygotes with complete metamorphosis?
+[USER_ANSWER]: Yes, beetles are endopterygotes with complete metamorphosis.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that beetles are endopterygotes with complete metamorphosis, which aligns with the reference answer.
+[RESULT]: 5

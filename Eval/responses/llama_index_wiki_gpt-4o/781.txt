@@ -1,0 +1,5 @@
+[PROMPT]: What was Roosevelt's justification for supporting desegregation of schools in New York?
+[USER_ANSWER]: The provided context does not contain information regarding Roosevelt's justification for supporting desegregation of schools in New York.
+[CORRECT_ANSWER]: Noting that his children had been educated with other races and there was nothing wrong with it
+[FEEDBACK]: The response does not address the question about Roosevelt's justification for supporting desegregation of schools in New York. It states that the provided context does not contain the information, which is not an answer to the question. The reference answer provides a specific justification related to Roosevelt's children being educated with other races. Therefore, the response is completely incorrect and does not provide any factual information related to the question.
+[RESULT]: 1

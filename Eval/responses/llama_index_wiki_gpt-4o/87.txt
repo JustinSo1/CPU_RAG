@@ -1,0 +1,5 @@
+[PROMPT]: Was Calvin Coolidge the twenty-ninth vice president?
+[USER_ANSWER]: Yes, Calvin Coolidge was the twenty-ninth vice president of the United States.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer indicates that Calvin Coolidge was not the twenty-ninth vice president, while the response incorrectly states that he was.
+[RESULT]: 1

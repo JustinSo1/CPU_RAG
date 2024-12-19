@@ -1,0 +1,5 @@
+[PROMPT]: When did Monroe's presidency expired?
+[USER_ANSWER]: Monroe's presidency expired in 1825.
+[CORRECT_ANSWER]: March 4, 1825
+[FEEDBACK]: The response "Monroe's presidency expired in 1825" is mostly correct, accurate, and factual. It correctly identifies the year Monroe's presidency ended, but it lacks the specific date "March 4" provided in the reference answer. Therefore, it is not completely correct and accurate.
+[RESULT]: 4

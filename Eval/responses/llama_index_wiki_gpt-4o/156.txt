@@ -1,0 +1,5 @@
+[PROMPT]: What are the reasons for hunting wild ducks?
+[USER_ANSWER]: Hunting wild ducks is often done for population management and disease control.
+[CORRECT_ANSWER]: Meat, eggs, and feathers
+[FEEDBACK]: The response mentions population management and disease control as reasons for hunting wild ducks, which are not aligned with the reference answer that lists meat, eggs, and feathers. The response is mostly incorrect and does not match the factual reasons provided in the reference answer.
+[RESULT]: 2

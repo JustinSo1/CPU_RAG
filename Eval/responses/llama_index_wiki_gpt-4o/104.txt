@@ -1,0 +1,5 @@
+[PROMPT]: What caused Calvin Jr.'s death?
+[USER_ANSWER]: Calvin Jr.'s death was caused by hypertrophic cardiomyopathy (HCM).
+[CORRECT_ANSWER]: heart attack
+[FEEDBACK]: The response "Calvin Jr.'s death was caused by hypertrophic cardiomyopathy (HCM)" is somewhat correct and factual. Hypertrophic cardiomyopathy (HCM) is a condition that can lead to a heart attack, which is the direct cause of death. However, the reference answer is more concise and directly states "heart attack" as the cause of death. Therefore, the response is not completely aligned with the reference answer but is still relevant and mostly accurate.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: The bears sometimes what?
+[USER_ANSWER]: The bears sometimes experience chronic wasting disease (CWD).
+[CORRECT_ANSWER]: They sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites.
+[FEEDBACK]: The response is somewhat correct and factual as it mentions a disease that bears can experience, which aligns with the reference answer's mention of health issues. However, it is not as specific or detailed as the reference answer, which discusses skin diseases and their causes. The response does not fully capture the range of problems mentioned in the reference answer.
+[RESULT]: 3

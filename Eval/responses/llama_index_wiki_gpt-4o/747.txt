@@ -1,0 +1,5 @@
+[PROMPT]: Has Sang Nila Utama visited Singapore?
+[USER_ANSWER]: There is no information provided about Sang Nila Utama visiting Singapore.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that Sang Nila Utama did visit Singapore. The evaluated response, however, claims there is no information provided about this, which contradicts the reference answer. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

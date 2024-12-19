@@ -1,0 +1,5 @@
+[PROMPT]: The eggs of the largest species are what?
+[USER_ANSWER]: The eggs of the largest species are described as embryonated or ensheathed.
+[CORRECT_ANSWER]: spherical
+[FEEDBACK]: The response is mostly incorrect and does not align with the reference answer. The reference answer indicates that the eggs are "spherical," while the response describes them as "embryonated or ensheathed," which does not address the shape of the eggs. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 2

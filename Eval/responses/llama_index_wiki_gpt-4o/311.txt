@@ -1,0 +1,5 @@
+[PROMPT]: Did Grover Cleveland win the 1884 election?
+[USER_ANSWER]: Yes, Grover Cleveland won the 1884 election.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the same information as the reference answer but with additional detail. The response confirms that Grover Cleveland won the 1884 election, which aligns perfectly with the reference answer.
+[RESULT]: 5

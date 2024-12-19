@@ -1,0 +1,5 @@
+[PROMPT]: What is the average life expectancy of a kangaroo?
+[USER_ANSWER]: The context information does not provide specific details about the average life expectancy of a kangaroo.
+[CORRECT_ANSWER]: 4.6 years
+[FEEDBACK]: The response does not provide the correct, accurate, or factual information regarding the average life expectancy of a kangaroo. Instead, it states that the context information does not provide specific details, which is not relevant to the question asked. The correct answer is 4.6 years, and the response fails to address this.
+[RESULT]: 1

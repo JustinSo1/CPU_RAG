@@ -1,0 +1,5 @@
+[PROMPT]: What is Monroe Doctrine?
+[USER_ANSWER]: The Monroe Doctrine is not mentioned in the provided context information.
+[CORRECT_ANSWER]: A doctrine declaring U.S. opposition to European interference in the Americas.
+[FEEDBACK]: The response does not address the question about the Monroe Doctrine directly. Instead, it mentions the lack of context information, which does not provide any factual or accurate information about the Monroe Doctrine itself. Therefore, it is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

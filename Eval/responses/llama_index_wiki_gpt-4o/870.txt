@@ -1,0 +1,5 @@
+[PROMPT]: Does Uruguay recognize same-sex civil unions?
+[USER_ANSWER]: Yes, Uruguay recognizes same-sex civil unions.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the necessary information that Uruguay recognizes same-sex civil unions, which aligns with the reference answer. The additional detail does not detract from the accuracy of the response.
+[RESULT]: 5

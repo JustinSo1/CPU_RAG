@@ -1,0 +1,5 @@
+[PROMPT]: What is the most densely populated independent country in the world?
+[USER_ANSWER]: Monaco is the most densely populated independent country in the world.
+[CORRECT_ANSWER]: Monaco
+[FEEDBACK]: The response "Monaco is the most densely populated independent country in the world." is completely correct, accurate, and factual based on the reference answer "Monaco." The additional context provided does not detract from the accuracy of the response.
+[RESULT]: 5

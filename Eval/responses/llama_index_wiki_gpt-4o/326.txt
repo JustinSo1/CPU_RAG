@@ -1,0 +1,5 @@
+[PROMPT]: How many children did Grover Cleveland have?
+[USER_ANSWER]: Grover Cleveland had five children.
+[CORRECT_ANSWER]: 5
+[FEEDBACK]: The response "Grover Cleveland had five children" is mostly correct, accurate, and factual. However, the reference answer is simply "5," which is a more concise and direct response to the question. While the response provides the correct number of children, it is not as concise as the reference answer.
+[RESULT]: 4

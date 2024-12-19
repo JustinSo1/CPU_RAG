@@ -1,0 +1,5 @@
+[PROMPT]: What consists of a low, barren plain, covered with sand?
+[USER_ANSWER]: A low, barren plain covered with sand is typically referred to as a desert.
+[CORRECT_ANSWER]: Much of the country.
+[FEEDBACK]: The response "A low, barren plain covered with sand is typically referred to as a desert" is not aligned with the reference answer "Much of the country." The response does not address the specific context implied by the reference answer and instead provides a general definition. Therefore, it is mostly incorrect and inaccurate based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: What did Coolidge do after graduating from Amherst?
+[USER_ANSWER]: After graduating from Amherst, he did not attain his teaching certification despite two attempts. However, due to his exceptional qualifications, he continued to work as a Supplementary Professor of Physics and Natural History in a secondary school. Later, he was elected Abbot of his chapter, which allowed him to focus more on his scientific interests.
+[CORRECT_ANSWER]: Coolidge moved to Northampton, MassachuS08_setts
+[FEEDBACK]: The response provided is mostly incorrect and inaccurate based on the reference answer. The reference answer states that Coolidge moved to Northampton, Massachusetts after graduating from Amherst, while the response mentions that he did not attain his teaching certification, worked as a Supplementary Professor, and was elected Abbot of his chapter. These details do not align with the reference answer and introduce inaccuracies about Coolidge's post-graduation activities.
+[RESULT]: 2

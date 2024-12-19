@@ -1,0 +1,5 @@
+[PROMPT]: Why are penguins countershaded?
+[USER_ANSWER]: Penguins are countershaded to provide camouflage. Their white bellies blend with the bright surface when viewed from below, while their dark backs blend with the ocean depths when viewed from above, helping them avoid predators.
+[CORRECT_ANSWER]: for camouflage
+[FEEDBACK]: The response is completely correct, accurate, and factual. It explains the concept of countershading in penguins in detail, providing specific examples of how their coloration helps them blend with their environment to avoid predators. This aligns well with the reference answer, which simply states "for camouflage." The response expands on the reference answer without introducing any inaccuracies.
+[RESULT]: 5

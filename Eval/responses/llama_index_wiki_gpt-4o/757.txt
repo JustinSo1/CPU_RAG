@@ -1,0 +1,5 @@
+[PROMPT]: Why are relations with Malaysia and Indonesia important?
+[USER_ANSWER]: Relations with Malaysia and Indonesia are important due to frequent traveling and commercial activities between the countries.
+[CORRECT_ANSWER]: Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.
+[FEEDBACK]: The response is somewhat correct and factual as it mentions the importance of relations due to frequent traveling and commercial activities, which are valid points. However, it does not address the geographical reasons highlighted in the reference answer, which is a key aspect. Therefore, it lacks completeness and full accuracy compared to the reference answer.
+[RESULT]: 3

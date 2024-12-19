@@ -1,0 +1,5 @@
+[PROMPT]: What suborder of turtle draws its head into its shell?
+[USER_ANSWER]: The suborder of turtle that draws its head into its shell is Cryptodira.
+[CORRECT_ANSWER]: Pleurodira
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The correct suborder of turtle that draws its head into its shell is Pleurodira, not Cryptodira.
+[RESULT]: 1

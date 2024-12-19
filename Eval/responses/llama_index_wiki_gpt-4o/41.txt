@@ -1,0 +1,5 @@
+[PROMPT]: Who determined the dependence of the boiling of water with atmospheric pressure?
+[USER_ANSWER]: The context does not provide information about who determined the dependence of the boiling of water with atmospheric pressure.
+[CORRECT_ANSWER]: Anders Celsius
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information that Anders Celsius determined the dependence of the boiling of water with atmospheric pressure. Instead, it states that the context does not provide the information, which is not relevant to the question asked.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What European countries established states in Ghana?
+[USER_ANSWER]: The context does not provide specific information about which European countries established states in Ghana.
+[CORRECT_ANSWER]: The UK
+[FEEDBACK]: The response does not provide any correct information about which European countries established states in Ghana. It incorrectly states that the context does not provide specific information, which is not relevant to the question asked. The reference answer clearly indicates that the UK is the correct response. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

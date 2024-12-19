@@ -1,0 +1,5 @@
+[PROMPT]: Have kangaroos fared well since European S08_settlement?
+[USER_ANSWER]: There is no specific information provided about how kangaroos have fared since European settlement.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided does not directly answer the question about how kangaroos have fared since European settlement. Instead, it states that there is no specific information provided, which is not accurate or factual based on the reference answer. The reference answer is a simple "yes," indicating that kangaroos have fared well. Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

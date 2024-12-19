@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard solitary?
+[USER_ANSWER]: Yes, the leopard is generally solitary.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, the leopard is generally solitary." is mostly correct, accurate, and factual. It provides additional information that is accurate, but the reference answer is more concise. The response does not introduce any incorrect information, but it is slightly more detailed than necessary.
+[RESULT]: 4

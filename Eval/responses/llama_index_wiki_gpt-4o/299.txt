@@ -1,0 +1,5 @@
+[PROMPT]: What is surplus killing?
+[USER_ANSWER]: Surplus killing refers to a behavior where predators kill more prey than they can immediately eat or consume.
+[CORRECT_ANSWER]: Surplus killing is defined as the killing of several prey animals too numerous to eat at one sitting.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes surplus killing as a behavior where predators kill more prey than they can immediately consume. However, it does not mention the aspect of "too numerous to eat at one sitting," which is a specific detail included in the reference answer. This omission makes the response slightly less precise than the reference answer.
+[RESULT]: 4

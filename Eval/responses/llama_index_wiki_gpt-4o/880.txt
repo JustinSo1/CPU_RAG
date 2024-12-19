@@ -1,0 +1,5 @@
+[PROMPT]: How do india and latin america relate?
+[USER_ANSWER]: Both India and Latin America face significant genetic health concerns within their populations. India has a notable prevalence of G6PD deficiency, a genetic condition affecting many tribal groups, while Latin America exhibits a high variability in the frequency of the delta F508 mutation due to mixed populations and external migration. Additionally, both regions deal with issues of industrial hygiene and occupational safety during industrialization processes.
+[CORRECT_ANSWER]: Uruguay exports architectural services to India and Latin America
+[FEEDBACK]: The response does not address the relationship between India and Latin America in the context of architectural services, as mentioned in the reference answer. Instead, it discusses genetic health concerns and industrial issues, which are unrelated to the reference answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

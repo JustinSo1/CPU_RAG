@@ -1,0 +1,5 @@
+[PROMPT]: What do most recognizable international company and largest employer have in common?
+[USER_ANSWER]: They are both associated with Merck KGaA, Darmstadt, Germany.
+[CORRECT_ANSWER]: They are Hilti.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that the most recognizable international company and largest employer is Hilti, while the response incorrectly associates them with Merck KGaA, Darmstadt, Germany.
+[RESULT]: 1

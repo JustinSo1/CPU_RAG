@@ -1,0 +1,5 @@
+[PROMPT]: Is the Asian elephant larger than the African?
+[USER_ANSWER]: The given information does not specify whether the Asian elephant is larger than the African elephant.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is somewhat correct in that it acknowledges the lack of information provided, but it does not directly answer the question. The reference answer is a simple "no," indicating that the Asian elephant is not larger than the African elephant. The response does not provide this factual information.
+[RESULT]: 3

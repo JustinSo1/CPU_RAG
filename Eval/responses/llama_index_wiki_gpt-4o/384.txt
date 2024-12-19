@@ -1,0 +1,5 @@
+[PROMPT]: Where was James Monroe born?
+[USER_ANSWER]: James Monroe was born in Northern Moravia.
+[CORRECT_ANSWER]: Westmoreland County, Virginia
+[FEEDBACK]: The response "James Monroe was born in Northern Moravia" is completely incorrect and inaccurate based on the reference answer. James Monroe was actually born in Westmoreland County, Virginia, which is not even close to Northern Moravia. Therefore, the response does not meet any of the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

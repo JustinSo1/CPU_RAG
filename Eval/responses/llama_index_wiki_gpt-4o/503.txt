@@ -1,0 +1,5 @@
+[PROMPT]: What sort of cats are solitary?
+[USER_ANSWER]: The query cannot be answered with the provided information.
+[CORRECT_ANSWER]: Leopards
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information related to the question. The reference answer indicates that "leopards" are solitary cats, but the response fails to address this and instead states that the query cannot be answered, which is inaccurate.
+[RESULT]: 1

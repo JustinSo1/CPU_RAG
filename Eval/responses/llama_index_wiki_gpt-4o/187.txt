@@ -1,0 +1,5 @@
+[PROMPT]: When were the Great Sphinx and the Pyramids of Giza built?
+[USER_ANSWER]: The context does not provide information regarding the construction dates of the Great Sphinx and the Pyramids of Giza.
+[CORRECT_ANSWER]: During the Old Kingdom.
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that the context does not provide information regarding the construction dates of the Great Sphinx and the Pyramids of Giza, which is not true. The correct answer is that they were built during the Old Kingdom. The response does not provide any factual information related to the question asked.
+[RESULT]: 1

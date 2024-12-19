@@ -1,0 +1,5 @@
+[PROMPT]: What are the two subfamilies of the Native Ghanaian languages?
+[USER_ANSWER]: The two subfamilies of the Native Ghanaian languages are Kwa and Gur.
+[CORRECT_ANSWER]: Kwa and Gur
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The two subfamilies of the Native Ghanaian languages are indeed Kwa and Gur, matching the reference answer exactly.
+[RESULT]: 5

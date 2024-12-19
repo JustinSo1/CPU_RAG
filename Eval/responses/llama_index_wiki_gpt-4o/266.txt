@@ -1,0 +1,5 @@
+[PROMPT]: Have more than five Presidents lived past the age of 90?
+[USER_ANSWER]: Yes, more than five Presidents have lived past the age of 90.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the correct response should be "no," while the evaluated response states "yes," which is the opposite of the correct answer.
+[RESULT]: 1

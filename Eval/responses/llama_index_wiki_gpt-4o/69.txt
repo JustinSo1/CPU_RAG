@@ -1,0 +1,5 @@
+[PROMPT]: How many species of beetles are there?
+[USER_ANSWER]: The number of beetle species is not explicitly mentioned. However, the context describes comprehensive studies involving various beetles, such as tiger beetles in the genus Cicindela and Australasian smurf-weevils. Additionally, it mentions a particular genus of ticks with hundreds of species. While this information highlights the diversity of beetles in specific studies, a precise total number of beetle species is not provided.
+[CORRECT_ANSWER]: 350,000
+[FEEDBACK]: The response does not provide the correct number of beetle species, which is 350,000 as stated in the reference answer. Instead, it discusses the diversity of beetles and mentions specific studies and genera, but fails to give the precise total number. This makes the response mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

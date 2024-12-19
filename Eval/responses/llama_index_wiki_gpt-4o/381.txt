@@ -1,0 +1,5 @@
+[PROMPT]: Was James Monroe President of the United States?
+[USER_ANSWER]: Yes, James Monroe was President of the United States.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, James Monroe was President of the United States." is completely correct, accurate, and factual based on the reference answer "yes." It provides additional detail while maintaining accuracy.
+[RESULT]: 5

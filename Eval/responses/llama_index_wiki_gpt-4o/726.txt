@@ -1,0 +1,5 @@
+[PROMPT]: What are approximately 42,000 years old and have been nicknamed`` John of Anina''?
+[USER_ANSWER]: The remains known as "John of Anina" are approximately 42,000 years old.
+[CORRECT_ANSWER]: the remains (the lower jaw) of the oldest modern human
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "John of Anina" as remains that are approximately 42,000 years old. However, it lacks the specific detail that these remains are the lower jaw of the oldest modern human, which is a key part of the reference answer.
+[RESULT]: 4

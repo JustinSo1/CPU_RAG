@@ -1,0 +1,5 @@
+[PROMPT]: What are some extinct predators of the kangaroo?
+[USER_ANSWER]: The given information does not provide details on extinct predators of the kangaroo.
+[CORRECT_ANSWER]: Thylacine, Marsupial Lion, Maagalania, and Wonambi
+[FEEDBACK]: The response does not provide any information about extinct predators of the kangaroo, which is the main requirement of the instruction. Instead, it states that the given information does not provide details, which is not an accurate or factual answer to the question. The reference answer lists specific extinct predators, indicating that such information is available and should have been included in the response.
+[RESULT]: 1

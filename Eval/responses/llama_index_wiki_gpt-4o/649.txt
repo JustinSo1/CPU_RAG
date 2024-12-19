@@ -1,0 +1,5 @@
+[PROMPT]: Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?
+[USER_ANSWER]: The information provided does not address whether the smallest penguin species is the little blue penguin, also known as the fairy penguin. Therefore, it is not possible to confirm this from the given context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question posed in the instruction. Instead, it comments on the lack of information provided, which is not the task. The reference answer is a simple "Yes," indicating that the smallest penguin species is indeed the little blue penguin. The response fails to confirm this fact and is therefore not accurate or factual based on the reference answer.
+[RESULT]: 1

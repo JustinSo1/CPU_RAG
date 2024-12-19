@@ -1,0 +1,5 @@
+[PROMPT]: Can beetles be found in polar regions?
+[USER_ANSWER]: Beetles are not typically found in polar regions.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response "Beetles are not typically found in polar regions" is mostly correct and factual. It accurately conveys that beetles are not commonly found in polar regions, aligning with the reference answer "No." However, the response adds extra information that is not strictly necessary to answer the question directly. While this additional detail does not detract from the accuracy, it does make the response slightly less direct than the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Did Roosevelt study biology?
+[USER_ANSWER]: The context information does not provide any details about Roosevelt studying biology.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response to the question "Did Roosevelt study biology?" is not accurate based on the reference answer. The reference answer is a simple "yes," indicating that Roosevelt did study biology. The evaluated response, however, states that the context information does not provide any details about Roosevelt studying biology, which does not directly answer the question and is not aligned with the reference answer. Therefore, the response is mostly incorrect and not factual.
+[RESULT]: 2

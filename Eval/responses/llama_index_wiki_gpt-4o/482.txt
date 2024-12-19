@@ -1,0 +1,5 @@
+[PROMPT]: Have larger kangaroos adapted much better to changes?
+[USER_ANSWER]: The context does not provide specific information regarding the adaptation of larger kangaroos to changes.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question and instead comments on the lack of context, which is not aligned with the reference answer. The reference answer is a straightforward "yes," indicating that the response should be a clear affirmation. Therefore, the response is mostly incorrect and does not meet the criteria for accuracy and factuality based on the reference answer.
+[RESULT]: 2

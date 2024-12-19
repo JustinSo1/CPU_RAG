@@ -1,0 +1,5 @@
+[PROMPT]: Are wild kangaroos shot for meat?
+[USER_ANSWER]: There is no information provided regarding whether wild kangaroos are shot for meat.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer clearly states "yes," indicating that wild kangaroos are indeed shot for meat. The evaluated response, however, claims there is no information provided, which contradicts the reference answer and does not address the question accurately.
+[RESULT]: 2

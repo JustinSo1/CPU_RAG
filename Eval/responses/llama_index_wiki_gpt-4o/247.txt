@@ -1,0 +1,5 @@
+[PROMPT]: For how long was Ford a member of the House of Representatives?
+[USER_ANSWER]: Ford was a member of the House of Representatives for 25 years.
+[CORRECT_ANSWER]: Over eight years.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that Ford was a member of the House of Representatives for over eight years, while the response incorrectly states 25 years.
+[RESULT]: 1

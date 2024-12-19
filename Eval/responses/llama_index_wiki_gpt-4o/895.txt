@@ -1,0 +1,5 @@
+[PROMPT]: Who was President when Wilson finished Congressional Government?
+[USER_ANSWER]: The President when Wilson finished Congressional Government was Benjamin Harrison.
+[CORRECT_ANSWER]: Grover Cleveland
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is Grover Cleveland, not Benjamin Harrison.
+[RESULT]: 1

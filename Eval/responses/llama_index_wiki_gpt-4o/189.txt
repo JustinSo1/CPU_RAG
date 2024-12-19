@@ -1,0 +1,5 @@
+[PROMPT]: What is the estimated population of Egypt?
+[USER_ANSWER]: The provided context does not include information about the estimated population of Egypt.
+[CORRECT_ANSWER]: More than 78 million.
+[FEEDBACK]: The response does not provide the estimated population of Egypt, which is the information requested. Instead, it states that the provided context does not include this information. This makes the response completely incorrect and not factual based on the reference answer, which clearly states that the population is more than 78 million.
+[RESULT]: 1

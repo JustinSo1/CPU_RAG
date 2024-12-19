@@ -1,0 +1,5 @@
+[PROMPT]: How many species of otter are there?
+[USER_ANSWER]: The number of otter species is not provided in the given information.
+[CORRECT_ANSWER]: 13
+[FEEDBACK]: The response does not provide the correct number of otter species, which is 13. Instead, it states that the number is not provided in the given information, which is not accurate based on the reference answer. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness.
+[RESULT]: 1

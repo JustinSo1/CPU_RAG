@@ -1,0 +1,5 @@
+[PROMPT]: Where is Adams buried?
+[USER_ANSWER]: Adams is buried in a small mid-late Roman cemetery, interpreted as a rural cemetery for Romano-British farmers.
+[CORRECT_ANSWER]: United First Parish Church
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer states that Adams is buried at the United First Parish Church, while the response mentions a small mid-late Roman cemetery, which is unrelated and incorrect.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: When was Coolidge born?
+[USER_ANSWER]: The provided context does not contain information about Coolidge's birth date.
+[CORRECT_ANSWER]: July 4 1872
+[FEEDBACK]: The response does not provide the correct birth date of Coolidge, which is July 4, 1872. Instead, it states that the provided context does not contain the information, which is not an accurate or factual answer to the question.
+[RESULT]: 1

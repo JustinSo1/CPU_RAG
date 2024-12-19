@@ -1,0 +1,5 @@
+[PROMPT]: Are adult ducks fast fliers?
+[USER_ANSWER]: Yes, adult ducks are generally fast fliers.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, adult ducks are generally fast fliers." is mostly correct, accurate, and factual. It provides additional information that is not present in the reference answer but is still accurate. However, the reference answer is more concise and directly addresses the question without additional details.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Do otters live in water?
+[USER_ANSWER]: Yes, otters live in water. They are semi-aquatic mammals that spend a significant amount of time in water environments.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that otters live in water and provides additional accurate information about their semi-aquatic nature and significant time spent in water environments. This aligns well with the reference answer, which is a simple affirmation.
+[RESULT]: 5

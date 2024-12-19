@@ -1,0 +1,5 @@
+[PROMPT]: What do turtle eggs preared to eat consist mainly of?
+[USER_ANSWER]: Turtle eggs prepared for eating consist mainly of proteins.
+[CORRECT_ANSWER]: Yolk
+[FEEDBACK]: The response "Turtle eggs prepared for eating consist mainly of proteins" is somewhat correct because proteins are a significant component of the yolk, but it does not directly address the main component, which is the yolk itself. The response is not completely incorrect, but it does not fully capture the primary element mentioned in the reference answer.
+[RESULT]: 3

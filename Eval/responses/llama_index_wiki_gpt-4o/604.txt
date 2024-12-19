@@ -1,0 +1,5 @@
+[PROMPT]: How do otters keep themselves warm without blubber?
+[USER_ANSWER]: Otters keep themselves warm without blubber by relying on brown adipose tissue (BAT) for thermogenesis. This tissue produces heat by metabolizing fatty acids and sugars, particularly during cold conditions. This process helps maintain their body temperature despite the absence of a thick layer of blubber.
+[CORRECT_ANSWER]: A layer of air trapped in their fur.  
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that otters keep themselves warm by trapping a layer of air in their fur, which is a different mechanism than the one described in the response. The response mentions brown adipose tissue (BAT) and thermogenesis, which is not the primary method otters use to stay warm without blubber. Therefore, the response does not align well with the reference answer.
+[RESULT]: 2

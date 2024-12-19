@@ -1,0 +1,5 @@
+[PROMPT]: Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+[USER_ANSWER]: Yes, Avogadro's number is commonly used to compute the results of chemical reactions as it defines the number of particles (atoms, molecules, ions, etc.) in one mole of a substance, which is fundamental for stoichiometric calculations in chemistry.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Avogadro's number is used to compute the results of chemical reactions by defining the number of particles in one mole of a substance, which is essential for stoichiometric calculations in chemistry. This aligns well with the reference answer and provides additional relevant information.
+[RESULT]: 5

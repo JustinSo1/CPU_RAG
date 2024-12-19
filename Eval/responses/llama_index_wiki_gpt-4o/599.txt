@@ -1,0 +1,5 @@
+[PROMPT]: Are otters totem animals?
+[USER_ANSWER]: The context does not provide information regarding whether otters are considered totem animals.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question "Are otters totem animals?" Instead, it states that the context does not provide information regarding the matter. This makes the response inaccurate and not factual based on the reference answer, which is a definitive "Yes." Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

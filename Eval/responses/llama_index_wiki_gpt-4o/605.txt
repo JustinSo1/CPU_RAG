@@ -1,0 +1,5 @@
+[PROMPT]: How are otters playful animals?
+[USER_ANSWER]: The playful nature of otters can be attributed to their engaging and dynamic behaviors, which include activities like sliding down slopes, juggling small objects, and engaging in social interactions with other otters. These behaviors demonstrate their high level of curiosity and intelligence.
+[CORRECT_ANSWER]: The slide down snowy slopes, apparently for sheer enjoyment.  
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes the playful nature of otters by mentioning their behaviors such as sliding down slopes, juggling small objects, and engaging in social interactions. However, it includes additional details not present in the reference answer, which focuses solely on sliding down snowy slopes for enjoyment. While the response provides a broader context, it does not perfectly align with the simplicity and specificity of the reference answer.
+[RESULT]: 4

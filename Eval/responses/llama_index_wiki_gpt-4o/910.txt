@@ -1,0 +1,5 @@
+[PROMPT]: Who did Wilson win in 1917?
+[USER_ANSWER]: This information is not provided in the given context.
+[CORRECT_ANSWER]: Irish Americans
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct answer, which is "Irish Americans," and instead states that the information is not provided, which is not true based on the reference answer.
+[RESULT]: 1

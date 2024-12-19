@@ -1,0 +1,5 @@
+[PROMPT]: Qatar became an independent sovereign state in what year?
+[USER_ANSWER]: Qatar became an independent sovereign state in 1971.
+[CORRECT_ANSWER]: On September 3, 1971.
+[FEEDBACK]: The response "Qatar became an independent sovereign state in 1971" is mostly correct, accurate, and factual. It correctly identifies the year of Qatar's independence, which is a significant part of the information. However, it lacks the specific date "September 3" provided in the reference answer. While the year is accurate, the absence of the exact date means it is not completely correct.
+[RESULT]: 4

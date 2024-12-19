@@ -1,0 +1,5 @@
+[PROMPT]: How many living species of Asian Elephants are there?
+[USER_ANSWER]: There is one living species of Asian Elephant.
+[CORRECT_ANSWER]: 1
+[FEEDBACK]: The response "There is one living species of Asian Elephant." is completely correct, accurate, and factual based on the reference answer "1". It provides the exact information required by the question.
+[RESULT]: 5

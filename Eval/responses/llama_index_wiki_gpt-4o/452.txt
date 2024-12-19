@@ -1,0 +1,5 @@
+[PROMPT]: Why do kangaroos have a wide bite?
+[USER_ANSWER]: Kangaroos have a wide bite to accommodate their unique feeding habits and body structure, which is distinct from other mammals. Comparative analysis of their HOX gene clusters and the structure of their masseter muscle can provide insights into the evolutionary adaptations that have contributed to their bite morphology.
+[CORRECT_ANSWER]: The two sides of the lower jaw are not joined together and the lower incisors are farther apart.
+[FEEDBACK]: The response provides a general explanation about the evolutionary adaptations and feeding habits of kangaroos, which is somewhat related to the topic. However, it does not directly address the specific anatomical reasons for the wide bite as mentioned in the reference answer. The reference answer clearly states that the wide bite is due to the two sides of the lower jaw not being joined together and the lower incisors being farther apart. The response does not mention these specific anatomical details, making it less accurate and factual in comparison to the reference answer.
+[RESULT]: 3

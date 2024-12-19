@@ -1,0 +1,5 @@
+[PROMPT]: Was Ford interred at his Presidential Museum in Grand Rapids, Michigan?
+[USER_ANSWER]: Yes, Ford was interred at his Presidential Museum in Grand Rapids, Michigan.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional detail that is not necessary but does not detract from the accuracy of the answer. However, the reference answer is more concise and to the point.
+[RESULT]: 5

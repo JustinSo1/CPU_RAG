@@ -1,0 +1,5 @@
+[PROMPT]: How many countries in Europe are bigger than Romania?  
+[USER_ANSWER]: There are ten countries in Europe that are bigger than Romania.
+[CORRECT_ANSWER]: eleven
+[FEEDBACK]: The response states that there are ten countries in Europe that are bigger than Romania, while the reference answer indicates that there are eleven. This means the response is not completely correct and accurate, but it is close to the correct number.
+[RESULT]: 4

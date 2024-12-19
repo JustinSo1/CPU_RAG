@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard smaller than the other members of Panthera?
+[USER_ANSWER]: There is no information provided about the size of the leopard compared to other members of the Panthera genus.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "yes," indicating that the leopard is indeed smaller than the other members of Panthera. The response provided does not address this fact and instead states that there is no information provided, which is incorrect.
+[RESULT]: 1

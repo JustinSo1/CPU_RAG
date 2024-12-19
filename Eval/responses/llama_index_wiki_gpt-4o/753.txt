@@ -1,0 +1,5 @@
+[PROMPT]: When did Goh Chok Tong succeed Lee as Prime Minister?
+[USER_ANSWER]: Goh Chok Tong succeeded Lee as Prime Minister in 1990.
+[CORRECT_ANSWER]: In 1990, Goh Chok Tong succeeded Lee as Prime Minister.
+[FEEDBACK]: The response "Goh Chok Tong succeeded Lee as Prime Minister in 1990." is completely correct, accurate, and factual based on the reference answer. It provides the exact year of succession and correctly identifies the individuals involved.
+[RESULT]: 5

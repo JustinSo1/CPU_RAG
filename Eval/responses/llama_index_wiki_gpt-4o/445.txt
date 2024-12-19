@@ -1,0 +1,5 @@
+[PROMPT]: What happened in 1764?
+[USER_ANSWER]: Gregor Mendel, an Augustinian monk and part-time school teacher, undertook a series of hybridization experiments with garden peas between 1857 and 1864 in the monastery gardens, establishing the laws of heredity and the discipline of genetics.
+[CORRECT_ANSWER]: Adams married Abigail Smith
+[FEEDBACK]: The response is completely incorrect and not factual based on the reference answer. The reference answer indicates that Adams married Abigail Smith in 1764, while the response discusses Gregor Mendel's hybridization experiments, which occurred between 1857 and 1864, and are unrelated to the events of 1764.
+[RESULT]: 1

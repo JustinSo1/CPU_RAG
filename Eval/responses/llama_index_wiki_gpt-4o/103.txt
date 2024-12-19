@@ -1,0 +1,5 @@
+[PROMPT]: Did Coolidge get in Amherst College?
+[USER_ANSWER]: No information is provided about Coolidge's admission to Amherst College.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and does not provide the correct information regarding Coolidge's admission to Amherst College. The reference answer clearly states "Yes," indicating that Coolidge did get into Amherst College. The evaluated response fails to provide this factual information and instead states that no information is provided, which is inaccurate.
+[RESULT]: 2

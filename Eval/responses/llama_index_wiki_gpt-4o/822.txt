@@ -1,0 +1,5 @@
+[PROMPT]: Is aquatic respiration in Australian freshwater turtles being studied?
+[USER_ANSWER]: No, aquatic respiration in Australian freshwater turtles is not being studied.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that aquatic respiration in Australian freshwater turtles is being studied, while the response states the opposite.
+[RESULT]: 1

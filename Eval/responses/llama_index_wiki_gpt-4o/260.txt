@@ -1,0 +1,5 @@
+[PROMPT]: Was Ford an Eagle Scout?
+[USER_ANSWER]: The information provided does not include any details about whether Ford was an Eagle Scout.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not provide a correct answer to the question. The reference answer is "yes," indicating that Ford was indeed an Eagle Scout. The response instead states that the information provided does not include any details about whether Ford was an Eagle Scout, which is inaccurate and does not align with the reference answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

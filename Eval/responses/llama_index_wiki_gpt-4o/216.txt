@@ -1,0 +1,5 @@
+[PROMPT]: Is an Asian elephant smaller than an African elephant?
+[USER_ANSWER]: An Asian elephant is generally smaller than an African elephant.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional context by stating that an Asian elephant is "generally" smaller than an African elephant, which is true. However, the reference answer is more concise and direct. The evaluated response is slightly more detailed but still aligns with the factual accuracy required by the question.
+[RESULT]: 4

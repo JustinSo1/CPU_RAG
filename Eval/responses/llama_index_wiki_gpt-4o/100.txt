@@ -1,0 +1,5 @@
+[PROMPT]: Where did Coolidge's grandfather had government offices?
+[USER_ANSWER]: It is not specified where Coolidge's grandfather had government offices.
+[CORRECT_ANSWER]: Plymouth
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer specifies "Plymouth" as the location of Coolidge's grandfather's government offices, while the response states that it is not specified, which is factually incorrect.
+[RESULT]: 1

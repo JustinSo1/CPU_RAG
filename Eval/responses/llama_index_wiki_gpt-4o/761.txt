@@ -1,0 +1,5 @@
+[PROMPT]: What is the punishment for first-degree murder?
+[USER_ANSWER]: The punishment for first-degree murder typically involves severe penalties, which may include life imprisonment or the death penalty, depending on the jurisdiction.
+[CORRECT_ANSWER]: There are laws which allow capital punishment in Singapore for first-degree murder and drug trafficking.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the punishment for first-degree murder can include life imprisonment or the death penalty, which aligns with the severe penalties mentioned in the reference answer. However, it lacks the specific detail about the laws in Singapore, which is a key part of the reference answer. Therefore, while the response is accurate in a general sense, it does not fully match the specificity of the reference answer.
+[RESULT]: 4
