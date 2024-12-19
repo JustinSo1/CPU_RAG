@@ -1,0 +1,7 @@
+[PROMPT]: What happened with a bromide emulsion in two sheets of very thick black paper?
+[USER_ANSWER]: 
+The provided text does not contain information about a bromide emulsion in two sheets of very thick black paper. 
+
+[CORRECT_ANSWER]: the plate does not become clouded upon being exposed to the sun for a day
+[FEEDBACK]: The response is completely incorrect and does not address the question about what happens to a bromide emulsion in two sheets of very thick black paper. The reference answer indicates that the plate does not become clouded upon being exposed to the sun for a day, which is not mentioned or implied in the response. Therefore, the response is not factual or accurate based on the reference answer.
+[RESULT]: 1

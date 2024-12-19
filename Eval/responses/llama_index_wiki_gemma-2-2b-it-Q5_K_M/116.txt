@@ -1,0 +1,11 @@
+[PROMPT]: Is Canada's official language Zulu?
+[USER_ANSWER]: 
+No, Zulu is not Canada's official language. 
+ 
+Explanation: 
+The provided context information lists researchers and institutions in Canada, including the Ontario Cancer Institute, Princess Margaret Cancer Centre, and the University of Toronto. It also mentions researchers in South Africa. 
+The context does not provide any information about Canada's official languages. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response correctly states that Zulu is not Canada's official language, which aligns with the reference answer. However, the additional explanation provided is unnecessary and does not directly address the question about Canada's official languages. The context information mentioned is irrelevant to the question, which slightly detracts from the accuracy and focus of the response.
+[RESULT]: 4

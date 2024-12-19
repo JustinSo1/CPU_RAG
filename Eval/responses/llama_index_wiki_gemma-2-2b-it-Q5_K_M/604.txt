@@ -1,0 +1,7 @@
+[PROMPT]: How do otters keep themselves warm without blubber?
+[USER_ANSWER]: 
+The provided text focuses on brown fat and its role in thermogenesis in mammals, including humans, bats, and mice. It does not contain any information about otters or their adaptations for warmth. 
+
+[CORRECT_ANSWER]: A layer of air trapped in their fur.  
+[FEEDBACK]: The response does not address the question about how otters keep themselves warm without blubber. Instead, it discusses brown fat and its role in thermogenesis in other mammals, which is unrelated to the specific adaptation of otters. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,9 @@
+[PROMPT]: What is a roo?
+[USER_ANSWER]: 
+A 9.3 kb transposable element of the roo family has been found inserted 3' to the Sgs-4 glue protein gene of Drosophila. 
+
+
+
+[CORRECT_ANSWER]: a kangaroo
+[FEEDBACK]: The response provided is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that "roo" refers to a kangaroo, while the response discusses a transposable element in Drosophila, which is unrelated to the question. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality as per the rubric.
+[RESULT]: 1

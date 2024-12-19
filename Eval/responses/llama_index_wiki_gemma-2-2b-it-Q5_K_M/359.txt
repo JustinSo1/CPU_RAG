@@ -1,0 +1,7 @@
+[PROMPT]: What are the largest and politically dominant ethnic group?
+[USER_ANSWER]: 
+The provided text does not contain information about the largest and politically dominant ethnic group in a specific country. 
+
+[CORRECT_ANSWER]: the Javanese
+[FEEDBACK]: The response does not provide the correct answer to the question about the largest and politically dominant ethnic group. Instead, it states that the provided text does not contain the information, which is not relevant to the question asked. The correct answer, according to the reference, is "the Javanese." Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

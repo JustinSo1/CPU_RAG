@@ -1,0 +1,19 @@
+[PROMPT]: Does Ghana have twice the per capita output of the poorer countries in West Africa?
+[USER_ANSWER]: 
+Based on the provided context, we cannot answer the query. 
+The text focuses on:
+* Prevalence of G6PD deficiency in children of different ethnicities in Ghana.
+* Public perception of the Ebola virus disease in West Africa.
+* The use of experimental drugs for Ebola treatment.
+* The prevalence of skin diseases in children attending Koranic schools in Dakar.
+* The prevalence of G6PD deficiency in children visiting the Emergency Paediatric Unit of Usmanu Danfodiyo University Teaching Hospital. 
+* The challenges of separating conjoined twins in Nigeria. 
+
+
+There is no information about the per capita output of any country in West Africa. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct in stating that the provided context does not contain information about the per capita output of any country in West Africa. However, the reference answer is a simple "yes," indicating that the correct response should affirm that Ghana does have twice the per capita output of the poorer countries in West Africa. The response does not directly answer the question but instead explains why it cannot be answered based on the given context. This makes the response somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

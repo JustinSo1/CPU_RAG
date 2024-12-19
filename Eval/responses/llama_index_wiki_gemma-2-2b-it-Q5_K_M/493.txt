@@ -1,0 +1,13 @@
+[PROMPT]: Is the leopard of the Felidae family?
+[USER_ANSWER]: 
+Based on the provided context, the answer is **yes**. 
+
+**Explanation:**
+
+The text explicitly states that "Feline infectious peritonitis virus (FIP virus: FIPV), a feline coronavirus of the family Coronaviridae, causes a fatal disease called FIP in wild and domestic cat species." 
+
+This directly confirms that FIP is caused by a virus within the Coronaviridae family, which is a family of viruses that infect cats. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response correctly answers the question with "yes," which aligns with the reference answer. However, the explanation provided is irrelevant to the question about the leopard's family. The explanation discusses the Feline infectious peritonitis virus and its relation to the Coronaviridae family, which does not pertain to the Felidae family of the leopard. Therefore, while the answer itself is correct, the explanation is not accurate or factual in the context of the question.
+[RESULT]: 3

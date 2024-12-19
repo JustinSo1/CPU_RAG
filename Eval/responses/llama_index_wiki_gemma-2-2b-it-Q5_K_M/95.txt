@@ -1,0 +1,7 @@
+[PROMPT]: Who appointed Harlan Fiske Stone to the Supreme Court?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Coolidge
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct answer to the question, which is "Coolidge." Instead, it states that the provided text does not contain the answer, which is not relevant to the instruction given.
+[RESULT]: 1

@@ -1,0 +1,13 @@
+[PROMPT]: What have been inhabited for millennia by aboriginal peoples?
+[USER_ANSWER]: 
+The provided text mentions several locations inhabited by aboriginal peoples for millennia:
+* **Matjes River Rock Shelter:** This site in South Africa was inhabited by mid-Holocene hunter-gatherers.
+* **Darra-i-Kur:** This site in Afghanistan is the first and only ancient human from the region whose DNA has been sequenced.
+* **U. yaschenkoi:** This species of Australian lizard is found in different Australian arid zones and highlights the importance of conserving its populations.
+
+
+Let me know if you'd like me to elaborate on any of these points! 
+
+[CORRECT_ANSWER]: The lands
+[FEEDBACK]: The response provided does not directly answer the question "What have been inhabited for millennia by aboriginal peoples?" Instead, it lists specific sites and a species of lizard, which are not relevant to the question. The reference answer "The lands" is a broad and accurate response, while the provided response is mostly incorrect and not factual in the context of the question.
+[RESULT]: 2

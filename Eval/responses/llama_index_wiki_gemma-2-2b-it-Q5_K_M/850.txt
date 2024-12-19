@@ -1,0 +1,7 @@
+[PROMPT]: Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?
+[USER_ANSWER]: 
+The provided text does not contain any information about the Dragon Gate. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and does not address the question about the Dragon Gate's location. The reference answer is a simple "yes," indicating that the Dragon Gate is indeed at the specified location. The evaluated response fails to provide this information and instead states that the provided text does not contain any information about the Dragon Gate, which is not relevant to the question asked.
+[RESULT]: 1

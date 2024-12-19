@@ -1,0 +1,7 @@
+[PROMPT]: Is Romania a semi-presidential unitary state?
+[USER_ANSWER]: 
+The provided text does not contain information about the political system of Romania. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question directly and fails to provide the correct information about Romania's political system. It is not accurate or factual based on the reference answer, which clearly states "Yes." The response is completely incorrect in this context.
+[RESULT]: 1

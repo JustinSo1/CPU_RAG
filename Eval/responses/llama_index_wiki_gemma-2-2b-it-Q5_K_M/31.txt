@@ -1,0 +1,9 @@
+[PROMPT]: When did he become a professor?
+[USER_ANSWER]: 
+The provided text does not explicitly state when he became a professor. 
+It does mention that he was elected Abbot of his chapter in 1868, which freed him from teaching duties and allowed him to pursue his scientific interests more efficiently. 
+However, it does not specify the exact date he became a professor. 
+
+[CORRECT_ANSWER]: 1820
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer clearly states that he became a professor in 1820, while the response does not provide this information and instead discusses unrelated details about his election as Abbot in 1868. The response fails to address the specific question of when he became a professor.
+[RESULT]: 2

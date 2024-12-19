@@ -1,0 +1,7 @@
+[PROMPT]: What consists of a low, barren plain, covered with sand?
+[USER_ANSWER]: 
+The provided text does not contain information about a low, barren plain covered with sand. 
+
+[CORRECT_ANSWER]: Much of the country.
+[FEEDBACK]: The response does not address the question directly and does not provide any factual information about what consists of a low, barren plain covered with sand. It is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

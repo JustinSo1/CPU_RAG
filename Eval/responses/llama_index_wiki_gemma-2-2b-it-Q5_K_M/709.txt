@@ -1,0 +1,9 @@
+[PROMPT]: Is the president elected by popular vote?
+[USER_ANSWER]: 
+The provided text does not contain information about the election process of the president in any country. 
+
+
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not directly answer the question about whether the president is elected by popular vote. Instead, it states that the provided text does not contain information about the election process, which is not relevant to the question asked. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

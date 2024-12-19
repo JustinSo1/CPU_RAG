@@ -1,0 +1,9 @@
+[PROMPT]: Is the Polar Bear the mascot of Bowdoin college ?
+[USER_ANSWER]: 
+No, the provided context does not mention anything about the mascot of Bowdoin College. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that the Polar Bear is the mascot of Bowdoin College, while the response denies this by stating that the provided context does not mention anything about the mascot. This contradicts the factual information provided in the reference answer.
+[RESULT]: 1

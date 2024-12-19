@@ -1,0 +1,9 @@
+[PROMPT]: Is English Ghana's official language?
+[USER_ANSWER]: 
+Based on the provided context information, the answer is **no**. 
+
+The context mentions "optometrists in Ghana" and "Ghanaian recent-ischemic-stroke survivors."  It does not mention anything about the official language of Ghana. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that the official language of Ghana is English, while the response incorrectly states that it is not. Additionally, the response incorrectly relies on the context provided, which is irrelevant to the question about the official language.
+[RESULT]: 1

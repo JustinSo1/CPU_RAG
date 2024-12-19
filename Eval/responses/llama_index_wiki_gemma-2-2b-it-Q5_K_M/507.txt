@@ -1,0 +1,8 @@
+[PROMPT]: Felis pardus was what?
+[USER_ANSWER]: 
+The provided text does not mention Felis pardus. 
+It focuses on Rickettsia felis, feline infectious peritonitis virus (FIP virus), and other related topics. 
+
+[CORRECT_ANSWER]: One of the many species described in Linnaeus's 18th-century work, Systema Naturae
+[FEEDBACK]: The response is completely incorrect and inaccurate. It does not address the question about "Felis pardus" and instead talks about unrelated topics such as Rickettsia felis and feline infectious peritonitis virus. The response fails to provide any factual information about "Felis pardus," which is a species described in Linnaeus's 18th-century work, Systema Naturae.
+[RESULT]: 1

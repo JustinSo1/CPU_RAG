@@ -1,0 +1,8 @@
+[PROMPT]: Where do leopards often hide their kills?
+[USER_ANSWER]: 
+The provided text does not contain information about leopards or their hunting habits. 
+Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: in dense vegetation
+[FEEDBACK]: The response does not provide any information about where leopards hide their kills. Instead, it states that the provided text does not contain information about leopards or their hunting habits, which is not relevant to the question asked. The response is completely incorrect and does not align with the reference answer, which is "in dense vegetation."
+[RESULT]: 1

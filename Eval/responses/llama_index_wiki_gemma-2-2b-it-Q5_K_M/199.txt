@@ -1,0 +1,7 @@
+[PROMPT]: How much do elephants weight at birth?
+[USER_ANSWER]: 
+The provided text does not contain information about the weight of elephants at birth. 
+
+[CORRECT_ANSWER]: 120 kilograms
+[FEEDBACK]: The response does not provide the correct information about the weight of elephants at birth. Instead, it states that the provided text does not contain the information, which is not relevant to the question asked. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

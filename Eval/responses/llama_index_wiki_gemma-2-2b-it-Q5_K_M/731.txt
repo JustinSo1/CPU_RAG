@@ -1,0 +1,17 @@
+[PROMPT]: Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?
+[USER_ANSWER]: 
+Based on the provided context, we can't determine if Romania is a semi-presidential democratic republic. 
+
+**Explanation:**
+
+The text focuses on:
+
+* **Genetics and diseases:**  Charcot-Marie-Tooth disease, prion biology, and the prevalence of autosomal recessive disorders in Roma populations.
+* **Medical research:**  The editorial discusses the implications of genetic research and the role of immunotherapy in treating cancer.
+* **Public health:**  The text mentions the use of immune system therapies for cancer treatment.
+
+The provided text does not contain information about the political system of Romania. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The question asks about the political system of Romania, specifically whether it is a semi-presidential democratic republic. The response states that the provided context does not determine this, which is irrelevant since the question does not ask for context-based information but a factual answer. The correct answer is simply "Yes," as indicated in the reference answer. Therefore, the response fails to address the question accurately.
+[RESULT]: 1

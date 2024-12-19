@@ -1,0 +1,16 @@
+[PROMPT]: What is the MRT?
+[USER_ANSWER]: 
+Based on the provided context, MRT likely refers to **Myotubularin-related protein**. 
+
+Here's why:
+
+* **The text discusses "MRT and the underlying biology"**  This suggests MRT is a biological concept.
+* **The text mentions "MTMR" (myotubularin-related) protein family** This directly links MRT to the protein family.
+* **The text discusses "MTMR2" and "MTMR5"** These are specific members of the myotubularin-related protein family. 
+
+
+Let me know if you have any other questions. 
+
+[CORRECT_ANSWER]: One of three heavy rail passenger transport lines in Singapore.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that MRT refers to one of three heavy rail passenger transport lines in Singapore, while the response incorrectly identifies MRT as Myotubularin-related protein. There is no alignment between the response and the reference answer.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: What method of locomotion do Kangaroos Use?
+[USER_ANSWER]: 
+Kangaroos use a hopping locomotion. 
+
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response "Kangaroos use a hopping locomotion." is mostly correct, accurate, and factual. It provides the correct method of locomotion used by kangaroos, which is hopping. However, the response includes additional words that are not necessary to answer the question directly, as the reference answer is simply "hopping." Despite this, the response is still accurate and factual.
+[RESULT]: 4

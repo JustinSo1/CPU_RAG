@@ -1,0 +1,18 @@
+[PROMPT]: What is the difference between leopards and cheetahs?
+[USER_ANSWER]: 
+The provided text does not contain information about leopards and cheetahs. 
+It focuses on topics like:
+* Phylogenetics and evolutionary relationships
+* Genetic analysis and chimerism
+* Albinism and tyrosinase gene
+* Coat color genetics in cats
+* Anatomy and imaging of the stifle joint in tigers
+* Snake classification based on sequence comparison
+* Hominoid mitochondrial and nuclear gene trees
+* Differences between MIS-C and KD
+ 
+Therefore, the provided text does not offer any information about leopards and cheetahs. 
+
+[CORRECT_ANSWER]: The leopard has roS08_settes rather than cheetah's simple spots and the leopard is larger and less lanky than the cheetah.
+[FEEDBACK]: The response does not address the question about the differences between leopards and cheetahs. Instead, it discusses unrelated topics such as phylogenetics, genetic analysis, and other subjects. The response is completely incorrect and does not provide any factual information relevant to the question.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: How much time to penguins spend on land?
+[USER_ANSWER]: 
+The provided text does not contain information about penguins. 
+
+[CORRECT_ANSWER]: half of their life
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the question about how much time penguins spend on land and instead states that the provided text does not contain information about penguins, which is irrelevant to the instruction.
+[RESULT]: 1

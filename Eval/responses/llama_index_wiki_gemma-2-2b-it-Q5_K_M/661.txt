@@ -1,0 +1,15 @@
+[PROMPT]: Is a polar bear white in color?
+[USER_ANSWER]: 
+Based on the provided context, we can infer that polar bears are white. 
+The text mentions that "the consumption of whale meat, 'muktuk' has also been associated with outbreaks of botulism in Alaska and the Canadian Arctic." 
+This suggests that polar bears are a part of the Arctic ecosystem and that the consumption of whale meat is a common practice in the Arctic. 
+The text also mentions that "the Aleutian color allele is a manifestation of mink Chédiak-Higashi syndrome (CHS), which has been described in humans and several other species." 
+This suggests that the Aleutian color allele is a genetic mutation that causes a change in fur color. 
+The text also mentions that "the consumption of whale meat, 'muktuk' has also been associated with outbreaks of botulism in Alaska and the Canadian Arctic." 
+This suggests that polar bears are a part of the Arctic ecosystem and that the consumption of whale meat is a common practice in the Arctic. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is overly verbose and includes irrelevant information that does not directly address the question. The question is straightforward and requires a simple confirmation that polar bears are white. The response does not directly answer the question and instead provides extraneous details that are not necessary for confirming the color of polar bears. This makes the response mostly incorrect and not factual in the context of the question asked.
+[RESULT]: 2

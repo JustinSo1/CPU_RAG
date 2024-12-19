@@ -1,0 +1,8 @@
+[PROMPT]: Did Roosevelt study biology?
+[USER_ANSWER]: 
+No, the provided text does not mention anything about Theodore Roosevelt studying biology. 
+The text focuses on the life and work of Johann Gregor Mendel, an Augustinian monk and scientist who is considered the founder of genetics. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The question asks whether Roosevelt studied biology, and the correct answer is simply "yes." The response incorrectly states that the text does not mention anything about Roosevelt studying biology and instead discusses Johann Gregor Mendel, which is irrelevant to the question. This indicates a misunderstanding or misinterpretation of the question.
+[RESULT]: 2

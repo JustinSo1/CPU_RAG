@@ -1,0 +1,9 @@
+[PROMPT]: Was Monroe appointed Minister to France from 1794 to 1796?
+[USER_ANSWER]: 
+The provided text does not contain any information about Monroe being appointed Minister to France. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks for a factual answer about Monroe's appointment, and the correct response is simply "yes." The provided response does not address the question directly and instead mentions the absence of information in the text, which is not relevant to the question asked.
+[RESULT]: 1

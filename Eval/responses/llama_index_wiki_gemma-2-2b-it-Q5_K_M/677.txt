@@ -1,0 +1,7 @@
+[PROMPT]: The bears sometimes what?
+[USER_ANSWER]: 
+The provided text does not contain information about bears. 
+
+[CORRECT_ANSWER]: They sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer provides specific information about bears having problems with skin diseases caused by mites or other parasites, while the response incorrectly states that the provided text does not contain information about bears.
+[RESULT]: 1

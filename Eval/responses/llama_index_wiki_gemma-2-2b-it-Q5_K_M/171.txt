@@ -1,0 +1,8 @@
+[PROMPT]: What allows a duck to filter water out of the side of their beaks and keep food inside?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+It focuses on the phylogenetic relationships of birds, the presence of oseltamivir in the aquatic environment, and the anatomy of the silky anteater's mandibular organ. 
+
+[CORRECT_ANSWER]: Tiny rows of plates called lamellae
+[FEEDBACK]: The response is completely incorrect and does not address the question about what allows a duck to filter water out of the side of their beaks and keep food inside. Instead, it discusses unrelated topics such as phylogenetic relationships of birds, the presence of oseltamivir in the aquatic environment, and the anatomy of the silky anteater's mandibular organ. This does not align with the reference answer, which is "tiny rows of plates called lamellae."
+[RESULT]: 1

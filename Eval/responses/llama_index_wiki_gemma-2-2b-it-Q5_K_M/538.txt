@@ -1,0 +1,9 @@
+[PROMPT]: Was Liechtenstein completed in November 2000?
+[USER_ANSWER]: 
+The provided text does not contain information about Liechtenstein. 
+
+
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response does not directly answer the question "Was Liechtenstein completed in November 2000?" Instead, it states that the provided text does not contain information about Liechtenstein, which is not relevant to the question. The reference answer is a simple "No," which directly addresses the question. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,9 @@
+[PROMPT]: Do female polar bears weight more than the male?
+[USER_ANSWER]: 
+The provided text does not contain information about polar bear weight. 
+
+
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question about whether female polar bears weigh more than males. Instead, it states that the provided text does not contain information about polar bear weight, which is not relevant to the question. The reference answer is a simple "no," indicating that female polar bears do not weigh more than males. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

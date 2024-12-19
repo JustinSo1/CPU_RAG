@@ -1,0 +1,7 @@
+[PROMPT]: Is it true that massachuS08_setts sent him in 1774?
+[USER_ANSWER]: 
+The provided text does not contain information about a person named "massachuS08_setts" being sent to Massachusetts in 1774. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks whether "massachuS08_setts" sent someone in 1774, and the reference answer indicates that the correct response is "yes." The evaluated response incorrectly states that the provided text does not contain information about "massachuS08_setts" being sent to Massachusetts in 1774, which is not aligned with the reference answer.
+[RESULT]: 1

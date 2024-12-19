@@ -1,0 +1,9 @@
+[PROMPT]: Does Egypt have political influence in the Middle East?
+[USER_ANSWER]: 
+The provided text does not contain information about Egypt's political influence in the Middle East. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and fails to provide any information about Egypt's political influence in the Middle East. It is not correct, accurate, or factual based on the reference answer, which simply states "yes." The response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

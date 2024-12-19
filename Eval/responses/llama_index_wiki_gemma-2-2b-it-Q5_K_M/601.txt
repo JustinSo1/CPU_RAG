@@ -1,0 +1,7 @@
+[PROMPT]: What is the primary item in an otter's diet?
+[USER_ANSWER]: 
+The provided text does not contain information about the diet of otters. 
+
+[CORRECT_ANSWER]: Fish.
+[FEEDBACK]: The response does not address the question about the primary item in an otter's diet. Instead, it incorrectly states that the provided text does not contain information about the diet of otters, which is not relevant to the instruction. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

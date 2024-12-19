@@ -1,0 +1,7 @@
+[PROMPT]: Why does most of Egypt's population live near the Nile?
+[USER_ANSWER]: 
+The provided text does not contain the answer to why most of Egypt's population lives near the Nile. 
+
+[CORRECT_ANSWER]: the only arable agricultural land is found there,
+[FEEDBACK]: The response does not address the question of why most of Egypt's population lives near the Nile. It states that the provided text does not contain the answer, which is not relevant to the instruction. The response is completely incorrect and does not provide any factual information related to the reference answer.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: What is an otter's den called?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Holt
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct answer to the question, which is "Holt." Instead, it states that the provided text does not contain the answer, which is irrelevant to the question asked.
+[RESULT]: 1

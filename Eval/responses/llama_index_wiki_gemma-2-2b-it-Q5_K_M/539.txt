@@ -1,0 +1,9 @@
+[PROMPT]: What completed in November?
+[USER_ANSWER]: 
+The last patient is expected to complete the trial protocol in November 2011. 
+
+
+
+[CORRECT_ANSWER]: the Kunstmuseum Liechtenstein
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer specifies "the Kunstmuseum Liechtenstein" as the completion in November, while the response talks about a patient completing a trial protocol in November 2011, which is unrelated to the reference answer.
+[RESULT]: 1

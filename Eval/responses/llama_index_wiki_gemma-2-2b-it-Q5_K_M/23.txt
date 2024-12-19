@@ -1,0 +1,7 @@
+[PROMPT]: When was the first photgraph of lincoln taken?
+[USER_ANSWER]: 
+The provided context information does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: 1846
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the context information does not contain the answer, which is not relevant to the task of providing the factual answer. The correct answer, based on the reference, is "1846." Therefore, the response is completely incorrect and not factual.
+[RESULT]: 1

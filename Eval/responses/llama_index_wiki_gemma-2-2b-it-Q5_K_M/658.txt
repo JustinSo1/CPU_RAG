@@ -1,0 +1,9 @@
+[PROMPT]: Why polar bear is a special species?
+[USER_ANSWER]: 
+The provided text does not contain information about polar bears. 
+
+
+
+[CORRECT_ANSWER]: The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.
+[FEEDBACK]: The response does not address the question about why polar bears are a special species. It states that the provided text does not contain information about polar bears, which is not relevant to the instruction. The response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

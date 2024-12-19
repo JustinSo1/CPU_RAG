@@ -1,0 +1,15 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: 
+The text states that despite being a pioneer of Italian Otology, Gradenigo's accomplishments are much wider and cast him among the emblematic figures of science. 
+It also mentions that his name lives on nowadays only in the eponym "Gradenigo's syndrome," his accomplishments are much wider and cast him among the emblematic figures of science. 
+It also mentions that his name lives on nowadays only in the eponym "Gradenigo's syndrome," his accomplishments are much wider and cast him among the emblematic figures of science. 
+It also mentions that his name lives on nowadays only in the eponym "Gradenigo's syndrome," his accomplishments are much wider and cast him among the emblematic figures of science. 
+
+
+Therefore, the answer is: No. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that the scientific community did reserve great attention to his theory. However, the response provided states "No," which directly contradicts the reference answer. Additionally, the response contains repetitive and irrelevant information that does not address the question accurately.
+[RESULT]: 1

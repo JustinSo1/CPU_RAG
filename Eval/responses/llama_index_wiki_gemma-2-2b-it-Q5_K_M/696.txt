@@ -1,0 +1,16 @@
+[PROMPT]: Is Qatar bordered by Saudi Arabia to the south?
+[USER_ANSWER]: 
+Based on the provided context information, the answer is **no**. 
+
+The context mentions:
+
+* **Department of Genetic Medicine, Weill Cornell Medical College, Doha, Qatar.**
+* **Saudi Cancer Registry report 2015, CRC is the most common cancer in men (14.9%) and the second most prevalent cancer.**
+* **Colorectal cancer (CRC) is one of the most important causes of morbidity and mortality in the developed world and is gradually more frequent in the developing world including Saudi Arabia.**
+
+
+The context does not mention anything about Qatar's borders. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The correct answer to the question "Is Qatar bordered by Saudi Arabia to the south?" is "Yes," as indicated by the reference answer. The response incorrectly states "no" and provides context that is irrelevant to the question about Qatar's borders. The context provided does not address the geographical relationship between Qatar and Saudi Arabia, leading to an incorrect conclusion.
+[RESULT]: 1

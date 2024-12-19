@@ -1,0 +1,7 @@
+[PROMPT]: What expired on March?
+[USER_ANSWER]: 
+The provided text does not contain information about any expiration dates. 
+
+[CORRECT_ANSWER]: Monroe's presidency
+[FEEDBACK]: The response is completely incorrect and does not address the question about what expired in March. The reference answer indicates that Monroe's presidency expired in March, which is a specific and factual piece of information. The response provided does not mention this and instead states that the text does not contain information about expiration dates, which is not relevant to the question asked.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Who died in childbirth in 1772?
+[USER_ANSWER]: 
+The provided text does not contain information about who died in childbirth in 1772. 
+
+[CORRECT_ANSWER]: Margaret Miller
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Margaret Miller died in childbirth in 1772, while the response claims that the provided text does not contain this information. This shows a lack of factual accuracy and correctness.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: How did early naturalists distinguish between leopards and panthers?
+[USER_ANSWER]: 
+The provided text does not contain information about how early naturalists distinguished between leopards and panthers. 
+
+[CORRECT_ANSWER]: by the length of their tails
+[FEEDBACK]: The response does not provide any information about how early naturalists distinguished between leopards and panthers. It states that the provided text does not contain this information, which is not relevant to the instruction. The response is completely incorrect and does not align with the reference answer, which specifies that the distinction was made by the length of their tails.
+[RESULT]: 1

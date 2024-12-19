@@ -1,0 +1,7 @@
+[PROMPT]: What shape are a leopard's black roS08_settes in East Africa?
+[USER_ANSWER]: 
+The provided text does not contain information about the shape of leopard rosettes in East Africa. 
+
+[CORRECT_ANSWER]: circular
+[FEEDBACK]: The response does not provide the correct information about the shape of leopard rosettes in East Africa. Instead, it states that the provided text does not contain the information, which is not relevant to the question asked. The correct answer is "circular," and the response fails to address this. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

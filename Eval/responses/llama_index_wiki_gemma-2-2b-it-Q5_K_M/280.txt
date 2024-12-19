@@ -1,0 +1,7 @@
+[PROMPT]: Who is the head of state of Ghana?
+[USER_ANSWER]: 
+The provided text does not contain the answer to who the head of state of Ghana is. 
+
+[CORRECT_ANSWER]: President John Agyekum Kofuor
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain the answer, which is not relevant to the instruction. The response is completely incorrect and does not address the question asked.
+[RESULT]: 1

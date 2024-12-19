@@ -1,0 +1,17 @@
+[PROMPT]: Can otters survive in cold water?
+[USER_ANSWER]: 
+Based on the provided context, otters are not mentioned as a species that is studied for their survival in cold water. The context focuses on:
+
+* **Hypothermic syndrome in infants:** This is a condition affecting infants in cold climates.
+* **Anti-freeze proteins (AFP) in fish:** These proteins protect fish from freezing.
+* **Cryopreservation of animal embryos:** This involves preserving embryos at ultra-low temperatures.
+* **Amazon molly survival:** This is a species that has adapted to survive without sexual reproduction.
+* **Influenza virus in aquatic environment:** This study shows low levels of oseltamivir in water.
+* **Exercise and cold-induced myotonia in zebrafish:** This research uses zebrafish to study human myotonia.
+
+
+Therefore, the provided context does not offer information about otters' ability to survive in cold water. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided does not directly answer the question about whether otters can survive in cold water. Instead, it discusses various unrelated topics and concludes that the context does not offer information about otters' ability to survive in cold water. This makes the response mostly incorrect and not factual in relation to the question asked. The reference answer is a simple "yes," indicating that otters can indeed survive in cold water, which the response fails to address.
+[RESULT]: 2

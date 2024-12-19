@@ -1,0 +1,8 @@
+[PROMPT]: Do penguins live almost exclusively in the Southern Hemisphere?
+[USER_ANSWER]: 
+No. 
+Explanation: The text focuses on birds and their migration patterns, tick-borne pathogens, and the role of birds in the spread of ticks and tick-borne pathogens. It does not provide any information about penguins. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether penguins live almost exclusively in the Southern Hemisphere, and the correct answer is "yes." The response provided not only gives the wrong answer ("No") but also includes an irrelevant explanation about birds, migration patterns, and tick-borne pathogens, which has no connection to the question about penguins. Therefore, the response fails to address the question accurately and factually.
+[RESULT]: 1

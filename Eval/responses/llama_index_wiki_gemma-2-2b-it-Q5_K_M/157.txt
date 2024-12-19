@@ -1,0 +1,9 @@
+[PROMPT]: Do ducks forage underwater?
+[USER_ANSWER]: 
+The provided text discusses the natural reservoir of influenza virus, the evolution of viral resistance, and the submergence tolerance of wetland plants. It does not mention anything about ducks foraging underwater. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question about whether ducks forage underwater. Instead, it discusses unrelated topics such as the natural reservoir of influenza virus, the evolution of viral resistance, and the submergence tolerance of wetland plants. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

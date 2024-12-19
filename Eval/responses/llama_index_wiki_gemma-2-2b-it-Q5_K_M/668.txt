@@ -1,0 +1,17 @@
+[PROMPT]: Can polar bears be seen under infrared photography?
+[USER_ANSWER]: 
+Based on the provided context, it is **unlikely** that polar bears can be seen under infrared photography. 
+
+Here's why:
+
+* **Focus on animals and temperature:** The context discusses the use of infrared thermometers on animals, particularly dogs. It also mentions the hypothesis of partial depigmentation in animals living in middle latitudes.
+* **CryoEM and tomography:** The context mentions these techniques used to study the structure of objects in unknown orientations and positions. 
+* **Polar bear habitat:** Polar bears live in Arctic regions, which are known for their cold temperatures. 
+
+While infrared photography can be used to detect heat signatures, the context doesn't suggest that it's a common or reliable method for observing polar bears. 
+
+
+
+[CORRECT_ANSWER]: Polar bears are nearly invisible under infrared photography.
+[FEEDBACK]: The response is somewhat correct in suggesting that polar bears are unlikely to be seen under infrared photography, which aligns with the reference answer stating that polar bears are nearly invisible under infrared photography. However, the response includes unnecessary details about infrared thermometers, CryoEM, and tomography, which are not relevant to the question. The core idea is correct, but the additional context provided is not directly related to the visibility of polar bears under infrared photography. This makes the response somewhat accurate but not fully aligned with the reference answer.
+[RESULT]: 3

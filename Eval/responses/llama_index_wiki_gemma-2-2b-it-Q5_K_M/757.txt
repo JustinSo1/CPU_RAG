@@ -1,0 +1,19 @@
+[PROMPT]: Why are relations with Malaysia and Indonesia important?
+[USER_ANSWER]: 
+The context mentions that:
+
+* **Malaysia** is a country with a large number of patients with SARS-CoV-2 infection, and the study focuses on understanding the virus-host interplay and pathogenicity.
+* **Indonesia** is mentioned as a country with a large number of international tourist arrivals, and the spread of antibiotic-resistant strains of Salmonella typhi highlights the importance of disease prevention.
+* **International travel** is expected to grow, and Vivotif® is a powerful means of disease prevention.
+
+Therefore, relations with Malaysia and Indonesia are important because:
+
+* **They are both countries with a high number of SARS-CoV-2 infections.** This makes them relevant for studying the virus and its impact on the population.
+* **They are both countries with a large number of international tourists.** This highlights the importance of disease prevention and the role of travel in the spread of infectious diseases.
+* **They are both countries with a growing tourism industry.** This emphasizes the need for effective disease prevention strategies to protect both local populations and tourists.
+
+
+
+[CORRECT_ANSWER]: Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.
+[FEEDBACK]: The response provides detailed information about the importance of relations with Malaysia and Indonesia, focusing on health-related aspects such as SARS-CoV-2 infections and the spread of antibiotic-resistant strains. However, the reference answer highlights geographical reasons as the primary importance, which the response does not address. While the response is factually accurate and provides relevant information, it does not align with the geographical focus of the reference answer. Therefore, it is somewhat correct but misses the main point emphasized in the reference answer.
+[RESULT]: 3

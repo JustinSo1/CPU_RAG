@@ -1,0 +1,8 @@
+[PROMPT]: What happens when mothers lose a chick?
+[USER_ANSWER]: 
+The provided text does not contain information about what happens when mothers lose a chick. 
+It focuses on the etiologic role and mechanism(s) of Zika virus in causing birth defects, the receptor for avian oxytocin, and the development of the avian spinal cord. 
+
+[CORRECT_ANSWER]: They sometimes attempt to "steal" another chick.
+[FEEDBACK]: The response does not address the question about what happens when mothers lose a chick. Instead, it discusses unrelated topics such as the Zika virus, avian oxytocin receptors, and the development of the avian spinal cord. This makes the response completely incorrect and not factual in relation to the question asked.
+[RESULT]: 1

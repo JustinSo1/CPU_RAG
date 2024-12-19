@@ -1,0 +1,5 @@
+,llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv
+missing_context,4.0
+exist_content,914.0
+average_score,1.3910675381263617
+score_map,"{3: 52, 1: 750, 2: 55, 5: 17, 4: 44}"

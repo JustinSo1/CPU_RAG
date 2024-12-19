@@ -1,0 +1,7 @@
+[PROMPT]: What happened in 1867?
+[USER_ANSWER]: 
+* **Dr. Christian Barnard performed the first successful human heart transplant in Cape Town, South Africa.** 
+
+[CORRECT_ANSWER]: Canada was formed as a federal, semi-autonomous polity
+[FEEDBACK]: The response is completely incorrect and not factual. Dr. Christian Barnard performed the first successful human heart transplant in 1967, not 1867. The event mentioned in the response does not align with the historical event that occurred in 1867, which is the formation of Canada as a federal, semi-autonomous polity.
+[RESULT]: 1

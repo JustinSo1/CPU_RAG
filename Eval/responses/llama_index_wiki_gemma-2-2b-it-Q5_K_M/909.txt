@@ -1,0 +1,7 @@
+[PROMPT]: What defended slavery, owned slaves and S08_set up a Sunday school for them?
+[USER_ANSWER]: 
+The provided context does not give enough information to answer the query. 
+
+[CORRECT_ANSWER]: His father
+[FEEDBACK]: The response is completely incorrect and does not provide the correct answer to the query. The reference answer clearly states "His father," while the response claims there is not enough information, which is inaccurate.
+[RESULT]: 1

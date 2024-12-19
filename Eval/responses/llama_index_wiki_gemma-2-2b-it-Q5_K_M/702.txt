@@ -1,0 +1,11 @@
+[PROMPT]: Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?
+[USER_ANSWER]: 
+Based on the provided text, we cannot answer the query. 
+The text discusses the future of BTK-modifying medicines and the scope of ENLIGHT, a European particle therapy research initiative. 
+It does not contain any information about Qatar's economy or the role of oil and gas in it. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question about Qatar's economy and the role of oil and gas in it. Instead, it discusses unrelated topics such as BTK-modifying medicines and the ENLIGHT initiative. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Was Celsius born in Uppsala in Sweden?
+[USER_ANSWER]: 
+The provided text does not contain any information about a person named Celsius. Therefore, it is impossible to answer the query. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether Celsius was born in Uppsala, Sweden, and the correct answer is "Yes." The response incorrectly states that there is no information about a person named Celsius, which is not true. The response fails to address the question accurately and factually.
+[RESULT]: 1

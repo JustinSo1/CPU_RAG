@@ -1,0 +1,15 @@
+[PROMPT]: Is the kangaroo an herbivour?
+[USER_ANSWER]: 
+Based on the provided context information, the answer is **yes**. 
+
+Here's why:
+
+* **Kangaroo genome comparison:** The text mentions a comparative analysis of HOX gene clusters between a kangaroo and other mammals. This suggests that kangaroos have a distinct body plan and likely have a diet that reflects this.
+* **Wallaroos and Euros:** The text describes a cross between wallaroos (herbivores) and euros (herbivores) and their offspring. This indicates that kangaroos are herbivores. 
+* **Kangaroo diet:** The text mentions that kangaroos are a model organism in biomedical research due to the chemical nature of their venom. This suggests that kangaroos are herbivores. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response correctly identifies that kangaroos are herbivores, which aligns with the reference answer. However, the justifications provided are not entirely relevant or accurate. The mention of HOX gene clusters and the chemical nature of venom are not directly related to the herbivorous diet of kangaroos. The reference to wallaroos and euros being herbivores is somewhat relevant but not directly conclusive. Therefore, while the final answer is correct, the supporting details are not accurate or factual.
+[RESULT]: 3

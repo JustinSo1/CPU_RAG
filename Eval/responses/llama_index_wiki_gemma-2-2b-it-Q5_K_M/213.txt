@@ -1,0 +1,7 @@
+[PROMPT]: What is the world population of Asian elephants?
+[USER_ANSWER]: 
+The provided text does not contain information about the world population of Asian elephants. 
+
+[CORRECT_ANSWER]: 60000
+[FEEDBACK]: The response does not provide the correct information about the world population of Asian elephants. It states that the provided text does not contain the information, which is not relevant to the question asked. The correct answer is 60,000, and the response does not address this at all. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

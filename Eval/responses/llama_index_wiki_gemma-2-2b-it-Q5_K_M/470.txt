@@ -1,0 +1,7 @@
+[PROMPT]: Who asked a nearby local what the creatures were called?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Captain James Cook and naturalist Sir Joseph Banks
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide any relevant information or attempt to answer the question based on the reference answer. The reference answer clearly states that Captain James Cook and naturalist Sir Joseph Banks asked a nearby local what the creatures were called, but the response fails to mention this.
+[RESULT]: 1

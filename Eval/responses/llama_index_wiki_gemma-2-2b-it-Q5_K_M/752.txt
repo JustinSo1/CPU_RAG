@@ -1,0 +1,9 @@
+[PROMPT]: Was Lee Kuan Yew a successful leader of Singapore?
+[USER_ANSWER]: 
+The provided text does not contain any information about Lee Kuan Yew. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question about Lee Kuan Yew's success as a leader of Singapore. It states that the provided text does not contain any information about Lee Kuan Yew, which is not relevant to the question. The reference answer is a simple affirmation ("yes"), indicating that Lee Kuan Yew was a successful leader. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

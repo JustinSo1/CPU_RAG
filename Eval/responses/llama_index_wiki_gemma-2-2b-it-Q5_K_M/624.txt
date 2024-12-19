@@ -1,0 +1,7 @@
+[PROMPT]: Are penguins afraid of humans?
+[USER_ANSWER]: 
+The provided text does not contain information about penguins or their fear of humans. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question about whether penguins are afraid of humans. Instead, it states that the provided text does not contain information about penguins or their fear of humans, which is not relevant to the question. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Is it true that he shared the nobel prize in physics?
+[USER_ANSWER]: 
+No, the context information states that the Nobel Prize in Chemistry was awarded to Emmanuelle Charpentier and Jennifer Doudna for their work on CRISPR gene-editing technology. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks about the Nobel Prize in Physics, but the response discusses the Nobel Prize in Chemistry awarded to Emmanuelle Charpentier and Jennifer Doudna, which is unrelated to the question. Therefore, the response does not address the question correctly or factually.
+[RESULT]: 1

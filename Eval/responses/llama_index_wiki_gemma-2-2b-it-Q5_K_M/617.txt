@@ -1,0 +1,7 @@
+[PROMPT]: Is an otter 's den called a holt ?
+[USER_ANSWER]: 
+No, the provided text does not mention otters or their dens. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks if an otter's den is called a holt, and the correct answer is "yes." The response provided does not address the question directly and instead mentions that the provided text does not mention otters or their dens, which is irrelevant to the question asked.
+[RESULT]: 1

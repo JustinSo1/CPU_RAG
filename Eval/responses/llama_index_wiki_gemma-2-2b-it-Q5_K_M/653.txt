@@ -1,0 +1,8 @@
+[PROMPT]: Is polar bear a carnivore?
+[USER_ANSWER]: 
+Based on the context information, polar bears are carnivores. 
+The text states that "The consumption of whale meat, 'muktuk' has also been associated with outbreaks of botulism in Alaska and the Canadian Arctic. Elsewhere in the Arctic regions, type E botulism has been associated with Norwegian 'rakfisk' prepared by a process similar to fermented Alaskan foods." 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response correctly identifies that polar bears are carnivores, which aligns with the reference answer. However, the additional context about botulism and fermented foods is irrelevant to the question and does not contribute to the accuracy or factuality of the response. This extraneous information detracts from the clarity and directness of the answer. While the core information is correct, the inclusion of unrelated details prevents it from being completely accurate and factual in the context of the question asked.
+[RESULT]: 4

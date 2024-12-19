@@ -1,0 +1,7 @@
+[PROMPT]: What land animal has the largest brain?
+[USER_ANSWER]: 
+The provided text does not contain information about the land animal with the largest brain. 
+
+[CORRECT_ANSWER]: elephant
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the provided text does not contain the information, which is not relevant to the instruction. The correct answer, "elephant," is not mentioned at all. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

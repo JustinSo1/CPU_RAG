@@ -1,0 +1,8 @@
+[PROMPT]: What is the weather like in summer?
+[USER_ANSWER]: 
+The provided text does not contain information about the weather in summer. 
+It focuses on the relationship between season and surgical site infections (SSIs) and patient perception of physician competence in the ICU. 
+
+[CORRECT_ANSWER]: relatively warm
+[FEEDBACK]: The response does not address the question about the weather in summer at all. Instead, it discusses unrelated topics such as surgical site infections and patient perception of physician competence in the ICU. This makes the response completely incorrect and not factual based on the reference answer, which simply states that the weather in summer is "relatively warm."
+[RESULT]: 1

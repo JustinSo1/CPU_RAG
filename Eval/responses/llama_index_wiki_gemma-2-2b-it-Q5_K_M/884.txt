@@ -1,0 +1,7 @@
+[PROMPT]: Is the main sport in Uruguay football ?
+[USER_ANSWER]: 
+Yes. The text states that "The sport with the main number of incontinent people was football." 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct in identifying football as the main sport in Uruguay. However, the additional information about "the main number of incontinent people" is irrelevant and incorrect, which detracts from the accuracy and factual nature of the response. The reference answer is concise and directly addresses the question without any extraneous or incorrect details.
+[RESULT]: 3

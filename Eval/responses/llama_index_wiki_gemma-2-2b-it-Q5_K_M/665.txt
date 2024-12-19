@@ -1,0 +1,8 @@
+[PROMPT]: What does a polar bear's fur provide?
+[USER_ANSWER]: 
+The provided text does not contain information about polar bears or their fur. 
+It focuses on the brown fat tissue in bats, hibernators, and humans, as well as the genetics of mink fur color. 
+
+[CORRECT_ANSWER]: It provides the animal with effective camouflage.
+[FEEDBACK]: The response is completely incorrect and does not address the question about what a polar bear's fur provides. Instead, it discusses unrelated topics such as brown fat tissue in other animals and the genetics of mink fur color. This does not align with the reference answer, which states that a polar bear's fur provides effective camouflage.
+[RESULT]: 1

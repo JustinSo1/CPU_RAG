@@ -1,0 +1,9 @@
+[PROMPT]: An otter 's den is what?
+[USER_ANSWER]: 
+The provided text does not contain information about otters or their dens. 
+
+
+
+[CORRECT_ANSWER]: A holt
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about an otter's den. It fails to answer the question and does not align with the reference answer, which is "A holt."
+[RESULT]: 1

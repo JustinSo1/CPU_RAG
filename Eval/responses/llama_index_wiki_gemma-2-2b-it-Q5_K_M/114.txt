@@ -1,0 +1,7 @@
+[PROMPT]: Did France cede nearly all of its colonies in Europe in 1763?
+[USER_ANSWER]: 
+The provided text does not contain information about France's colonial history or its ceding of colonies in Europe in 1763. Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not address the question directly and instead mentions the lack of context, which is not relevant to the accuracy of the answer. The correct answer is a simple "Yes," indicating that France did cede nearly all of its colonies in Europe in 1763. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

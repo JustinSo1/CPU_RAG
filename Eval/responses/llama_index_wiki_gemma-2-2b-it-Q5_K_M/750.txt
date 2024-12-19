@@ -1,0 +1,7 @@
+[PROMPT]: Which nation invaded Singapore during World War II?
+[USER_ANSWER]: 
+The provided text does not mention anything about World War II or any nation invading Singapore. 
+
+[CORRECT_ANSWER]: Japan
+[FEEDBACK]: The response does not address the question asked. It incorrectly states that the provided text does not mention anything about World War II or any nation invading Singapore, which is not relevant to the instruction. The correct answer should have been "Japan." Therefore, the response is completely incorrect and not factual.
+[RESULT]: 1

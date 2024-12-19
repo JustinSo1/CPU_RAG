@@ -1,0 +1,6 @@
+[PROMPT]: What is the last word on the page?
+[USER_ANSWER]: 
+
+[CORRECT_ANSWER]: Connecticut
+[FEEDBACK]: The response is completely missing and does not provide any information. It is entirely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

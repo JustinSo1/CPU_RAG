@@ -1,0 +1,10 @@
+[PROMPT]: Is Indonesia the world's largest archipelagic state?
+[USER_ANSWER]: 
+Based on the provided context information, we cannot answer the query. 
+The context focuses on the incidence, treatment, and complications of ameloblastoma in East-Indonesia and the potential risks of consuming puffers from the Andaman seas. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question of whether Indonesia is the world's largest archipelagic state. Instead, it mentions unrelated information about ameloblastoma and puffers from the Andaman seas. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "yes."
+[RESULT]: 1

@@ -1,0 +1,8 @@
+[PROMPT]: What is the largest ethnic minority in Romania?
+[USER_ANSWER]: 
+The provided text does not explicitly state the largest ethnic minority in Romania. 
+It does mention that the Roma (Gypsies) represent 6% of the Hungarian population and live under extremely bad health conditions. 
+
+[CORRECT_ANSWER]: Hungarians
+[FEEDBACK]: The response does not correctly identify the largest ethnic minority in Romania, which is the Hungarians. Instead, it provides incorrect information about the Roma population and their living conditions. This makes the response mostly incorrect and inaccurate based on the reference answer.
+[RESULT]: 2

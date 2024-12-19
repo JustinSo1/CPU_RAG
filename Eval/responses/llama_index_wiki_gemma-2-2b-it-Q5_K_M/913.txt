@@ -1,0 +1,13 @@
+[PROMPT]: What lived in Columbia?
+[USER_ANSWER]: 
+* **People:** The text mentions people living in Columbia, including scientists, doctors, and researchers.
+* **Mosquitoes:** The text mentions mosquitoes that transmit yellow fever in Columbia.
+* **Iron Age people:** The text mentions Iron Age people who lived in a boundary ditch in Columbia.
+* **Roman people:** The text mentions Roman people who lived in a cemetery in Columbia.
+* **Romano-British farmers:** The text mentions Romano-British farmers who were buried in a cemetery in Columbia. 
+
+
+
+[CORRECT_ANSWER]: Wilson
+[FEEDBACK]: The response provided does not align with the reference answer, which is "Wilson." The response lists various groups of people and mosquitoes, none of which are mentioned in the reference answer. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

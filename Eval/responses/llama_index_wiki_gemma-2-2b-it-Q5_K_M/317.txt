@@ -1,0 +1,9 @@
+[PROMPT]: Who did Cleveland run against in 1884?
+[USER_ANSWER]: 
+This text does not contain the answer to your query. 
+
+
+
+[CORRECT_ANSWER]: former Senator James G. Blaine of Maine
+[FEEDBACK]: The response does not provide any information about who Cleveland ran against in 1884. It is completely incorrect and does not address the query at all.
+[RESULT]: 1

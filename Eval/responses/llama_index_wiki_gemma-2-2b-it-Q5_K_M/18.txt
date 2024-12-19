@@ -1,0 +1,9 @@
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
+[USER_ANSWER]: 
+The provided text discusses the relationship between antiepileptic drugs and suicide risk, and does not contain any information about Abraham Lincoln or the Emancipation Proclamation. 
+
+
+
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response is completely incorrect and does not address the question about why Lincoln issued the Emancipation Proclamation. Instead, it discusses an unrelated topic about antiepileptic drugs and suicide risk.
+[RESULT]: 1

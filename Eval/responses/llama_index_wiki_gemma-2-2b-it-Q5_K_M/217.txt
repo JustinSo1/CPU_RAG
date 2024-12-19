@@ -1,0 +1,7 @@
+[PROMPT]: What land animal is larger than an elephant?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: None, the elephant is the largest land animal.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks for a land animal larger than an elephant, and the correct answer is that there is none. The response does not address the question at all and instead states that the provided text does not contain the answer, which is irrelevant to the query.
+[RESULT]: 1

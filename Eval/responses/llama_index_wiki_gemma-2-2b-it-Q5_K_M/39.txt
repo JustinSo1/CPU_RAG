@@ -1,0 +1,11 @@
+[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
+[USER_ANSWER]: 
+The title of the paper is "**Theophrastus Bombast von Hohenheim known as Paracelsus (1493/94-1541) first described this duality with his dictum "alle ding sind gift und nichts on gift; alein die dosis macht das ein ding kein gift ist" (only the dose makes a remedy poisonous).**"
+
+The title can be roughly translated into English as: **Paracelsus and the Duality of Poison and Remedy.** 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question of whether the title of the famous 1811 paper can be roughly translated into English. Instead, it provides an example of a title and its translation, which is not relevant to the instruction. The response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

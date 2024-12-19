@@ -1,0 +1,16 @@
+[PROMPT]: What is the life expectancy for men?
+[USER_ANSWER]: 
+The provided text gives life expectancy figures for men in different sports and for the general population. 
+
+Here's a breakdown:
+
+* **Endurance sports:** 75.6 years (long distance running and cross-country skiing)
+* **Team games:** 73.9 years (soccer, ice hockey, basketball, jumpers and short-distance runners from track and field)
+* **Power sports:** 71.5 years (boxing, wrestling, weight lifting, and throwers from field athletics)
+* **Reference group:** 69.9 years 
+
+It's important to note that these figures are based on a study of Finnish male athletes and are not necessarily representative of all men. 
+
+[CORRECT_ANSWER]: 75 years
+[FEEDBACK]: The response provides detailed life expectancy figures for men in different sports categories and the general population, which is informative but not directly answering the question. The reference answer is a straightforward figure of 75 years, while the response gives a range of figures based on different sports. Although the information is accurate and factual, it does not directly address the general life expectancy for men as asked in the instruction. Therefore, it is not completely correct in the context of the question.
+[RESULT]: 3

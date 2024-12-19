@@ -1,0 +1,9 @@
+[PROMPT]: Does it have a border with Norway?
+[USER_ANSWER]: 
+Based on the provided context information, it is not possible to determine if the location has a border with Norway. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer is a simple "yes," indicating that the location does have a border with Norway. The response provided does not answer the question directly and instead states that it is not possible to determine the information, which is inaccurate.
+[RESULT]: 1

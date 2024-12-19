@@ -1,0 +1,18 @@
+[PROMPT]: Is a kangaroo on the Australian coat of arms?
+[USER_ANSWER]: 
+Based on the provided context information, we can't definitively answer if a kangaroo is on the Australian coat of arms. 
+The context focuses on:
+* Tick species diversity in Australia
+* Molecular variation and evolutionary history of the Australian scorpion Urodacus yaschenkoi
+* The occurrence of Burkholderia pseudomallei in wildlife, livestock, and domestic animals in the Darwin region
+* Sex-linked inheritance of G6PD genes in wallaroos, euros, and red kangaroos
+* The genetic diversity of wallaroos and euros
+* The role of dose compensation for X chromosomes at the G6PD locus in kangaroos
+* The research on health behavior and mental health in Australia.
+
+
+To answer your question about the kangaroo on the Australian coat of arms, you would need to consult a different source of information. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether a kangaroo is on the Australian coat of arms. Instead, it discusses unrelated context information and suggests consulting a different source for the answer. This makes the response mostly incorrect and not factual in relation to the question asked.
+[RESULT]: 2

@@ -1,0 +1,7 @@
+[PROMPT]: Who or what vary greatly in form within the coleoptera?
+[USER_ANSWER]: 
+The context information states that weevils (Curculionoidea) comprise one of the most diverse groups of organisms on earth.  It also states that weevil species diversity is greater than the number of fishes, birds, reptiles, amphibians and mammals combined. 
+
+[CORRECT_ANSWER]: Antennae.
+[FEEDBACK]: The response does not address the question about what varies greatly in form within the coleoptera. Instead, it provides information about the diversity of weevils, which is not relevant to the question. The correct answer is "antennae," and the response does not mention this at all. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

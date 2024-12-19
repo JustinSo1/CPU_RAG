@@ -1,0 +1,7 @@
+[PROMPT]: When did Goh Chok Tong succeed Lee as Prime Minister?
+[USER_ANSWER]: 
+The provided text does not contain information about when Goh Chok Tong succeeded Lee as Prime Minister. 
+
+[CORRECT_ANSWER]: In 1990, Goh Chok Tong succeeded Lee as Prime Minister.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks for the specific year when Goh Chok Tong succeeded Lee as Prime Minister, which is 1990. The response incorrectly states that the provided text does not contain this information, which is not relevant to the instruction. The response fails to provide the correct year and does not address the instruction accurately.
+[RESULT]: 1

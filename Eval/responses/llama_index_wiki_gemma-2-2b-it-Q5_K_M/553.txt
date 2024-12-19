@@ -1,0 +1,7 @@
+[PROMPT]: Where was Commodore Matthew C. Perry sent to open Japan to Western trade?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. It discusses clinical drug development in Japan and the importance of including Japan in global clinical trials. 
+
+[CORRECT_ANSWER]: Japan
+[FEEDBACK]: The response is completely incorrect and does not address the question asked. Instead of providing the location where Commodore Matthew C. Perry was sent to open Japan to Western trade, the response discusses an unrelated topic about clinical drug development in Japan. This does not align with the reference answer, which is "Japan."
+[RESULT]: 1

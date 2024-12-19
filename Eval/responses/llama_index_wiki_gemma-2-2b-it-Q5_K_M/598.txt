@@ -1,0 +1,8 @@
+[PROMPT]: Do sea otters live along the Pacific coast?
+[USER_ANSWER]: 
+Based on the provided context information, we can infer that sea otters live along the Pacific coast. 
+The text mentions "sea slugs" and "TTX poisoning of dogs due to the ingestion of sea slugs" which are associated with the Pacific coast. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is somewhat correct in that it infers that sea otters live along the Pacific coast. However, it introduces unnecessary context about "sea slugs" and "TTX poisoning of dogs," which is not directly relevant to the question. The reference answer is a simple "Yes," which is completely correct, accurate, and factual. The response could be more concise and directly address the question without additional context.
+[RESULT]: 3

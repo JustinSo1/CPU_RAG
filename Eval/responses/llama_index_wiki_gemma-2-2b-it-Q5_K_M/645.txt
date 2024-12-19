@@ -1,0 +1,7 @@
+[PROMPT]: Can larger penguins dive deep in case of need ?
+[USER_ANSWER]: 
+The provided text focuses on the effects of scuba diving on human physiology and does not contain any information about penguins or their diving capabilities. Therefore, it is impossible to answer your query based on the given context. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question about whether larger penguins can dive deep in case of need. Instead, it discusses the effects of scuba diving on human physiology, which is irrelevant to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

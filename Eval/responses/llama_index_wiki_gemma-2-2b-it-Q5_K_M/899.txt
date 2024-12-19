@@ -1,0 +1,9 @@
+[PROMPT]: Was Wilson a member of the Phi Kappa Psi fraternity?
+[USER_ANSWER]: 
+The provided text does not contain any information about Wilson's membership in any fraternity. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that Wilson was a member of the Phi Kappa Psi fraternity. The evaluated response, however, states that there is no information about Wilson's membership, which contradicts the reference answer. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

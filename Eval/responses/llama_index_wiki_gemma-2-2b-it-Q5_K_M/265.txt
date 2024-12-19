@@ -1,0 +1,9 @@
+[PROMPT]: Did Ford need to do extra work to pay for college?
+[USER_ANSWER]: 
+No, the provided text does not mention anything about Ford or college. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer clearly states "yes," indicating that Ford did need to do extra work to pay for college. The evaluated response, however, states "No" and adds irrelevant information about the provided text not mentioning Ford or college, which is not aligned with the reference answer.
+[RESULT]: 1

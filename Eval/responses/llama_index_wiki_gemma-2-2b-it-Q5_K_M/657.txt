@@ -1,0 +1,7 @@
+[PROMPT]: What is cause of polar bear's skin diseases?
+[USER_ANSWER]: 
+The provided text does not contain information about the cause of polar bear skin diseases. It focuses on skin diseases in humans, including those caused by bacteria, fungi, viruses, and other factors. 
+
+[CORRECT_ANSWER]: mites or other parasites
+[FEEDBACK]: The response does not address the cause of polar bear skin diseases at all. Instead, it discusses skin diseases in humans, which is not relevant to the question. The response is completely incorrect and does not provide any factual information related to the cause of polar bear skin diseases.
+[RESULT]: 1

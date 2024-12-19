@@ -1,0 +1,9 @@
+[PROMPT]: Who was President when Wilson finished Congressional Government?
+[USER_ANSWER]: 
+The provided text does not contain information about who was President when Wilson finished Congressional Government. 
+
+
+
+[CORRECT_ANSWER]: Grover Cleveland
+[FEEDBACK]: The response is completely incorrect and does not provide the factual answer to the question. The correct answer is Grover Cleveland, but the response states that the provided text does not contain the information, which is not relevant to the question asked.
+[RESULT]: 1

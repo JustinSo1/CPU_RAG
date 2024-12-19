@@ -1,0 +1,7 @@
+[PROMPT]: What part of an elephant is very important for temperature regulation?
+[USER_ANSWER]: 
+The provided text does not contain information about elephants or their temperature regulation. Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: Ears
+[FEEDBACK]: The response does not address the question about which part of an elephant is important for temperature regulation. Instead, it states that the provided text does not contain information about elephants or their temperature regulation, which is not relevant to the question. The correct answer is "ears," and the response does not provide this information. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,9 @@
+[PROMPT]: Was Millard Fillmore the thirteenth President of the United States?
+[USER_ANSWER]: 
+No. Millard Fillmore was the 13th Vice President of the United States. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. Millard Fillmore was indeed the 13th President of the United States, not the 13th Vice President. The response does not align with the reference answer and provides incorrect information.
+[RESULT]: 1

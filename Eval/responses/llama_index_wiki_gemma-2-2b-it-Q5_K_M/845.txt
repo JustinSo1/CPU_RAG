@@ -1,0 +1,11 @@
+[PROMPT]: What was from Pennsylvania?
+[USER_ANSWER]: 
+* The brown marmorated stink bug was first found in Allentown, Pa. 
+* The study of the 1988 measles outbreak in the Pennsylvania Amish was adapted from an individual-based model developed to explore potential poliovirus transmission in the North American Amish. 
+* The 2014 measles outbreak in the Ohio Amish was studied. 
+
+
+
+[CORRECT_ANSWER]: His father
+[FEEDBACK]: The response does not address the question "What was from Pennsylvania?" in the same context as the reference answer. The reference answer "His father" implies a specific person from Pennsylvania, while the response lists events and studies related to Pennsylvania, which is not aligned with the reference answer. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

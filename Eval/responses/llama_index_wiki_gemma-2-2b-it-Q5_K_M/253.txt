@@ -1,0 +1,7 @@
+[PROMPT]: Who did Ford nominate for Vice President?
+[USER_ANSWER]: 
+The provided text does not contain information about Ford's Vice President nomination. 
+
+[CORRECT_ANSWER]: Bob Dole
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information requested. The correct answer is "Bob Dole," but the response states that the provided text does not contain the information, which is not relevant to the question asked.
+[RESULT]: 1

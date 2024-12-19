@@ -1,0 +1,7 @@
+[PROMPT]: What types of unrelated water birds with similar forms are ducks sometimes confused with?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: loons or divers, grebes, gallinules, and coots
+[FEEDBACK]: The response does not address the question asked. It does not provide any information about the types of unrelated water birds with similar forms that ducks are sometimes confused with. Therefore, it is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

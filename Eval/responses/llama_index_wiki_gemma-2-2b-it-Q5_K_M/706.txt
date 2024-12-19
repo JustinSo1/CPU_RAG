@@ -1,0 +1,7 @@
+[PROMPT]: Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?
+[USER_ANSWER]: 
+No, -LRB-  Qatar is not an Arabic emirate. -RRB- 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer indicates that Qatar is indeed an Arab emirate, while the response incorrectly states that it is not. This contradicts the factual information provided in the reference answer.
+[RESULT]: 1

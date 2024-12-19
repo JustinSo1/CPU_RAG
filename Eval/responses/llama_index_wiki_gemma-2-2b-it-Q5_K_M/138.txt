@@ -1,0 +1,7 @@
+[PROMPT]: What did Canada adopt in 1965?
+[USER_ANSWER]: 
+The provided text does not contain information about what Canada adopted in 1965. 
+
+[CORRECT_ANSWER]: The Maple Leaf Flag
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It states that the provided text does not contain information about what Canada adopted in 1965, which is not relevant to the question asked. The correct answer is "The Maple Leaf Flag."
+[RESULT]: 1

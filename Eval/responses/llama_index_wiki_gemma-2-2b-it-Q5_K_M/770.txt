@@ -1,0 +1,9 @@
+[PROMPT]: Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?
+[USER_ANSWER]: 
+No, the provided text does not mention anything about urbanization or the Bukit Timah Nature Reserve. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer is a simple "Yes," indicating that urbanization has indeed eliminated many areas of former primary rainforest, with the only remaining area being Bukit Timah Nature Reserve. The response provided does not address the question directly and instead states that the provided text does not mention anything about urbanization or Bukit Timah Nature Reserve, which is not relevant to the instruction.
+[RESULT]: 1

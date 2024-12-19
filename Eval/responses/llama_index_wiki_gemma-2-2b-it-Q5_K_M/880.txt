@@ -1,0 +1,16 @@
+[PROMPT]: How do india and latin america relate?
+[USER_ANSWER]: 
+The provided text does not explicitly state how India and Latin America relate. 
+
+However, the text does mention that:
+
+* **G6PD deficiency is highly polymorphic in areas where malaria is/has been endemic.** This suggests a connection between malaria prevalence and G6PD deficiency, which could be relevant to both India and Latin America.
+* **The text mentions the prevalence of G6PD deficiency in different tribal groups in India.** This implies that India has a significant population of tribal people. 
+* **The text mentions that the tribal people in India constitute 8.6 per cent of the total population.** This suggests a connection between the tribal population in India and the broader context of the text.
+
+
+**Therefore, while the text does not explicitly state how India and Latin America relate, it does suggest a potential connection through the mention of G6PD deficiency and malaria prevalence.** 
+
+[CORRECT_ANSWER]: Uruguay exports architectural services to India and Latin America
+[FEEDBACK]: The response does not address the question of how India and Latin America relate in the context of the reference answer. The reference answer clearly states that Uruguay exports architectural services to India and Latin America, which is a specific and factual connection. The evaluated response, however, discusses G6PD deficiency and malaria prevalence, which are unrelated to the reference answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1
