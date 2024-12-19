@@ -1,0 +1,5 @@
+[PROMPT]: How long may elephants live?
+[USER_ANSWER]: Elephants may live for several decades, often reaching ages of 60 to 70 years.
+[CORRECT_ANSWER]: 70 years
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a range for the lifespan of elephants, which includes the reference answer of 70 years. However, it is not as concise and specific as the reference answer. The response could be improved by directly stating the maximum lifespan of 70 years without the additional context of "several decades" and "often reaching ages of 60 to 70 years."
+[RESULT]: 4

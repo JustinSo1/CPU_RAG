@@ -1,0 +1,5 @@
+[PROMPT]: Do penguins feed on krill?
+[USER_ANSWER]: Yes, penguins feed on krill.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It directly answers the question with the same information as the reference answer, confirming that penguins do feed on krill.
+[RESULT]: 5

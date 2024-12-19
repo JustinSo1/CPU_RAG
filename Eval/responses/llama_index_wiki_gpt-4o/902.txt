@@ -1,0 +1,5 @@
+[PROMPT]: Where is Wilson buried?
+[USER_ANSWER]: The information provided does not include details about a person named Wilson or where they are buried.
+[CORRECT_ANSWER]: He was buried in Washington National Cathedral
+[FEEDBACK]: The response does not provide any correct, accurate, or factual information regarding the burial location of Wilson. It states that the information is not provided, which is not true based on the reference answer. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

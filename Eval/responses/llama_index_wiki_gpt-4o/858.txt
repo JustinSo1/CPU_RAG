@@ -1,0 +1,5 @@
+[PROMPT]: Who heavily influenced the architecture and culture of Montevideo?
+[USER_ANSWER]: The context does not provide information about who heavily influenced the architecture and culture of Montevideo.
+[CORRECT_ANSWER]: European immigrants.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that European immigrants heavily influenced the architecture and culture of Montevideo, while the response claims that the context does not provide this information. This shows a lack of factual accuracy and correctness.
+[RESULT]: 1

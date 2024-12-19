@@ -1,0 +1,5 @@
+[PROMPT]: Is Grover Cleveland honest?
+[USER_ANSWER]: There is no information provided about Grover Cleveland's honesty.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not directly answer the question about Grover Cleveland's honesty. Instead, it states that there is no information provided, which is not aligned with the reference answer "Yes." Therefore, the response is mostly incorrect and does not provide the factual information required.
+[RESULT]: 2

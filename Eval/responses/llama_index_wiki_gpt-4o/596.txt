@@ -1,0 +1,5 @@
+[PROMPT]: What drives sea otter almost to extinction?
+[USER_ANSWER]: The vulnerability of animals in isolated habitats to incursions of pathogens and parasites drives sea otters almost to extinction.
+[CORRECT_ANSWER]: Humans hunted them almost to extinction. 
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The primary reason for the near extinction of sea otters was human hunting, not the vulnerability to pathogens and parasites in isolated habitats. The response does not align with the factual cause provided in the reference answer.
+[RESULT]: 2

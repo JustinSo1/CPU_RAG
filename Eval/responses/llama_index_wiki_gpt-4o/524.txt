@@ -1,0 +1,5 @@
+[PROMPT]: Is there an airport in Liechtenstein?
+[USER_ANSWER]: No, there is no airport in Liechtenstein.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response "No, there is no airport in Liechtenstein." is completely correct, accurate, and factual. It provides the same information as the reference answer, with a slight elaboration that does not detract from its correctness.
+[RESULT]: 5

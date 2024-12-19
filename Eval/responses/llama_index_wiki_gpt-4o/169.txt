@@ -1,0 +1,5 @@
+[PROMPT]: Why are ducklings particularly vulnerable?
+[USER_ANSWER]: Ducklings are particularly vulnerable because they are exposed to low levels of oseltamivir in the aquatic environment, which could promote the evolution of viral resistance in the natural reservoir of influenza virus.
+[CORRECT_ANSWER]: Their inability to fly.
+[FEEDBACK]: The response provided does not address the primary reason why ducklings are particularly vulnerable, which is their inability to fly. Instead, it discusses exposure to oseltamivir and viral resistance, which is unrelated to the reference answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

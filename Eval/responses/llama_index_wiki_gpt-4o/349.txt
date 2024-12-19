@@ -1,0 +1,5 @@
+[PROMPT]: Is Indonesia a monarchy with a presidential system?
+[USER_ANSWER]: No, Indonesia is not a monarchy with a presidential system.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly addresses the question and provides the correct information that Indonesia is not a monarchy with a presidential system. The response is clear and concise, matching the reference answer in terms of correctness and factuality.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What was more damaging than moving students into colleges?
+[USER_ANSWER]: The 10-year confrontation with the government about the taxation of the monastery had severe repercussions and further taxed Mendel's already over-stressed system.
+[CORRECT_ANSWER]: His confrontation with Andrew Fleming West
+[FEEDBACK]: The response provided does not address the question accurately. The question asks for what was more damaging than moving students into colleges, and the reference answer indicates that it was the confrontation with Andrew Fleming West. The response instead discusses a 10-year confrontation about taxation, which is unrelated to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

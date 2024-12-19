@@ -1,0 +1,5 @@
+[PROMPT]: Who dismantled partisan and sectional coalitions ?
+[USER_ANSWER]: The provided context information does not mention or provide details regarding who dismantled partisan and sectional coalitions.
+[CORRECT_ANSWER]: many congressmen
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not mention or provide details regarding who dismantled partisan and sectional coalitions, which is not accurate based on the reference answer. The reference answer clearly states that "many congressmen" were responsible. Therefore, the response is completely incorrect and not factual.
+[RESULT]: 1

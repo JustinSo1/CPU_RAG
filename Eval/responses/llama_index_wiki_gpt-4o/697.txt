@@ -1,0 +1,5 @@
+[PROMPT]: What bordered by Saudi?
+[USER_ANSWER]: The countries that border Saudi Arabia are Kuwait, Jordan, Iraq, Bahrain, Qatar, the United Arab Emirates, Oman, and Yemen.
+[CORRECT_ANSWER]: Qatar
+[FEEDBACK]: The response lists several countries that border Saudi Arabia, which is factually correct. However, the reference answer specifically mentions only Qatar. The response includes additional countries that are not mentioned in the reference answer, making it more comprehensive but not aligned with the reference answer's specificity. Therefore, while the response is mostly correct and factual, it does not match the reference answer's focus on a single country.
+[RESULT]: 4

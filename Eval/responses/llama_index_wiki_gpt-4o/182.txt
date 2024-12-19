@@ -1,0 +1,5 @@
+[PROMPT]: During what period was Akhenaten a Pharaoh?
+[USER_ANSWER]: Akhenaten was a Pharaoh during the 18th Dynasty of Egypt, which is traditionally dated to the period between 1353–1336 BCE.
+[CORRECT_ANSWER]: The New Kingdom (c.1550&#8722;1070 BC) 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Akhenaten as a Pharaoh during the 18th Dynasty of Egypt and provides a specific date range (1353–1336 BCE) that aligns with historical records. However, it does not mention the broader period of the New Kingdom (c.1550–1070 BC), which is included in the reference answer. While the response is detailed and accurate within the context of the 18th Dynasty, it lacks the broader context provided by the reference answer.
+[RESULT]: 4

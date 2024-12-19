@@ -1,0 +1,5 @@
+[PROMPT]: What makes penguins so agile in the water?
+[USER_ANSWER]: Penguins are agile in the water due to their streamlined bodies, which reduce drag, and their strong flippers, which they use like wings to propel themselves effectively through the water. This allows them to swim with speed and precision.
+[CORRECT_ANSWER]: Their wings have become flippers
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately mentions that penguins are agile in the water due to their streamlined bodies and strong flippers, which they use like wings to propel themselves. However, it includes additional details not present in the reference answer, which focuses solely on the transformation of wings into flippers. While the response is informative and accurate, it does not align perfectly with the simplicity and focus of the reference answer.
+[RESULT]: 4

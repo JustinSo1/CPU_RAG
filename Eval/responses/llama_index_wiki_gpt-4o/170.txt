@@ -1,0 +1,5 @@
+[PROMPT]: What are some economic uses for duck?
+[USER_ANSWER]: Duck can be used in the production of biomaterials for medical treatments and as a natural reservoir for studying the evolution of viral resistance, particularly in the case of influenza.
+[CORRECT_ANSWER]: Meat,eggs,feathers
+[FEEDBACK]: The response provided does not align with the reference answer, which focuses on the direct economic uses of ducks such as meat, eggs, and feathers. The response mentions the use of ducks in the production of biomaterials for medical treatments and as a natural reservoir for studying viral resistance, which are not direct economic uses as per the reference answer. Therefore, the response is mostly incorrect and does not accurately address the economic uses of ducks.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: How does the distribution size of the leopard compare to the distribution of other wild cats?
+[USER_ANSWER]: The leopard has the largest distribution size among wild cats, covering a wide range of habitats and regions.
+[CORRECT_ANSWER]: As of 1996, the leopard had the largest distribution of any wild cat, although populations before and since have shown a declining trend and are fragmented outside of subsaharan Africa.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that the leopard has the largest distribution size among wild cats and mentions the wide range of habitats and regions. However, it lacks the detail about the declining trend and fragmentation of populations outside of subsaharan Africa, which is an important aspect mentioned in the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Who served as the headquarters and one of the main launching sites of the US invasion of Iraq in 2003 ?
+[USER_ANSWER]: Kuwait served as the headquarters and one of the main launching sites of the US invasion of Iraq in 2003.
+[CORRECT_ANSWER]: Qatar.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that Qatar served as the headquarters and one of the main launching sites of the US invasion of Iraq in 2003, while the response incorrectly states that it was Kuwait.
+[RESULT]: 1

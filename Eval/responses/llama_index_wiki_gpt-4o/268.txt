@@ -1,0 +1,5 @@
+[PROMPT]: What did Ford receive on April 13, 1942?
+[USER_ANSWER]: The context does not provide information about what Ford received on April 13, 1942.
+[CORRECT_ANSWER]: Ford received a commission as ensign in the US Naval Reserve.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Ford received a commission as ensign in the US Naval Reserve on April 13, 1942, while the response claims that the context does not provide this information. This shows a lack of factual accuracy and correctness.
+[RESULT]: 1

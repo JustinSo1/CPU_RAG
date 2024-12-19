@@ -1,0 +1,5 @@
+[PROMPT]: Do they prefer forested areas?
+[USER_ANSWER]: Yes, they are more likely to visit the forest to fulfill their material needs.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct and factual, as it confirms that they prefer forested areas. However, it adds extra information about visiting the forest to fulfill material needs, which is not present in the reference answer. This additional detail, while not incorrect, makes the response slightly more specific than necessary.
+[RESULT]: 4

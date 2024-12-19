@@ -1,0 +1,5 @@
+[PROMPT]: What did Roosevelt do to improve his physical condition?
+[USER_ANSWER]: Roosevelt engaged in physical therapy focused on strengthening exercise, balance, and walker gait training, as well as occupational therapy focused on activities of daily living training and dysphagia rehabilitation.
+[CORRECT_ANSWER]: Roosevelt took up exercise
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed description of the types of therapies Roosevelt engaged in to improve his physical condition, which aligns with the reference answer that he took up exercise. However, the response includes additional specifics that are not mentioned in the reference answer, making it more detailed than necessary. While the details are accurate, they go beyond the simplicity of the reference answer.
+[RESULT]: 4

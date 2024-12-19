@@ -1,0 +1,5 @@
+[PROMPT]: These projections , called papillae , have what?
+[USER_ANSWER]: These projections, called papillae, have different numbers of repeats of specific types of protein domains due to differential RNA splicing. They are involved in various developmental processes and contribute to different extracellular matrices.
+[CORRECT_ANSWER]: a rich blood supply
+[FEEDBACK]: The response provided is completely incorrect and does not align with the reference answer. The reference answer states that papillae have "a rich blood supply," while the response discusses protein domains, RNA splicing, developmental processes, and extracellular matrices, which are unrelated to the reference answer. Therefore, the response is not factual based on the reference answer.
+[RESULT]: 1

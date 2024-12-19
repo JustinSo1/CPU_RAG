@@ -1,0 +1,5 @@
+[PROMPT]: What are the names of Uruguay's political parties?
+[USER_ANSWER]: The information provided does not include the names of Uruguay's political parties.
+[CORRECT_ANSWER]: Partido Colorado and Partido Blanco
+[FEEDBACK]: The response does not provide any names of Uruguay's political parties, which is the main requirement of the instruction. It is completely incorrect and does not align with the reference answer, which lists "Partido Colorado" and "Partido Blanco." The response fails to meet the criteria for correctness, accuracy, and factuality.
+[RESULT]: 1

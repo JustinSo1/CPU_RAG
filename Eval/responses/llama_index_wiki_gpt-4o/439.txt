@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that massachuS08_setts sent him in 1774?
+[USER_ANSWER]: There is no information provided to confirm that he was sent by Massachusetts in 1774.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer simply states "yes," indicating that Massachusetts did send him in 1774. The evaluated response, however, states that there is no information to confirm this, which contradicts the reference answer. Therefore, the response does not align with the reference answer and is not factual.
+[RESULT]: 2

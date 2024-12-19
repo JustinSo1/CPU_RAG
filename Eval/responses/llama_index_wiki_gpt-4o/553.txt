@@ -1,0 +1,5 @@
+[PROMPT]: Where was Commodore Matthew C. Perry sent to open Japan to Western trade?
+[USER_ANSWER]: Commodore Matthew C. Perry was sent to Japan to open it to Western trade.
+[CORRECT_ANSWER]: Japan
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Japan as the destination where Commodore Matthew C. Perry was sent to open it to Western trade. However, the response includes additional information that was not necessary according to the reference answer. While this does not make the response incorrect, it slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: What led Becquerel to investigate the spontaneous emission of nuclear radiation?
+[USER_ANSWER]: Becquerel's investigation into the spontaneous emission of nuclear radiation was influenced by the discovery of X-rays by Roentgen.
+[CORRECT_ANSWER]: phographic plates being fully exposed
+[FEEDBACK]: The response is somewhat correct, accurate, and factual. While it is true that the discovery of X-rays by Roentgen influenced Becquerel's research, the specific event that led him to investigate the spontaneous emission of nuclear radiation was the observation of photographic plates being fully exposed. The response does not mention this crucial detail, making it incomplete in the context of the reference answer.
+[RESULT]: 3

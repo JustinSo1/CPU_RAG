@@ -1,0 +1,5 @@
+[PROMPT]: What sort of turtles are ectothermic?
+[USER_ANSWER]: Turtles, in general, are ectothermic.
+[CORRECT_ANSWER]: all of them
+[FEEDBACK]: The response "Turtles, in general, are ectothermic" is mostly correct and accurate. It indicates that turtles are ectothermic, which aligns with the reference answer. However, the phrase "in general" introduces a slight ambiguity, as it suggests there might be exceptions, whereas the reference answer "all of them" is more definitive. Therefore, the response is not completely accurate and factual but is mostly correct.
+[RESULT]: 4

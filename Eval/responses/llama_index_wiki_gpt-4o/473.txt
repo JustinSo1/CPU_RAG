@@ -1,0 +1,5 @@
+[PROMPT]: Are kangaroos farmed to any extent?
+[USER_ANSWER]: There is no information provided about kangaroos being farmed.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is somewhat correct in that it implies a lack of information about kangaroos being farmed, but it is not as direct and clear as the reference answer. The reference answer is a straightforward "No," which is completely accurate and factual. The evaluated response, while not incorrect, is less precise and does not directly answer the question. Therefore, it does not fully meet the criteria for complete correctness, accuracy, and factuality.
+[RESULT]: 3

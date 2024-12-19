@@ -1,0 +1,5 @@
+[PROMPT]: Are turtles ectothermic?
+[USER_ANSWER]: Yes, turtles are ectothermic.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that turtles are ectothermic, which aligns with the reference answer. The additional detail does not detract from the accuracy of the response.
+[RESULT]: 5

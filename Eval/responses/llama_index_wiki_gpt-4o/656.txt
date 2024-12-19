@@ -1,0 +1,5 @@
+[PROMPT]: How long is polar bear's guard hair?
+[USER_ANSWER]: The length of a polar bear's guard hair is not specified.
+[CORRECT_ANSWER]: 5-15 cm
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that the length of a polar bear's guard hair is not specified, which contradicts the factual information provided in the reference answer (5-15 cm). The response does not provide any correct information regarding the length of the guard hair.
+[RESULT]: 1

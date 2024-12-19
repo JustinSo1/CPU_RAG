@@ -1,0 +1,5 @@
+[PROMPT]: What did Jefferson call John Adams?
+[USER_ANSWER]: No information is provided on what Jefferson called John Adams.
+[CORRECT_ANSWER]: The "Colossus of Independence".
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct information that Jefferson called John Adams "The Colossus of Independence". Instead, it states that no information is provided, which is not true.
+[RESULT]: 1

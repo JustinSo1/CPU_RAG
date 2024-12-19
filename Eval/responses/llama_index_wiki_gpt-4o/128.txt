@@ -1,0 +1,5 @@
+[PROMPT]: Where is the most densely populated part of Canada?
+[USER_ANSWER]: The most densely populated part of Canada is Ontario.
+[CORRECT_ANSWER]: The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.
+[FEEDBACK]: The response "The most densely populated part of Canada is Ontario" is somewhat correct but not entirely accurate. While Ontario is a highly populated province, the most densely populated area is specifically the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast, which includes parts of Ontario but is more specific. The response lacks this specificity and detail, making it less accurate compared to the reference answer.
+[RESULT]: 3

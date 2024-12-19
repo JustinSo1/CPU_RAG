@@ -1,0 +1,5 @@
+[PROMPT]: Is Singapore a city-state?
+[USER_ANSWER]: Yes.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes." is completely correct, accurate, and factual based on the reference answer "yes." Both responses affirm that Singapore is a city-state.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What was from Pennsylvania?
+[USER_ANSWER]: The brown marmorated stink bug was first found in Pennsylvania.
+[CORRECT_ANSWER]: His father
+[FEEDBACK]: The response "The brown marmorated stink bug was first found in Pennsylvania" is factually accurate but does not align with the reference answer "His father." The reference answer indicates a person, while the response mentions an insect. Therefore, the response is not correct based on the reference answer.
+[RESULT]: 1

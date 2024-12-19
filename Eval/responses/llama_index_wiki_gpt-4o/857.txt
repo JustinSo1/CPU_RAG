@@ -1,0 +1,5 @@
+[PROMPT]: Where is Uruguay's oldest church?
+[USER_ANSWER]: The oldest church in Uruguay is located in the city of Colonia del Sacramento.
+[CORRECT_ANSWER]: San Carlos, Maldonado.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The oldest church in Uruguay is located in San Carlos, Maldonado, not in Colonia del Sacramento.
+[RESULT]: 1

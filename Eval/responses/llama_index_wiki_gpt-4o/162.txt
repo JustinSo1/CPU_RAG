@@ -1,0 +1,5 @@
+[PROMPT]: What does the word duck mean?
+[USER_ANSWER]: The word "duck" refers to a type of bird found in the aquatic environment, which includes species such as the dabbling ducks mentioned.
+[CORRECT_ANSWER]: It is the common name for a number of species in the Anatidae family of birds.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "duck" as a type of bird found in aquatic environments and mentions species such as dabbling ducks. However, it does not mention that "duck" is the common name for a number of species in the Anatidae family of birds, which is a key detail in the reference answer.
+[RESULT]: 4

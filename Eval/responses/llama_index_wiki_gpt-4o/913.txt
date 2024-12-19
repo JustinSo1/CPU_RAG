@@ -1,0 +1,5 @@
+[PROMPT]: What lived in Columbia?
+[USER_ANSWER]: The Akawai Indians of Surinam lived in the region, and Alonso Pérez de Tolosa explored the Lake Maracaibo region in Colombia.
+[CORRECT_ANSWER]: Wilson
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The Akawai Indians are associated with Surinam, not Columbia, and Alonso Pérez de Tolosa's exploration of the Lake Maracaibo region is related to Venezuela, not Columbia. The response does not address the question accurately or factually based on the reference answer.
+[RESULT]: 2

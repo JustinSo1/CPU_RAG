@@ -1,0 +1,5 @@
+[PROMPT]: Did lincoln have 18 months of schooling?
+[USER_ANSWER]: The provided context does not contain information regarding Lincoln's education or the duration of his schooling.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question about Lincoln's schooling. Instead, it states that the provided context does not contain information regarding Lincoln's education, which is not relevant to the accuracy of the answer. The reference answer clearly states "Yes," indicating that Lincoln did have 18 months of schooling. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

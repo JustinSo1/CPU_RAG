@@ -1,0 +1,5 @@
+[PROMPT]: What was founded by the Spanish in the early 18th century as a military stronghold?
+[USER_ANSWER]: San Antonio was founded by the Spanish in the early 18th century as a military stronghold.
+[CORRECT_ANSWER]: Montevideo
+[FEEDBACK]: The response "San Antonio was founded by the Spanish in the early 18th century as a military stronghold" is completely incorrect based on the reference answer, which is "Montevideo." The response does not match the reference answer in any way and provides inaccurate information.
+[RESULT]: 1

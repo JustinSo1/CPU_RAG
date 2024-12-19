@@ -1,0 +1,5 @@
+[PROMPT]: Where did the expression "a sitting duck" come from?
+[USER_ANSWER]: The expression "a sitting duck" is not explained in the provided context.
+[CORRECT_ANSWER]: In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.
+[FEEDBACK]: The response does not provide any information about the origin of the expression "a sitting duck." It simply states that the expression is not explained in the provided context, which does not address the question. The response is completely incorrect and does not align with the reference answer, which explains the hunting context of the expression.
+[RESULT]: 1

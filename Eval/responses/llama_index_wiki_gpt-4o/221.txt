@@ -1,0 +1,5 @@
+[PROMPT]: Is the most read newspaper in Finland Taloussanomat?
+[USER_ANSWER]: The information provided does not specify the most read newspaper in Finland.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question with a simple "no," which is the expected answer based on the reference. Instead, it provides an explanation that does not address the question directly. Therefore, it is not completely correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

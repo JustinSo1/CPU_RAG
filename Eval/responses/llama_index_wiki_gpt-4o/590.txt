@@ -1,0 +1,5 @@
+[PROMPT]: Is otter a kind of mammal?
+[USER_ANSWER]: Yes, an otter is a kind of mammal.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, an otter is a kind of mammal." is completely correct, accurate, and factual based on the reference answer "yes." It provides a clear and precise confirmation that an otter is indeed a mammal.
+[RESULT]: 5

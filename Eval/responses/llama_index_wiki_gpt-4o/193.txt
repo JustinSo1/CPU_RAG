@@ -1,0 +1,5 @@
+[PROMPT]: Can an elephant kill a rhinoceros?
+[USER_ANSWER]: Yes, an elephant can kill a rhinoceros.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question with a clear and concise statement, similar to the reference answer.
+[RESULT]: 5

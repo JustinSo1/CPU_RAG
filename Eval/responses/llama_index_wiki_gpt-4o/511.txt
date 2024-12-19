@@ -1,0 +1,5 @@
+[PROMPT]: Is the black color heritable and caused by only one recessive gene locus ?
+[USER_ANSWER]: No, the black color is not caused by only one recessive gene locus. The genetics of pigmentary traits, including black color, are complex and involve multiple genes.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer simply states "Yes," indicating that the black color is heritable and caused by only one recessive gene locus. The evaluated response contradicts this by stating that the black color is not caused by only one recessive gene locus and involves multiple genes, which is not aligned with the reference answer. Therefore, the response does not meet the criteria for correctness and accuracy.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What makes it more difficult for a diving duck to fly?
+[USER_ANSWER]: It is more difficult for a diving duck to fly because it needs to overcome the additional buoyancy and water resistance from being submerged.
+[CORRECT_ANSWER]: They are heavier
+[FEEDBACK]: The response is somewhat correct and factual. While it mentions the challenges of buoyancy and water resistance, it does not directly address the primary reason given in the reference answer, which is the weight of the diving duck. The response provides additional context but misses the main point.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Did France cede nearly all of its colonies in Europe in 1763?
+[USER_ANSWER]: The query does not pertain to the provided context information. Therefore, an answer cannot be generated based on the given context.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not address the question directly and incorrectly states that the query does not pertain to the provided context information. The reference answer is a simple "Yes," indicating that France did cede nearly all of its colonies in Europe in 1763. The response fails to provide this factual information and is therefore completely incorrect and inaccurate.
+[RESULT]: 1

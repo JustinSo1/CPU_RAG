@@ -1,0 +1,5 @@
+[PROMPT]: How many municipalities are within Oberland?
+[USER_ANSWER]: There are 50 municipalities within Oberland.
+[CORRECT_ANSWER]: 6.
+[FEEDBACK]: The response "There are 50 municipalities within Oberland" is completely incorrect and inaccurate based on the reference answer, which states there are 6 municipalities. The response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

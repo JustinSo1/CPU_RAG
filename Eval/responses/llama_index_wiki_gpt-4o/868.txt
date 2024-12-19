@@ -1,0 +1,5 @@
+[PROMPT]: How many times has Uruguay won the World Cup?
+[USER_ANSWER]: Uruguay has won the World Cup twice.
+[CORRECT_ANSWER]: Twice. 
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It states that Uruguay has won the World Cup twice, which matches the reference answer "Twice."
+[RESULT]: 5

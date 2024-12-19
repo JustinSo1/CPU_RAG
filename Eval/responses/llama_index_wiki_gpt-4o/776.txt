@@ -1,0 +1,5 @@
+[PROMPT]: Did Theodore Roosevelt go to Harvard?
+[USER_ANSWER]: Yes, Theodore Roosevelt attended Harvard.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information by stating that Theodore Roosevelt attended Harvard, which aligns with the reference answer. However, the additional detail does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What became one of the most important commercial and military centres of the British Empire?
+[USER_ANSWER]: Walpole, Massachusetts became one of the most important commercial and military centres of the British Empire.
+[CORRECT_ANSWER]: Singapore
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. Walpole, Massachusetts was not one of the most important commercial and military centres of the British Empire. The correct answer is Singapore.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Why is the giant otter becoming increasingly rare?
+[USER_ANSWER]: The giant otter is becoming increasingly rare due to its isolated habitat, which makes it vulnerable to incursions of pathogens and parasites.
+[CORRECT_ANSWER]: Poaching, habitat loss, and toxins in gold mining.  
+[FEEDBACK]: The response mentions the isolated habitat of the giant otter and its vulnerability to pathogens and parasites, which is not mentioned in the reference answer. The reference answer highlights poaching, habitat loss, and toxins in gold mining as the primary reasons for the giant otter becoming increasingly rare. Therefore, the response is somewhat correct but does not align well with the reference answer.
+[RESULT]: 3

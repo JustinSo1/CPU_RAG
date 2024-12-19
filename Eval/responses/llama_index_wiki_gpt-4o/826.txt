@@ -1,0 +1,5 @@
+[PROMPT]: Can turtles take many years to reach breeding age ?
+[USER_ANSWER]: Yes, turtles can take many years to reach breeding age.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides additional context that aligns with the reference answer.
+[RESULT]: 5

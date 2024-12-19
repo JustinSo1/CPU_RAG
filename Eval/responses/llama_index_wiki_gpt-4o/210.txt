@@ -1,0 +1,5 @@
+[PROMPT]: Are elephants mammals?
+[USER_ANSWER]: Yes, elephants are mammals.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, elephants are mammals." is completely correct, accurate, and factual. It directly answers the question and provides the same information as the reference answer, albeit with slightly more detail.
+[RESULT]: 5

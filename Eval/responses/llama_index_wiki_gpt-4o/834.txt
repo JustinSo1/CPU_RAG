@@ -1,0 +1,5 @@
+[PROMPT]: Where was Grant born?
+[USER_ANSWER]: Grant was born in South Africa.
+[CORRECT_ANSWER]: Point Pleasant, Ohio
+[FEEDBACK]: The response "Grant was born in South Africa" is completely incorrect, inaccurate, and not factual based on the reference answer "Point Pleasant, Ohio." There is no alignment between the response and the correct information provided in the reference answer.
+[RESULT]: 1

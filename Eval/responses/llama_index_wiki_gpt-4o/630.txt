@@ -1,0 +1,5 @@
+[PROMPT]: Are penguins considered "higher waterbirds"?
+[USER_ANSWER]: Penguins are not specifically mentioned as "higher waterbirds." The term "higher waterbirds" is not defined in the given information.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is somewhat correct in that it acknowledges the lack of a specific definition for "higher waterbirds" in the given information. However, it does not directly answer the question as the reference answer does. The reference answer simply states "yes," which is a clear and direct response. The evaluated response fails to provide this clarity and directness, making it less accurate and factual in comparison to the reference answer.
+[RESULT]: 3

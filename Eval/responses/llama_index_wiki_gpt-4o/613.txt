@@ -1,0 +1,5 @@
+[PROMPT]: An otter 's den is what?
+[USER_ANSWER]: An otter's den is called a holt.
+[CORRECT_ANSWER]: A holt
+[FEEDBACK]: The response "An otter's den is called a holt." is completely correct, accurate, and factual based on the reference answer "A holt." The additional context provided does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What is Monroe's father's name?
+[USER_ANSWER]: The name of Monroe's father is not provided.
+[CORRECT_ANSWER]: Spence
+[FEEDBACK]: The response is completely incorrect as it states that the name of Monroe's father is not provided, whereas the reference answer clearly states that Monroe's father's name is Spence. The response does not align with the factual information given in the reference answer.
+[RESULT]: 1

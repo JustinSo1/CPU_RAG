@@ -1,0 +1,5 @@
+[PROMPT]: What is the primary item in an otter's diet?
+[USER_ANSWER]: The primary item in an otter's diet is fish.
+[CORRECT_ANSWER]: Fish.
+[FEEDBACK]: The response "The primary item in an otter's diet is fish." is completely correct, accurate, and factual based on the reference answer "Fish." It provides the same information with a bit more context, but it does not deviate from the factual content required by the question.
+[RESULT]: 5

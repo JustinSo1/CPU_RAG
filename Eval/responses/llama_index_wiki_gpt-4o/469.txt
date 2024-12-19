@@ -1,0 +1,5 @@
+[PROMPT]: What method is used by Kangaroos to travel?
+[USER_ANSWER]: Kangaroos travel by hopping or jumping.
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response "Kangaroos travel by hopping or jumping" is mostly correct, accurate, and factual. It includes the correct method "hopping" but adds "jumping," which is not necessary and slightly deviates from the reference answer. However, the additional term does not significantly alter the correctness of the response.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Where do leopards often hide their kills?
+[USER_ANSWER]: Leopards often hide their kills in trees.
+[CORRECT_ANSWER]: in dense vegetation
+[FEEDBACK]: The response "Leopards often hide their kills in trees" is somewhat correct, accurate, and factual. While leopards do hide their kills in trees, the reference answer specifies "in dense vegetation," which is a more general and commonly accurate description of their behavior. The response captures a part of the behavior but does not fully align with the reference answer.
+[RESULT]: 3

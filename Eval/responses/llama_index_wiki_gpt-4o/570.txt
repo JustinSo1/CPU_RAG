@@ -1,0 +1,5 @@
+[PROMPT]: Was Fillmore one of the founders of the University of Buffalo?
+[USER_ANSWER]: Yes, Millard Fillmore was one of the founders of the University at Buffalo.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information by specifying "Millard Fillmore" and "University at Buffalo," which aligns with the reference answer's affirmation. The added details do not detract from the accuracy of the response.
+[RESULT]: 5

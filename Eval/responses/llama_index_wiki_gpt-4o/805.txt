@@ -1,0 +1,5 @@
+[PROMPT]: Name a turtle popularly kept as a pet.
+[USER_ANSWER]: A popularly kept pet turtle is the red-eared slider turtle.
+[CORRECT_ANSWER]: Russian Tortoises
+[FEEDBACK]: The response "A popularly kept pet turtle is the red-eared slider turtle" is accurate and factual. However, it does not match the reference answer "Russian Tortoises." Both the red-eared slider turtle and Russian Tortoises are popular pet turtles, but the response does not align with the reference answer provided. Therefore, it is mostly correct and factual but not completely aligned with the reference answer.
+[RESULT]: 4

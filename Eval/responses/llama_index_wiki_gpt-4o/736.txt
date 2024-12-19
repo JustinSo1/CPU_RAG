@@ -1,0 +1,5 @@
+[PROMPT]: Do singaporeans enjoy squid?
+[USER_ANSWER]: The context information does not provide specific details about the dietary preferences of Singaporeans regarding squid.
+[CORRECT_ANSWER]: Yes, they do.
+[FEEDBACK]: The response does not directly answer the question about whether Singaporeans enjoy squid. Instead, it mentions the lack of context information, which is not relevant to the instruction. The reference answer clearly states that Singaporeans do enjoy squid, making the response inaccurate and not factual based on the reference answer.
+[RESULT]: 1

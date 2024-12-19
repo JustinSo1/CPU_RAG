@@ -1,0 +1,5 @@
+[PROMPT]: Has this inspired genetic researchers to begin examining the turtle genome for longevity genes ?
+[USER_ANSWER]: Yes, genetic researchers have been inspired to examine the turtle genome for longevity genes.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that genetic researchers have been inspired to examine the turtle genome for longevity genes, which aligns with the reference answer. However, the response includes additional information that was not present in the reference answer. While this additional detail does not make the response incorrect, it does go beyond the simplicity of the reference answer.
+[RESULT]: 4

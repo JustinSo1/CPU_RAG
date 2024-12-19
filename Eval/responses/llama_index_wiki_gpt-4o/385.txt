@@ -1,0 +1,5 @@
+[PROMPT]: Where was James Monroe shot?
+[USER_ANSWER]: There is no information provided about James Monroe being shot.
+[CORRECT_ANSWER]: at the Battle of Trenton, in his left shoulder
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer specifies that James Monroe was shot at the Battle of Trenton in his left shoulder, while the response incorrectly states that there is no information about James Monroe being shot.
+[RESULT]: 1

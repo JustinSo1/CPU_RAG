@@ -1,0 +1,5 @@
+[PROMPT]: What does a citizen use to propose changes to the Constitution?
+[USER_ANSWER]: A citizen uses a petition to propose changes to the Constitution.
+[CORRECT_ANSWER]: Referendum
+[FEEDBACK]: The response is mostly incorrect and inaccurate. A petition is not the correct method for a citizen to propose changes to the Constitution. The correct method is a referendum. Therefore, the response does not align well with the reference answer.
+[RESULT]: 2

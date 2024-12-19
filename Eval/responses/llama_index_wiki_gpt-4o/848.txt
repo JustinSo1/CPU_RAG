@@ -1,0 +1,5 @@
+[PROMPT]: Had he smoked only sporadically ?
+[USER_ANSWER]: There is no specific information provided about the frequency of his smoking habits. Therefore, it cannot be determined if he smoked only sporadically.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer is a simple "yes," indicating that the correct response should affirm that he smoked only sporadically. The evaluated response, however, states that there is no specific information provided about the frequency of his smoking habits, which contradicts the reference answer. Therefore, the response does not align with the reference answer and fails to provide the correct information.
+[RESULT]: 2

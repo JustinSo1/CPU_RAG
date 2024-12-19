@@ -1,0 +1,5 @@
+[PROMPT]: Was Ford active about Vietnamese affairs?
+[USER_ANSWER]: The provided context does not contain any information about Ford's involvement in Vietnamese affairs.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is somewhat correct in that it addresses the lack of information in the provided context. However, it does not directly answer the question with a simple "No" as the reference answer does. The response adds unnecessary information about the context, which is not required for this specific question.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Who was born precisely at midnight during an electrical storm , to a Serbian family in the village of Smiljan near Gospić , in the Lika region of the Croatian Krajina in Military Frontier ( part of the Austrian Empire ) , in the present-day Croatia . ?
+[USER_ANSWER]: The context does not provide information about a person born precisely at midnight during an electrical storm to a Serbian family in the village of Smiljan.
+[CORRECT_ANSWER]: Nikola Tesla
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction clearly describes the birth of Nikola Tesla, but the response fails to identify this person and instead states that the context does not provide the information. This is factually incorrect as the instruction does provide the necessary details to identify Nikola Tesla.
+[RESULT]: 1

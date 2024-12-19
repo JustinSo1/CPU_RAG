@@ -1,0 +1,5 @@
+[PROMPT]: When did James Monroe introduce the Monroe Doctrine?
+[USER_ANSWER]: James Monroe introduced the Monroe Doctrine in 1823.
+[CORRECT_ANSWER]: December 2, 1823
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the year (1823) when James Monroe introduced the Monroe Doctrine. However, it lacks the specific date (December 2) provided in the reference answer.
+[RESULT]: 4

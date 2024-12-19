@@ -1,0 +1,5 @@
+[PROMPT]: Who is Daffy Duck?
+[USER_ANSWER]: Daffy Duck is a cartoon character known for being a prominent figure in various animated series and movies.
+[CORRECT_ANSWER]: A silly cartoon character
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It identifies Daffy Duck as a cartoon character and mentions his prominence in various animated series and movies. However, it does not capture the essence of Daffy Duck being a "silly" character, which is a key aspect highlighted in the reference answer.
+[RESULT]: 4

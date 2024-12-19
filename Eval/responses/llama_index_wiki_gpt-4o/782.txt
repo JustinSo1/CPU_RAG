@@ -1,0 +1,5 @@
+[PROMPT]: How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?
+[USER_ANSWER]: There is no information provided regarding the response of newspapers to Roosevelt inviting Brooker T. Washington to dinner at the White House.
+[CORRECT_ANSWER]: mixing of the races on social occassions
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that there is no information provided regarding the response of newspapers, which contradicts the reference answer that indicates newspapers responded to the event by discussing the mixing of races on social occasions. The response does not address the actual reaction of the newspapers at all.
+[RESULT]: 1

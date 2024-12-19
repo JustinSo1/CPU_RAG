@@ -1,0 +1,5 @@
+[PROMPT]: Does Ghana have twice the per capita output of the poorer countries in West Africa?
+[USER_ANSWER]: The provided information does not include details on Ghana's per capita output or how it compares to other countries in West Africa. Therefore, the query cannot be answered based on the given context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer is a simple "yes," indicating that Ghana does have twice the per capita output of the poorer countries in West Africa. The response, however, states that the query cannot be answered based on the given context, which contradicts the reference answer. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

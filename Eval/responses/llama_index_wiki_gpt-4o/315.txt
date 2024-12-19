@@ -1,0 +1,5 @@
+[PROMPT]: How many years after Cleveland left office did the U.S. win the Spanish-American War?
+[USER_ANSWER]: The U.S. won the Spanish-American War three years after Cleveland left office.
+[CORRECT_ANSWER]: One Year
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The U.S. won the Spanish-American War one year after Cleveland left office, not three years as stated in the response. This discrepancy shows that the response does not align well with the factual information provided in the reference answer.
+[RESULT]: 2

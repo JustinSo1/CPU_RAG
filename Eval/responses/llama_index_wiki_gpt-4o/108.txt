@@ -1,0 +1,5 @@
+[PROMPT]: What year did Coolidge open his own law office?
+[USER_ANSWER]: The provided context does not include information about Coolidge opening his own law office.
+[CORRECT_ANSWER]: 1898
+[FEEDBACK]: The response is completely incorrect as it states that the provided context does not include the information, whereas the correct answer is 1898. The response does not provide any factual information about the year Coolidge opened his own law office.
+[RESULT]: 1

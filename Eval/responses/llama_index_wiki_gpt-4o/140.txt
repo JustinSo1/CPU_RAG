@@ -1,0 +1,5 @@
+[PROMPT]: Are Canada 's two official languages English and French ?
+[USER_ANSWER]: Yes, Canada's two official languages are English and French.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Canada's two official languages are English and French, which aligns with the reference answer.
+[RESULT]: 5

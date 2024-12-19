@@ -1,0 +1,5 @@
+[PROMPT]: Where is the leopard distributed?
+[USER_ANSWER]: The leopard is not mentioned in the provided context information.
+[CORRECT_ANSWER]: southern Eurasia and Africa
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about the distribution of the leopard. It incorrectly states that the leopard is not mentioned in the provided context, which is irrelevant to the instruction. The correct answer should mention the regions where leopards are distributed, specifically southern Eurasia and Africa.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Are wolves built for stamina?
+[USER_ANSWER]: Yes, wolves are built for stamina.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, wolves are built for stamina." is correct and factual, aligning with the reference answer "Yes." However, it includes additional information that was not present in the reference answer. While the added detail is accurate, it slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

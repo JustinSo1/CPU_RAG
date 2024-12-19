@@ -1,0 +1,5 @@
+[PROMPT]: Who did Sir Thomas Stamford Raffles work for?
+[USER_ANSWER]: The provided context does not contain information about Sir Thomas Stamford Raffles or his affiliations. Therefore, it is not possible to answer the query based on the given context.
+[CORRECT_ANSWER]: British East India Company
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not contain information about Sir Thomas Stamford Raffles or his affiliations, which is not relevant to the task of identifying who he worked for. The correct answer, "British East India Company," is not mentioned at all. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

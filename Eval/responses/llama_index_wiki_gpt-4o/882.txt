@@ -1,0 +1,5 @@
+[PROMPT]: Is Uruguay very common?
+[USER_ANSWER]: Uruguay has a low rate of miscegenation and no remaining isolated Amerindian groups, making it less genetically diverse compared to some other regions.
+[CORRECT_ANSWER]: No?
+[FEEDBACK]: The response does not address the question "Is Uruguay very common?" directly. Instead, it provides information about the genetic diversity of Uruguay, which is not relevant to the question asked. The reference answer is a simple "No?" indicating that the question is likely about the prevalence or commonality of Uruguay in some context, not its genetic diversity. Therefore, the response is mostly incorrect and not factual in the context of the question.
+[RESULT]: 2

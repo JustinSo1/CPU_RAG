@@ -1,0 +1,5 @@
+[PROMPT]: What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?
+[USER_ANSWER]: The territories of Moravia, Lower Austria, Silesia, and Styria were held in fief under more senior feudal lords.
+[CORRECT_ANSWER]: The Liechtenstein Dynasty acquired vast swaths of land
+[FEEDBACK]: The response does not address the specific event mentioned in the reference answer, which is the acquisition of land by the Liechtenstein Dynasty. Instead, it provides a general statement about the territories being held in fief under more senior feudal lords. This makes the response mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

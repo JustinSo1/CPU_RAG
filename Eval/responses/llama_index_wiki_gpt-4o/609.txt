@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that otters eat a variety of fish?
+[USER_ANSWER]: Yes, it is true that otters eat a variety of fish.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides additional detail that aligns with the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?
+[USER_ANSWER]: It is beneficial for alpha males and females to forcefully prevent other wolves from mating because it helps maintain their dominance and control over the pack. By limiting breeding opportunities to themselves, they can ensure that their offspring have access to more resources and have a higher chance of survival. This behavior also reduces competition within the pack and reinforces the social hierarchy, which contributes to the stability and cohesion of the group.
+[CORRECT_ANSWER]: A pack can only suppport one littler per year
+[FEEDBACK]: The response provides a detailed explanation of why alpha males and females prevent other wolves from mating, focusing on dominance, resource allocation, and social hierarchy. However, it does not directly address the primary reason given in the reference answer, which is that a pack can only support one litter per year. While the response is mostly correct and factual, it misses the specific point highlighted in the reference answer.
+[RESULT]: 4

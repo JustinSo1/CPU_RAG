@@ -1,0 +1,5 @@
+[PROMPT]: Had Ford's wife married before?
+[USER_ANSWER]: No, there is no information provided indicating that Ford's wife had married before.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer clearly states "Yes," while the response states "No," which directly contradicts the correct information.
+[RESULT]: 1

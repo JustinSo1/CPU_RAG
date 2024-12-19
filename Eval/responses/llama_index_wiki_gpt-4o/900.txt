@@ -1,0 +1,5 @@
+[PROMPT]: Was Wilson an automobile enthusiast?
+[USER_ANSWER]: There is no information provided that indicates whether Wilson was an automobile enthusiast.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that Wilson was an automobile enthusiast, while the response claims there is no information provided. This directly contradicts the reference answer.
+[RESULT]: 1

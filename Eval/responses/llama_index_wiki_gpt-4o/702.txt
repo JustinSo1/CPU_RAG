@@ -1,0 +1,5 @@
+[PROMPT]: Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?
+[USER_ANSWER]: Yes, oil and gas will probably remain the backbone of Qatar's economy for some time to come.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It directly addresses the question and confirms that oil and gas will probably remain the backbone of Qatar's economy for some time to come, which aligns with the reference answer "Yes."
+[RESULT]: 5

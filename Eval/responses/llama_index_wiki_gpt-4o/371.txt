@@ -1,0 +1,5 @@
+[PROMPT]: Is indonesia a republic?
+[USER_ANSWER]: Yes, Indonesia is a republic.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, Indonesia is a republic." is completely correct, accurate, and factual based on the reference answer "yes." It provides the same information as the reference answer, confirming that Indonesia is indeed a republic. The response is slightly more detailed but does not introduce any inaccuracies or irrelevant information.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Felis pardus was what?
+[USER_ANSWER]: Felis pardus was an early scientific name for the leopard.
+[CORRECT_ANSWER]: One of the many species described in Linnaeus's 18th-century work, Systema Naturae
+[FEEDBACK]: The response is mostly correct and factual. It accurately identifies "Felis pardus" as an early scientific name for the leopard. However, it does not mention that it was one of the many species described in Linnaeus's 18th-century work, Systema Naturae, which is a key detail in the reference answer.
+[RESULT]: 4

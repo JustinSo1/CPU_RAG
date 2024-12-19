@@ -1,0 +1,5 @@
+[PROMPT]: Are Cubs born in December without awakening the mother ?
+[USER_ANSWER]: Yes, cubs are born in December without awakening the mother.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It directly addresses the question and provides the same information as the reference answer, albeit with more detail.
+[RESULT]: 5

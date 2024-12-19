@@ -1,0 +1,5 @@
+[PROMPT]: What did Canada adopt in 1965?
+[USER_ANSWER]: Canada adopted dairy as a separate food group in national dietary guidance in 1965.
+[CORRECT_ANSWER]: The Maple Leaf Flag
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The correct answer is "The Maple Leaf Flag," while the response mentions the adoption of dairy as a separate food group, which is unrelated to the question.
+[RESULT]: 1

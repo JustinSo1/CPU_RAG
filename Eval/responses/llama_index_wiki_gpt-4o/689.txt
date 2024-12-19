@@ -1,0 +1,5 @@
+[PROMPT]: What is the Arabic word for municipalities?
+[USER_ANSWER]: The Arabic word for municipalities is "بلديات".
+[CORRECT_ANSWER]: baladiyah.
+[FEEDBACK]: The response "بلديات" is the correct Arabic word for municipalities. It is accurate and factual based on the reference answer "baladiyah," which is the transliteration of the Arabic word. The response provides the actual Arabic script, which is a precise and accurate representation of the term.
+[RESULT]: 5

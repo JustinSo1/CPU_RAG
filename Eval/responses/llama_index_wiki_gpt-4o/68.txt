@@ -1,0 +1,5 @@
+[PROMPT]: Are beetles endopterygotes?
+[USER_ANSWER]: Yes, beetles are endopterygotes.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, beetles are endopterygotes." is completely correct, accurate, and factual based on the reference answer "yes." It provides the same information as the reference answer, confirming that beetles are indeed endopterygotes.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Why are side-necked turtles called side-necked turtles?
+[USER_ANSWER]: Side-necked turtles are called side-necked turtles because they fold their necks sideways into their shells rather than pulling them directly back.
+[CORRECT_ANSWER]: Because of the way they withdraw their heads into their shells.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It explains that side-necked turtles fold their necks sideways into their shells, which aligns with the reference answer's explanation about the way they withdraw their heads. However, the response includes additional detail about the direction of the neck folding, which is not present in the reference answer but does not detract from the accuracy of the information.
+[RESULT]: 4

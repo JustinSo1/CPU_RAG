@@ -1,0 +1,5 @@
+[PROMPT]: Are ducks in the Arctic Northern Hemisphere migratory?
+[USER_ANSWER]: Yes, ducks in the Arctic Northern Hemisphere are migratory.
+[CORRECT_ANSWER]: Some are
+[FEEDBACK]: The response "Yes, ducks in the Arctic Northern Hemisphere are migratory" is mostly correct, accurate, and factual. However, it is slightly more definitive than the reference answer "Some are," which indicates that not all ducks in the Arctic Northern Hemisphere are migratory. The response does not account for the possibility that some ducks may not be migratory.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?
+[USER_ANSWER]: Yes, the game of Marn grook was played using a ball made from kangaroo by the Kurnai people.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the game of Marn grook was played using a ball made from kangaroo by the Kurnai people, which aligns with the reference answer.
+[RESULT]: 5

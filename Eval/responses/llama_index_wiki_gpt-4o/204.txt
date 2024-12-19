@@ -1,0 +1,5 @@
+[PROMPT]: How do elephants communicate over long distances?
+[USER_ANSWER]: Elephants communicate over long distances primarily through low-frequency sounds called infrasounds, which can travel several kilometers through the air and ground. These infrasound vocalizations allow them to stay in contact with other elephants even when they are far apart.
+[CORRECT_ANSWER]: by producing and receiving low frequency sound
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes that elephants use low-frequency sounds called infrasounds to communicate over long distances, which aligns with the reference answer. However, the response includes additional details about the sounds traveling through air and ground, which, while informative, are not necessary for a perfect score based on the reference answer.
+[RESULT]: 4

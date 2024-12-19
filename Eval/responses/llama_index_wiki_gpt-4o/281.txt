@@ -1,0 +1,5 @@
+[PROMPT]: What is the dominant religion in Ghana?
+[USER_ANSWER]: Christianity
+[CORRECT_ANSWER]: Christian
+[FEEDBACK]: The response "Christianity" is mostly correct, accurate, and factual. However, the reference answer specifies "Christian," which is a more precise term. While "Christianity" is not incorrect, it is slightly less precise than the reference answer.
+[RESULT]: 4

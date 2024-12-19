@@ -1,0 +1,5 @@
+[PROMPT]: Who was John Monroe standing behind in the painting of  Washington Crossing the Delaware?
+[USER_ANSWER]: John Monroe is not mentioned in the context information provided. Therefore, it is not possible to determine who he was standing behind in the painting of Washington Crossing the Delaware.
+[CORRECT_ANSWER]: George Washington
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that John Monroe was standing behind George Washington in the painting of Washington Crossing the Delaware. The response does not provide this information and instead states that John Monroe is not mentioned, which is factually incorrect.
+[RESULT]: 1

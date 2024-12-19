@@ -1,0 +1,5 @@
+[PROMPT]: What animals are related to otters?
+[USER_ANSWER]: Otters are related to Pinnipedia (seals, sea lions, and walruses) and Musteloidia (a group that includes ferrets) members of the order Carnivora.
+[CORRECT_ANSWER]: weasels, polecats, and badgers
+[FEEDBACK]: The response is somewhat correct and factual. While it mentions that otters are related to members of the order Carnivora, specifically Pinnipedia and Musteloidia, it does not directly mention the animals listed in the reference answer (weasels, polecats, and badgers). The response includes some accurate information but does not fully align with the reference answer.
+[RESULT]: 3

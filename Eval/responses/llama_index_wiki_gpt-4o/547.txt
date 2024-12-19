@@ -1,0 +1,5 @@
+[PROMPT]: Is it the smallest german-speaking country in the world?
+[USER_ANSWER]: No, it is not the smallest German-speaking country in the world.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that the correct response should be "Yes," while the given response states "No," which is the opposite of the correct answer.
+[RESULT]: 1

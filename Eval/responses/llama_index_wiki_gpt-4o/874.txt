@@ -1,0 +1,5 @@
+[PROMPT]: What religions are found in Uruguay?
+[USER_ANSWER]: There is no specific information about the religions found in Uruguay.
+[CORRECT_ANSWER]: Roman Catholic, Protestant, Jewish, and nonprofessing.
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about the religions found in Uruguay. It fails to mention any of the religions listed in the reference answer, such as Roman Catholic, Protestant, Jewish, and nonprofessing. Therefore, it does not meet the criteria for accuracy and correctness based on the reference answer.
+[RESULT]: 1

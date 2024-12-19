@@ -1,0 +1,5 @@
+[PROMPT]: What shares land borders with Papua New Guinea, East Timor and Malaysia?
+[USER_ANSWER]: Indonesia shares land borders with Papua New Guinea, East Timor, and Malaysia.
+[CORRECT_ANSWER]: Indonesia
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Indonesia as the country that shares land borders with Papua New Guinea, East Timor, and Malaysia. The additional information provided does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Can polar bears be seen under infrared photography?
+[USER_ANSWER]: Polar bears can be seen under infrared photography.
+[CORRECT_ANSWER]: Polar bears are nearly invisible under infrared photography.
+[FEEDBACK]: The response "Polar bears can be seen under infrared photography" is completely incorrect based on the reference answer, which states that polar bears are nearly invisible under infrared photography. The response contradicts the factual information provided in the reference answer.
+[RESULT]: 1

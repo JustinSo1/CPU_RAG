@@ -1,0 +1,5 @@
+[PROMPT]: Did Wilson support desegregation?
+[USER_ANSWER]: The information provided does not address whether Wilson supported desegregation.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question of whether Wilson supported desegregation. Instead, it comments on the information provided, which is not relevant to the question asked. Therefore, it is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

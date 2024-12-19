@@ -1,0 +1,5 @@
+[PROMPT]: Was Fillmore the first U.S. President born after the death of a former president ?
+[USER_ANSWER]: No, Millard Fillmore was not the first U.S. President born after the death of a former president.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the correct response is "yes," while the evaluated response states "No," which is the opposite of the correct answer.
+[RESULT]: 1

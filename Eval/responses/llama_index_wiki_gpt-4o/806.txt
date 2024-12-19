@@ -1,0 +1,8 @@
+[PROMPT]: Name four related articles for the article on turtles.
+[USER_ANSWER]: 1. A genomic-scale analysis of reptile phylogeny using thousands of loci.
+2. Comparative analysis of isochore structures across vertebrates.
+3. A study on expressed genes in the red-eared slider turtle and their orthologs.
+4. Research on the correlation between GC content in turtle genes and other vertebrates.
+[CORRECT_ANSWER]: Triassic, Ernst Haeckel, Kunstformen der Natur, Animal
+[FEEDBACK]: The response provided includes articles that are related to turtles in a scientific context, focusing on genetic and genomic studies. However, the reference answer suggests a broader and more historical or artistic context related to turtles, such as periods in history, notable figures, and artistic works. The response does not align with the reference answer's context and is therefore not accurate based on the given criteria.
+[RESULT]: 2

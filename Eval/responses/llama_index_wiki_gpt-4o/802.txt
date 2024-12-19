@@ -1,0 +1,5 @@
+[PROMPT]: Are Pleurodira known as side-necked turtles?
+[USER_ANSWER]: Yes, Pleurodira are known as side-necked turtles.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Pleurodira are known as side-necked turtles, which aligns with the reference answer.
+[RESULT]: 5

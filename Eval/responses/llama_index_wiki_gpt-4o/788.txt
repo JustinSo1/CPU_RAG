@@ -1,0 +1,5 @@
+[PROMPT]: When did Roosevelt die?
+[USER_ANSWER]: The provided context does not mention the death of Roosevelt.
+[CORRECT_ANSWER]: On January 6, 1919, Roosevelt died in his sleep.
+[FEEDBACK]: The response does not provide the correct date of Roosevelt's death, which is January 6, 1919. Instead, it states that the provided context does not mention the death of Roosevelt, which is not relevant to the instruction. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

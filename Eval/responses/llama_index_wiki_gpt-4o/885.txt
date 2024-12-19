@@ -1,0 +1,5 @@
+[PROMPT]: Is Uruguay 's oldest church in San Carlos , Maldonado ?
+[USER_ANSWER]: No, Uruguay's oldest church is not in San Carlos, Maldonado.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that the correct response is "Yes," while the evaluated response states "No," which is the opposite of the correct answer. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

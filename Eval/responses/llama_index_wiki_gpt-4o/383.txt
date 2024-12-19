@@ -1,0 +1,5 @@
+[PROMPT]: Did James Monroe fight in the Continental Army?
+[USER_ANSWER]: Yes, James Monroe fought in the Continental Army.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, James Monroe fought in the Continental Army." is completely correct, accurate, and factual based on the reference answer "yes." It provides the same information as the reference answer but with additional detail, which does not detract from its correctness.
+[RESULT]: 5

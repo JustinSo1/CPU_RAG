@@ -1,0 +1,5 @@
+[PROMPT]: Is a Kangaroo a Marsupial?
+[USER_ANSWER]: Yes, a kangaroo is a marsupial.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, a kangaroo is a marsupial." is completely correct, accurate, and factual. It provides the same information as the reference answer, with a slight elaboration that does not detract from its correctness.
+[RESULT]: 5

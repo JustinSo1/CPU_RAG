@@ -1,0 +1,5 @@
+[PROMPT]: How does a Mallard's tongue work?
+[USER_ANSWER]: The provided information does not specifically detail the functionality of a Mallard's tongue. Therefore, no direct answer regarding how a Mallard's tongue works can be provided based on the given context.
+[CORRECT_ANSWER]: It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat
+[FEEDBACK]: The response does not provide any information about the functionality of a Mallard's tongue. It states that the provided information does not detail the functionality, which is not an accurate or factual answer based on the reference answer. The reference answer provides specific details about the structure and function of a Mallard's tongue, which the response fails to address. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

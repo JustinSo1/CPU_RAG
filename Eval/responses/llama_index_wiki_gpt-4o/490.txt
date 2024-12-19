@@ -1,0 +1,5 @@
+[PROMPT]: What are dark leopards known as colloquially?
+[USER_ANSWER]: Dark leopards are colloquially known as black panthers.
+[CORRECT_ANSWER]: Black Panthers
+[FEEDBACK]: The response "Dark leopards are colloquially known as black panthers" is mostly correct, accurate, and factual. It provides the correct term "black panthers" but includes additional context that was not necessary. The reference answer is more concise.
+[RESULT]: 4

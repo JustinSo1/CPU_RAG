@@ -1,0 +1,5 @@
+[PROMPT]: If a turtle egg was kept warm, what would likely hatch?
+[USER_ANSWER]: A turtle would likely hatch.
+[CORRECT_ANSWER]: A female turtle.
+[FEEDBACK]: The response "A turtle would likely hatch" is mostly correct, accurate, and factual. However, it lacks the specificity of the reference answer, which specifies "a female turtle." While the response correctly identifies that a turtle would hatch, it does not address the gender aspect that the reference answer includes. Therefore, it is not completely correct but is still mostly accurate.
+[RESULT]: 4

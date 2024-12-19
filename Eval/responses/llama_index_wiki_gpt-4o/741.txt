@@ -1,0 +1,5 @@
+[PROMPT]: What is the MRT?
+[USER_ANSWER]: MRT refers to recent developments in animal and human models and the underlying biology, leading to potential clinical applications and identifying challenges to their technical refinement.
+[CORRECT_ANSWER]: One of three heavy rail passenger transport lines in Singapore.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that MRT refers to one of three heavy rail passenger transport lines in Singapore, while the response discusses recent developments in animal and human models, which is unrelated to the correct definition of MRT in this context.
+[RESULT]: 1

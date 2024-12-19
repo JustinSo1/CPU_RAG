@@ -1,0 +1,5 @@
+[PROMPT]: Today, are there more cell phone subscriptions than people in Finland?
+[USER_ANSWER]: Yes, today there are more cell phone subscriptions than people in Finland.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides the same information as the reference answer, albeit with more detail. The additional detail does not detract from the accuracy or correctness of the response.
+[RESULT]: 5

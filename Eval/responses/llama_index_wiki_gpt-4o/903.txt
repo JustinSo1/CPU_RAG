@@ -1,0 +1,5 @@
+[PROMPT]: Where did Wilson attend law school?
+[USER_ANSWER]: The information provided does not specify where Wilson attended law school.
+[CORRECT_ANSWER]: Wilson attended law school at University of Virginia
+[FEEDBACK]: The response is completely incorrect and inaccurate as it states that the information provided does not specify where Wilson attended law school, while the reference answer clearly states that Wilson attended law school at the University of Virginia. The response does not provide any factual information about Wilson's law school.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Are turtle eggs leathery and soft?
+[USER_ANSWER]: Yes, turtle eggs are leathery and soft.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, turtle eggs are leathery and soft." is completely correct, accurate, and factual. It provides additional detail that is accurate and relevant to the question asked. However, the reference answer is more concise. Despite this, the response still meets the criteria for being completely correct and factual.
+[RESULT]: 5

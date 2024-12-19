@@ -1,0 +1,5 @@
+[PROMPT]: Who was Roosevelt's presidential hero?
+[USER_ANSWER]: Roosevelt's presidential hero was Abraham Lincoln.
+[CORRECT_ANSWER]: Lincoln was Roosevelt's presidential hero.
+[FEEDBACK]: The response "Roosevelt's presidential hero was Abraham Lincoln." is completely correct, accurate, and factual based on the reference answer "Lincoln was Roosevelt's presidential hero." Both responses convey the same information, identifying Abraham Lincoln as Roosevelt's presidential hero.
+[RESULT]: 5

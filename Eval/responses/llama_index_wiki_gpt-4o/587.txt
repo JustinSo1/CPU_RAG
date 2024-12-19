@@ -1,0 +1,5 @@
+[PROMPT]: How do sea otters insulate themselves?
+[USER_ANSWER]: The context information does not provide details on how sea otters insulate themselves.
+[CORRECT_ANSWER]: a layer of air trapped in their fur(!)
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the question of how sea otters insulate themselves and instead mentions the lack of context information, which is irrelevant to the instruction.
+[RESULT]: 1

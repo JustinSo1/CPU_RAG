@@ -1,0 +1,5 @@
+[PROMPT]: The John Adams Library , housed at the Boston Public Library , contains what?
+[USER_ANSWER]: The John Adams Library, housed at the Boston Public Library, contains the personal collection of books owned by John Adams.
+[CORRECT_ANSWER]: Adams's personal collection of more than 3,500 volumes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the John Adams Library contains the personal collection of books owned by John Adams. However, it lacks the specific detail that the collection consists of more than 3,500 volumes, which is a significant piece of information included in the reference answer.
+[RESULT]: 4

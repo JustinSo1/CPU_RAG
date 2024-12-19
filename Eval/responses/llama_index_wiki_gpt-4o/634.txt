@@ -1,0 +1,5 @@
+[PROMPT]: Why do penguins "tobaggan"?
+[USER_ANSWER]: Penguins "toboggan" to move more efficiently across ice and snow. This behavior allows them to slide on their bellies while using their flippers and feet to propel themselves forward, conserving energy compared to walking.
+[CORRECT_ANSWER]: It conserves energy while moving quickly
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It explains that penguins "toboggan" to move more efficiently across ice and snow, which aligns with the idea of conserving energy. However, the reference answer is more concise and directly states the primary reason for the behavior, which is energy conservation. The response adds additional details about the mechanics of the movement, which are accurate but not necessary for the primary explanation.
+[RESULT]: 4

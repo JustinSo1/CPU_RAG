@@ -1,0 +1,5 @@
+[PROMPT]: What is actually black in color?
+[USER_ANSWER]: The black coloration is due to the speckled pigmentation of the duodenal mucosa in pseudomelanosis duodeni.
+[CORRECT_ANSWER]: A polar bear's skin.
+[FEEDBACK]: The response is not correct or accurate based on the reference answer. The reference answer indicates that a polar bear's skin is black, which is a straightforward and factual statement. The response provided discusses the pigmentation of the duodenal mucosa in pseudomelanosis duodeni, which is unrelated to the question about what is actually black in color. Therefore, the response is completely incorrect and not factual in the context of the given question.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Was James Cook the first to record the name "Kangooroo?"
+[USER_ANSWER]: There is no information provided to determine whether James Cook was the first to record the name "Kangooroo."
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "yes," indicating that James Cook was the first to record the name "Kangooroo." The evaluated response, however, states that there is no information provided to determine this, which contradicts the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What part of an elephant is very important for temperature regulation?
+[USER_ANSWER]: The tail arteries of an elephant are very important for temperature regulation.
+[CORRECT_ANSWER]: Ears
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The tail arteries are not the primary part of an elephant important for temperature regulation; the ears are.
+[RESULT]: 1

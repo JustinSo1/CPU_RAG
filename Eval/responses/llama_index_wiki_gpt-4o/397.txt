@@ -1,0 +1,5 @@
+[PROMPT]: What did James Monroe's letters not contain?
+[USER_ANSWER]: James Monroe's letters did not contain any advice that would have helped Scott minimize the effect of scurvy on his party members.
+[CORRECT_ANSWER]: No letters survive in which he might have discussed his religious beliefs.
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer indicates that James Monroe's letters did not contain discussions about his religious beliefs, while the response incorrectly states that the letters did not contain advice about minimizing the effect of scurvy. This is a completely different topic and does not align with the reference answer.
+[RESULT]: 1

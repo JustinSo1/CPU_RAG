@@ -1,0 +1,5 @@
+[PROMPT]: Had Monroe racked up many debts during his years of public life ?
+[USER_ANSWER]: The provided context does not contain information about Monroe or any debts he may have incurred during his years of public life.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Monroe did rack up many debts during his years of public life, while the response claims that the provided context does not contain information about Monroe or any debts. This directly contradicts the reference answer.
+[RESULT]: 1

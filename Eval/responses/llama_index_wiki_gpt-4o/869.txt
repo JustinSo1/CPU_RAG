@@ -1,0 +1,5 @@
+[PROMPT]: How much is the average income of an African woman compared to a European man?
+[USER_ANSWER]: The provided information does not include details about the average income of an African woman compared to a European man.
+[CORRECT_ANSWER]: African women earns 0.65 * 0.718  = 46.67% of a European man earns in average
+[FEEDBACK]: The response does not provide any information about the average income of an African woman compared to a European man. It simply states that the provided information does not include details, which is not an accurate or factual answer based on the reference answer. The reference answer provides a specific percentage (46.67%) which is missing in the response. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

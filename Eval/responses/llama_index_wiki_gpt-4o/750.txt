@@ -1,0 +1,5 @@
+[PROMPT]: Which nation invaded Singapore during World War II?
+[USER_ANSWER]: Japan invaded Singapore during World War II.
+[CORRECT_ANSWER]: Japan
+[FEEDBACK]: The response "Japan invaded Singapore during World War II." is completely correct, accurate, and factual based on the reference answer "Japan." The additional context provided does not detract from the accuracy of the response.
+[RESULT]: 5

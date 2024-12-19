@@ -1,0 +1,5 @@
+[PROMPT]: Why does most of Egypt's population live near the Nile?
+[USER_ANSWER]: The majority of Egypt's population lives near the Nile because the river provides essential resources such as water for drinking, irrigation for agriculture, and fertile land for farming. Additionally, the Nile supports transportation and trade routes, making it a vital lifeline for sustaining large communities.
+[CORRECT_ANSWER]: the only arable agricultural land is found there,
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It explains that the Nile provides essential resources such as water for drinking, irrigation for agriculture, and fertile land for farming, which aligns with the reference answer's mention of arable agricultural land. Additionally, the response includes the Nile's role in transportation and trade routes, which, while not mentioned in the reference answer, is still a factual and relevant point. However, the response could be more concise and directly aligned with the reference answer's focus on arable land.
+[RESULT]: 4

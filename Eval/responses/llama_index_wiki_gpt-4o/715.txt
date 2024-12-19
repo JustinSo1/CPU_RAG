@@ -1,0 +1,5 @@
+[PROMPT]: How many territories joined to form Romania?
+[USER_ANSWER]: The number of territories that joined to form Romania is not specified.
+[CORRECT_ANSWER]: 2.
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information required. The reference answer clearly states that 2 territories joined to form Romania, while the response claims that the number of territories is not specified, which is inaccurate.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: The context does not provide information about the length of Lincoln's legal career.
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct information about the length of Lincoln's legal career, which is 23 years. Instead, it states that the context does not provide the information, which is not relevant to the question asked.
+[RESULT]: 1
