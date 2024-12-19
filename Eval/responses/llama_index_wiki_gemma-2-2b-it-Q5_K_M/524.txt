@@ -1,0 +1,7 @@
+[PROMPT]: Is there an airport in Liechtenstein?
+[USER_ANSWER]: 
+Based on the provided context information, there is no information about airports in Liechtenstein. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is somewhat correct in that it implies there is no airport in Liechtenstein, but it is not as direct and clear as the reference answer. The response introduces unnecessary context about the provided information, which is not relevant to the question. The answer should be straightforward and factual, directly addressing the question without additional context.
+[RESULT]: 3

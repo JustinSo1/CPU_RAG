@@ -1,0 +1,7 @@
+[PROMPT]: What may a leopard be mistaken for?
+[USER_ANSWER]: 
+The provided text does not contain information about leopards. 
+
+[CORRECT_ANSWER]: A cheetah or a jaguar
+[FEEDBACK]: The response is completely incorrect and does not address the question. It states that the provided text does not contain information about leopards, which is irrelevant to the question asked. The question is asking for animals that a leopard may be mistaken for, and the response does not provide any such information.
+[RESULT]: 1

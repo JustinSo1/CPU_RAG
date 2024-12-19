@@ -1,0 +1,7 @@
+[PROMPT]: What happened in 1917?
+[USER_ANSWER]: 
+The provided text does not contain information about what happened in 1917. 
+
+[CORRECT_ANSWER]: raised billions through Liberty loans, imposed an income tax, S08_set up the War Industries Board, promoted labor union growth, supervised agriculture and food production through the Lever Act, took over control of the railroads, and suppressed anti-war movements
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about what happened in 1917. It fails to mention any of the significant events or actions listed in the reference answer, such as the raising of billions through Liberty loans, the imposition of an income tax, the setup of the War Industries Board, the promotion of labor union growth, the supervision of agriculture and food production through the Lever Act, the takeover of control of the railroads, and the suppression of anti-war movements. Therefore, the response does not meet any of the criteria for correctness, accuracy, or factuality based on the reference answer.
+[RESULT]: 1

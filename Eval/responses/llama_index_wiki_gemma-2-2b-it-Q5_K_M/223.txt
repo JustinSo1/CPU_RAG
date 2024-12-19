@@ -1,0 +1,7 @@
+[PROMPT]: What is the life expectancy for men in Finland?
+[USER_ANSWER]: 
+The provided text focuses on the life expectancy of Finnish male athletes and does not provide information about the general life expectancy of men in Finland. 
+
+[CORRECT_ANSWER]: 75 years
+[FEEDBACK]: The response does not provide the life expectancy for men in Finland, which is the information requested. Instead, it mentions the life expectancy of Finnish male athletes, which is not relevant to the question. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

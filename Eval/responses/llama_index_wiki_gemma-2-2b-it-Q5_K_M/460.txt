@@ -1,0 +1,7 @@
+[PROMPT]: Do kangaroos eat plants?
+[USER_ANSWER]: 
+Yes, the context information states that kangaroos are herbivores. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that kangaroos are herbivores, which means they eat plants. This aligns with the reference answer and provides additional context information that supports the accuracy of the response.
+[RESULT]: 5

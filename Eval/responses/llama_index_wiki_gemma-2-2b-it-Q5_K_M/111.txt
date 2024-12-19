@@ -1,0 +1,7 @@
+[PROMPT]: Why did Coolidge not attend law school?
+[USER_ANSWER]: 
+The provided text does not contain any information about Calvin Coolidge attending law school or not. 
+
+[CORRECT_ANSWER]: It was too expensive
+[FEEDBACK]: The response does not address the question of why Calvin Coolidge did not attend law school. Instead, it states that the provided text does not contain information about this topic, which is not relevant to the instruction. The reference answer clearly states that the reason was the expense, which the response fails to mention. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

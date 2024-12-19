@@ -1,0 +1,13 @@
+[PROMPT]: Why are ducklings particularly vulnerable?
+[USER_ANSWER]: 
+The provided text does not explicitly state why ducklings are particularly vulnerable. 
+However, it does mention that: 
+* **Dabbling ducks are the natural reservoir of influenza virus.** This suggests they are susceptible to the virus.
+* **Low levels of oseltamivir were detected in the aquatic environment.** This could indicate that the virus is present in the environment and could be a risk to ducklings. 
+* **The study shows that low levels of oseltamivir can be found in the aquatic environment.** This could indicate that the virus is present in the environment and could be a risk to ducklings. 
+
+
+
+[CORRECT_ANSWER]: Their inability to fly.
+[FEEDBACK]: The response does not directly address the question of why ducklings are particularly vulnerable. Instead, it discusses the presence of influenza virus and oseltamivir in the environment, which is not related to the primary reason for their vulnerability as stated in the reference answer. The reference answer clearly states that ducklings are particularly vulnerable due to their inability to fly, which is not mentioned in the response. Therefore, the response is mostly incorrect and does not provide the accurate and factual information required.
+[RESULT]: 2

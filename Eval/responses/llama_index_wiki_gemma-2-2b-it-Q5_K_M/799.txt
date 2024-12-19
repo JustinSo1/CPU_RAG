@@ -1,0 +1,14 @@
+[PROMPT]: What has been discovered about turtles organs?
+[USER_ANSWER]: 
+The provided text does not contain information about the specific organs of turtles. It focuses on:
+* **Phylogenetic position of turtles:**  The study uses genomic data to challenge the previous hypothesis of turtles' relationship to lizards and snakes.
+* **Isochore structure:** The text discusses the structure of isochore regions in the turtle genome and compares it to other vertebrates.
+* **Gene expression:** The study analyzes the expression of genes in turtles and compares it to other vertebrates.
+* **Evolution of arginine-vasotocin:** The text explores the role of arginine-vasotocin in water regulation and its potential evolution in different vertebrate groups.
+
+
+Therefore, the text does not provide information about the specific organs of turtles. 
+
+[CORRECT_ANSWER]: They do not gradually break down or become less efficient over time
+[FEEDBACK]: The response does not address the specific question about what has been discovered about turtles' organs. Instead, it discusses various unrelated aspects of turtle biology, such as their phylogenetic position, isochore structure, gene expression, and the evolution of arginine-vasotocin. This information, while potentially interesting, does not answer the question about the specific organs of turtles. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

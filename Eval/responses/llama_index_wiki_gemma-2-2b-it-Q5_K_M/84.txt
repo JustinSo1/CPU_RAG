@@ -1,0 +1,17 @@
+[PROMPT]: May a single female lay from several dozen to several thousand eggs during her lifetime ?
+[USER_ANSWER]: 
+Based on the provided context, it is **unlikely** that a single female lays from several dozen to several thousand eggs during her lifetime. 
+
+Here's why:
+
+* **Focus on infertility and genetic disorders:** The provided text discusses infertility, ovarian insufficiency, and genetic mutations related to egg production. 
+* **Egg production and aging:** The text mentions that egg aneuploidy increases with female reproductive aging, which is a factor in fertility reduction.
+* **Genetic correlation with longevity:** The text highlights a negative correlation between female longevity and early fecundity, suggesting that egg production and lifespan are linked.
+* **No mention of large egg laying:** The text does not mention any instances of large-scale egg laying or any species that lay thousands of eggs.
+
+
+Therefore, based on the provided context, it is unlikely that a single female lays from several dozen to several thousand eggs during her lifetime. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer is a simple "Yes," indicating that it is indeed possible for a single female to lay from several dozen to several thousand eggs during her lifetime. The response provided goes into detail about infertility, genetic disorders, and other factors that are not relevant to the straightforward question asked. The response contradicts the reference answer and does not align with the factual information required.
+[RESULT]: 1

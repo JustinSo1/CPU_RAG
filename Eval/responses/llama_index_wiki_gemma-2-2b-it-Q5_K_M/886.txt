@@ -1,0 +1,19 @@
+[PROMPT]: Is Uruguay a member of the Cairns Group of exporters of agricultural products ?
+[USER_ANSWER]: 
+Based on the provided context information, we cannot determine if Uruguay is a member of the Cairns Group of exporters of agricultural products. 
+
+
+**Explanation:**
+
+The provided text focuses on:
+
+* Research collaborations in genomics and oncology.
+* International travel trends.
+* The impact of stressors on bees.
+* Research institutions and their locations.
+
+It does not contain any information about the Cairns Group or its membership. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "Yes," indicating that Uruguay is a member of the Cairns Group of exporters of agricultural products. The response, however, states that it cannot determine the membership status based on the provided context information, which is not aligned with the reference answer. Therefore, the response is completely incorrect.
+[RESULT]: 1

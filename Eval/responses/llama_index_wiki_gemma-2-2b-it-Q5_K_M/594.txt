@@ -1,0 +1,7 @@
+[PROMPT]: Where does the word "otter" derive from?
+[USER_ANSWER]: 
+The provided text does not contain the answer to where the word "otter" derives from. 
+
+[CORRECT_ANSWER]: The word "otter" derives from the Old English word otr, otor or oter. 
+[FEEDBACK]: The response does not provide any information about the derivation of the word "otter," which is the main requirement of the instruction. It states that the provided text does not contain the answer, which is not relevant to the task. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
+[RESULT]: 1

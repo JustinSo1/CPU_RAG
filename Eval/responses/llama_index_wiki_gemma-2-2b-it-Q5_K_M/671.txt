@@ -1,0 +1,11 @@
+[PROMPT]: What includes a lengthy justification of why this species is listed as vulnerable?
+[USER_ANSWER]: 
+The provided text does not contain a lengthy justification of why a species is listed as vulnerable. 
+It focuses on the genomic decay paradox of a species that is asexual and how it survives. 
+It does not discuss the vulnerability of any species. 
+
+
+
+[CORRECT_ANSWER]: Database entry.
+[FEEDBACK]: The response accurately identifies that the provided text does not contain a lengthy justification of why a species is listed as vulnerable. It correctly points out that the text focuses on the genomic decay paradox of an asexual species and its survival, rather than discussing the vulnerability of any species. This assessment is correct, accurate, and factual based on the reference answer, which simply states "Database entry." The response aligns well with the reference answer by indicating the absence of the required justification in the provided text.
+[RESULT]: 5

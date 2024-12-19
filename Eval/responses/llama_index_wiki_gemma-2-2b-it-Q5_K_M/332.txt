@@ -1,0 +1,7 @@
+[PROMPT]: Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?
+[USER_ANSWER]: 
+The provided context information does not contain any information about the burial location of Peter Robinson. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and does not provide the correct information about the burial location. The reference answer indicates that the correct response is "yes," but the evaluated response states that the context does not contain the information, which is inaccurate. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

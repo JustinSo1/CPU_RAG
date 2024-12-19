@@ -1,0 +1,7 @@
+[PROMPT]: Who did James Monroe live with in New York City?
+[USER_ANSWER]: 
+The provided text does not contain any information about James Monroe or who he lived with in New York City. 
+
+[CORRECT_ANSWER]: His daughter Maria Hester Monroe Gouverneur
+[FEEDBACK]: The response does not provide the correct information about who James Monroe lived with in New York City. It states that the provided text does not contain any information about James Monroe or who he lived with, which is not addressing the question directly. The correct answer is "His daughter Maria Hester Monroe Gouverneur." Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

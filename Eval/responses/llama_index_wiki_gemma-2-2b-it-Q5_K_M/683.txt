@@ -1,0 +1,7 @@
+[PROMPT]: Do nearly all Qataris profess Islam?
+[USER_ANSWER]: 
+The provided text does not contain information about the religious beliefs of Qataris. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether nearly all Qataris profess Islam, and the correct answer is a simple "Yes." The response provided does not address the question and instead states that the provided text does not contain information about the religious beliefs of Qataris, which is irrelevant to the question asked.
+[RESULT]: 1

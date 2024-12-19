@@ -1,0 +1,7 @@
+[PROMPT]: How many species of beetles are there?
+[USER_ANSWER]: 
+The provided text does not give the total number of beetle species. 
+
+[CORRECT_ANSWER]: 350,000
+[FEEDBACK]: The response does not provide the correct number of beetle species, which is 350,000. Instead, it states that the provided text does not give the total number of beetle species, which is not addressing the question directly. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

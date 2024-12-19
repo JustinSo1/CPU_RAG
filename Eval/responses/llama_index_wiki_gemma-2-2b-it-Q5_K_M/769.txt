@@ -1,0 +1,9 @@
+[PROMPT]: Has Singapore a network of reservoirs and water catchment areas ?
+[USER_ANSWER]: 
+Based on the provided context information, it is **not possible to determine** if Singapore has a network of reservoirs and water catchment areas. 
+
+The context focuses on dengue resurgence, cancer research, mental health, and epidemiology. It does not mention anything about Singapore's water infrastructure or water management. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The question asks whether Singapore has a network of reservoirs and water catchment areas, and the correct answer is simply "Yes." The response incorrectly states that it is not possible to determine this based on the provided context, which is not relevant to the question. The response fails to provide the correct, accurate, and factual answer.
+[RESULT]: 2

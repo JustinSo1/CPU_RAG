@@ -1,0 +1,8 @@
+[PROMPT]: Are certain species of beetles considered pests?
+[USER_ANSWER]: 
+Yes, the provided text mentions that beetles can cause vesicular dermatitis via cantharidin or paederin. 
+This suggests that certain species of beetles are considered pests. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct in stating that certain species of beetles are considered pests. However, it introduces additional information about vesicular dermatitis and cantharidin or paederin, which is not necessary to answer the question directly. The reference answer is a simple "Yes," indicating that a concise response is sufficient. The additional details, while accurate, are not required and slightly detract from the directness of the answer.
+[RESULT]: 4

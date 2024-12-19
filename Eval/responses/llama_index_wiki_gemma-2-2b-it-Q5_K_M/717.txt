@@ -1,0 +1,7 @@
+[PROMPT]: Did Romania declare neutrality during World War I?
+[USER_ANSWER]: 
+The provided text does not contain information about Romania's declaration of neutrality during World War I. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about Romania's declaration of neutrality during World War I. Instead, it states that the provided text does not contain the information, which is not relevant to the question asked. The reference answer is a simple "yes," indicating that Romania did declare neutrality. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

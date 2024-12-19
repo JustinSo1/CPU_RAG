@@ -1,0 +1,7 @@
+[PROMPT]: What is a hybrid animal resulting from a union between a leopard and a puma?
+[USER_ANSWER]: 
+This document does not contain information about hybrid animals resulting from the union of a leopard and a puma. 
+
+[CORRECT_ANSWER]: a pumapard
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct answer to the question, which is "a pumapard." Instead, it states that the document does not contain information about hybrid animals resulting from the union of a leopard and a puma, which is irrelevant to the question asked.
+[RESULT]: 1

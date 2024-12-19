@@ -1,0 +1,7 @@
+[PROMPT]: Of what state was Coolidge governor?
+[USER_ANSWER]: 
+The provided text does not contain information about who Coolidge was or what state he was governor of. 
+
+[CORRECT_ANSWER]: MassachuS08_setts
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain information about who Coolidge was or what state he was governor of, which is not an accurate or factual answer to the question asked. The correct answer is Massachusetts, and the response fails to mention this. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

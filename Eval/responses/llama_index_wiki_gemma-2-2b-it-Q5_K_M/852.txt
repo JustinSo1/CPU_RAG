@@ -1,0 +1,12 @@
+[PROMPT]: What happened in recent years?
+[USER_ANSWER]: 
+* **New drugs are emerging and being tested:** monoclonal antibodies, histone deacetylase (romidespsin), MLN9708 (ixazomib) a new oral proteasome inhibitor, carfilzomib, signal transduction modulator perifosine.
+* **The annual rate of positive tests decreased progressively over the study period:** from 174/100 000 (95% CI 171-178) in 1997 to 67/100 000 (95% CI 65-69) in 2012.
+* **There is a change in the dominant genotype from G1P[8] to G2P[4] after vaccine introduction.** 
+* **The number and age of vaccinated birth cohorts are increasing.** 
+
+
+
+[CORRECT_ANSWER]: his reputation as president has improved
+[FEEDBACK]: The response does not address the question about what happened in recent years in a manner that aligns with the reference answer. The reference answer focuses on the improvement of a president's reputation, while the response discusses various unrelated topics such as new drugs, test rates, genotype changes, and vaccination cohorts. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

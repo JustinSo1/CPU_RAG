@@ -1,0 +1,11 @@
+[PROMPT]: Are elephants the largest land animals alive today?
+[USER_ANSWER]: 
+Based on the provided context, the answer is **yes**. 
+
+The text states: "Contrary to most phylogenomic studies, our study supports a first-diverging placental mammal lineage that includes elephants and tenrecs (Afrotheria)." 
+
+This implies that elephants are a part of the largest land animal lineage. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is somewhat correct in stating that elephants are the largest land animals alive today. However, the explanation provided is not directly relevant to the question. The reference to the phylogenomic study and the lineage of elephants and tenrecs does not directly support the claim that elephants are the largest land animals. The response should have simply stated "yes" without the additional, unrelated context. Therefore, the response is not completely accurate and factual based on the reference answer.
+[RESULT]: 3

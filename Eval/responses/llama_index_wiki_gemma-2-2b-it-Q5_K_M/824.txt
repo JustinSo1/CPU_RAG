@@ -1,0 +1,7 @@
+[PROMPT]: The eggs of the largest species are what?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: spherical
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct answer "spherical" and instead states that the text does not contain the answer, which is not true based on the reference answer.
+[RESULT]: 1

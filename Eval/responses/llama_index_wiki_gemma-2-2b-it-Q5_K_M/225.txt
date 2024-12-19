@@ -1,0 +1,7 @@
+[PROMPT]: What body of water lies to the south of Finland?
+[USER_ANSWER]: 
+The provided text does not mention what body of water lies to the south of Finland. 
+
+[CORRECT_ANSWER]: the Gulf of Finland
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the provided text does not mention the body of water, which is not relevant to the instruction. The response is completely incorrect and does not address the question asked.
+[RESULT]: 1

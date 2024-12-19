@@ -1,0 +1,7 @@
+[PROMPT]: How many people use the bus network daily?
+[USER_ANSWER]: 
+The provided text does not contain information about the number of people who use the bus network daily. 
+
+[CORRECT_ANSWER]: More than 2.78 million people.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that more than 2.78 million people use the bus network daily, while the response claims that the provided text does not contain this information. This shows a lack of factual accuracy and correctness.
+[RESULT]: 1

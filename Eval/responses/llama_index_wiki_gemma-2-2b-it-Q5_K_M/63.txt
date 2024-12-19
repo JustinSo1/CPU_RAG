@@ -1,0 +1,15 @@
+[PROMPT]: How can beetle larvae be differentiated from other insect larvae?
+[USER_ANSWER]: 
+The provided text does not contain information on how to differentiate beetle larvae from other insect larvae. It focuses on:
+*  The larval morphology of different insect species, including I. ariadnae, I. vespertilionis, and I. simplex.
+*  The role of the dMP1 gene in Drosophila wing development.
+*  The expression of the Zelda gene in different insect species and its relation to metamorphosis.
+*  The phylogenetic analysis of DWV sequences in insects and mites.
+*  The characterization of a new Drosophila gene, yellow-B. 
+
+
+To learn about beetle larvae differentiation, you would need to consult resources specifically focused on insect taxonomy and morphology. 
+
+[CORRECT_ANSWER]: their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body
+[FEEDBACK]: The response does not address the question of how to differentiate beetle larvae from other insect larvae. Instead, it discusses unrelated topics such as larval morphology of different insect species, gene roles in Drosophila, and phylogenetic analysis. The response fails to provide any correct, accurate, or factual information relevant to the differentiation of beetle larvae, which is the focus of the question.
+[RESULT]: 1

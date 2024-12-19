@@ -1,0 +1,7 @@
+[PROMPT]: Are turtles being examined for longevity genes?
+[USER_ANSWER]: 
+Yes. The text states that "We present the first genomic-scale analysis addressing the phylogenetic position of turtles, using over 1000 loci from representatives of all major reptile lineages including tuatara. Previously, studies of morphological traits positioned turtles either at the base of the reptile tree or with lizards, snakes and tuatara (lepidosaurs), whereas molecular analyses typically allied turtles with crocodiles and birds (archosaurs). A recent analysis of shared microRNA families found that turtles are more closely related to lepidosaurs. To test this hypothesis with data from many single-copy nuclear loci dispersed throughout the genome, we used sequence capture, high-throughput sequencing and published genomes to obtain sequences from 1145 ultraconserved elements (UCEs) and their variable flanking DNA." 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is not directly addressing the question about whether turtles are being examined for longevity genes. Instead, it provides detailed information about the phylogenetic analysis of turtles, which is not relevant to the question. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

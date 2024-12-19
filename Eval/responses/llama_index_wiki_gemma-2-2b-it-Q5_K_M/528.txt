@@ -1,0 +1,7 @@
+[PROMPT]: When was Liechtenstein's current constitution adopted?
+[USER_ANSWER]: 
+The provided text does not contain information about Liechtenstein's current constitution or its adoption date. 
+
+[CORRECT_ANSWER]: October 1921.
+[FEEDBACK]: The response does not provide the correct information about the adoption date of Liechtenstein's current constitution. It states that the provided text does not contain the information, which is not relevant to the instruction. The correct answer is "October 1921." Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

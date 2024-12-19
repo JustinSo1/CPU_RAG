@@ -1,0 +1,8 @@
+[PROMPT]: How do sea otters insulate themselves?
+[USER_ANSWER]: 
+The provided text does not contain information about how sea otters insulate themselves. 
+It focuses on the thermogenesis mechanisms in mammals, including brown adipose tissue (BAT), skeletal muscle, and the role of UCP1 and SLN in temperature regulation. 
+
+[CORRECT_ANSWER]: a layer of air trapped in their fur(!)
+[FEEDBACK]: The response does not address the question of how sea otters insulate themselves. Instead, it discusses thermogenesis mechanisms in mammals, which is not relevant to the specific insulation method of sea otters. Therefore, the response is completely incorrect and does not provide any factual information related to the reference answer.
+[RESULT]: 1

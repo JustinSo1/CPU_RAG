@@ -1,0 +1,8 @@
+[PROMPT]: Did Webster write, "I can now sleep of nights"?
+[USER_ANSWER]: 
+No. 
+Explanation: The provided text does not mention Webster. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Webster did write "I can now sleep of nights," while the response incorrectly states "No" and provides an inaccurate explanation.
+[RESULT]: 1

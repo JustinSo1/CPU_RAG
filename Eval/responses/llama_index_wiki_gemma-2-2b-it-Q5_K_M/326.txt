@@ -1,0 +1,7 @@
+[PROMPT]: How many children did Grover Cleveland have?
+[USER_ANSWER]: 
+The provided text does not contain information about Grover Cleveland's children. 
+
+[CORRECT_ANSWER]: 5
+[FEEDBACK]: The response does not provide the correct answer to the question about the number of children Grover Cleveland had. Instead, it states that the provided text does not contain information about his children, which is not relevant to the question asked. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

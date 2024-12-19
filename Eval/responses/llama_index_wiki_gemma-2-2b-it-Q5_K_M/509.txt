@@ -1,0 +1,7 @@
+[PROMPT]: Were the Leopard men a West African secret society who practised cannibalism ?
+[USER_ANSWER]: 
+The provided text does not mention anything about Leopard men or a West African secret society. Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question directly and instead mentions the absence of information in the provided text. The reference answer is a simple "Yes," indicating that the correct response should affirm the existence of the Leopard men as a West African secret society who practised cannibalism. The evaluated response fails to provide this affirmation and is therefore not accurate or factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: What suborder of turtle draws its head into its shell?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Pleurodira
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct suborder of turtle that draws its head into its shell, which is "Pleurodira." Instead, it states that the provided text does not contain the answer, which is not relevant to the question asked.
+[RESULT]: 1

@@ -1,0 +1,9 @@
+[PROMPT]: Are penguins at risk?
+[USER_ANSWER]: 
+No, the provided text does not mention penguins. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks whether penguins are at risk, and the correct answer is "Yes." The response provided does not address the question and instead mentions the absence of a provided text, which is irrelevant to the instruction.
+[RESULT]: 1

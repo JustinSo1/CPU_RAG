@@ -1,0 +1,7 @@
+[PROMPT]: When did the first verifiable written documents appear?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Twelfth Century
+[FEEDBACK]: The response does not provide any information about when the first verifiable written documents appeared. It states that the provided text does not contain the answer, which is not relevant to the question asked. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

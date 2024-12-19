@@ -1,0 +1,9 @@
+[PROMPT]: When was the first factory opened?
+[USER_ANSWER]: 
+---------------------
+Please provide the context information. 
+--------------------- 
+
+[CORRECT_ANSWER]: 1836
+[FEEDBACK]: The response does not provide an answer to the question "When was the first factory opened?" Instead, it asks for context information, which is not relevant to the task of providing a factual answer. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
+[RESULT]: 1

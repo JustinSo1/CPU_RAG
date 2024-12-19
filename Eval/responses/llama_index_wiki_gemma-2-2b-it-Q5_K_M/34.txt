@@ -1,0 +1,7 @@
+[PROMPT]: Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+[USER_ANSWER]: 
+The provided text does not contain information about Amedeo Avogadro's birth or family background. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks for confirmation about Amedeo Avogadro's birth details, and the correct answer is simply "yes." The response provided does not address the question and instead states that the text does not contain the information, which is not relevant to the instruction.
+[RESULT]: 1

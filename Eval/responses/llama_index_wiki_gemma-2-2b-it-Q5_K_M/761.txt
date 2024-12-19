@@ -1,0 +1,11 @@
+[PROMPT]: What is the punishment for first-degree murder?
+[USER_ANSWER]: 
+---------------------
+The provided context does not contain the answer to the query. 
+---------------------
+
+
+
+[CORRECT_ANSWER]: There are laws which allow capital punishment in Singapore for first-degree murder and drug trafficking.
+[FEEDBACK]: The response does not address the question about the punishment for first-degree murder. Instead, it states that the provided context does not contain the answer, which is not relevant to the instruction. The response is completely incorrect and does not provide any factual information related to the punishment for first-degree murder.
+[RESULT]: 1

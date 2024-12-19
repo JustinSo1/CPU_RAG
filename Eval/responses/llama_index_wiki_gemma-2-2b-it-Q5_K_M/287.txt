@@ -1,0 +1,7 @@
+[PROMPT]: What does the word Ghana mean?
+[USER_ANSWER]: 
+The provided text does not give a definition of the word "Ghana." 
+
+[CORRECT_ANSWER]: warrior king
+[FEEDBACK]: The response does not provide the correct definition of the word "Ghana." Instead, it states that the provided text does not give a definition, which is not relevant to the instruction. The correct definition, "warrior king," is not mentioned at all. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

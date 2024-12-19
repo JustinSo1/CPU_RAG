@@ -1,0 +1,7 @@
+[PROMPT]: Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?
+[USER_ANSWER]: 
+The provided context information does not contain any details about a heliport at Balzers in Liechtenstein. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question about the existence of a heliport at Balzers in Liechtenstein. Instead, it states that the provided context does not contain any details about it, which is not the same as confirming or denying the existence of the heliport. Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

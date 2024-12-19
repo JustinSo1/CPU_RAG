@@ -1,0 +1,7 @@
+[PROMPT]: Are penguins astonishingly agile?
+[USER_ANSWER]: 
+The provided text does not contain information about the agility of penguins. 
+
+[CORRECT_ANSWER]: In the water they are.
+[FEEDBACK]: The response is not correct or accurate based on the reference answer. The reference answer indicates that penguins are agile in the water, while the response incorrectly states that the provided text does not contain information about the agility of penguins. This shows a lack of understanding of the question and the factual information about penguins' agility.
+[RESULT]: 1

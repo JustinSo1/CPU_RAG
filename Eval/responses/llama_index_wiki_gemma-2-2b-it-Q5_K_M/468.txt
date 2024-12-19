@@ -1,0 +1,9 @@
+[PROMPT]: What is used to protect a vehicale from a Kangaroo?
+[USER_ANSWER]: 
+The provided text does not contain information about vehicles being protected from kangaroos. 
+
+
+
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response does not provide any information about what is used to protect a vehicle from a kangaroo. It states that the provided text does not contain this information, which is not relevant to the question asked. The correct answer, "roo bars," is not mentioned at all. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
+[RESULT]: 1

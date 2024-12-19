@@ -1,0 +1,7 @@
+[PROMPT]: What universities are in Education City?
+[USER_ANSWER]: 
+The provided context information does not list any universities in Education City. 
+
+[CORRECT_ANSWER]: Carnegie Mellon University, Georgetown University School of Foreign Service, Texas A&M University, Virginia Commonwealth University, and Cornell University's Weill Medical College.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer lists specific universities in Education City, while the response incorrectly states that no universities are listed. This shows a lack of factual accuracy and correctness.
+[RESULT]: 1

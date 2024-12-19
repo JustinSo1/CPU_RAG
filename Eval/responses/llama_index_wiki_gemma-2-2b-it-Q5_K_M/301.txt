@@ -1,0 +1,7 @@
+[PROMPT]: Is the Gray Wolf a mammal?
+[USER_ANSWER]: 
+Yes, the context information states that "The three natural host species for CWD, mule deer (Odocoileus hemionus), white-tailed deer (O. virginianus), and Rocky Mountain elk (Cervus elaphus nelsoni), are all in the family Cervidae and native to North America."  This implies that Gray Wolves are also mammals. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is somewhat correct in stating that the Gray Wolf is a mammal. However, the explanation provided is inaccurate and irrelevant to the question. The context information about CWD and the family Cervidae does not relate to Gray Wolves, which are in the family Canidae. Therefore, the response is not fully accurate or factual based on the reference answer.
+[RESULT]: 3

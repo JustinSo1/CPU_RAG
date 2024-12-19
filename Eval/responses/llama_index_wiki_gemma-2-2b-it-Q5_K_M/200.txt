@@ -1,0 +1,7 @@
+[PROMPT]: What did Aristotle say about elephants?
+[USER_ANSWER]: 
+The provided text does not contain any information about what Aristotle said about elephants. 
+
+[CORRECT_ANSWER]: the beast which pasS08_seth all others in wit and mind
+[FEEDBACK]: The response does not provide any information about what Aristotle said about elephants. It states that the provided text does not contain this information, which is not relevant to the instruction. The response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

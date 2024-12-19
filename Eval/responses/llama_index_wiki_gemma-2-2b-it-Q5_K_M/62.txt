@@ -1,0 +1,9 @@
+[PROMPT]: Which type of beetle is a pest of potato plants?
+[USER_ANSWER]: 
+The provided text does not explicitly state which type of beetle is a pest of potato plants. 
+However, it does mention that beetles can cause vesicular dermatitis via cantharidin or paederin. 
+It also mentions that RNA-Seq analysis and quantitative real-time PCR experiments revealed that StKPNβ genes are ubiquitously expressed in all tissues analyzed, and silencing of StKPNβ3a, a SA- and H2O2-inducible KPNβ genes led to increased susceptibility to environmental challenges, implying its crucial roles in plant adaptation to abiotic stresses. 
+
+[CORRECT_ANSWER]: Colorado potato beetle
+[FEEDBACK]: The response does not address the question directly and fails to identify the specific type of beetle that is a pest of potato plants. Instead, it provides unrelated information about beetles causing vesicular dermatitis and RNA-Seq analysis related to plant adaptation to abiotic stresses. This information is not relevant to the question asked and does not provide the correct answer, which is the Colorado potato beetle. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

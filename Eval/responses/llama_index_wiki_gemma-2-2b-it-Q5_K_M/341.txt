@@ -1,0 +1,7 @@
+[PROMPT]: Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?
+[USER_ANSWER]: 
+The provided context information does not contain any information about Marie Curie's family or her birthplace. Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question about Becquerel's birthplace or his family's scientific legacy. Instead, it incorrectly mentions Marie Curie and her family, which is irrelevant to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

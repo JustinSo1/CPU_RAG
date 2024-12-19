@@ -1,0 +1,9 @@
+[PROMPT]: Are there cathedrals scattered all across Finland?
+[USER_ANSWER]: 
+Based on the provided text, we cannot determine if there are cathedrals scattered all across Finland. The text focuses on the genetics of cystic fibrosis in Finland. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer simply states "Yes," indicating that there are cathedrals scattered all across Finland. The evaluated response, however, mentions an unrelated topic about the genetics of cystic fibrosis in Finland, which does not address the question about cathedrals at all. Therefore, the response is completely incorrect and not factual in relation to the question asked.
+[RESULT]: 1

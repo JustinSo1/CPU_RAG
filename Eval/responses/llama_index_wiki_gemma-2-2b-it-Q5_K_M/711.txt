@@ -1,0 +1,7 @@
+[PROMPT]: What is the highest mountain in Romania?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your question. 
+
+[CORRECT_ANSWER]: Moldoveanu Peak.
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain the answer, which is not relevant to the question asked. The response is completely incorrect and does not address the factual information required.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Are elephants good swimmers?
+[USER_ANSWER]: 
+The provided text does not contain information about whether elephants are good swimmers. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and does not provide any information about whether elephants are good swimmers. It is completely incorrect and inaccurate based on the reference answer, which simply states "yes."
+[RESULT]: 1

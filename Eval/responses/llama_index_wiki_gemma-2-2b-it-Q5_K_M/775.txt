@@ -1,0 +1,8 @@
+[PROMPT]: Does Theodore Roosevelt have a brother?
+[USER_ANSWER]: 
+The provided text does not contain information about Theodore Roosevelt or his family. 
+Therefore, we cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question directly and instead mentions the lack of information in the provided text. The reference answer is a simple "Yes," indicating that Theodore Roosevelt does have a brother. The response fails to provide this factual information and is therefore completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

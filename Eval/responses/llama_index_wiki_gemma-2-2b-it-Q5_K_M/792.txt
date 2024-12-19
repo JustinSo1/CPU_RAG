@@ -1,0 +1,7 @@
+[PROMPT]: Are turtles ectothermic?
+[USER_ANSWER]: 
+The provided text discusses the phylogenetic position of turtles and their genome structure, but it does not explicitly state whether turtles are ectothermic or not. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question of whether turtles are ectothermic. Instead, it discusses unrelated information about the phylogenetic position and genome structure of turtles. This makes the response inaccurate and not factual in the context of the question asked. The correct answer is a simple "Yes," indicating that turtles are ectothermic. Therefore, the response fails to meet the criteria for correctness and accuracy.
+[RESULT]: 1

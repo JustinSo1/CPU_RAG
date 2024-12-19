@@ -1,0 +1,11 @@
+[PROMPT]: Is the leopard one of the four 'big cats'?
+[USER_ANSWER]: 
+Based on the provided context, the answer is **no**. 
+
+The context mentions "Bengal tiger (Panthera tigris)" and "elephants and tenrecs (Afrotheria)".  It does not mention leopards. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether the leopard is one of the four 'big cats,' and the correct answer is "yes." The response incorrectly states "no" and provides irrelevant context about Bengal tigers, elephants, and tenrecs, which does not address the question. Therefore, the response fails to provide the correct, accurate, and factual information required.
+[RESULT]: 1

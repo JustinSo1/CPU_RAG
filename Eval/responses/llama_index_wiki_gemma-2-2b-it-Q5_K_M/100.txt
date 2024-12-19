@@ -1,0 +1,7 @@
+[PROMPT]: Where did Coolidge's grandfather had government offices?
+[USER_ANSWER]: 
+The provided text does not mention anything about Coolidge's grandfather or his government offices. 
+
+[CORRECT_ANSWER]: Plymouth
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information requested. The reference answer clearly states "Plymouth," but the response fails to mention this and instead states that the text does not mention anything about Coolidge's grandfather or his government offices, which is inaccurate.
+[RESULT]: 1

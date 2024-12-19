@@ -1,0 +1,16 @@
+[PROMPT]: Are beetles endopterygotes?
+[USER_ANSWER]: 
+Based on the provided text, the answer is **yes**. 
+
+Here's why:
+
+* **"Species-level phylogenetic studies require fast-evolving nucleotide positions to resolve relationships among close relatives, but these sites may be highly homoplastic and perhaps uninformative or even misleading deeper in the tree."** This sentence indicates that the text is discussing phylogenetic studies, which are used to determine evolutionary relationships.
+* **"Here we describe a species-level analysis of tiger beetles in the genus Cicindela (Coleoptera: Cicindelidae) for 132 terminal taxa and 1897 nucleotide positions from three regions of mtDNA, comprising 75% coverage of species occurring in North America."** This sentence describes a study of tiger beetles, which are beetles.
+* **"Evenly weighted parsimony analysis recovered four major clades representing radiations confined to North and Central America."** This sentence indicates that the study was able to determine the evolutionary relationships between different beetle species.
+
+
+Therefore, based on the provided text, we can conclude that beetles are endopterygotes. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is correct in stating that beetles are endopterygotes. However, the additional explanation provided is not directly relevant to the question and does not clearly support the conclusion. The reference answer is concise and directly answers the question without unnecessary elaboration. The response could be improved by being more direct and concise, similar to the reference answer.
+[RESULT]: 4

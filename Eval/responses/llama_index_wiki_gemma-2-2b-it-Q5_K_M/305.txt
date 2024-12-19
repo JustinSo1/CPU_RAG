@@ -1,0 +1,7 @@
+[PROMPT]: To what genus does the gray wolf belong?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Canis
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct genus of the gray wolf, which is "Canis." Instead, it incorrectly states that the provided text does not contain the answer, which is irrelevant to the question asked.
+[RESULT]: 1

@@ -1,0 +1,9 @@
+[PROMPT]: What is a country with which Finland is involved in an international conflict?
+[USER_ANSWER]: 
+The provided text does not contain information about any international conflicts involving Finland. 
+
+
+
+[CORRECT_ANSWER]: Finland is not involved in international conflicts or border disputes. 
+[FEEDBACK]: The response is somewhat correct in that it implies Finland is not involved in any international conflicts, but it does not explicitly state this fact. The reference answer clearly states that Finland is not involved in international conflicts or border disputes, which is more precise and direct. The evaluated response lacks this clarity and completeness.
+[RESULT]: 3

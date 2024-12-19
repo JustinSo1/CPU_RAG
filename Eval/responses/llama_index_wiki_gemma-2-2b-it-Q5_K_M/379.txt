@@ -1,0 +1,9 @@
+[PROMPT]: Did Monroe' wedding happen at the Trinity Church in New York?
+[USER_ANSWER]: 
+The provided text does not contain any information about a wedding, nor does it mention Monroe. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question about Monroe's wedding at the Trinity Church in New York. Instead, it states that the provided text does not contain any information about a wedding or Monroe, which is not addressing the question directly. The reference answer is a simple "Yes," indicating that the correct response should be straightforward and affirmative. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 1

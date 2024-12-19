@@ -1,0 +1,11 @@
+[PROMPT]: What kind of ducks feed on land?
+[USER_ANSWER]: 
+The provided text states that "dabbling ducks" are the natural reservoir of influenza virus. 
+It also mentions that "dabbling ducks" are the most important for harboring ticks. 
+Therefore, the answer is **dabbling ducks**. 
+
+
+
+[CORRECT_ANSWER]: Dabbling ducks
+[FEEDBACK]: The response correctly identifies "dabbling ducks" as the type of ducks that feed on land, which aligns with the reference answer. However, the additional information about influenza virus and ticks is irrelevant to the question and does not contribute to the accuracy of the response. The core answer is correct, but the extraneous details could potentially confuse the reader.
+[RESULT]: 4

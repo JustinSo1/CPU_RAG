@@ -1,0 +1,8 @@
+[PROMPT]: Have penguins an average sense of hearing for birds ?
+[USER_ANSWER]: 
+The provided text does not contain information about penguins or their sense of hearing. 
+Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question about penguins' sense of hearing. Instead, it mentions the lack of information in the provided text, which is not relevant to the question. The reference answer is a simple "Yes," indicating that penguins do have an average sense of hearing for birds. The evaluated response fails to provide this information and is therefore completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

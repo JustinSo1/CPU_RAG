@@ -1,0 +1,16 @@
+[PROMPT]: For how long was Ford a member of the House of Representatives?
+[USER_ANSWER]: 
+---------------------
+Ford was never a member of the House of Representatives. 
+---------------------
+
+
+**Explanation:**
+
+The provided context states that government work and is in the public domain in the USA. This information is about government work in general, not about specific individuals like Henry Ford. 
+
+Therefore, we cannot answer the query based on the given context. 
+
+[CORRECT_ANSWER]: Over eight years.
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that Ford was never a member of the House of Representatives, which is factually wrong. The reference answer indicates that Ford was a member for over eight years. The response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

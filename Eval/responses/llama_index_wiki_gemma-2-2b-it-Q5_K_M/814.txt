@@ -1,0 +1,7 @@
+[PROMPT]: What do turtle eggs preared to eat consist mainly of?
+[USER_ANSWER]: 
+The provided text does not contain information about what turtle eggs are prepared to eat. 
+
+[CORRECT_ANSWER]: Yolk
+[FEEDBACK]: The response does not address the question asked. Instead of providing information about what turtle eggs prepared to eat consist mainly of, the response states that the provided text does not contain this information. This makes the response completely incorrect and not factual based on the reference answer, which is "yolk."
+[RESULT]: 1

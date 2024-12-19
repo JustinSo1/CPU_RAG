@@ -1,0 +1,7 @@
+[PROMPT]: What is Jakarta?
+[USER_ANSWER]: 
+The provided text does not contain information about Jakarta. 
+
+[CORRECT_ANSWER]: Indonesia's special capital region
+[FEEDBACK]: The response does not provide any information about Jakarta, which makes it completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Jakarta is Indonesia's special capital region, while the response fails to address this at all.
+[RESULT]: 1

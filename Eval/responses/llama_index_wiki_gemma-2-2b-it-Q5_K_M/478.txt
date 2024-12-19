@@ -1,0 +1,7 @@
+[PROMPT]: Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?
+[USER_ANSWER]: 
+The provided text does not contain any information about the game of Marn grook or the Kurnai people. Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and fails to provide the correct information. The reference answer is a simple "yes," indicating that the game of Marn grook was indeed played using a ball made from kangaroo by the Kurnai people. The evaluated response, however, states that there is no information available to answer the query, which is inaccurate and incorrect based on the reference answer.
+[RESULT]: 1

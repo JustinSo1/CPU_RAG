@@ -1,0 +1,8 @@
+[PROMPT]: Are penguins birds?
+[USER_ANSWER]: 
+Based on the provided text, penguins are considered birds. 
+The text states that "Neoaves" is the clade comprising the vast majority of avian diversity, and penguins are a part of this clade. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that penguins are birds and provides additional information about their classification within the clade Neoaves. However, the reference answer is a simple "yes," which is completely correct and factual. The additional information in the response, while accurate, is not necessary to answer the question directly. Therefore, the response is mostly correct but not as concise as the reference answer.
+[RESULT]: 4

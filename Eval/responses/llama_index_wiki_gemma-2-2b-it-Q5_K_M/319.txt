@@ -1,0 +1,7 @@
+[PROMPT]: Was Grover Cleveland the twenty-seventh president of the United States?
+[USER_ANSWER]: 
+No. Grover Cleveland was the **22nd** president of the United States. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response correctly identifies that Grover Cleveland was not the twenty-seventh president of the United States, which aligns with the reference answer. However, it includes additional information stating that he was the 22nd president, which is accurate but not necessary based on the reference answer. The additional detail does not detract from the correctness of the response but is not required for a perfect score based on the rubric.
+[RESULT]: 4

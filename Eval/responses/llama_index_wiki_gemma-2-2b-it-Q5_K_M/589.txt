@@ -1,0 +1,7 @@
+[PROMPT]: What is one of the challenges of re-establishing a population of Eurasian otters in the UK?
+[USER_ANSWER]: 
+The provided text does not contain information about re-establishing Eurasian otter populations in the UK. Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: roadkill deaths
+[FEEDBACK]: The response does not address the question about the challenges of re-establishing a population of Eurasian otters in the UK. Instead, it states that the provided text does not contain the necessary information, which is not relevant to the question. The response is completely incorrect and does not provide any factual information related to the reference answer, which is "roadkill deaths."
+[RESULT]: 1

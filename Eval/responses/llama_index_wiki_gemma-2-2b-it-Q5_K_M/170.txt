@@ -1,0 +1,18 @@
+[PROMPT]: What are some economic uses for duck?
+[USER_ANSWER]: 
+The provided text does not contain information about the economic uses of ducks. 
+It focuses on the following topics:
+* CWD eradication in cervids
+* Precision genetics and its applications
+* Oseltamivir presence in aquatic environment
+* Role of hedgehog signaling in bird migration
+* TALENs for livestock genome modification
+* Collagen market and its applications
+* FFPE tissue analysis for biomarker detection
+* Cost-effectiveness of monitoring strategies 
+
+
+
+[CORRECT_ANSWER]: Meat,eggs,feathers
+[FEEDBACK]: The response does not address the instruction at all. Instead of providing information about the economic uses of ducks, it lists unrelated topics such as CWD eradication in cervids, precision genetics, and others. This makes the response completely incorrect and irrelevant to the question asked.
+[RESULT]: 1

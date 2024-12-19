@@ -1,0 +1,10 @@
+[PROMPT]: Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?
+[USER_ANSWER]: 
+The provided text focuses on the role of the AVT (Arginine Vasotocin) system in social behavior, particularly in marmoset monkeys. It does not discuss wolf mating behavior or the benefits of preventing other wolves from mating. 
+
+
+Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: A pack can only suppport one littler per year
+[FEEDBACK]: The response does not address the question about the benefits of alpha males and females preventing other wolves from mating. Instead, it discusses the AVT system in marmoset monkeys, which is irrelevant to the topic. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

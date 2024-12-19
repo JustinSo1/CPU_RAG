@@ -1,0 +1,22 @@
+[PROMPT]: Are Cubs born in December without awakening the mother ?
+[USER_ANSWER]: 
+Based on the provided context, we cannot determine if Cubs are born in December without awakening the mother. 
+
+
+**Explanation:**
+
+The provided text focuses on:
+
+* **Genetic counseling and diagnosis of OCA1:**  The study discusses the use of direct sequencing of the TYR gene for genetic testing.
+* **Aneurysmal subarachnoid hemorrhage (SAH) and the lunar cycle:** The study investigates the relationship between the lunar cycle and the incidence of SAH.
+* **Chimerism in cats:** The study describes a case of a 38,XY/38,XY chimera in a cat.
+* **Maternal smoking and infant health:** The study analyzes the association between maternal smoking and infant health.
+* **Zika virus and congenital microcephaly:** The study investigates the link between Zika virus infection and congenital microcephaly.
+* **Infant health and gestational age:** The study examines the impact of gestational age on infant health.
+
+
+The provided information does not mention anything about Cubs, their birth dates, or whether they are born in December. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The instruction asks whether Cubs are born in December without awakening the mother, and the reference answer is a simple "yes." The response, however, goes into an unrelated explanation about various studies that do not pertain to the question. The response does not address the question directly and provides irrelevant information.
+[RESULT]: 1

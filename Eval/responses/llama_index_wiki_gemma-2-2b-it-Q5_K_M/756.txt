@@ -1,0 +1,7 @@
+[PROMPT]: Where is the National Orchid Garden?
+[USER_ANSWER]: 
+The provided text does not contain information about the National Orchid Garden. 
+
+[CORRECT_ANSWER]: Singapore Botanic Gardens.
+[FEEDBACK]: The response does not provide the correct location of the National Orchid Garden. Instead, it states that the provided text does not contain the information, which is not an answer to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

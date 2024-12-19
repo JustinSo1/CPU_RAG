@@ -1,0 +1,8 @@
+[PROMPT]: Four years after opening his shop , Watt began what?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+---------------------
+
+[CORRECT_ANSWER]: Watt began to experiment with steam after his friend, Professor John Robison, called his attention to it.
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information related to the question. It states that the provided text does not contain the answer, which is not accurate based on the reference answer. The reference answer clearly states that Watt began to experiment with steam after his friend, Professor John Robison, called his attention to it. The response fails to address this information at all.
+[RESULT]: 1

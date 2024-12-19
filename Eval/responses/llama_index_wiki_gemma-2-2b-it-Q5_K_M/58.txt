@@ -1,0 +1,15 @@
+[PROMPT]: Can beetles be found in polar regions?
+[USER_ANSWER]: 
+Based on the provided text, we cannot definitively say whether beetles can be found in polar regions. 
+
+Here's why:
+
+* **The text focuses on the distribution of the tiger beetle genus *Cicindela* in North America.**  It does not provide information about the presence of beetles in polar regions.
+* **The text mentions that soil springtails have adaptations to survive in cold environments.** This is relevant to the topic of cold tolerance in insects, but not to the broader question of beetle distribution in polar regions. 
+
+
+To answer your question about beetles in polar regions, you would need to research information about beetle species and their distribution in arctic and polar regions. 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response does not directly answer the question of whether beetles can be found in polar regions. Instead, it discusses the limitations of the provided text and suggests further research. While the response is accurate in its analysis of the text, it does not provide a definitive answer to the question, which is required for a higher score based on the rubric. The reference answer is a simple "No," indicating that a direct and factual response was expected. Therefore, the response is somewhat correct and accurate but does not fully meet the criteria for a higher score.
+[RESULT]: 3

@@ -1,0 +1,7 @@
+[PROMPT]: How many municipalities is Liechtenstein divided into?
+[USER_ANSWER]: 
+The provided context information does not contain the answer to how many municipalities Liechtenstein is divided into. 
+
+[CORRECT_ANSWER]: 11
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it mentions the lack of context information, which is not relevant to the task of providing the number of municipalities in Liechtenstein. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: What did Coolidge do after graduating from Amherst?
+[USER_ANSWER]: 
+The provided text does not contain information about Coolidge. 
+
+[CORRECT_ANSWER]: Coolidge moved to Northampton, MassachuS08_setts
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide any information about what Coolidge did after graduating from Amherst, which is the main focus of the question. The reference answer clearly states that Coolidge moved to Northampton, Massachusetts, which is not mentioned in the response.
+[RESULT]: 1

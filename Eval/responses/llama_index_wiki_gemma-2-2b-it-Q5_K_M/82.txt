@@ -1,0 +1,16 @@
+[PROMPT]: Have coleopterists formed organisations to facilitate the study of beetles ?
+[USER_ANSWER]: 
+Based on the provided text, the answer is **Yes**. 
+
+Here's why:
+
+* **"Cicindela" study:** The text mentions a species-level phylogenetic study of tiger beetles in the genus *Cicindela*. This implies that coleopterists are actively studying and researching beetles.
+* **"Coleopterists"**: The text refers to "coleopterists" as researchers studying beetles. 
+* **"Transnational investigation":** The text mentions "Anglo-American anthrax investigators" and their work on anthrax. This suggests a collaborative effort among coleopterists.
+
+
+Therefore, based on the provided context, it can be inferred that coleopterists have formed organizations to facilitate their research. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response correctly identifies that coleopterists have formed organizations to facilitate the study of beetles, which aligns with the reference answer. However, the explanation provided includes some irrelevant details, such as the mention of "Anglo-American anthrax investigators," which does not directly support the formation of organizations by coleopterists. While the response is mostly correct and factual, the inclusion of unrelated information slightly detracts from its accuracy.
+[RESULT]: 4

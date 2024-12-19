@@ -1,0 +1,11 @@
+[PROMPT]: Is Liechtenstein bordered by Switzerland?
+[USER_ANSWER]: 
+Based on the provided context information, the answer is **no**. 
+
+The context mentions locations in Switzerland, including Aarau, Basel, St. Gallen, and Zurich. It also mentions locations in other countries like Austria, Germany, Canada, and Saudi Arabia. However, there is no mention of Liechtenstein. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. Liechtenstein is indeed bordered by Switzerland, and the response incorrectly states that it is not. The context provided does not change the factual geographical information about Liechtenstein's borders. Therefore, the response fails to meet the criteria for correctness and accuracy based on the reference answer.
+[RESULT]: 1

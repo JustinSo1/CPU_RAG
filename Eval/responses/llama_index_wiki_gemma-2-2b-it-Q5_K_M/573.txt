@@ -1,0 +1,13 @@
+[PROMPT]: Is Fillmore the first of two presidents to have been an indentured servant ?
+[USER_ANSWER]: 
+**No** 
+**Explanation:** 
+The provided context information does not mention anything about Fillmore being an indentured servant. 
+
+
+**Note:** 
+Please provide the context information if you need to answer a different query. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that Fillmore was indeed the first of two presidents to have been an indentured servant, while the response incorrectly states that he was not. Additionally, the explanation provided does not align with the factual information given in the reference answer.
+[RESULT]: 1

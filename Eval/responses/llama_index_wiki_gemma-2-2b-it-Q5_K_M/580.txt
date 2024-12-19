@@ -1,0 +1,7 @@
+[PROMPT]: Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?
+[USER_ANSWER]: 
+No, the provided context information does not mention anything about live theatrical plays based on Tesla's life. It focuses on the authors' affiliations and research interests in fields like neuroscience, stem cell research, genetics, and bioengineering. 
+
+[CORRECT_ANSWER]: yes.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks about the existence of live theatrical plays based on Tesla's life, and the correct answer is simply "yes." The response provided does not address the question directly and instead discusses unrelated context information about authors' affiliations and research interests. This makes the response entirely irrelevant to the question asked.
+[RESULT]: 1

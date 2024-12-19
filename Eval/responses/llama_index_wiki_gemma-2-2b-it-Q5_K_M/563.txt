@@ -1,0 +1,9 @@
+[PROMPT]: Who did Millard Fillmore fall in love with?
+[USER_ANSWER]: 
+The provided text discusses cerebral cavernous malformations, a type of vascular malformation. It does not contain any information about Millard Fillmore or his personal life. 
+
+
+
+[CORRECT_ANSWER]: He fell in love with Abigail Powers
+[FEEDBACK]: The response is completely incorrect and does not address the question about Millard Fillmore's love life. Instead, it discusses an unrelated topic about cerebral cavernous malformations, which is not relevant to the instruction given. Therefore, the response is not factual or accurate in the context of the question asked.
+[RESULT]: 1

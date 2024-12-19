@@ -1,0 +1,8 @@
+[PROMPT]: Is it true that otters eat a variety of fish?
+[USER_ANSWER]: 
+The provided text does not contain information about otters or their diet. 
+Therefore, the answer is: **No, the text does not provide information about otters and their diet.** 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided does not directly answer the question about whether otters eat a variety of fish. Instead, it incorrectly assumes that the question is asking about the content of a specific text, which is not mentioned in the instruction. The reference answer is a simple "yes," indicating that otters do eat a variety of fish. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

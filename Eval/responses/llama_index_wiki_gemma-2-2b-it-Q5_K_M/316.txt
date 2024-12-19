@@ -1,0 +1,9 @@
+[PROMPT]: What did Cleveland's opponents say in 1884 to counter his innocent image?
+[USER_ANSWER]: 
+The provided text does not contain any information about Cleveland's opponents or their statements in 1884. 
+
+
+
+[CORRECT_ANSWER]: That he had fathered an illegitimate child
+[FEEDBACK]: The response does not address the question about what Cleveland's opponents said in 1884 to counter his innocent image. It states that the provided text does not contain any information about Cleveland's opponents or their statements, which is not relevant to the question. The response is completely incorrect and does not provide any factual information related to the reference answer.
+[RESULT]: 1

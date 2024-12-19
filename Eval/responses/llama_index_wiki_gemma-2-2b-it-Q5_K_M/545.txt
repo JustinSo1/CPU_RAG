@@ -1,0 +1,15 @@
+[PROMPT]: Is it a winter sports resort , although it is perhaps best known as a tax haven ?
+[USER_ANSWER]: 
+The provided text does not mention anything about winter sports resorts or tax havens. 
+It focuses on topics like:
+
+* **Medical research:** ARCTIC clinical trial, Cryopyrin-associated periodic syndromes, Visual snow syndrome, Belzutifan.
+* **Historical discovery:** The Iceman (Ötzi) and his preserved remains.
+* **Pharmaceutical industry:** Research funding, consulting, and travel support for various companies. 
+
+
+Therefore, based on the provided context, we cannot answer the query. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provided does not directly answer the question asked. Instead, it discusses unrelated topics such as medical research, historical discovery, and the pharmaceutical industry. The reference answer is a simple "Yes," indicating that the correct response should affirm that the place in question is known as a winter sports resort and a tax haven. The response fails to address this and is therefore completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

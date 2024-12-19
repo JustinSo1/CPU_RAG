@@ -1,0 +1,7 @@
+[PROMPT]: When did Coolidge meet and marry Grace Anna Goodhue?
+[USER_ANSWER]: 
+The provided text does not contain information about when Coolidge met and married Grace Anna Goodhue. 
+
+[CORRECT_ANSWER]: 1905
+[FEEDBACK]: The response does not provide the correct information about when Coolidge met and married Grace Anna Goodhue. It states that the provided text does not contain the information, which is not an answer to the question asked. The correct answer is "1905," and the response fails to provide this factual information. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

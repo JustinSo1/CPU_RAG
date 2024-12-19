@@ -1,0 +1,9 @@
+[PROMPT]: Can an elephant kill a rhinoceros?
+[USER_ANSWER]: 
+Based on the provided text, the answer is **no**. 
+
+The text focuses on the epidemiology of Chronic Wasting Disease (CWD) in deer, elk, and moose. It does not provide any information about the relationship between elephants and rhinoceroses. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer is "yes," indicating that an elephant can kill a rhinoceros, while the response states "no." Additionally, the response incorrectly references a text about Chronic Wasting Disease, which is irrelevant to the question about elephants and rhinoceroses. Therefore, the response does not align with the reference answer and fails to provide accurate information.
+[RESULT]: 1

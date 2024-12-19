@@ -1,0 +1,7 @@
+[PROMPT]: Where was Grover Cleveland married?
+[USER_ANSWER]: 
+The provided text does not contain information about Grover Cleveland's marriage. 
+
+[CORRECT_ANSWER]: In the White House
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that the provided text does not contain information about Grover Cleveland's marriage, which is not relevant to the question asked. The correct answer is "In the White House," and the response does not address this at all.
+[RESULT]: 1
