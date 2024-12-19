@@ -1,0 +1,5 @@
+[PROMPT]: When was the first factory opened?
+[USER_ANSWER]: The provided context does not contain information about the opening date of the first factory.
+[CORRECT_ANSWER]: 1836
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead of stating the year 1836, it mentions the lack of information in the provided context, which is not relevant to the task of answering the question directly. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

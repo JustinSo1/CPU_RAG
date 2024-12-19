@@ -1,0 +1,5 @@
+[PROMPT]: Has Indonesia the world 's largest Muslim population ?
+[USER_ANSWER]: Yes, Indonesia has the world's largest Muslim population.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a clear and precise answer to the question, confirming that Indonesia has the world's largest Muslim population. This aligns perfectly with the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What expression is part of a conceptual framework for testing computer systems?
+[USER_ANSWER]: A distributed information management infrastructure.
+[CORRECT_ANSWER]: Quacks like a duck
+[FEEDBACK]: The response "A distributed information management infrastructure" is completely incorrect and does not align with the reference answer "Quacks like a duck." The reference answer suggests a conceptual or idiomatic expression, while the response provided is a technical term unrelated to the context of the reference answer. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

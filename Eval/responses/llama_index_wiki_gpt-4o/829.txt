@@ -1,0 +1,5 @@
+[PROMPT]: Does the Order Testudines not include both extant -LRB- living -RRB- and extinct species , the earliest known turtles being from around 215 million years ago ?
+[USER_ANSWER]: Yes, the Order Testudines includes both extant (living) and extinct species.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that the Order Testudines includes both extant (living) and extinct species. However, the reference answer is much more concise and directly answers the question with a simple "yes." The additional information in the response, while accurate, is not necessary to meet the criteria of the reference answer.
+[RESULT]: 4

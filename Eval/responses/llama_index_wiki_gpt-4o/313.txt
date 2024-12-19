@@ -1,0 +1,5 @@
+[PROMPT]: Where was Grover Cleveland married?
+[USER_ANSWER]: The provided context does not contain information about where Grover Cleveland was married.
+[CORRECT_ANSWER]: In the White House
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the provided context does not contain the information, which is not relevant to the accuracy of the answer itself. The correct answer is "In the White House," and the response fails to mention this. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

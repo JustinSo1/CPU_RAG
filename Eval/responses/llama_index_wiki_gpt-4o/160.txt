@@ -1,0 +1,5 @@
+[PROMPT]: What kind of ducks feed on land?
+[USER_ANSWER]: Dabbling ducks feed on land.
+[CORRECT_ANSWER]: Dabbling ducks
+[FEEDBACK]: The response "Dabbling ducks feed on land" is mostly correct, accurate, and factual. It correctly identifies "dabbling ducks" as the type of ducks that feed on land, which matches the reference answer. However, the additional phrase "feed on land" is not necessary and slightly deviates from the concise nature of the reference answer. Despite this, the response still conveys the correct information.
+[RESULT]: 4

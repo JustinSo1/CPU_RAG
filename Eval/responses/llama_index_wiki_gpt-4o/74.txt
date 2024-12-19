@@ -1,0 +1,5 @@
+[PROMPT]: Do carrion beetles eat dung?
+[USER_ANSWER]: There is no information provided about the diet of carrion beetles.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is not correct or accurate based on the reference answer. The reference answer clearly states "no," indicating that carrion beetles do not eat dung. The response, however, states that there is no information provided about the diet of carrion beetles, which is inaccurate and does not address the question directly.
+[RESULT]: 1

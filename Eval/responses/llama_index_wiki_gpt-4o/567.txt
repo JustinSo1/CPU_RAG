@@ -1,0 +1,5 @@
+[PROMPT]: Who was first apprenticed to a fuller to learn the cloth-making trade?
+[USER_ANSWER]: The context does not provide information about who was first apprenticed to a fuller to learn the cloth-making trade.
+[CORRECT_ANSWER]: millard fillmore
+[FEEDBACK]: The response is completely incorrect and does not provide the factual answer to the question. The reference answer clearly states "millard fillmore," while the response claims that the context does not provide the information, which is inaccurate.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?
+[USER_ANSWER]: Yes, a number of live theatrical plays based on Tesla's life have been produced and staged worldwide.
+[CORRECT_ANSWER]: yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that a number of live theatrical plays based on Tesla's life have been produced and staged worldwide, which aligns with the reference answer. The response provides a bit more detail than the reference answer but remains fully accurate and factual.
+[RESULT]: 5

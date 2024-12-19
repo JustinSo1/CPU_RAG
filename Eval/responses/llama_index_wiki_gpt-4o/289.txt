@@ -1,0 +1,5 @@
+[PROMPT]: Where is old Ghana in relation to present Ghana?
+[USER_ANSWER]: The context does not provide information about the location of old Ghana in relation to present Ghana.
+[CORRECT_ANSWER]: 500 miles north
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about the location of old Ghana in relation to present Ghana. The reference answer clearly states that old Ghana is 500 miles north of present Ghana, which is not addressed in the response.
+[RESULT]: 1

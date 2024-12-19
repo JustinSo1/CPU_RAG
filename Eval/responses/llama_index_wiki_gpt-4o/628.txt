@@ -1,0 +1,5 @@
+[PROMPT]: Are penguins birds?
+[USER_ANSWER]: Yes, penguins are birds.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, penguins are birds." is completely correct, accurate, and factual. It provides a clear and concise answer to the question, confirming that penguins are indeed birds. This aligns perfectly with the reference answer "yes," which is a succinct confirmation of the same fact.
+[RESULT]: 5

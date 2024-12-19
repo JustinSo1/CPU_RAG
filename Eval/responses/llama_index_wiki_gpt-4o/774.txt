@@ -1,0 +1,5 @@
+[PROMPT]: Was Thedore Roosevelt  a member of the Republican Party?
+[USER_ANSWER]: Yes, Theodore Roosevelt was a member of the Republican Party.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the same information as the reference answer, confirming that Theodore Roosevelt was a member of the Republican Party.
+[RESULT]: 5

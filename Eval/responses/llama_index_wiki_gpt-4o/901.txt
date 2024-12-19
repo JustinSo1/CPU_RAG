@@ -1,0 +1,5 @@
+[PROMPT]: Did Wilson's father own slaves?
+[USER_ANSWER]: There is no information provided about Wilson's father or whether he owned slaves.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that Wilson's father did own slaves, while the response claims there is no information provided about Wilson's father or whether he owned slaves. This directly contradicts the reference answer.
+[RESULT]: 1

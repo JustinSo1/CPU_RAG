@@ -1,0 +1,5 @@
+[PROMPT]: Has Qatar a modern Telecommunication system centered in Doha ?
+[USER_ANSWER]: The improvement of the technical setup and network coverage in Qatar would facilitate an improved service and increase efficiency, indicating that there is a focus on enhancing telecommunications. This suggests efforts towards modernizing the telecommunication system centered in Doha.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response indicates efforts towards modernizing the telecommunication system in Qatar, which suggests a focus on enhancing telecommunications. However, it does not directly answer the question with a clear "yes" or "no" and lacks the directness and clarity of the reference answer. While it implies that there is a modern telecommunication system, it is not as straightforward and definitive as the reference answer. Therefore, it is somewhat correct and accurate but not completely factual and direct.
+[RESULT]: 3

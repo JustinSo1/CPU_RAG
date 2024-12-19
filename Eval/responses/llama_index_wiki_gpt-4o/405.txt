@@ -1,0 +1,5 @@
+[PROMPT]: What expired on March?
+[USER_ANSWER]: There is no information provided about anything expiring in March.
+[CORRECT_ANSWER]: Monroe's presidency
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information related to the reference answer, which is "Monroe's presidency." The response states that there is no information provided about anything expiring in March, which is not accurate based on the reference answer.
+[RESULT]: 1

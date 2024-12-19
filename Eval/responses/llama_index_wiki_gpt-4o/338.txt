@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he shared the nobel prize in physics?
+[USER_ANSWER]: No, it is not true.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "No, it is not true." is completely incorrect, inaccurate, and not factual based on the reference answer "yes." The reference answer indicates that the statement is true, while the response incorrectly denies it.
+[RESULT]: 1

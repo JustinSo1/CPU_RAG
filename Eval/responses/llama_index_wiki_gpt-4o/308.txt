@@ -1,0 +1,5 @@
+[PROMPT]: What type of tools do biologists use to capture wolves for tagging?
+[USER_ANSWER]: Biologists use radio-telemetry and global positioning system (GPS) collars to monitor and capture wolves for tagging.
+[CORRECT_ANSWER]: Darting and Foot hold traps.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The tools mentioned in the response, radio-telemetry and GPS collars, are used for monitoring wolves after they have been captured and tagged, not for the actual capture process. The correct tools for capturing wolves for tagging are darting and foot hold traps.
+[RESULT]: 2

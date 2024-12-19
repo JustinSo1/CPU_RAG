@@ -1,0 +1,5 @@
+[PROMPT]: Who achieved international fame as the leading Union general in the American Civil War?
+[USER_ANSWER]: The context does not provide information on who achieved international fame as the leading Union general in the American Civil War.
+[CORRECT_ANSWER]: Grant
+[FEEDBACK]: The response is completely incorrect and does not provide the factual answer to the question. The reference answer clearly states "Grant" as the correct response, while the evaluated response claims that the context does not provide the information, which is not accurate.
+[RESULT]: 1

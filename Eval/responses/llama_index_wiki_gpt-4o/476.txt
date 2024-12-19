@@ -1,0 +1,5 @@
+[PROMPT]: Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?
+[USER_ANSWER]: Yes, kangaroos have been known to leap in front of cars when dazzled by headlights or startled by engine noise.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional detail that is not present in the reference answer but does not contradict it. However, the reference answer is very concise, and the additional information in the response, while accurate, is not necessary to meet the criteria of the instruction.
+[RESULT]: 4

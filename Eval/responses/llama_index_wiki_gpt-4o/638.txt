@@ -1,0 +1,5 @@
+[PROMPT]: What happens when mothers lose a chick?
+[USER_ANSWER]: When mothers lose a chick, it can result in emotional distress and changes in behavior, as the bond between mother and chick is significant. This loss can impact the mother's interaction with remaining offspring and her overall well-being.
+[CORRECT_ANSWER]: They sometimes attempt to "steal" another chick.
+[FEEDBACK]: The response provides a general explanation of the emotional and behavioral impact on mothers when they lose a chick, which is somewhat related to the topic. However, it does not address the specific behavior mentioned in the reference answer, which is that mothers sometimes attempt to "steal" another chick. Therefore, while the response is somewhat correct in discussing the impact of losing a chick, it does not provide the specific factual detail required by the reference answer.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Of what state was Coolidge governor?
+[USER_ANSWER]: Massachusetts
+[CORRECT_ANSWER]: MassachuS08_setts
+[FEEDBACK]: The response "Massachusetts" is completely correct, accurate, and factual based on the reference answer "MassachuS08_setts." The response correctly identifies the state of which Coolidge was governor without any errors or inaccuracies.
+[RESULT]: 5

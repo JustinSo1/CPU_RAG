@@ -1,0 +1,5 @@
+[PROMPT]: What have become flippers, useless for flight in the air?
+[USER_ANSWER]: Penguin wings have become flippers, useless for flight in the air.
+[CORRECT_ANSWER]: Penguins' wings
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that penguin wings have become flippers and are useless for flight in the air. However, it includes additional information that is not present in the reference answer. While this additional detail is accurate, it slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

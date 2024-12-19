@@ -1,0 +1,5 @@
+[PROMPT]: When was James Monroe appointed to Secretary of War?
+[USER_ANSWER]: James Monroe was appointed to Secretary of War in 1814.
+[CORRECT_ANSWER]: 1814
+[FEEDBACK]: The response "James Monroe was appointed to Secretary of War in 1814" is completely correct, accurate, and factual based on the reference answer "1814." It provides the exact year of the appointment without any additional or incorrect information.
+[RESULT]: 5

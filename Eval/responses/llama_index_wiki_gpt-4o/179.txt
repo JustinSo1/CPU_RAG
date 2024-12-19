@@ -1,0 +1,5 @@
+[PROMPT]: What is the poulation of Egypt?
+[USER_ANSWER]: The provided context does not include information about the population of Egypt. Therefore, it is not possible to determine the population of Egypt from this context.
+[CORRECT_ANSWER]: more than 78 million
+[FEEDBACK]: The response does not provide the population of Egypt, which is the main requirement of the instruction. Instead, it states that the context does not include the information, which is not relevant to the task. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness based on the reference answer.
+[RESULT]: 1

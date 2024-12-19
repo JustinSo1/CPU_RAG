@@ -1,0 +1,5 @@
+[PROMPT]: What is one significant non-official language?
+[USER_ANSWER]: The context information provided does not include details about non-official languages. Therefore, it is not possible to identify a significant non-official language based on the given information.
+[CORRECT_ANSWER]: Chinese.
+[FEEDBACK]: The response does not provide an answer to the question asked. Instead, it states that the context information is insufficient to identify a significant non-official language. This is not accurate or factual based on the reference answer, which simply states "Chinese" as a significant non-official language. The response fails to address the question directly and does not provide any factual information about a non-official language.
+[RESULT]: 1

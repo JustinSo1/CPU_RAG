@@ -1,0 +1,5 @@
+[PROMPT]: Is Canada a geographically vast and ethnically diverse country ?
+[USER_ANSWER]: Yes, Canada is known for being both geographically vast and ethnically diverse.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Canada is both geographically vast and ethnically diverse, which aligns with the reference answer.
+[RESULT]: 5

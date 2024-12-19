@@ -1,0 +1,5 @@
+[PROMPT]: Was Becquerel elected Permanent Secretary of the Académie des Sciences?
+[USER_ANSWER]: The provided information does not mention anything about Becquerel being elected Permanent Secretary of the Académie des Sciences.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that Becquerel was elected Permanent Secretary of the Académie des Sciences, while the response incorrectly states that the provided information does not mention anything about it.
+[RESULT]: 1

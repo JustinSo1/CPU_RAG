@@ -1,0 +1,5 @@
+[PROMPT]: Different species of kangaroos eat what?
+[USER_ANSWER]: Different species of kangaroos have a varied diet that can include grasses, leaves, and other vegetation.
+[CORRECT_ANSWER]: different diets
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides specific examples of what kangaroos eat, such as grasses, leaves, and other vegetation, which aligns with the idea of "different diets" mentioned in the reference answer. However, it is slightly more detailed than the reference answer, which is more general.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Did John Adams go to Harvard? 
+[USER_ANSWER]: The information provided does not mention anything about John Adams attending Harvard.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether John Adams went to Harvard, and the correct answer is simply "yes." The response provided does not address the question directly and instead states that the information provided does not mention anything about John Adams attending Harvard, which is not relevant to the question asked.
+[RESULT]: 1

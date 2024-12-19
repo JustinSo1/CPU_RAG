@@ -1,0 +1,5 @@
+[PROMPT]: When was James Monroe elected president?
+[USER_ANSWER]: There is no information provided regarding James Monroe or his election as president.
+[CORRECT_ANSWER]: Monroe was elected president in the election of 1816, and re-elected in 1820.
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that there is no information provided regarding James Monroe or his election as president, which is not true. The correct information is that James Monroe was elected president in the election of 1816 and re-elected in 1820. The response does not provide any factual information about Monroe's election.
+[RESULT]: 1

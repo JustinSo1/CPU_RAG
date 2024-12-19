@@ -1,0 +1,5 @@
+[PROMPT]: Is polar bear a mammal?
+[USER_ANSWER]: Yes, a polar bear is a mammal.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, a polar bear is a mammal." is completely correct, accurate, and factual. It provides additional information beyond the reference answer, but it does not detract from the correctness of the response. The essential fact that a polar bear is a mammal is clearly stated.
+[RESULT]: 5

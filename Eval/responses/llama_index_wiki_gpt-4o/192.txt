@@ -1,0 +1,5 @@
+[PROMPT]: Are elephants the largest land animals alive today?
+[USER_ANSWER]: Yes, elephants are the largest land animals alive today.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, elephants are the largest land animals alive today." is completely correct, accurate, and factual. It directly answers the question and provides additional information that is factually accurate. This aligns well with the reference answer "yes," which is a concise but correct response. The additional detail in the evaluated response does not detract from its correctness.
+[RESULT]: 5

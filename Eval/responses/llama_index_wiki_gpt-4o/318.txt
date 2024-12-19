@@ -1,0 +1,5 @@
+[PROMPT]: Why did Cleveland want to hide his cancer surgery from the public?
+[USER_ANSWER]: There is no information provided regarding Cleveland's cancer surgery or his reasons for wanting to hide it from the public.
+[CORRECT_ANSWER]: To avoid further market panic
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information regarding Cleveland's cancer surgery or his reasons for wanting to hide it from the public. The reference answer clearly states that the reason was to avoid further market panic, which is not mentioned or implied in the response.
+[RESULT]: 1

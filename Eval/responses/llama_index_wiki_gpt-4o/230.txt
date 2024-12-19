@@ -1,0 +1,5 @@
+[PROMPT]: Does it have a border with Norway?
+[USER_ANSWER]: Yes.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes." is completely correct, accurate, and factual based on the reference answer "yes." Both responses affirmatively answer the question about having a border with Norway.
+[RESULT]: 5

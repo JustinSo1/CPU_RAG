@@ -1,0 +1,5 @@
+[PROMPT]: How do qatar and the wider region relate?
+[USER_ANSWER]: Qatar engages in significant collaborative efforts in medical and clinical research with various institutions and researchers across the wider region, including countries such as Saudi Arabia, Israel, and those in Europe. This collaboration spans various fields including genetic medicine, endocrinology, and cancer research.
+[CORRECT_ANSWER]: Qatar is aiming to become a role model for economic and social transformation in the region. Large scale investment in all social and economic sectors will also lead to the development of a strong financial market.
+[FEEDBACK]: The response provided is somewhat correct and factual, as it mentions Qatar's collaborative efforts in medical and clinical research with other countries. However, it does not address the broader context of Qatar's role in economic and social transformation in the region, which is the focus of the reference answer. The response is accurate in its specific details but does not fully align with the broader scope of the reference answer.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: How do reservoirs and water relate?
+[USER_ANSWER]: Reservoirs are artificial or natural lakes where water is stored for various uses such as drinking water supply, irrigation, flood control, and hydroelectric power generation.
+[CORRECT_ANSWER]: By 2001, there were 19 raw water reservoirs, 9 treatment works and 14 storage or service reservoirs locally to serve domestic needs. 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes what reservoirs are and their uses, which is relevant to the relationship between reservoirs and water. However, it does not provide specific details or data similar to the reference answer, which mentions the number of reservoirs and their specific purposes. The response could be improved by including more specific information to fully align with the reference answer.
+[RESULT]: 4

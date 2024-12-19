@@ -1,0 +1,5 @@
+[PROMPT]: What centred in Sierra?
+[USER_ANSWER]: The Center for Genomics and Oncological Research (GENYO) is one of the organizations mentioned that is associated with multiple locations, including Granada and Almeria in Spain. However, based on the context provided, there is no specific mention of an organization or research center explicitly centered in Sierra.
+[CORRECT_ANSWER]: The leopard men
+[FEEDBACK]: The response provided does not address the question accurately. The question asks for what is centered in Sierra, and the reference answer indicates "The leopard men." The response discusses the Center for Genomics and Oncological Research (GENYO) and its locations, which is unrelated to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

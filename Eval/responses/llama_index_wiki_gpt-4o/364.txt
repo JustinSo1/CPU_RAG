@@ -1,0 +1,5 @@
+[PROMPT]: Is Indonesia the world's largest archipelagic state?
+[USER_ANSWER]: The information provided does not specify whether Indonesia is the world's largest archipelagic state.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question and instead comments on the lack of information provided. This makes the response inaccurate and not factual based on the reference answer, which clearly states "yes." The response fails to address the question directly and does not provide the correct information.
+[RESULT]: 1

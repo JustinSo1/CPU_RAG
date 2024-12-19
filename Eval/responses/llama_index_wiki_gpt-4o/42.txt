@@ -1,0 +1,5 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: A syndrome consisting of diplopia and facial pain due to a middle ear infection is named after him.
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the Celsius crater on the Moon is named after him, while the response mentions a syndrome related to diplopia and facial pain due to a middle ear infection, which is unrelated to the reference answer.
+[RESULT]: 1

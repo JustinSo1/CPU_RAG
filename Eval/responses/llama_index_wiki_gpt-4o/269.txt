@@ -1,0 +1,5 @@
+[PROMPT]: Was Ford released from the hospital?
+[USER_ANSWER]: Yes, Ford was released from the hospital.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the same information as the reference answer, albeit with additional detail. The additional detail does not detract from the accuracy or correctness of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Do women live longer than men?
+[USER_ANSWER]: Yes, women generally live longer than men.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, women generally live longer than men." is mostly correct, accurate, and factual. It provides additional context by stating that women "generally" live longer, which aligns with statistical data. However, the reference answer is more concise and direct. The response could be improved by being more succinct, but it still conveys the correct information.
+[RESULT]: 4

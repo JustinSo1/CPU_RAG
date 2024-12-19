@@ -1,0 +1,5 @@
+[PROMPT]: What are poor neighborhoods called informally?
+[USER_ANSWER]: Poor neighborhoods are often informally referred to as deprived areas.
+[CORRECT_ANSWER]: Cantegriles.
+[FEEDBACK]: The response "deprived areas" is not the same as the reference answer "Cantegriles." The term "deprived areas" is a more general and formal term, whereas "Cantegriles" is a specific informal term. Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

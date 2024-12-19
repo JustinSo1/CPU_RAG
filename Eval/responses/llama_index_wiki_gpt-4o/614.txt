@@ -1,0 +1,5 @@
+[PROMPT]: Sea otters eat what?
+[USER_ANSWER]: The information provided does not specify what sea otters eat.
+[CORRECT_ANSWER]: Shellfish and other invertebrates
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about what sea otters eat. It fails to mention shellfish and other invertebrates, which are the correct answers.
+[RESULT]: 1

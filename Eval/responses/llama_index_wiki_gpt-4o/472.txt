@@ -1,0 +1,5 @@
+[PROMPT]: Are kangaroos and wallabies adept swimmers?
+[USER_ANSWER]: The information provided does not discuss whether kangaroos and wallabies are adept swimmers.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that kangaroos and wallabies are adept swimmers, while the response claims that the information provided does not discuss this, which is not true.
+[RESULT]: 1

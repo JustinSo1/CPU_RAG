@@ -1,0 +1,5 @@
+[PROMPT]: What does the word Ghana mean?
+[USER_ANSWER]: Ghana is a country located in West Africa.
+[CORRECT_ANSWER]: warrior king
+[FEEDBACK]: The response is completely incorrect and does not address the meaning of the word "Ghana." Instead, it provides information about the location of the country Ghana, which is not relevant to the question asked.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What arrived in Britain?
+[USER_ANSWER]: The European honey bee, Apis mellifera, was introduced into Japan for apiculture in 1877, but the context does not specify what arrived in Britain.
+[CORRECT_ANSWER]: The first Canadian Army units in WW II
+[FEEDBACK]: The response is completely incorrect and does not address the question of what arrived in Britain. Instead, it discusses the introduction of the European honey bee to Japan, which is unrelated to the reference answer about the first Canadian Army units in WW II arriving in Britain. Therefore, the response is not factual or accurate based on the reference answer.
+[RESULT]: 1

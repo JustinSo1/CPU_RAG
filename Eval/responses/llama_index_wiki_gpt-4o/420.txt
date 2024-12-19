@@ -1,0 +1,5 @@
+[PROMPT]: When did Adams graduate from college?
+[USER_ANSWER]: The information provided does not specify when Adams graduated from college.
+[CORRECT_ANSWER]: 1755.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer specifies the year 1755, while the response states that the information is not provided. This indicates a lack of factual accuracy and correctness.
+[RESULT]: 1

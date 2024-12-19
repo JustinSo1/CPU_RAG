@@ -1,0 +1,5 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: The scientific community did not reserve great attention to his theory initially.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is somewhat correct and factual, as it addresses the lack of attention to the theory. However, it adds additional information ("initially") that is not present in the reference answer. The reference answer is a simple affirmation ("yes"), while the response provides more context, which is not required by the instruction. Therefore, it does not fully align with the reference answer.
+[RESULT]: 3

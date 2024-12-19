@@ -1,0 +1,5 @@
+[PROMPT]: Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?
+[USER_ANSWER]: No, Calvin Coolidge was not born in Plymouth, Windsor County, Vermont.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer indicates that Calvin Coolidge was indeed born in Plymouth, Windsor County, Vermont, while the response states the opposite.
+[RESULT]: 1

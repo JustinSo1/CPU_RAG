@@ -1,0 +1,5 @@
+[PROMPT]: When did the first official report of kangaroo blindness take place?
+[USER_ANSWER]: The first official report of kangaroo blindness took place in 1994.
+[CORRECT_ANSWER]: 1994
+[FEEDBACK]: The response "The first official report of kangaroo blindness took place in 1994." is completely correct, accurate, and factual based on the reference answer "1994." It provides the exact year as requested in the instruction.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: In addition to Port Royal, where else did Samuel de Champlain establish a S08_settlement?
+[USER_ANSWER]: Samuel de Champlain also established a settlement in Quebec City.
+[CORRECT_ANSWER]: Quebec City
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It correctly identifies Quebec City as another settlement established by Samuel de Champlain.
+[RESULT]: 5

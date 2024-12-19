@@ -1,0 +1,5 @@
+[PROMPT]: Where is Finland located?
+[USER_ANSWER]: Finland is located in Northern Europe.
+[CORRECT_ANSWER]: Northern Europe
+[FEEDBACK]: The response "Finland is located in Northern Europe" is completely correct, accurate, and factual based on the reference answer "Northern Europe." It provides the same information with a bit more detail, but it does not deviate from the factual content required.
+[RESULT]: 5

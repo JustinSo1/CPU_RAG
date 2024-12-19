@@ -1,0 +1,5 @@
+[PROMPT]: What did Aristotle say about elephants?
+[USER_ANSWER]: Aristotle's perspective on pain is noted in the context, but there is no mention of what he said about elephants.
+[CORRECT_ANSWER]: the beast which pasS08_seth all others in wit and mind
+[FEEDBACK]: The response does not address what Aristotle said about elephants. Instead, it mentions Aristotle's perspective on pain, which is unrelated to the question. The response is completely incorrect and does not provide any factual information about Aristotle's view on elephants as given in the reference answer.
+[RESULT]: 1

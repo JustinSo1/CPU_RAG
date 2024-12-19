@@ -1,0 +1,5 @@
+[PROMPT]: How many species and genera does otter have?
+[USER_ANSWER]: There is no information provided about the number of species and genera of otters.
+[CORRECT_ANSWER]: 13 species and 7 genera
+[FEEDBACK]: The response is completely incorrect and inaccurate. It does not provide any factual information about the number of species and genera of otters, which is clearly stated in the reference answer as 13 species and 7 genera. The response fails to address the question and does not align with the reference answer in any way.
+[RESULT]: 1

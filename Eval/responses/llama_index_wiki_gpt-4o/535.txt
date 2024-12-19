@@ -1,0 +1,5 @@
+[PROMPT]: What enjoys one of the world's highest standards of living?
+[USER_ANSWER]: Increased longevity and high quality of life are associated with physical activity, which can be engaged in at any age and provides numerous benefits, including independence and health.
+[CORRECT_ANSWER]: Liechtenstein's population
+[FEEDBACK]: The response does not address the question of what enjoys one of the world's highest standards of living. Instead, it discusses the benefits of physical activity, which is unrelated to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

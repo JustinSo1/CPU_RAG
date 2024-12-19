@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that singapore has several long - standing disputes with malaysia?
+[USER_ANSWER]: There is no information provided that addresses disputes between Singapore and Malaysia.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question directly and fails to provide a correct, accurate, and factual answer. The question asks whether Singapore has several long-standing disputes with Malaysia, and the reference answer is a simple "Yes." The response instead states that there is no information provided, which is not accurate or factual in the context of the question.
+[RESULT]: 1

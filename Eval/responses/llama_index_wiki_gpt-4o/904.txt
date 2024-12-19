@@ -1,0 +1,5 @@
+[PROMPT]: Where was Woodrow Wilson born?
+[USER_ANSWER]: Woodrow Wilson was born in Staunton, Virginia, USA.
+[CORRECT_ANSWER]: Woodrow Wilson was born in Staunton, Virginia
+[FEEDBACK]: The response "Woodrow Wilson was born in Staunton, Virginia, USA" is mostly correct, accurate, and factual. It provides the correct location of Woodrow Wilson's birth, which is Staunton, Virginia. However, the addition of "USA" is not necessary and slightly deviates from the reference answer. Despite this minor addition, the response remains factually accurate and correct.
+[RESULT]: 4

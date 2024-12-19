@@ -1,0 +1,5 @@
+[PROMPT]: What have been inhabited for millennia by aboriginal peoples?
+[USER_ANSWER]: The Australian arid zones have been inhabited for millennia by aboriginal peoples.
+[CORRECT_ANSWER]: The lands
+[FEEDBACK]: The response is somewhat correct, accurate, and factual. While it specifies a particular region (the Australian arid zones), the reference answer is more general ("The lands"). The response does not fully align with the generality of the reference answer, but it is not completely incorrect or inaccurate.
+[RESULT]: 3

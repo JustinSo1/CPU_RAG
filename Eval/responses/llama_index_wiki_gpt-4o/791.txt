@@ -1,0 +1,5 @@
+[PROMPT]: Was Roosevelt's family rich?
+[USER_ANSWER]: The provided context does not contain information on Roosevelt's family's wealth. Therefore, it cannot be determined from the given context whether Roosevelt's family was rich.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response to the instruction is not correct, accurate, or factual based on the reference answer. The reference answer indicates that Roosevelt's family was rich, while the response states that the context does not provide information on the family's wealth. This discrepancy shows that the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

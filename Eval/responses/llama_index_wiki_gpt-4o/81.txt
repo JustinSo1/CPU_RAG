@@ -1,0 +1,5 @@
+[PROMPT]: Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?
+[USER_ANSWER]: There is no specific information provided about a thriving industry in the collection of beetle specimens for amateur and professional collectors.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly incorrect and does not align with the reference answer. The reference answer indicates a clear "Yes," suggesting that there is indeed a thriving industry in the collection of beetle specimens. The evaluated response, however, states that there is no specific information provided about such an industry, which contradicts the reference answer. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: What is cause of polar bear's skin diseases?
+[USER_ANSWER]: The context does not provide specific information about the causes of skin diseases in polar bears.
+[CORRECT_ANSWER]: mites or other parasites
+[FEEDBACK]: The response does not provide any specific information about the causes of skin diseases in polar bears, which is what the instruction asked for. The reference answer clearly states that mites or other parasites are the cause. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What is a roo?
+[USER_ANSWER]: A roo is a transposable element found in Drosophila.
+[CORRECT_ANSWER]: a kangaroo
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that "roo" refers to a kangaroo, while the response describes "roo" as a transposable element found in Drosophila, which is unrelated to the context of the reference answer.
+[RESULT]: 1

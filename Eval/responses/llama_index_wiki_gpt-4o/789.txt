@@ -1,0 +1,5 @@
+[PROMPT]: Who helped to fund Roosevelt's African safari?
+[USER_ANSWER]: The information provided does not mention any details about the funding of Roosevelt's African safari.
+[CORRECT_ANSWER]: Financed by Andrew Carnegie and his own proposed writings
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information regarding the funding of Roosevelt's African safari. It fails to mention Andrew Carnegie or Roosevelt's own proposed writings, which are key details provided in the reference answer.
+[RESULT]: 1

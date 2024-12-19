@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he practiced law in fredericksburg?
+[USER_ANSWER]: There is no information provided that indicates he practiced law in Fredericksburg.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that he did practice law in Fredericksburg, while the response states there is no information provided about it. This directly contradicts the reference answer.
+[RESULT]: 1

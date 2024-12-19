@@ -1,0 +1,5 @@
+[PROMPT]: Are otters very active?
+[USER_ANSWER]: The context does not provide specific information about the activity levels of otters.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question "Are otters very active?" Instead, it mentions the lack of specific information in the context, which is not relevant to the question. The reference answer is a simple "yes," indicating that the expected response should be straightforward and affirmative. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

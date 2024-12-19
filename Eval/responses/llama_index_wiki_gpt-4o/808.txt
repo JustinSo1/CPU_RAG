@@ -1,0 +1,5 @@
+[PROMPT]: What do turles use to breathe in the water?
+[USER_ANSWER]: Turtles use their lungs to breathe. They can hold their breath for extended periods while underwater but must come to the surface to inhale air.
+[CORRECT_ANSWER]: Papillae
+[FEEDBACK]: The response is mostly incorrect. While it is true that turtles use their lungs to breathe and must come to the surface to inhale air, the question specifically asks about what turtles use to breathe underwater. The reference answer "papillae" indicates a specific adaptation for underwater respiration, which the response does not address. Therefore, the response does not accurately answer the question based on the reference answer provided.
+[RESULT]: 2

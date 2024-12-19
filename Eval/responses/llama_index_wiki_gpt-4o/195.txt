@@ -1,0 +1,5 @@
+[PROMPT]: How many living species of African Elephants are there?
+[USER_ANSWER]: There are two living species of African Elephants.
+[CORRECT_ANSWER]: 2
+[FEEDBACK]: The response "There are two living species of African Elephants." is mostly correct, accurate, and factual. It provides the correct number of species, which is "2," as indicated in the reference answer. However, the response includes additional words that are not necessary to answer the question directly. While this does not make the response incorrect, it slightly deviates from the concise nature of the reference answer.
+[RESULT]: 4

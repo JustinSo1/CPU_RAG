@@ -1,0 +1,5 @@
+[PROMPT]: When was Woodrow Wilson born?
+[USER_ANSWER]: The provided information does not include details on Woodrow Wilson's birth.
+[CORRECT_ANSWER]: December 28, 1856
+[FEEDBACK]: The response does not provide the correct information about Woodrow Wilson's birth date. It states that the provided information does not include details on Woodrow Wilson's birth, which is not an accurate answer to the question. The correct answer is December 28, 1856. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

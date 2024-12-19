@@ -1,0 +1,5 @@
+[PROMPT]: Who was the first gymnast to score a perfect "ten"?
+[USER_ANSWER]: The first gymnast to score a perfect "ten" is not mentioned in the provided context information.
+[CORRECT_ANSWER]: Nadia Comăneci
+[FEEDBACK]: The response does not provide the correct answer to the question. The first gymnast to score a perfect "ten" is Nadia Comăneci, which is not mentioned in the response. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

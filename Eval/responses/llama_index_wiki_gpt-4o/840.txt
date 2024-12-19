@@ -1,0 +1,5 @@
+[PROMPT]: Grant was elected president as a Republican in what year?
+[USER_ANSWER]: 1868.0
+[CORRECT_ANSWER]: 1868
+[FEEDBACK]: The response "1868.0" is mostly correct and accurate, as it provides the correct year when Grant was elected president. However, the inclusion of the decimal point makes it slightly imprecise compared to the reference answer "1868".
+[RESULT]: 4

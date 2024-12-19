@@ -1,0 +1,5 @@
+[PROMPT]: Did Monroe' wedding happen at the Trinity Church in New York?
+[USER_ANSWER]: The provided information does not include any details about Monroe's wedding or its location. Therefore, it is not possible to determine if Monroe's wedding happened at the Trinity Church in New York from the given context.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer clearly states "Yes," indicating that Monroe's wedding did happen at the Trinity Church in New York. The evaluated response, however, states that there is no information available to determine the location of Monroe's wedding, which contradicts the reference answer. Therefore, the response does not align with the correct, accurate, and factual information provided in the reference answer.
+[RESULT]: 2

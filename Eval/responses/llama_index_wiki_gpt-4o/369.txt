@@ -1,0 +1,5 @@
+[PROMPT]: Is it the world 's largest archipelagic state?
+[USER_ANSWER]: The provided information does not contain details about the world's largest archipelagic state. Therefore, it is not possible to answer the query based on the given context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer simply states "yes," indicating that the world's largest archipelagic state is indeed the subject in question. The response, however, states that there is not enough information to answer the query, which contradicts the reference answer. Therefore, the response does not align with the correct, accurate, and factual information provided in the reference answer.
+[RESULT]: 1

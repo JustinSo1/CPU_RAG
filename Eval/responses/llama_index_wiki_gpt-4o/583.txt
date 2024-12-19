@@ -1,0 +1,5 @@
+[PROMPT]: Does the giant otter inhabit South Africa?
+[USER_ANSWER]: No, the giant otter does not inhabit South Africa.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response "No, the giant otter does not inhabit South Africa." is completely correct, accurate, and factual based on the reference answer "no." It provides the same information as the reference answer, albeit with more detail.
+[RESULT]: 5

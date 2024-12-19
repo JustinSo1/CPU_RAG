@@ -1,0 +1,5 @@
+[PROMPT]: Are male otters dog-otters?
+[USER_ANSWER]: Yes, male otters are referred to as dog-otters.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that male otters are referred to as dog-otters, which aligns with the reference answer.
+[RESULT]: 5

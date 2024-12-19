@@ -1,0 +1,5 @@
+[PROMPT]: How is Singapore's climate characterized?
+[USER_ANSWER]: The description of Singapore's climate is not provided.
+[CORRECT_ANSWER]: Singapore has a tropical rainforest climate with no distinctive seasons.
+[FEEDBACK]: The response does not provide any information about Singapore's climate. It states that the description is not provided, which is incorrect as the reference answer clearly describes Singapore's climate as tropical rainforest with no distinctive seasons. The response is completely incorrect and does not address the question asked.
+[RESULT]: 1

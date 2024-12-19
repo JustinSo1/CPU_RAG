@@ -1,0 +1,5 @@
+[PROMPT]: What established a trading post on the island in 1819?
+[USER_ANSWER]: A trading post was established on the island in 1819, but the specific context provided does not mention who established it.
+[CORRECT_ANSWER]: British East India Company 
+[FEEDBACK]: The response does not provide the correct answer to the question. It mentions that a trading post was established in 1819 but fails to identify the British East India Company as the entity that established it. This makes the response mostly incorrect and lacking the necessary factual detail.
+[RESULT]: 2

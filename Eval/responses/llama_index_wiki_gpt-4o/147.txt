@@ -1,0 +1,5 @@
+[PROMPT]: What happened in 1867?
+[USER_ANSWER]: In 1867, George Cotzias introduced high dosage levodopa therapy, which was a revolutionary therapeutic breakthrough for Parkinson's disease.
+[CORRECT_ANSWER]: Canada was formed as a federal, semi-autonomous polity
+[FEEDBACK]: The response is completely incorrect and not factual based on the reference answer. The event mentioned in the response (George Cotzias introducing high dosage levodopa therapy) did not occur in 1867. The reference answer indicates that Canada was formed as a federal, semi-autonomous polity in 1867, which is a significant historical event. Therefore, the response does not align with the correct historical fact.
+[RESULT]: 1

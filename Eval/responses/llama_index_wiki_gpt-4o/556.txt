@@ -1,0 +1,5 @@
+[PROMPT]: Did Fillmore run for President a second time?
+[USER_ANSWER]: There is no information provided about Fillmore running for President a second time.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer clearly states that Fillmore did run for President a second time, while the response claims there is no information provided about it. This demonstrates a lack of accuracy and correctness in the response.
+[RESULT]: 1

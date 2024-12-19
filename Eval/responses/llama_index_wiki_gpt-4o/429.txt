@@ -1,0 +1,5 @@
+[PROMPT]: When did John Adams serve as Vice President?
+[USER_ANSWER]: John Adams served as Vice President from 1789 to 1797.
+[CORRECT_ANSWER]: 1789-1797
+[FEEDBACK]: The response "John Adams served as Vice President from 1789 to 1797" is completely correct, accurate, and factual based on the reference answer "1789-1797." It provides the exact years of service in a complete sentence, which aligns perfectly with the reference answer.
+[RESULT]: 5

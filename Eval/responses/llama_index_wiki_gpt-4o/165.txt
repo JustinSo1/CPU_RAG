@@ -1,0 +1,5 @@
+[PROMPT]: Are diving ducks heavier tha dabbling ducks?
+[USER_ANSWER]: The context does not provide information regarding the weight comparison between diving ducks and dabbling ducks.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question and instead mentions the lack of context, which is not relevant to the task. The reference answer is a straightforward "Yes," indicating that diving ducks are heavier than dabbling ducks. The response fails to provide this information and is therefore completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What Roman province was Liechtenstein part of?
+[USER_ANSWER]: Liechtenstein was part of the Roman province of Raetia.
+[CORRECT_ANSWER]: Raetia.
+[FEEDBACK]: The response "Liechtenstein was part of the Roman province of Raetia" is completely correct, accurate, and factual based on the reference answer "Raetia." The additional context provided does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What is the first word on the page?
+[USER_ANSWER]: There is no first word provided in the given context.
+[CORRECT_ANSWER]: James
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer provides a specific word ("James"), while the response incorrectly states that there is no first word provided. This shows a lack of accuracy and factual correctness.
+[RESULT]: 1

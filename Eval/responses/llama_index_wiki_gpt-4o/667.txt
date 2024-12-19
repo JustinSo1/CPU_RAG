@@ -1,0 +1,5 @@
+[PROMPT]: How much weight do female polar bears gain during pregnancy?
+[USER_ANSWER]: The context does not provide specific information on the weight gain of female polar bears during pregnancy.
+[CORRECT_ANSWER]: They gain double their weight.
+[FEEDBACK]: The response does not provide any accurate information regarding the weight gain of female polar bears during pregnancy. It states that the context does not provide specific information, which is not relevant to the question asked. The reference answer clearly states that female polar bears gain double their weight, which is factual information that the response fails to include. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

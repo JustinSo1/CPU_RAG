@@ -1,0 +1,5 @@
+[PROMPT]: Was Woodrow Wilson the thirtieth President of the United States?
+[USER_ANSWER]: No, Woodrow Wilson was not the thirtieth President of the United States.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Woodrow Wilson was not the thirtieth President of the United States, aligning with the reference answer.
+[RESULT]: 5

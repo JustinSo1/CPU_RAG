@@ -1,0 +1,5 @@
+[PROMPT]: Why did Coolidge not attend law school?
+[USER_ANSWER]: The provided context does not contain information regarding Coolidge or reasons why he did not attend law school.
+[CORRECT_ANSWER]: It was too expensive
+[FEEDBACK]: The response does not provide the correct reason why Coolidge did not attend law school. It states that the provided context does not contain information, which is not an accurate answer to the question. The reference answer clearly states that the reason was due to the expense. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What is the study of beetles called?
+[USER_ANSWER]: The study of beetles is called coleopterology.
+[CORRECT_ANSWER]: coleopterology
+[FEEDBACK]: The response "The study of beetles is called coleopterology." is completely correct, accurate, and factual based on the reference answer "coleopterology." The response provides the exact term for the study of beetles without any errors or additional unnecessary information.
+[RESULT]: 5

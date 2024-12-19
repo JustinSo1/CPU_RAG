@@ -1,0 +1,5 @@
+[PROMPT]: Who or what vary greatly in form within the coleoptera?
+[USER_ANSWER]: Weevils (Curculionoidea) vary greatly in form within the Coleoptera.
+[CORRECT_ANSWER]: Antennae.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that "antennae" vary greatly in form within the Coleoptera, whereas the response mentions "weevils," which is not aligned with the reference answer.
+[RESULT]: 1

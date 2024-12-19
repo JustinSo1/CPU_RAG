@@ -1,0 +1,5 @@
+[PROMPT]: In which years were John Monroe elected as President?
+[USER_ANSWER]: The provided information does not contain any details about John Monroe's election years as President.
+[CORRECT_ANSWER]: 1817-1825
+[FEEDBACK]: The response does not provide the correct years during which John Monroe was elected as President. Instead, it states that the provided information does not contain any details about John Monroe's election years, which is not an accurate or factual answer to the question. The correct answer should have been the years 1817-1825.
+[RESULT]: 1

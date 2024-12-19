@@ -1,0 +1,5 @@
+[PROMPT]: What is one of the challenges of re-establishing a population of Eurasian otters in the UK?
+[USER_ANSWER]: One of the challenges of re-establishing a population of Eurasian otters in the UK is the vulnerability of animals in the ecosystem to incursions of pathogens and parasites.
+[CORRECT_ANSWER]: roadkill deaths
+[FEEDBACK]: The response identifies a challenge related to the re-establishment of Eurasian otters in the UK, specifically the vulnerability to pathogens and parasites. However, this is not the challenge mentioned in the reference answer, which is roadkill deaths. The response is somewhat correct in identifying a plausible challenge but does not match the specific challenge given in the reference answer.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Who were Grover Cleveland's parents?
+[USER_ANSWER]: Grover Cleveland's parents were Richard Falley Cleveland and Ann Neal.
+[CORRECT_ANSWER]: Cleveland was born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal.
+[FEEDBACK]: The response correctly identifies Grover Cleveland's parents as Richard Cleveland and Ann Neal. However, there is a slight inaccuracy in the names provided. The reference answer specifies "Reverend Richard Cleveland" and "Anne Neal," while the response states "Richard Falley Cleveland" and "Ann Neal." The middle name "Falley" and the slight variation in the spelling of "Anne" are minor inaccuracies. Overall, the response is mostly correct, accurate, and factual but not completely so.
+[RESULT]: 4

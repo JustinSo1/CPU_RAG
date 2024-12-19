@@ -1,0 +1,5 @@
+[PROMPT]: Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?
+[USER_ANSWER]: The provided context does not contain information about the political system or the roles of the president. Therefore, it is not possible to determine from this context whether it is a constitutional democracy where the president fulfills the roles of both head of state and head of government.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question as the reference answer does. Instead, it states that the context does not provide enough information to determine the answer. This makes the response somewhat correct in terms of acknowledging the lack of information, but it does not provide the definitive answer "Yes" as required. Therefore, it is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

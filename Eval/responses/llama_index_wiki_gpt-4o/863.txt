@@ -1,0 +1,5 @@
+[PROMPT]: Can citizens propose changes to the Constitution?
+[USER_ANSWER]: Citizens cannot directly propose changes to the Constitution. Constitutional amendments typically require a proposal by a legislative body or another designated group, followed by a ratification process.
+[CORRECT_ANSWER]: Yes. People are allowed to challenge laws.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that citizens can propose changes to the Constitution by challenging laws, while the response states that citizens cannot directly propose changes. This shows a fundamental misunderstanding of the process described in the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: Are otters herbivores?
+[USER_ANSWER]: No, otters are not herbivores.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response "No, otters are not herbivores." is correct, accurate, and factual. It provides additional information beyond the reference answer, but it does not detract from the correctness of the response. The response aligns with the reference answer and accurately addresses the question.
+[RESULT]: 5

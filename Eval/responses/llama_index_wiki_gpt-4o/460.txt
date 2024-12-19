@@ -1,0 +1,5 @@
+[PROMPT]: Do kangaroos eat plants?
+[USER_ANSWER]: Yes, kangaroos eat plants.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, kangaroos eat plants." is completely correct, accurate, and factual based on the reference answer "yes." It provides a clear and concise confirmation that aligns with the reference answer.
+[RESULT]: 5

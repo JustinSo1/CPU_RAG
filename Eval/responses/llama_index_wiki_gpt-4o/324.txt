@@ -1,0 +1,5 @@
+[PROMPT]: Which election did Grover Cleveland win?
+[USER_ANSWER]: Grover Cleveland won the United States presidential elections in 1884 and 1892.
+[CORRECT_ANSWER]: 1884 and 1892 presidential elections
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies the years Grover Cleveland won the United States presidential elections, which are 1884 and 1892, matching the reference answer.
+[RESULT]: 5

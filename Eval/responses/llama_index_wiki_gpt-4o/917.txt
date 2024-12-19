@@ -1,0 +1,5 @@
+[PROMPT]: Was Wilson , a staunch opponent of antisemitism , sympathetic to the plight of Jews , especially in Poland and in France ?
+[USER_ANSWER]: There is no information provided about Wilson's stance on antisemitism or his sympathy towards the plight of Jews in Poland and France.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that Wilson was sympathetic to the plight of Jews, especially in Poland and France. The evaluated response, however, claims there is no information provided about Wilson's stance, which directly contradicts the reference answer. Therefore, the response does not align with the correct, accurate, and factual information provided in the reference answer.
+[RESULT]: 1

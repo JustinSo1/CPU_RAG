@@ -1,0 +1,5 @@
+[PROMPT]: Do sea turtles lay eggs on dry sandy beaches?
+[USER_ANSWER]: Yes, sea turtles lay eggs on dry sandy beaches.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional detail by specifying that the beaches are dry and sandy, which aligns with the known behavior of sea turtles. However, the reference answer is more concise. Despite the additional detail, the response does not introduce any inaccuracies.
+[RESULT]: 5

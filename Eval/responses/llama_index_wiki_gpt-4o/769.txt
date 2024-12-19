@@ -1,0 +1,5 @@
+[PROMPT]: Has Singapore a network of reservoirs and water catchment areas ?
+[USER_ANSWER]: Yes, Singapore has a network of reservoirs and water catchment areas.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Singapore has a network of reservoirs and water catchment areas, which aligns with the reference answer. However, it provides more detail than the reference answer, which is not necessary but does not detract from the correctness of the response.
+[RESULT]: 5

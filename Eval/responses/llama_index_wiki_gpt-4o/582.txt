@@ -1,0 +1,5 @@
+[PROMPT]: Can otters survive in cold water?
+[USER_ANSWER]: Yes, otters can survive in cold water. They have adaptations such as dense fur and a high metabolic rate that help them to maintain their body temperature in cold environments.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information about otters' adaptations, such as dense fur and a high metabolic rate, which are accurate and relevant to the question. This additional detail does not detract from the correctness of the response but rather enhances the understanding of how otters survive in cold water.
+[RESULT]: 5

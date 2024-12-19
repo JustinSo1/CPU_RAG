@@ -1,0 +1,5 @@
+[PROMPT]: Has it been created with a long term perspective to support the development of Qatar and the wider region , develop local and regional markets , and strengthen the links between the energy based economies and global financial markets ?
+[USER_ANSWER]: Yes, it has been created to support long-term development, develop local and regional markets, and strengthen links between energy-based economies and global financial markets.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It aligns with the reference answer by affirming that the initiative has been created with a long-term perspective to support development, develop markets, and strengthen links. However, the response includes additional details that were not present in the reference answer, which was simply "Yes." While these details are accurate, they are not necessary to meet the criteria of the reference answer.
+[RESULT]: 4

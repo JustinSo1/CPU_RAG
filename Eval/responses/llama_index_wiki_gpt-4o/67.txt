@@ -1,0 +1,5 @@
+[PROMPT]: Is a beetle's general anatomy uniform?
+[USER_ANSWER]: Beetle anatomy can vary significantly among different species. For example, the structural features such as leg length, palps, and body coloration can differ widely. Additionally, their internal structures, including brain morphology and nervous system organization, may also show considerable variation. Despite these differences, there are some common anatomical features that are shared among beetles, but the degree of variation suggests that their general anatomy is not entirely uniform.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provided is mostly correct and factual, as it accurately describes the variation in beetle anatomy among different species and acknowledges some common anatomical features. However, it does not align with the reference answer, which is a simple "Yes." The reference answer implies a more straightforward affirmation of uniformity, while the response elaborates on the variations, leading to a conclusion that their general anatomy is not entirely uniform. This discrepancy means the response is not completely correct based on the reference answer.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: What did The Legal Tender Act of 1862 establish?
+[USER_ANSWER]: The Legal Tender Act of 1862 established the issuance of paper currency known as "greenbacks" that were not backed by gold or silver but were declared to be legal tender for the payment of all public and private debts.
+[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
+[FEEDBACK]: The response accurately describes the issuance of paper currency known as "greenbacks" and their status as legal tender for all debts, which is a significant aspect of the Legal Tender Act of 1862. However, it does not explicitly mention that these were the first paper currency in United States history, which is a key detail in the reference answer. Therefore, while the response is mostly correct and factual, it lacks completeness in capturing the full scope of the reference answer.
+[RESULT]: 4

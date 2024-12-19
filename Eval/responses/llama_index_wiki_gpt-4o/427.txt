@@ -1,0 +1,5 @@
+[PROMPT]: Did John Adams support the Stamp Act of 1765?
+[USER_ANSWER]: No, John Adams did not support the Stamp Act of 1765.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It directly addresses the question and provides the correct information that John Adams did not support the Stamp Act of 1765.
+[RESULT]: 5

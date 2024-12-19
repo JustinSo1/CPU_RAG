@@ -1,0 +1,5 @@
+[PROMPT]: Who founded Montevideo?
+[USER_ANSWER]: Montevideo was founded by Bruno Mauricio de Zabala.
+[CORRECT_ANSWER]: The Spanish.
+[FEEDBACK]: The response "Montevideo was founded by Bruno Mauricio de Zabala" is not completely correct based on the reference answer "The Spanish." While Bruno Mauricio de Zabala was indeed a significant figure in the founding of Montevideo, the reference answer indicates that the founding was attributed to the Spanish as a collective group rather than an individual. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

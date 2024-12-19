@@ -1,0 +1,5 @@
+[PROMPT]: Where was the largest elephant ever recorded shot?
+[USER_ANSWER]: The largest elephant ever recorded was shot in Angola.
+[CORRECT_ANSWER]: Angola
+[FEEDBACK]: The response "The largest elephant ever recorded was shot in Angola." is mostly correct, accurate, and factual. It correctly identifies Angola as the location, which matches the reference answer. However, the additional information "The largest elephant ever recorded was shot" is not necessary and slightly deviates from the concise format of the reference answer.
+[RESULT]: 4

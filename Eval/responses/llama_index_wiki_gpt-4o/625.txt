@@ -1,0 +1,5 @@
+[PROMPT]: How much time to penguins spend on land?
+[USER_ANSWER]: There is no information provided on the time penguins spend on land.
+[CORRECT_ANSWER]: half of their life
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about the time penguins spend on land. The reference answer indicates that penguins spend half of their life on land, which is a specific and factual detail that the response fails to mention.
+[RESULT]: 1

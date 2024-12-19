@@ -1,0 +1,5 @@
+[PROMPT]: How did early naturalists distinguish between leopards and panthers?
+[USER_ANSWER]: Early naturalists distinguished between leopards and panthers based on different morphological features.
+[CORRECT_ANSWER]: by the length of their tails
+[FEEDBACK]: The response is somewhat correct, accurate, and factual. It mentions that early naturalists distinguished between leopards and panthers based on morphological features, which is a general statement that could encompass the specific feature mentioned in the reference answer (the length of their tails). However, it lacks the specific detail provided in the reference answer, making it less precise and informative.
+[RESULT]: 3

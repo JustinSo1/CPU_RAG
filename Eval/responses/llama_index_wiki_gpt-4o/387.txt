@@ -1,0 +1,5 @@
+[PROMPT]: What did James Monroe do before being elected governor?
+[USER_ANSWER]: James Monroe performed a carefully designed clinical trial in 1747 and concluded that oranges and lemons had the most antiscorbutic effect.
+[CORRECT_ANSWER]: He practiced law in Virginia.
+[FEEDBACK]: The response is completely incorrect and not factual. James Monroe did not perform a clinical trial in 1747; this information is unrelated to his actual activities before being elected governor. The correct answer is that he practiced law in Virginia.
+[RESULT]: 1

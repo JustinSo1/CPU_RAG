@@ -1,0 +1,5 @@
+[PROMPT]: What is the world population of Asian elephants?
+[USER_ANSWER]: The information about the world population of Asian elephants is not provided.
+[CORRECT_ANSWER]: 60000
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about the world population of Asian elephants. It states that the information is not provided, which is inaccurate as the reference answer clearly states the population is 60,000.
+[RESULT]: 1

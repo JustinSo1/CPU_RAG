@@ -1,0 +1,5 @@
+[PROMPT]: Is Matti Vanhanen the Prime Minister of Finland?
+[USER_ANSWER]: No, Matti Vanhanen is not the Prime Minister of Finland.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "No, Matti Vanhanen is not the Prime Minister of Finland." is completely incorrect based on the reference answer "yes." The reference answer indicates that Matti Vanhanen is indeed the Prime Minister of Finland, while the response states the opposite. Therefore, the response is not correct, accurate, or factual.
+[RESULT]: 1

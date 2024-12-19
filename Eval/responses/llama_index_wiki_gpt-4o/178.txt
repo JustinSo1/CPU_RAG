@@ -1,0 +1,5 @@
+[PROMPT]: What religions has Egypt outlawed?
+[USER_ANSWER]: No information is provided regarding which religions Egypt has outlawed.
+[CORRECT_ANSWER]: All but Christianity, Islam, and Judaism
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer specifies that Egypt has outlawed all religions except Christianity, Islam, and Judaism, while the response claims that no information is provided regarding which religions Egypt has outlawed. This directly contradicts the reference answer and does not provide any factual information.
+[RESULT]: 1

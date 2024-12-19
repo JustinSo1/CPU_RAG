@@ -1,0 +1,5 @@
+[PROMPT]: Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?
+[USER_ANSWER]: No, the Japanese invasion and subsequent occupation during WWII did not end Dutch rule.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the Japanese invasion and subsequent occupation during WWII did end Dutch rule, while the response states the opposite.
+[RESULT]: 1

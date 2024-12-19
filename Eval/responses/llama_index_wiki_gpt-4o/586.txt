@@ -1,0 +1,5 @@
+[PROMPT]: How much do sea otters weigh?
+[USER_ANSWER]: The average weight of sea otters is not provided in the context information.
+[CORRECT_ANSWER]: 30 kg (about 65 pounds)
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information about the average weight of sea otters. Instead, it states that the information is not provided, which is not an accurate answer to the question. The reference answer clearly states that sea otters weigh around 30 kg (about 65 pounds). Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

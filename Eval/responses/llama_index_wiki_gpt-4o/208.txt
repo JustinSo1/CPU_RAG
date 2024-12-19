@@ -1,0 +1,5 @@
+[PROMPT]: What are the elephant's ears important for?
+[USER_ANSWER]: The elephant's ears are important for regulating body temperature and facilitating social interaction.
+[CORRECT_ANSWER]: temperature regulation
+[FEEDBACK]: The response mentions that the elephant's ears are important for regulating body temperature, which is correct and aligns with the reference answer. However, it also includes an additional function, "facilitating social interaction," which is not mentioned in the reference answer. While the additional information is not incorrect, it is not part of the reference answer, making the response not completely aligned with the reference. Therefore, the response is mostly correct, accurate, and factual but not completely aligned with the reference answer.
+[RESULT]: 4

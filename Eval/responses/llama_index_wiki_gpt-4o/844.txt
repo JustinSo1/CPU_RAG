@@ -1,0 +1,5 @@
+[PROMPT]: Was Grant elected president as a Republican?
+[USER_ANSWER]: Yes, Grant was elected president as a Republican.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Grant was elected president as a Republican, which aligns with the reference answer. The additional detail provided does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Did Romania declare neutrality during World War I?
+[USER_ANSWER]: Romania did not declare neutrality during World War I; rather, it joined the Allies in 1916.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect based on the reference answer. The reference answer indicates that Romania declared neutrality during World War I, while the response states that Romania did not declare neutrality and joined the Allies in 1916. This contradicts the reference answer, making the response mostly inaccurate and not factual.
+[RESULT]: 2

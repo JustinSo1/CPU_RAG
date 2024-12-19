@@ -1,0 +1,5 @@
+[PROMPT]: Have penguins an average sense of hearing for birds ?
+[USER_ANSWER]: Yes, penguins have an average sense of hearing for birds.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that penguins have an average sense of hearing for birds, which aligns with the reference answer. However, the response includes additional information that was not present in the reference answer. While this additional information is not incorrect, it is not necessary for the response to be considered completely correct based on the reference answer.
+[RESULT]: 4

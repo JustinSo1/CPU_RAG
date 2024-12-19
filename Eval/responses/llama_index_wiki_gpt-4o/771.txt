@@ -1,0 +1,5 @@
+[PROMPT]: Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?
+[USER_ANSWER]: The given information does not provide any insight into whether the economy depends heavily on exports refining imported goods, especially in manufacturing.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response does not directly answer the question. Instead, it states that the given information does not provide insight into the economy's dependence on exports refining imported goods, especially in manufacturing. This is not aligned with the reference answer, which is a direct "No." Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

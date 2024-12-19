@@ -1,0 +1,5 @@
+[PROMPT]: hard
+[USER_ANSWER]: challenging
+[CORRECT_ANSWER]: hard
+[FEEDBACK]: The response "challenging" is somewhat correct and accurate as it conveys a similar meaning to "hard." However, it is not an exact match to the reference answer "hard." Therefore, it does not fully meet the criteria for complete correctness and accuracy.
+[RESULT]: 3

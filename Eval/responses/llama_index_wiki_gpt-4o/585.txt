@@ -1,0 +1,5 @@
+[PROMPT]: What do river otters eat?
+[USER_ANSWER]: The context provided does not contain specific information about the diet of river otters.
+[CORRECT_ANSWER]: a variety of fish and shellfish, as well as small land mammals and birds
+[FEEDBACK]: The response does not provide any information about the diet of river otters, which is the main focus of the question. Instead, it mentions the lack of context, which does not address the question directly. Therefore, the response is completely incorrect and does not align with the reference answer that specifies the diet of river otters.
+[RESULT]: 1

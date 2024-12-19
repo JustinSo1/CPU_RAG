@@ -1,0 +1,5 @@
+[PROMPT]: Is English the official language?
+[USER_ANSWER]: There is no information provided regarding the official language.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The question asks whether English is the official language, and the correct answer is simply "yes." The response provided does not address the question directly and instead states that there is no information provided, which is not true.
+[RESULT]: 1

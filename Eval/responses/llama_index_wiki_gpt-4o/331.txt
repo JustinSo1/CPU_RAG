@@ -1,0 +1,5 @@
+[PROMPT]: Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?
+[USER_ANSWER]: Yes, Cleveland's portrait was on the U.S. $1000 bill from 1928 to 1946.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Cleveland's portrait was on the U.S. $1000 bill from 1928 to 1946, which aligns with the reference answer. The additional detail provided does not detract from the accuracy of the response.
+[RESULT]: 5

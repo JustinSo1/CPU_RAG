@@ -1,0 +1,5 @@
+[PROMPT]: Is Liechtenstein bordered by Switzerland?
+[USER_ANSWER]: Yes, Liechtenstein is bordered by Switzerland.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, Liechtenstein is bordered by Switzerland." is completely correct, accurate, and factual. It provides the same information as the reference answer, with additional detail that does not detract from its correctness.
+[RESULT]: 5

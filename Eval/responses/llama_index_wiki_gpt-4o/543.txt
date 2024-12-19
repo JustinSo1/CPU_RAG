@@ -1,0 +1,5 @@
+[PROMPT]: Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?
+[USER_ANSWER]: Yes, there is a small heliport at Balzers in Liechtenstein that is available for charter helicopter flights.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional detail that is not necessary but does not detract from the correctness of the answer. The reference answer is more concise, but the evaluated response still fully meets the criteria for being correct and factual.
+[RESULT]: 5

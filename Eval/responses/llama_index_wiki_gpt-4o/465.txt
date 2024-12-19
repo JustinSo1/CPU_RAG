@@ -1,0 +1,5 @@
+[PROMPT]: What method of locomotion do Kangaroos Use?
+[USER_ANSWER]: Kangaroos use hopping as their method of locomotion.
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response "Kangaroos use hopping as their method of locomotion" is completely correct, accurate, and factual based on the reference answer "hopping." The response provides the same information as the reference answer, with a bit more detail, but it does not detract from the accuracy or correctness of the information.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Which Russian army general conquered Finland in 1809?
+[USER_ANSWER]: The Russian army general who conquered Finland in 1809 was General Barclay de Tolly.
+[CORRECT_ANSWER]: Alexander I
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is Alexander I, not General Barclay de Tolly.
+[RESULT]: 1

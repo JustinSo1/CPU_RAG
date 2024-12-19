@@ -1,0 +1,5 @@
+[PROMPT]: How often do turtles breed?
+[USER_ANSWER]: The context does not provide specific information regarding the breeding frequency of turtles.
+[CORRECT_ANSWER]: Every few years or more
+[FEEDBACK]: The response does not provide any factual information about the breeding frequency of turtles. Instead, it states that the context does not provide specific information, which does not address the question directly. The reference answer indicates that turtles breed every few years or more, which is a specific and factual statement. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

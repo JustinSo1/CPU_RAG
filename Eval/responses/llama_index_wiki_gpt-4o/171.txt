@@ -1,0 +1,5 @@
+[PROMPT]: What allows a duck to filter water out of the side of their beaks and keep food inside?
+[USER_ANSWER]: A duck is able to filter water out of the side of their beaks and keep food inside due to the presence of specialized structures in their beaks that function like a sieve.
+[CORRECT_ANSWER]: Tiny rows of plates called lamellae
+[FEEDBACK]: The response is somewhat correct and accurate. It mentions that ducks have specialized structures in their beaks that function like a sieve, which is a general description of the lamellae. However, it does not specifically name the "tiny rows of plates called lamellae," which is a crucial detail for full accuracy.
+[RESULT]: 3

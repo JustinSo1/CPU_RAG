@@ -1,0 +1,5 @@
+[PROMPT]: What is Monroe's daughter's name?
+[USER_ANSWER]: There is no information provided about Monroe's daughter.
+[CORRECT_ANSWER]: Maria Hester Monroe Gouverneur
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is "Maria Hester Monroe Gouverneur," but the response states that there is no information provided about Monroe's daughter, which is not true.
+[RESULT]: 1

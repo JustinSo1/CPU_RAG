@@ -1,0 +1,5 @@
+[PROMPT]: Do wolf pups tend to have darker fur than adults?
+[USER_ANSWER]: There is no information provided regarding the fur color of wolf pups compared to adults.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that wolf pups do tend to have darker fur than adults. The evaluated response, however, claims there is no information provided, which is not true.
+[RESULT]: 1

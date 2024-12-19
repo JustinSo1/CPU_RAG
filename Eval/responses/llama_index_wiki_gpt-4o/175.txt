@@ -1,0 +1,5 @@
+[PROMPT]: Is Egypt the most populated country in Africa?
+[USER_ANSWER]: No, Egypt is not the most populated country in Africa.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question with the same information as the reference answer, providing a clear and concise response.
+[RESULT]: 5

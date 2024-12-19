@@ -1,0 +1,5 @@
+[PROMPT]: When did he die?
+[USER_ANSWER]: He died on December 6.
+[CORRECT_ANSWER]: June 24 1908
+[FEEDBACK]: The response "He died on December 6" is completely incorrect and inaccurate based on the reference answer "June 24 1908." The date provided does not match the reference answer at all.
+[RESULT]: 1

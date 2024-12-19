@@ -1,0 +1,5 @@
+[PROMPT]: Which spice originally attracted Europeans to Indonesia?
+[USER_ANSWER]: The spice that originally attracted Europeans to Indonesia was not specified here.
+[CORRECT_ANSWER]: nutmeg, cloves, or cubeb pepper
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide any of the spices that originally attracted Europeans to Indonesia, such as nutmeg, cloves, or cubeb pepper. Instead, it states that the spice was not specified, which is not true based on the reference answer.
+[RESULT]: 1

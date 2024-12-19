@@ -1,0 +1,5 @@
+[PROMPT]: Is Liechtenstein the smallest German-speaking country in the world?
+[USER_ANSWER]: Yes, Liechtenstein is the smallest German-speaking country in the world.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides the same information as the reference answer, albeit with slightly more detail. The additional detail does not detract from the accuracy or correctness of the response.
+[RESULT]: 5

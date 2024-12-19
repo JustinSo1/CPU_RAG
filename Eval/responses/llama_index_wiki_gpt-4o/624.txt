@@ -1,0 +1,5 @@
+[PROMPT]: Are penguins afraid of humans?
+[USER_ANSWER]: It is not clear whether penguins are afraid of humans.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response "It is not clear whether penguins are afraid of humans" is somewhat correct but not entirely accurate or factual based on the reference answer "no." The reference answer clearly states that penguins are not afraid of humans, while the response suggests uncertainty. Therefore, the response does not fully align with the reference answer.
+[RESULT]: 3

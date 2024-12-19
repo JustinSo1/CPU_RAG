@@ -1,0 +1,5 @@
+[PROMPT]: May a single female lay from several dozen to several thousand eggs during her lifetime ?
+[USER_ANSWER]: Yes, a single female may lay from several dozen to several thousand eggs during her lifetime.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides additional detail that aligns with the information in the reference answer.
+[RESULT]: 5

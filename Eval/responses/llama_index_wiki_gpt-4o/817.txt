@@ -1,0 +1,5 @@
+[PROMPT]: What are turtle eggs covered in when they incubate?
+[USER_ANSWER]: Turtle eggs are covered in a protective foam environment when they incubate.
+[CORRECT_ANSWER]: Mud or Sand
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. Turtle eggs are covered in mud or sand when they incubate, not a protective foam environment.
+[RESULT]: 1

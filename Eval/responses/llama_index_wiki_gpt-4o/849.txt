@@ -1,0 +1,5 @@
+[PROMPT]: Did Grant & Perkins not sell harnesses , saddles , and other leather goods and purchase hides from farmers in the prosperous Galena area ?
+[USER_ANSWER]: The information does not provide details regarding whether Grant & Perkins sold harnesses, saddles, and other leather goods or purchased hides from farmers in the Galena area.
+[CORRECT_ANSWER]: they did
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Grant & Perkins did sell harnesses, saddles, and other leather goods and purchased hides from farmers in the Galena area, while the response claims that the information does not provide details regarding these activities. This directly contradicts the reference answer.
+[RESULT]: 1

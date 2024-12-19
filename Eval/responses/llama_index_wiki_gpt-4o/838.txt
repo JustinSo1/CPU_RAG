@@ -1,0 +1,5 @@
+[PROMPT]: Why did Grant think that war was unjust?
+[USER_ANSWER]: There is no information provided regarding Grant's views on the justice of war.
+[CORRECT_ANSWER]: He thought it was designed to gain land open to slavery.
+[FEEDBACK]: The response is completely incorrect and does not provide any information about Grant's views on the justice of war. It fails to address the question and does not align with the reference answer, which states that Grant thought war was designed to gain land open to slavery.
+[RESULT]: 1
