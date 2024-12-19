@@ -1,0 +1,7 @@
+[PROMPT]: How do elephants communicate over long distances?
+[USER_ANSWER]: 
+The provided text does not contain information about how elephants communicate over long distances. 
+
+[CORRECT_ANSWER]: by producing and receiving low frequency sound
+[FEEDBACK]: The response does not address the question of how elephants communicate over long distances. Instead, it states that the provided text does not contain the information, which is not relevant to the task. The response is completely incorrect and does not provide any factual information about elephant communication.
+[RESULT]: 1

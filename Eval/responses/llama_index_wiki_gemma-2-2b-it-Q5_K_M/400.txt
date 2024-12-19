@@ -1,0 +1,7 @@
+[PROMPT]: What dwindled and eventually died out, starting with the Hartford Convention?
+[USER_ANSWER]: 
+SSPE (Subacute Sclerosing Panencephalitis) 
+
+[CORRECT_ANSWER]: The Federalist Party
+[FEEDBACK]: The response "SSPE (Subacute Sclerosing Panencephalitis)" is completely incorrect, inaccurate, and not factual based on the reference answer "The Federalist Party." The Hartford Convention is historically associated with the decline of the Federalist Party, not a medical condition like SSPE.
+[RESULT]: 1

@@ -1,0 +1,16 @@
+[PROMPT]: Are kangaroos farmed to any extent?
+[USER_ANSWER]: 
+Based on the provided context, the answer is **no**. 
+
+Here's why:
+
+* **Wallaroos and Euros:** The text mentions "Wallaroos (Macropus robustus robustus), which have the G6PD-F electrophoretic phenotype, crossed with euros (M.r.erubescens), of G6PD-S phenotype, produced F1 animals which had only the maternal G6PD type regardless of the direction of the cross." This suggests that kangaroos are used for breeding purposes, but not for farming.
+* **Focus on Genetics:** The text focuses on the genetic inheritance of G6PD genes in kangaroos and their relationship to other species like wallaroos and euros. 
+* **No mention of Farming:** There is no mention of kangaroos being farmed or raised for commercial purposes. 
+
+
+Let me know if you have any other questions. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is mostly correct in stating that kangaroos are not farmed, which aligns with the reference answer. However, the additional explanation provided is somewhat misleading and unnecessary. The mention of wallaroos, euros, and genetic inheritance does not directly address the question about farming and could confuse the reader. The response would be more accurate and factual if it simply stated "no" without the extraneous details.
+[RESULT]: 4

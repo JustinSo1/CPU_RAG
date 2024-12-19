@@ -1,0 +1,15 @@
+[PROMPT]: How do reservoirs and water relate?
+[USER_ANSWER]: 
+The provided text does not contain information about reservoirs and water's relationship. 
+The text focuses on:
+* **Submergence tolerance in wetland species:**  The study investigates how different species respond to being submerged in water.
+* **Complex coacervation:** This is a process of liquid/liquid phase separation used in encapsulation.
+* **Katayama fever:** This is a disease caused by Schistosoma mansoni infection. 
+* **Lipid droplet proteins:** These proteins are linked to cell membrane and metabolism. 
+
+
+Therefore, the provided text does not offer any information about reservoirs and water's relationship. 
+
+[CORRECT_ANSWER]: By 2001, there were 19 raw water reservoirs, 9 treatment works and 14 storage or service reservoirs locally to serve domestic needs. 
+[FEEDBACK]: The response does not address the relationship between reservoirs and water at all. Instead, it discusses unrelated topics such as submergence tolerance in wetland species, complex coacervation, Katayama fever, and lipid droplet proteins. This makes the response completely incorrect and inaccurate based on the reference answer, which specifically mentions the number of raw water reservoirs, treatment works, and storage reservoirs serving domestic needs.
+[RESULT]: 1

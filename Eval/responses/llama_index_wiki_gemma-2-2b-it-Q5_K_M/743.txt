@@ -1,0 +1,7 @@
+[PROMPT]: How much increase in the media's contribution to GDP is the government seeking?
+[USER_ANSWER]: 
+The provided text does not contain information about the government's desired increase in media's contribution to GDP. 
+
+[CORRECT_ANSWER]: The government seeks to increase its GDP contribution to 3% by 2012. 
+[FEEDBACK]: The response does not provide the specific information about the government's desired increase in media's contribution to GDP, which is to increase it to 3% by 2012. Instead, it states that the provided text does not contain this information, which is not accurate based on the reference answer. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

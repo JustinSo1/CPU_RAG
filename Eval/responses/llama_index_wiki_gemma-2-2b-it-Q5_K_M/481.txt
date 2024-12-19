@@ -1,0 +1,13 @@
+[PROMPT]: What kinds of changes have larger kangaroos adapted much better to?
+[USER_ANSWER]: 
+The provided text does not explicitly state which kinds of changes larger kangaroos have adapted to better. 
+It does, however, mention that the size variation observed in kangaroos is likely due to a combination of factors, including:
+* **Environmental factors:** such as aridity and seasonal changes.
+* **Genetic factors:** such as sex-linked inheritance of G6PD genes.
+* **Sexual selection:** which may have played a role in shaping the size variation.
+
+
+
+[CORRECT_ANSWER]: Changes wrought to the Australian landscape by humans.
+[FEEDBACK]: The response does not address the specific question about the kinds of changes larger kangaroos have adapted to better. Instead, it discusses factors contributing to size variation in kangaroos, which is not relevant to the question. The reference answer clearly states that the changes are those wrought to the Australian landscape by humans, which is not mentioned in the response. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

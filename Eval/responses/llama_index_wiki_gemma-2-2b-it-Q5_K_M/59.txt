@@ -1,0 +1,20 @@
+[PROMPT]: Do beetles antennae function primarily as organs of smell?
+[USER_ANSWER]: 
+Based on the provided context, we can't definitively say whether beetle antennae primarily function as organs of smell. 
+
+Here's why:
+
+* **Focus on Olfactory Systems:** The context primarily discusses insect olfactory systems, specifically focusing on:
+    * Odorant receptors (ORs) and their function in ion channels.
+    * The role of Orco (a co-receptor) in OR function.
+    * The use of electrophysiology to study OR channel properties.
+    * The role of transcription factors in development and function of olfactory systems.
+* **General Insect Olfaction:** The context mentions that insect antennae are involved in olfactory reception, but it doesn't specify the primary function of antennae in beetles. 
+* **Beetles are Diverse:**  Beetles are a diverse group of insects, and their antennae may have different functions depending on the species.
+
+
+**To answer your question definitively, you would need to research the specific olfactory system of a particular beetle species.** 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is somewhat correct and accurate but not entirely factual. While it provides a detailed explanation about the general olfactory systems in insects and the diversity of beetles, it does not directly answer the question with a clear "yes" or "no." The reference answer is a straightforward "yes," indicating that beetle antennae do primarily function as organs of smell. The response overcomplicates the answer and does not align with the simplicity and directness of the reference answer. Therefore, it does not fully meet the criteria for being mostly correct, accurate, and factual.
+[RESULT]: 3

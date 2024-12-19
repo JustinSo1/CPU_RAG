@@ -1,0 +1,9 @@
+[PROMPT]: What do beetles eat?
+[USER_ANSWER]: 
+The provided text discusses the feeding habits of various insects, including weevils, stink bugs, and beetles. 
+It mentions that beetles are a diverse group of organisms with a wide range of diets. 
+However, the text does not provide specific information about what beetles eat. 
+
+[CORRECT_ANSWER]: Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.
+[FEEDBACK]: The response provides some context about the diversity of beetles and their diets, which is accurate. However, it fails to specify what beetles eat, which is a crucial part of the instruction. The reference answer clearly states that some beetles are generalists, eating both plants and animals, while others have specialized diets. The evaluated response does not include this specific information, making it incomplete and less accurate compared to the reference answer.
+[RESULT]: 3

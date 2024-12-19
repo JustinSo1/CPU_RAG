@@ -1,0 +1,7 @@
+[PROMPT]: Is Liechtenstein heavily urbanized?
+[USER_ANSWER]: 
+The provided text does not contain information about the level of urbanization in Liechtenstein. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response does not directly answer the question about the level of urbanization in Liechtenstein. Instead, it states that the provided text does not contain information about urbanization, which is not relevant to the question. The reference answer is a simple "No," indicating that Liechtenstein is not heavily urbanized. The response fails to provide this information and is therefore not accurate or factual based on the reference answer.
+[RESULT]: 1

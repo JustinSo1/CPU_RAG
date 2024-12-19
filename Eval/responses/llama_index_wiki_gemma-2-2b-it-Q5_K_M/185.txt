@@ -1,0 +1,7 @@
+[PROMPT]: Does Egypt's foreign policy operates along moderate lines?
+[USER_ANSWER]: 
+The provided text does not contain information about Egypt's foreign policy. Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not address the question directly and fails to provide an answer about Egypt's foreign policy. It states that the provided text does not contain information, which is not relevant to the question asked. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

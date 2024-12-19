@@ -1,0 +1,7 @@
+[PROMPT]: Do penguins feed on krill?
+[USER_ANSWER]: 
+The provided text does not contain information about penguins and their diet. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether penguins feed on krill. Instead, it states that the provided text does not contain information about penguins and their diet, which is not relevant to the question asked. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

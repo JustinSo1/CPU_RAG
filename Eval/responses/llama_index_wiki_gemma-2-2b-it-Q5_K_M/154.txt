@@ -1,0 +1,9 @@
+[PROMPT]: Who is Daffy Duck?
+[USER_ANSWER]: 
+The provided text does not contain any information about Daffy Duck. 
+
+
+
+[CORRECT_ANSWER]: A silly cartoon character
+[FEEDBACK]: The response does not provide any information about Daffy Duck, which makes it completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Daffy Duck is a silly cartoon character, but the response fails to mention this or provide any relevant details.
+[RESULT]: 1

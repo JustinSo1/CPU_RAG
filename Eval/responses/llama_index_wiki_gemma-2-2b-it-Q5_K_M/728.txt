@@ -1,0 +1,14 @@
+[PROMPT]: What do economy and law have in common?
+[USER_ANSWER]: 
+The text provides several points of comparison between economic games and legal systems in the early Middle Ages. 
+Specifically, it highlights the following similarities:
+* **Catalog of Forfeits:** The text mentions that legal systems in the early Middle Ages had detailed catalogs of forfeits for physical injuries. These catalogs reflected the relative value assigned to different parts of the body and sensory functions.
+* **Modern Grades of Disability:** The text compares the Lex Saxonum, a catalog of injuries from the 8th century, with modern grades of disability. This comparison reveals surprising parallels and interesting contrasts.
+* **Economic Games:** The text suggests that economic games in psychiatric research and clinical practice could potentially have an impact on understanding psychiatric conditions like depression and hikikomori.
+
+
+Therefore, the common ground between economy and law is the use of **catalogs of forfeits** to **assess the relative value of different parts of the body and sensory functions** in the context of **compensation for physical injuries**. 
+
+[CORRECT_ANSWER]: (not sure how to answer this)
+[FEEDBACK]: The response provides a detailed comparison between economic games and legal systems in the early Middle Ages, focusing on catalogs of forfeits and their modern equivalents. However, the reference answer indicates uncertainty about how to answer the question, suggesting that the response may be overcomplicating the issue. The response is somewhat correct in identifying a common ground, but it introduces additional context that may not be necessary or entirely relevant to the question. Therefore, the response is somewhat accurate but not fully aligned with the reference answer's simplicity and directness.
+[RESULT]: 3

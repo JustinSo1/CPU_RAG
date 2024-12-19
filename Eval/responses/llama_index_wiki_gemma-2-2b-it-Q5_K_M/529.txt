@@ -1,0 +1,7 @@
+[PROMPT]: What is the official language of Liechtenstein?
+[USER_ANSWER]: 
+The provided text does not contain information about the official language of Liechtenstein. 
+
+[CORRECT_ANSWER]: German.
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain the information, which is not relevant to the question asked. The response is completely incorrect and does not address the question about the official language of Liechtenstein.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Are Gray Wolves native to North America?
+[USER_ANSWER]: 
+The provided text does not contain information about Gray Wolves. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question about whether Gray Wolves are native to North America. Instead, it states that the provided text does not contain information about Gray Wolves, which is irrelevant to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

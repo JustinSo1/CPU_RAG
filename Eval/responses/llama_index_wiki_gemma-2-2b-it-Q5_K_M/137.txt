@@ -1,0 +1,8 @@
+[PROMPT]: Is it true that provinces have a large degree of autonomy?
+[USER_ANSWER]: 
+The provided text does not contain information about the degree of autonomy of provinces. 
+Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about the degree of autonomy of provinces. Instead, it states that the provided text does not contain the information needed to answer the query. This makes the response not factual or accurate in relation to the reference answer, which is a simple "yes." The response fails to address the question directly and does not provide the correct information.
+[RESULT]: 1

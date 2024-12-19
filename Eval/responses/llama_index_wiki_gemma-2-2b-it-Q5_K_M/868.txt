@@ -1,0 +1,7 @@
+[PROMPT]: How many times has Uruguay won the World Cup?
+[USER_ANSWER]: 
+The provided text does not contain information about the number of times Uruguay has won the World Cup. 
+
+[CORRECT_ANSWER]: Twice. 
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain the information, which is not relevant to the instruction. The correct answer is "Twice." Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

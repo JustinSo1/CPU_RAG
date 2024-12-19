@@ -1,0 +1,9 @@
+[PROMPT]: Where did a suicide-bombing kill a teacher in 2005?
+[USER_ANSWER]: 
+The provided text does not contain information about a suicide-bombing killing a teacher in 2005. 
+
+
+
+[CORRECT_ANSWER]: At the Doha Players Theatre.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer specifies that the suicide-bombing killing a teacher in 2005 occurred at the Doha Players Theatre, while the response claims that the provided text does not contain this information. This indicates a lack of factual accuracy and correctness in the response.
+[RESULT]: 1

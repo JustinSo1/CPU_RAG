@@ -1,0 +1,7 @@
+[PROMPT]: What was Adams' political party?
+[USER_ANSWER]: 
+The provided text does not contain any information about Adams' political party. 
+
+[CORRECT_ANSWER]: The Federalist Party.
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that the provided text does not contain any information about Adams' political party, which is not relevant to the question asked. The correct answer, as indicated in the reference answer, is "The Federalist Party." The response does not provide any factual information about Adams' political party.
+[RESULT]: 1

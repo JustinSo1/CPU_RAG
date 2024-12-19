@@ -1,0 +1,7 @@
+[PROMPT]: Why are penguins countershaded?
+[USER_ANSWER]: 
+The provided text does not contain information about penguins or countershading. 
+
+[CORRECT_ANSWER]: for camouflage
+[FEEDBACK]: The response does not address the question about why penguins are countershaded. It states that the provided text does not contain information about penguins or countershading, which is irrelevant to the question asked. The response is completely incorrect and does not provide any factual information related to the question.
+[RESULT]: 1

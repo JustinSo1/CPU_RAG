@@ -1,0 +1,8 @@
+[PROMPT]: How do turtles reproduce?
+[USER_ANSWER]: 
+The provided text does not contain information about how turtles reproduce. 
+It focuses on the genomic analysis of turtles and their evolutionary relationships with other reptiles. 
+
+[CORRECT_ANSWER]: They lay eggs
+[FEEDBACK]: The response does not address the question of how turtles reproduce. Instead, it mentions genomic analysis and evolutionary relationships, which are unrelated to the reproduction process of turtles. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

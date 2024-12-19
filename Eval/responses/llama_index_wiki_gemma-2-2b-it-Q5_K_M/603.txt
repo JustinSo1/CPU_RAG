@@ -1,0 +1,9 @@
+[PROMPT]: Why is the giant otter becoming increasingly rare?
+[USER_ANSWER]: 
+The provided text does not contain information about the giant otter becoming increasingly rare. 
+
+
+
+[CORRECT_ANSWER]: Poaching, habitat loss, and toxins in gold mining.  
+[FEEDBACK]: The response does not address the question about why the giant otter is becoming increasingly rare. It fails to mention any of the factors such as poaching, habitat loss, or toxins in gold mining, which are crucial to the reference answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

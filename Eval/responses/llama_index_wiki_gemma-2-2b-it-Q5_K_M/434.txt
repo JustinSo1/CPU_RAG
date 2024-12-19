@@ -1,0 +1,9 @@
+[PROMPT]: What information did he record in his diary?
+[USER_ANSWER]: 
+The provided text does not specify what information was recorded in the diary. 
+It only mentions that pre- and post-assessment data were collected via online questionnaires and daily sleep diaries. 
+It also mentions that the diary was used for diabetic patients to document their health maintenance data (i.e. blood glucose levels, meal intake, and exercise). 
+
+[CORRECT_ANSWER]: Descriptions of events and ompressions of men
+[FEEDBACK]: The response does not align with the reference answer, which specifies that the diary contained descriptions of events and impressions of men. Instead, the response discusses pre- and post-assessment data, online questionnaires, and health maintenance data for diabetic patients, which are not mentioned in the reference answer. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

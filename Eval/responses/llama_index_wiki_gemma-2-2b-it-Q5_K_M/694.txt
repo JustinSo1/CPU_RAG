@@ -1,0 +1,14 @@
+[PROMPT]: How do qatar and the wider region relate?
+[USER_ANSWER]: 
+The text mentions that Qatar is a part of the Weill Cornell Medicine in Qatar, and that the Qatar Biomedical Research Institute is located in Doha, Qatar. 
+It also mentions that the Department of Genetic Medicine is located in Doha, Qatar. 
+The text also mentions that the study of the impact of OHRQoL was conducted in Al Zulfi, which is in the Kingdom of Saudi Arabia. 
+The text also mentions that the study of the impact of OHRQoL was conducted in Al Zulfi, which is in the Kingdom of Saudi Arabia. 
+The text also mentions that the study of the impact of OHRQoL was conducted in Al Zulfi, which is in the Kingdom of Saudi Arabia. 
+The text also mentions that the study of the impact of OHRQoL was conducted in Al Zulfi, which is in the Kingdom of Saudi Arabia. 
+The text also mentions that the study of the impact of OHRQoL was conducted in Al Zulfi, which is in the Kingdom of Saudi Arabia. 
+The text also mentions that the study of the impact of OHRQoL was conducted in Al Zulfi, which is in the Kingdom of Saudi Arabia. 
+The text also mentions that the
+[CORRECT_ANSWER]: Qatar is aiming to become a role model for economic and social transformation in the region. Large scale investment in all social and economic sectors will also lead to the development of a strong financial market.
+[FEEDBACK]: The response provided does not address the instruction about how Qatar and the wider region relate. Instead, it repeatedly mentions the location of various institutions and studies, which is irrelevant to the question. The response is not correct, accurate, or factual based on the reference answer, which discusses Qatar's role in economic and social transformation in the region.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Who determined the dependence of the boiling of water with atmospheric pressure?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Anders Celsius
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct answer to the question, which is "Anders Celsius." Instead, it states that the provided text does not contain the answer, which is not relevant to the instruction given.
+[RESULT]: 1

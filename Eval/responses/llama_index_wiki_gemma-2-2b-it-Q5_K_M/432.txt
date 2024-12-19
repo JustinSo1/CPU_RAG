@@ -1,0 +1,9 @@
+[PROMPT]: Who were the midnight judges?
+[USER_ANSWER]: 
+The provided text does not contain information about "midnight judges". 
+
+
+
+[CORRECT_ANSWER]: They were a series of judges, so called because most of them were formally appointed days before Adams' presidential term expired
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about the "midnight judges." It fails to address the question and does not align with the reference answer, which explains that the midnight judges were appointed just before Adams' presidential term ended.
+[RESULT]: 1

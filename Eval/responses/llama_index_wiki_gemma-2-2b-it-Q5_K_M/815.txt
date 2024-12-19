@@ -1,0 +1,7 @@
+[PROMPT]: Where do sea turtles lay their eggs?
+[USER_ANSWER]: 
+The provided text does not contain information about where sea turtles lay their eggs. 
+
+[CORRECT_ANSWER]: Holes Dug into the Mud or Sand
+[FEEDBACK]: The response does not provide any information about where sea turtles lay their eggs, which is the main focus of the question. It states that the provided text does not contain the information, but it does not answer the question itself. Therefore, it is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

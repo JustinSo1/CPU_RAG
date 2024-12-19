@@ -1,0 +1,7 @@
+[PROMPT]: Garbage is what?
+[USER_ANSWER]: 
+Garbage is not mentioned in the context information. 
+
+[CORRECT_ANSWER]: Garbage is now recycled or transported to Thompson, Manitoba.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer provides specific information about garbage being recycled or transported to Thompson, Manitoba, while the response states that garbage is not mentioned in the context information, which is factually incorrect.
+[RESULT]: 1

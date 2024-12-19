@@ -1,0 +1,7 @@
+[PROMPT]: What is the poulation of Egypt?
+[USER_ANSWER]: 
+The provided text does not contain the population of Egypt. 
+
+[CORRECT_ANSWER]: more than 78 million
+[FEEDBACK]: The response does not provide any information about the population of Egypt, which is the main requirement of the instruction. It states that the provided text does not contain the population of Egypt, which is not relevant to the task. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

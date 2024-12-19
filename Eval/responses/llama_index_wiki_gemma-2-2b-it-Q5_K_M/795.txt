@@ -1,0 +1,7 @@
+[PROMPT]: What shape are the eggs of the larest species of turtle?
+[USER_ANSWER]: 
+The provided text does not contain information about the shape of the eggs of the largest turtle species. 
+
+[CORRECT_ANSWER]: Spherical
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about the shape of the eggs of the largest turtle species. The correct answer is "spherical," but the response fails to address this.
+[RESULT]: 1

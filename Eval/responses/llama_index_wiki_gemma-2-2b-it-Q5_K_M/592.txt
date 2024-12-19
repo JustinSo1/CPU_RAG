@@ -1,0 +1,10 @@
+[PROMPT]: Do otters live in water?
+[USER_ANSWER]: 
+Yes, the context information states that "The cone snail releases insulin into the surrounding water and then engulfs its victim with its mouth. This induces dangerously low blood sugar levels in the fish and so makes them an easy target." 
+This implies that otters live in water. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct or accurate. The context information provided about the cone snail and its method of capturing prey is irrelevant to the question about otters living in water. The response does not directly answer the question and instead provides unrelated information, leading to an incorrect conclusion. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

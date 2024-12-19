@@ -1,0 +1,12 @@
+[PROMPT]: Name four related articles for the article on turtles.
+[USER_ANSWER]: 
+1.  **A recent analysis of shared microRNA families found that turtles are more closely related to lepidosaurs.** This article likely discusses the microRNA analysis and its implications for the phylogenetic position of turtles.
+2.  **The phylogeny of turtles and their relationship to other reptiles.** This article would likely focus on the phylogenetic analysis and the resulting tree of life for turtles.
+3.  **The genomic-scale analysis of turtles.** This article would likely discuss the methods used in the genomic analysis and the results obtained.
+4.  **Comparative analysis of gene expression in turtles and other vertebrates.** This article would likely focus on the comparison of gene expression patterns between turtles and other vertebrates, potentially highlighting the evolutionary adaptations of turtles. 
+
+
+
+[CORRECT_ANSWER]: Triassic, Ernst Haeckel, Kunstformen der Natur, Animal
+[FEEDBACK]: The response provides four articles that are related to the topic of turtles, focusing on their phylogeny, genomic analysis, and gene expression. However, the reference answer lists articles that are more general and historical in nature, such as "Triassic," "Ernst Haeckel," "Kunstformen der Natur," and "Animal." The response does not align with the reference answer in terms of the type of articles listed. Therefore, the response is somewhat correct and factual but does not fully match the reference answer's context.
+[RESULT]: 3

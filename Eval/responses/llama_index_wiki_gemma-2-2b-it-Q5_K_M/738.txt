@@ -1,0 +1,7 @@
+[PROMPT]: Did the media contribute 15.6% to Singapore's GDP in 2001?
+[USER_ANSWER]: 
+The provided text does not contain information about Singapore's GDP in 2001 or the media's contribution to it. Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: No, it contributed 1.56% to GDP in 2001.
+[FEEDBACK]: The response does not provide the correct information regarding the media's contribution to Singapore's GDP in 2001. Instead, it states that the provided text does not contain the necessary information, which is not relevant to the question asked. The correct answer should have been that the media contributed 1.56% to GDP in 2001. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

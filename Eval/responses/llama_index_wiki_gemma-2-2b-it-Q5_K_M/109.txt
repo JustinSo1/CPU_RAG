@@ -1,0 +1,7 @@
+[PROMPT]: What fraternity was Coolidge a member of?
+[USER_ANSWER]: 
+The provided text does not contain information about whether Coolidge was a member of a fraternity. 
+
+[CORRECT_ANSWER]: Phi Gamma Delta
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information that Coolidge was a member of Phi Gamma Delta fraternity. Instead, it incorrectly states that the provided text does not contain the information, which is not relevant to the question asked.
+[RESULT]: 1

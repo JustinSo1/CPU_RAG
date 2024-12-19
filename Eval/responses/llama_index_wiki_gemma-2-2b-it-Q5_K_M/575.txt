@@ -1,0 +1,7 @@
+[PROMPT]: Was Fillmore the first U.S. President born after the death of a former president ?
+[USER_ANSWER]: 
+The provided text does not contain information about U.S. Presidents or their birthdates. Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and fails to provide the correct answer. The reference answer is a simple "yes," indicating that the correct response should affirm that Fillmore was the first U.S. President born after the death of a former president. The evaluated response instead states that the provided text does not contain information about U.S. Presidents or their birthdates, which is irrelevant to the question asked. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

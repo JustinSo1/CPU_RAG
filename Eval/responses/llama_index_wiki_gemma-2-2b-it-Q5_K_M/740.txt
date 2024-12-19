@@ -1,0 +1,8 @@
+[PROMPT]: Where did Orang Laut people live?
+[USER_ANSWER]: 
+The provided text does not mention where Orang Laut people live. 
+It does mention the Andaman coast and the presence of puffers in the Andaman seas. 
+
+[CORRECT_ANSWER]: Orang Laut people lived around the coast, rivers and smaller islands.
+[FEEDBACK]: The response is mostly incorrect and inaccurate. It states that the provided text does not mention where the Orang Laut people live, which is not relevant to the instruction. The instruction asks for information about where the Orang Laut people lived, and the response does not provide this information. The reference answer clearly states that the Orang Laut people lived around the coast, rivers, and smaller islands, which the response fails to mention. Therefore, the response does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[RESULT]: 2

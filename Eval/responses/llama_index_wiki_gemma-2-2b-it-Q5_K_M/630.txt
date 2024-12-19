@@ -1,0 +1,16 @@
+[PROMPT]: Are penguins considered "higher waterbirds"?
+[USER_ANSWER]: 
+Based on the provided context, the answer is **yes**. 
+
+Here's why:
+
+* **"Monophyletic waterbird and landbird clades"**: This suggests a classification system that groups birds based on evolutionary relationships, with penguins belonging to a waterbird clade.
+* **"Waterbirds"**: The text specifically mentions "waterbirds" as a clade. 
+* **"Higher waterbirds"**: The text doesn't explicitly define "higher waterbirds," but it implies a hierarchy within the waterbird clade.
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct and accurate, as it concludes that penguins are considered "higher waterbirds" based on the provided context. However, the additional explanation provided is somewhat speculative and not entirely necessary, as the reference answer is a simple "yes." The response could be more concise and directly aligned with the reference answer.
+[RESULT]: 4

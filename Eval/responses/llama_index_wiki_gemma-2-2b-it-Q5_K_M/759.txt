@@ -1,0 +1,8 @@
+[PROMPT]: Who did Sir Thomas Stamford Raffles work for?
+[USER_ANSWER]: 
+The provided text does not contain information about Sir Thomas Stamford Raffles. 
+Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: British East India Company
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain information about Sir Thomas Stamford Raffles, which is not relevant to the question asked. The correct answer, "British East India Company," is not mentioned at all. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

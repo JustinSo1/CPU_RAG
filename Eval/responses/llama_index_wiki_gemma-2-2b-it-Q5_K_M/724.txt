@@ -1,0 +1,10 @@
+[PROMPT]: Why wasn't Romania neutral during World War II?
+[USER_ANSWER]: 
+
+The provided text does not contain information about Romania's neutrality during World War II. 
+
+
+
+[CORRECT_ANSWER]: it received a Soviet ultimatum
+[FEEDBACK]: The response does not address the question about why Romania wasn't neutral during World War II. It fails to provide any factual information related to the Soviet ultimatum, which is the key reason mentioned in the reference answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

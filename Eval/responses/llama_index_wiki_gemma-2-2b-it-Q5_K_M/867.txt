@@ -1,0 +1,7 @@
+[PROMPT]: Why was the capital of Uruguay founded?
+[USER_ANSWER]: 
+The provided text does not contain the answer to why the capital of Uruguay was founded. 
+
+[CORRECT_ANSWER]: For a military stronghold.
+[FEEDBACK]: The response does not address the question of why the capital of Uruguay was founded. It states that the provided text does not contain the answer, which is not relevant to the instruction. The response is completely incorrect and does not provide any factual information related to the founding of the capital of Uruguay.
+[RESULT]: 1

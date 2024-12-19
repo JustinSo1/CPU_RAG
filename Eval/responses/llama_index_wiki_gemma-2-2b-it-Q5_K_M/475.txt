@@ -1,0 +1,13 @@
+[PROMPT]: Different species of kangaroos eat what?
+[USER_ANSWER]: 
+The provided text does not explicitly state what different species of kangaroos eat. 
+However, it does mention that:
+* **Wallaroos (Macropus robustus robustus)** have a G6PD-F phenotype.
+* **Euros (M.r.erubescens)** have a G6PD-S phenotype.
+* **Red kangaroos (M. rufus)** also exhibit sex-linked inheritance of G6PD genes. 
+
+
+
+[CORRECT_ANSWER]: different diets
+[FEEDBACK]: The response does not address the question about what different species of kangaroos eat. Instead, it provides information about the G6PD phenotypes of different kangaroo species, which is unrelated to their diets. Therefore, the response is completely incorrect and does not align with the reference answer, which simply states "different diets."
+[RESULT]: 1

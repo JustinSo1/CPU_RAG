@@ -1,0 +1,11 @@
+[PROMPT]: Are many beetles territorial?
+[USER_ANSWER]: 
+The provided text discusses the territorial behavior of the brown marmorated stink bug (Halyomorpha halys) and the tiger beetles in the genus Cicindela. 
+It does not provide information about the territorial behavior of other beetles. 
+Therefore, we cannot answer the query based on the provided context. 
+
+
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not directly answer the question "Are many beetles territorial?" Instead, it discusses the territorial behavior of specific beetles and concludes that the provided context does not allow for a definitive answer. This approach is not aligned with the reference answer, which is a straightforward "Yes." Therefore, the response is mostly incorrect and does not provide the necessary factual information to answer the question accurately.
+[RESULT]: 2

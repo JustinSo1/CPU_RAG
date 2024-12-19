@@ -1,0 +1,7 @@
+[PROMPT]: Where was Grant born?
+[USER_ANSWER]: 
+The provided text does not mention where Grant was born. 
+
+[CORRECT_ANSWER]: Point Pleasant, Ohio
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Grant was born in Point Pleasant, Ohio, while the response claims that the provided text does not mention where Grant was born. This indicates a lack of factual accuracy and correctness in the response.
+[RESULT]: 1

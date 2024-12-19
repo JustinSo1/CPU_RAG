@@ -1,0 +1,9 @@
+[PROMPT]: Have there been other US presidents that have visited Cuba?
+[USER_ANSWER]: 
+The provided text does not contain information about US presidents visiting Cuba. 
+
+
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response does not directly answer the question about whether other US presidents have visited Cuba. Instead, it states that the provided text does not contain information about US presidents visiting Cuba, which is not relevant to the question asked. The reference answer is a simple "No," which directly addresses the question. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 1

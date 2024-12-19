@@ -1,0 +1,8 @@
+[PROMPT]: Is the capital city Oslo?
+[USER_ANSWER]: 
+Yes. 
+---------------------
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response "Yes." is completely incorrect, inaccurate, and not factual based on the reference answer, which is "no." The reference answer indicates that the correct response should be "no," while the given response states "Yes," which is the opposite of the correct answer.
+[RESULT]: 1

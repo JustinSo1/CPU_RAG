@@ -1,0 +1,8 @@
+[PROMPT]: Was Wilson awarded the 1919 Nobel Peace Prize?
+[USER_ANSWER]: 
+No. 
+Explanation: The provided text discusses Wilson's disease, a genetic disorder, and does not mention anything about Woodrow Wilson, the 28th President of the United States, or the Nobel Peace Prize. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The correct answer to the question "Was Wilson awarded the 1919 Nobel Peace Prize?" is "Yes." The explanation provided in the response is irrelevant to the question asked, as it discusses Wilson's disease rather than addressing Woodrow Wilson and the Nobel Peace Prize. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality based on the reference answer.
+[RESULT]: 1

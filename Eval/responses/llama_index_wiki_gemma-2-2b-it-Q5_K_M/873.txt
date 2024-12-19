@@ -1,0 +1,7 @@
+[PROMPT]: What does a citizen use to propose changes to the Constitution?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your question. 
+
+[CORRECT_ANSWER]: Referendum
+[FEEDBACK]: The response does not provide any information related to the question asked. It does not mention "referendum" or any other method a citizen might use to propose changes to the Constitution. Therefore, it is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

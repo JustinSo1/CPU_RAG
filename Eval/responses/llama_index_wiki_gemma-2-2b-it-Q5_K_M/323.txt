@@ -1,0 +1,7 @@
+[PROMPT]: When did he die?
+[USER_ANSWER]: 
+The patient died on December 6, 2001. 
+
+[CORRECT_ANSWER]: June 24 1908
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The date provided in the response (December 6, 2001) does not match the reference answer (June 24, 1908).
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Does a polar bear live in the Arctic?
+[USER_ANSWER]: 
+Yes, polar bears live in the Arctic. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, polar bears live in the Arctic." is completely correct, accurate, and factual based on the reference answer. It provides the same information as the reference answer, confirming that polar bears do indeed live in the Arctic. The response is clear and directly addresses the question.
+[RESULT]: 5

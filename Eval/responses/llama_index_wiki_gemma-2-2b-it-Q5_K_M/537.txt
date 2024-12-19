@@ -1,0 +1,27 @@
+[PROMPT]: What do most recognizable international company and largest employer have in common?
+[USER_ANSWER]: 
+Most recognizable international companies and largest employers have in common that they are involved in the pharmaceutical industry. 
+
+
+**Explanation:**
+
+The provided text lists various individuals involved in research and development within the pharmaceutical industry. It mentions companies like:
+
+* **Bristol Myers Squibb**
+* **Ipsen**
+* **Merck KGaA**
+* **MSD**
+* **Novartis**
+* **Pfizer**
+* **Roche**
+* **Eli Lilly and Company**
+* **Janssen Alzheimer Immunotherapy Research & Development, LLC**
+* **Loxo Oncology**
+
+The text also mentions research funding, consulting, and employment at pharmaceutical companies. 
+
+Therefore, based on the context, we can conclude that most recognizable international companies and largest employers in the pharmaceutical industry are likely to be involved in research and development within the pharmaceutical industry. 
+
+[CORRECT_ANSWER]: They are Hilti.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that the commonality is "Hilti," while the response incorrectly claims that the commonality is involvement in the pharmaceutical industry. The explanation provided does not align with the reference answer and introduces unrelated information about pharmaceutical companies. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

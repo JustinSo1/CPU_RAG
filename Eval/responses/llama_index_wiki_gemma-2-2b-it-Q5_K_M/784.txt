@@ -1,0 +1,7 @@
+[PROMPT]: Did Roosevelt receive a Medal of Honor?
+[USER_ANSWER]: 
+The provided text does not contain information about Theodore Roosevelt. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and does not address the question asked. The question is about whether Roosevelt received a Medal of Honor, and the response incorrectly states that the provided text does not contain information about Theodore Roosevelt, which is irrelevant to the question. The correct answer is simply "yes," as indicated in the reference answer.
+[RESULT]: 1

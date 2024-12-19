@@ -1,0 +1,9 @@
+[PROMPT]: Did Uruguay host the first ever World Cup?
+[USER_ANSWER]: 
+No. The provided text does not mention anything about the first World Cup. 
+
+
+
+[CORRECT_ANSWER]: Yes, in 1930.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether Uruguay hosted the first ever World Cup, and the correct answer is "Yes, in 1930." The response incorrectly states "No" and mentions that the provided text does not mention anything about the first World Cup, which is irrelevant to the question asked.
+[RESULT]: 1

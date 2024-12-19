@@ -1,0 +1,7 @@
+[PROMPT]: Why did Roosevelt start Boxing lessons?
+[USER_ANSWER]: 
+The provided text does not contain information about President Roosevelt starting boxing lessons. 
+
+[CORRECT_ANSWER]: To deal with bullies
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It states that the provided text does not contain information about President Roosevelt starting boxing lessons, which is not relevant to the question asked. The correct answer is "To deal with bullies," which the response does not address at all.
+[RESULT]: 1

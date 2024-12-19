@@ -1,0 +1,7 @@
+[PROMPT]: What happened in 1865?
+[USER_ANSWER]: 
+In 1865, after 12 years of systematic investigations on peas, Gregor Mendel presented his results in the famous paper "Versuche über Pflanzenhybriden." 
+
+[CORRECT_ANSWER]: he accepted the surrender of Robert E. Lee
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the significant event in 1865 was the surrender of Robert E. Lee, which is related to the end of the American Civil War. The response provided discusses Gregor Mendel's work on peas, which is unrelated to the reference answer and the significant historical event of 1865.
+[RESULT]: 1

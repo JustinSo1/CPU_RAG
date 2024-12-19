@@ -1,0 +1,8 @@
+[PROMPT]: Is the myth of Otter 's Ransom the starting point of the Volsunga saga ?
+[USER_ANSWER]: 
+No. 
+The provided text discusses the history of medical knowledge and the use of natural products in the context of the Iceman's skeletal remains. It does not contain any information about the myth of Otter's Ransom or the Volsunga saga. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks about the myth of Otter's Ransom and its relation to the Volsunga saga, but the response discusses an unrelated topic about medical knowledge and the Iceman's skeletal remains. This does not address the question at all and is not factual in the context of the question asked.
+[RESULT]: 1

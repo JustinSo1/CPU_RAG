@@ -1,0 +1,9 @@
+[PROMPT]: Why doesn't Romania have a state religion?  
+[USER_ANSWER]: 
+The provided text does not contain information about the religious status of Romania. 
+
+
+
+[CORRECT_ANSWER]: Romania is a secular state
+[FEEDBACK]: The response does not address the question about why Romania does not have a state religion. Instead, it states that the provided text does not contain information about Romania's religious status, which is not relevant to the question. The response is completely incorrect and does not provide any factual information related to the question.
+[RESULT]: 1

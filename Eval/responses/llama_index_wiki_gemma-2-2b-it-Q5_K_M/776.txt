@@ -1,0 +1,7 @@
+[PROMPT]: Did Theodore Roosevelt go to Harvard?
+[USER_ANSWER]: 
+No, the provided text does not mention Theodore Roosevelt. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether Theodore Roosevelt went to Harvard, and the correct answer is simply "Yes." The response provided does not address the question directly and instead mentions the absence of information about Theodore Roosevelt in a provided text, which is irrelevant to the question. Therefore, the response fails to meet the criteria for correctness and accuracy.
+[RESULT]: 1

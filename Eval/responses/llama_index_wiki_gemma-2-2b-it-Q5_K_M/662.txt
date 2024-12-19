@@ -1,0 +1,18 @@
+[PROMPT]: Is a polar bear at high risk of extinction?
+[USER_ANSWER]: 
+Based on the provided text, we cannot definitively say whether a polar bear is at high risk of extinction. 
+
+**Explanation:**
+
+The text focuses on:
+
+* **Chronic wasting disease (CWD) in cervids:** This is a prion disease affecting deer and elk.
+* **The Amazon molly:** A species that reproduces asexually and has a unique genomic decay paradox.
+* **Viral transmission and public health:** The potential impact of climate change on the spread of viruses.
+* **Cryopreservation and heart protection:** The use of AFPs to protect the heart during freezing.
+
+There is no information about polar bears in this text. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The instruction asks whether a polar bear is at high risk of extinction, and the reference answer is a simple "yes." The response, however, discusses various unrelated topics and concludes that there is no information about polar bears in the provided text. This does not address the question directly and fails to provide the correct answer.
+[RESULT]: 2

@@ -1,0 +1,7 @@
+[PROMPT]: When do wolves molt?
+[USER_ANSWER]: 
+The provided text does not contain information about when wolves molt. 
+
+[CORRECT_ANSWER]: Late Spring or Early Summer
+[FEEDBACK]: The response does not provide any information about when wolves molt, which is the key detail required by the instruction. The reference answer clearly states that wolves molt in late spring or early summer, but the response fails to mention this. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

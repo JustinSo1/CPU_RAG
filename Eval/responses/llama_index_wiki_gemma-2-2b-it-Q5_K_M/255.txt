@@ -1,0 +1,12 @@
+[PROMPT]: hard
+[USER_ANSWER]: 
+The answer is **hard work**. 
+
+Explanation: 
+The provided text discusses the concept of "commotio cordis" and its implications. The phrase "hard work" is used in the context of developing a stable, efficient vocal technique and a mature professional background. 
+
+
+
+[CORRECT_ANSWER]: hard
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The instruction simply asked for the word "hard," but the response provided "hard work" and an unrelated explanation about "commotio cordis" and vocal technique, which does not align with the instruction or the reference answer.
+[RESULT]: 2

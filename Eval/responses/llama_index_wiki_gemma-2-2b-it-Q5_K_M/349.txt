@@ -1,0 +1,22 @@
+[PROMPT]: Is Indonesia a monarchy with a presidential system?
+[USER_ANSWER]: 
+Based on the provided context information, we cannot determine if Indonesia is a monarchy with a presidential system. 
+
+
+**Explanation:**
+
+The text focuses on:
+
+* **Ameloblastoma:** A type of tumor in the jaw.
+* **Sasang Constitutional Medicine:** A traditional Korean medicine system.
+* **Mowat-Wilson Syndrome:** A genetic disorder.
+* **Tropical Insects:** Insects found in tropical regions.
+* **Pararama:** A specific type of erucism.
+* **Ants and Aquatic Insects:**  Insects that can cause stings and bites.
+* **Beetles:** Insects that can cause dermatitis.
+
+None of these topics relate to the political system of Indonesia. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is not correct or accurate based on the reference answer. The question is straightforward and requires a simple "no" as the answer. The response provided goes into unnecessary detail about unrelated topics, which does not address the question directly. Therefore, it does not meet the criteria for being correct, accurate, or factual.
+[RESULT]: 1

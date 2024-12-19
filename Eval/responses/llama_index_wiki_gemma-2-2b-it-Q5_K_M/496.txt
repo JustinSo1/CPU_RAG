@@ -1,0 +1,7 @@
+[PROMPT]: How long is a leopard's tail?
+[USER_ANSWER]: 
+The provided text does not contain information about the length of a leopard's tail. 
+
+[CORRECT_ANSWER]: 60 to 110cm
+[FEEDBACK]: The response does not provide the correct information about the length of a leopard's tail. Instead, it states that the provided text does not contain the information, which is not relevant to the instruction. The response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

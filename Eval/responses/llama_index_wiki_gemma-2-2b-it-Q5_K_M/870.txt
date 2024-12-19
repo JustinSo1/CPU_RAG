@@ -1,0 +1,7 @@
+[PROMPT]: Does Uruguay recognize same-sex civil unions?
+[USER_ANSWER]: 
+The provided text does not contain information about same-sex civil unions in Uruguay or any other country. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and does not address the question about Uruguay's recognition of same-sex civil unions. The reference answer is a simple "Yes," indicating that Uruguay does recognize same-sex civil unions, but the response fails to provide this information and instead states that the provided text does not contain relevant information, which is not applicable here.
+[RESULT]: 1

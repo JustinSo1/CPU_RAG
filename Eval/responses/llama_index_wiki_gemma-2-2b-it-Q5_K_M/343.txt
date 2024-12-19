@@ -1,0 +1,7 @@
+[PROMPT]: Did he not die at the age of 55 in Le Croisic ?
+[USER_ANSWER]: 
+The provided text does not mention anything about the author's death or age. Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: Yes he died at the age of 55
+[FEEDBACK]: The response does not address the question directly and fails to provide the correct information about the author's death at the age of 55 in Le Croisic. It inaccurately states that the provided text does not mention anything about the author's death or age, which is not relevant to the instruction. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,15 @@
+[PROMPT]: Is foie gras often made from ducks?
+[USER_ANSWER]: 
+Based on the context information, the answer is **yes**. 
+
+Here's why:
+
+* The text mentions "dabbling ducks" as the natural reservoir of influenza virus.
+* It also states that "oseltamivir" (an antiviral drug) can be found in the aquatic environment, suggesting that ducks might be exposed to it. 
+* The context also mentions "muktuk" (whale meat) and "rakfisk" (a fermented fish) as examples of foods associated with botulism outbreaks. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is somewhat correct in that it ultimately answers "yes," which aligns with the reference answer. However, the explanation provided is irrelevant and does not pertain to the production of foie gras. The mention of "dabbling ducks," "oseltamivir," "muktuk," and "rakfisk" does not support the claim that foie gras is often made from ducks. This extraneous information detracts from the accuracy and relevance of the response.
+[RESULT]: 3

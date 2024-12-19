@@ -1,0 +1,7 @@
+[PROMPT]: When did Qatar become an independent state?
+[USER_ANSWER]: 
+The provided text does not contain information about when Qatar became an independent state. 
+
+[CORRECT_ANSWER]: September 3, 1971.
+[FEEDBACK]: The response does not provide the correct information about when Qatar became an independent state. Instead, it states that the provided text does not contain the information, which is not relevant to the instruction. The response is completely incorrect and does not address the question asked.
+[RESULT]: 1

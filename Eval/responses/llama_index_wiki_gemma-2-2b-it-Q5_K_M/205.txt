@@ -1,0 +1,7 @@
+[PROMPT]: When do African elephants lie down?
+[USER_ANSWER]: 
+The provided text does not contain information about when African elephants lie down. 
+
+[CORRECT_ANSWER]: when they are sick or wounded
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide any information about when African elephants lie down, which is the key aspect of the instruction. The reference answer clearly states that African elephants lie down when they are sick or wounded, but the response fails to mention this.
+[RESULT]: 1

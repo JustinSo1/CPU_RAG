@@ -1,0 +1,9 @@
+[PROMPT]: When did Lincoln first serve as President?
+[USER_ANSWER]: 
+---------------------
+Answer: 1861 
+--------------------- 
+
+[CORRECT_ANSWER]: March 4, 1861
+[FEEDBACK]: The response "1861" is mostly correct, accurate, and factual. It correctly identifies the year Lincoln first served as President, but it lacks the specific date "March 4" provided in the reference answer. While the year is accurate, the absence of the exact date means it is not completely correct.
+[RESULT]: 4

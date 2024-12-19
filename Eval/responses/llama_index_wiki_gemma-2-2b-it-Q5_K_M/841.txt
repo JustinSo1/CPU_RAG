@@ -1,0 +1,7 @@
+[PROMPT]: Who took a hard line that reduced violence by groups like the Ku Klux Klan?
+[USER_ANSWER]: 
+The provided text does not mention who took a hard line that reduced violence by groups like the Ku Klux Klan. 
+
+[CORRECT_ANSWER]: Grant
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Grant" as the person who took a hard line that reduced violence by groups like the Ku Klux Klan, while the response incorrectly states that the provided text does not mention who took a hard line. This shows a lack of understanding or misinterpretation of the question.
+[RESULT]: 1

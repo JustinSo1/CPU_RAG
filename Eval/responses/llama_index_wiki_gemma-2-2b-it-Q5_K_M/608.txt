@@ -1,0 +1,14 @@
+[PROMPT]: The collective noun romp is sometimes used for a group of what?
+[USER_ANSWER]: 
+The answer is **a group of children playing together**. 
+
+**Explanation:**
+
+The provided text focuses on the medical phenomenon of commotio cordis, a sudden cardiac death caused by a blunt chest blow. It does not contain any information about the word "romp" or its usage. 
+
+
+Let me know if you have any other queries! 
+
+[CORRECT_ANSWER]: Otters
+[FEEDBACK]: The response is completely incorrect and inaccurate. The correct answer is "otters," but the response provided "a group of children playing together," which is not factual based on the reference answer. Additionally, the explanation provided is irrelevant to the question asked.
+[RESULT]: 1

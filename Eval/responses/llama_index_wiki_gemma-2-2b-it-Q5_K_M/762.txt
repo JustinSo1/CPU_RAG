@@ -1,0 +1,7 @@
+[PROMPT]: What established a trading post on the island in 1819?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: British East India Company 
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide any relevant information related to the query about what established a trading post on the island in 1819. The correct answer, "British East India Company," is not mentioned or even hinted at in the response.
+[RESULT]: 1

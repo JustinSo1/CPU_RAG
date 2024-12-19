@@ -1,0 +1,8 @@
+[PROMPT]: What caused Calvin Jr.'s death?
+[USER_ANSWER]: 
+The provided text does not contain information about Calvin Jr.'s death. 
+It discusses the causes of sudden death in young competitive athletes. 
+
+[CORRECT_ANSWER]: heart attack
+[FEEDBACK]: The response is mostly incorrect and inaccurate. While it correctly identifies that the provided text does not contain information about Calvin Jr.'s death, it fails to provide the correct answer, which is "heart attack." The response does not address the specific cause of death as required by the instruction.
+[RESULT]: 2

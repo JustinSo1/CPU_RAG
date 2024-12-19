@@ -1,0 +1,8 @@
+[PROMPT]: What are the reasons for hunting wild ducks?
+[USER_ANSWER]: 
+The provided text does not contain information about hunting wild ducks. 
+It focuses on the epidemiology of Chronic Wasting Disease (CWD) in cervids, West Nile Virus (WNV) in birds, and the use of oseltamivir in the aquatic environment. 
+
+[CORRECT_ANSWER]: Meat, eggs, and feathers
+[FEEDBACK]: The response does not address the question about the reasons for hunting wild ducks. Instead, it discusses unrelated topics such as Chronic Wasting Disease, West Nile Virus, and oseltamivir in the aquatic environment. This makes the response completely incorrect and not factual in relation to the given instruction.
+[RESULT]: 1

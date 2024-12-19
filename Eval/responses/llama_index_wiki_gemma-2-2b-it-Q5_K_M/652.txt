@@ -1,0 +1,17 @@
+[PROMPT]: Is polar bear a mammal?
+[USER_ANSWER]: 
+Based on the provided context information, the answer is **yes**. 
+
+Here's why:
+
+* **Mammalian LINE-1 (L1) elements:** The text mentions that L1 elements are found in various vertebrate classes, including mammals. This suggests that mammals are a part of the broader group of animals that contain L1 elements.
+* **Phylogenomics:** The text discusses the use of phylogenomics to study evolutionary relationships among mammals. This implies that mammals are a distinct group of animals with their own evolutionary history. 
+* **Bats:** The text mentions bats as a group of mammals. 
+* **Brown fat:** The text discusses brown fat tissue in bats, which is a characteristic of mammals. 
+
+
+Therefore, based on the provided context, we can infer that polar bears are mammals. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response correctly identifies that a polar bear is a mammal, which aligns with the reference answer. However, the additional information provided is not directly relevant to the question and does not enhance the accuracy or factual nature of the response. The explanation about L1 elements, phylogenomics, bats, and brown fat, while accurate, is unnecessary for answering the question. The response could have been more concise and directly addressed the question without extraneous details.
+[RESULT]: 4

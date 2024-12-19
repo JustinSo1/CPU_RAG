@@ -1,0 +1,7 @@
+[PROMPT]: What did Tourism in Romania attract in 2005?
+[USER_ANSWER]: 
+The provided text does not contain information about tourism in Romania in 2005. 
+
+[CORRECT_ANSWER]: investments worth 400 million euros
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information related to the question about tourism in Romania in 2005. It fails to mention the investments worth 400 million euros, which is the correct answer according to the reference. Therefore, the response does not meet the criteria for accuracy and correctness.
+[RESULT]: 1

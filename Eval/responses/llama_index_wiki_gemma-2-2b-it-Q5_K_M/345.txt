@@ -1,0 +1,7 @@
+[PROMPT]: What happened in 1896?
+[USER_ANSWER]: 
+The provided text does not contain information about what happened in 1896. 
+
+[CORRECT_ANSWER]:  Becquerel accidentally discovered radioactivity.
+[FEEDBACK]: The response does not provide any information about what happened in 1896, which is the key requirement of the instruction. It fails to mention the discovery of radioactivity by Becquerel, making it completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

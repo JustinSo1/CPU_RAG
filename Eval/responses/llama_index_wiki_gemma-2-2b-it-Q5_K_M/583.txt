@@ -1,0 +1,7 @@
+[PROMPT]: Does the giant otter inhabit South Africa?
+[USER_ANSWER]: 
+No, the context does not mention giant otters inhabiting South Africa. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct and factual, as it correctly states that giant otters do not inhabit South Africa. However, the additional context about the context not mentioning giant otters inhabiting South Africa is unnecessary and slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

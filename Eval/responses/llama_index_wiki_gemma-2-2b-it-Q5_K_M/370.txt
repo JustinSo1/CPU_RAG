@@ -1,0 +1,7 @@
+[PROMPT]: Is it the world 's fourth most populous country and the most populous muslim-majority nation?
+[USER_ANSWER]: 
+The provided text does not contain information about the world's fourth most populous country or the most populous Muslim-majority nation. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks whether a certain country is the world's fourth most populous and the most populous Muslim-majority nation. The correct answer is "yes," but the response incorrectly states that the provided text does not contain this information. This shows a misunderstanding of the instruction and fails to provide the correct factual information.
+[RESULT]: 1

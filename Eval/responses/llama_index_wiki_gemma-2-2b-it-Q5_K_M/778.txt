@@ -1,0 +1,11 @@
+[PROMPT]: What did Roosevelt do to improve his physical condition?
+[USER_ANSWER]: 
+The provided text does not mention anything about Theodore Roosevelt. 
+It focuses on the effects of physical activity on health and longevity, 
+the use of doxycycline for Mycoplasma species, and the diagnosis and treatment of a patient with Spinal Cord Deficiency. 
+
+
+
+[CORRECT_ANSWER]: Roosevelt took up exercise
+[FEEDBACK]: The response is completely incorrect and does not address the question about what Roosevelt did to improve his physical condition. Instead, it discusses unrelated topics such as the effects of physical activity on health, the use of doxycycline, and spinal cord deficiency, which are not relevant to the question.
+[RESULT]: 1

@@ -1,0 +1,16 @@
+[PROMPT]: Is it true that indonesia has vast areas of wilderness?
+[USER_ANSWER]: 
+Based on the provided text, we can't definitively say whether Indonesia has vast areas of wilderness. 
+
+Here's why:
+
+* **Focus on Disease and Ecology:** The text primarily discusses the presence of *Burkholderia pseudomallei* (a bacteria causing melioidosis), prion diseases, and the ecology of the Andaman Sea. 
+* **Limited Information on Indonesia:** While the text mentions Indonesia, it doesn't provide details about its wilderness areas, size, or ecological diversity. 
+* **Other Factors:** The text focuses on specific environmental factors related to the presence of *B. pseudomallei* and its potential spread.
+
+
+To determine if Indonesia has vast areas of wilderness, you would need to consult other sources that specifically address Indonesia's geography and natural environment. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not aligned with the reference answer, which is a simple affirmation ("yes"). The response goes into unnecessary detail about the content of the provided text, which is not relevant to the question about Indonesia's wilderness. The response fails to directly address the question and instead focuses on the limitations of the provided text, making it mostly incorrect and not factual in the context of the question asked.
+[RESULT]: 2

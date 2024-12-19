@@ -1,0 +1,7 @@
+[PROMPT]: Is Liechtenstein the smallest German-speaking country in the world?
+[USER_ANSWER]: 
+Based on the provided context information, we cannot answer the query. The context provides information about research collaborations, institutions, and contact details of researchers. There is no information about Liechtenstein's size or its status as a German-speaking country. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question directly and instead discusses the lack of context information. The question is straightforward and requires a simple factual answer, which the response fails to provide. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

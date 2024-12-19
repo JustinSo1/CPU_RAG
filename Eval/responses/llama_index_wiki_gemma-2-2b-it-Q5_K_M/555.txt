@@ -1,0 +1,9 @@
+[PROMPT]: Did Fillmore form a law partnership before or after he founded the private University of Buffalo?
+[USER_ANSWER]: 
+The provided text does not contain any information about Fillmore or his involvement with law or a law partnership. 
+
+
+
+[CORRECT_ANSWER]: Before.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The question asks about the timing of Fillmore's law partnership in relation to the founding of the University of Buffalo, and the correct answer is "Before." The response does not address this and instead states that the provided text does not contain any information about Fillmore, which is not relevant to the question asked.
+[RESULT]: 1

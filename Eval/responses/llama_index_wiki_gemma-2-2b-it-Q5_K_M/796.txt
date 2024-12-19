@@ -1,0 +1,7 @@
+[PROMPT]: How often do turtles breed?
+[USER_ANSWER]: 
+The provided text does not contain information about how often turtles breed. 
+
+[CORRECT_ANSWER]: Every few years or more
+[FEEDBACK]: The response does not provide any information about the breeding frequency of turtles, which is the main focus of the instruction. It states that the provided text does not contain the information, which is not relevant to the instruction. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

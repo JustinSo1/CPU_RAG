@@ -1,0 +1,7 @@
+[PROMPT]: Are otters herbivores?
+[USER_ANSWER]: 
+No, otters are not herbivores. The provided text focuses on the study of CWD in deer, elk, and moose, as well as the phylogenetic relationships of mammals. It does not contain any information about otters. 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response correctly states that otters are not herbivores, which aligns with the reference answer. However, the additional information about the provided text and its focus on CWD in deer, elk, and moose, as well as the phylogenetic relationships of mammals, is irrelevant to the question asked. This extra information does not contribute to the accuracy of the response regarding the dietary habits of otters. Therefore, while the response is accurate, it is not as concise and focused as the reference answer.
+[RESULT]: 4

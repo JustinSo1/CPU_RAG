@@ -1,0 +1,9 @@
+[PROMPT]: Is it true that he became a professor in 1820?
+[USER_ANSWER]: 
+No, the provided text does not state that Mendel became a professor in 1820. 
+It states that he was born in 1822 and that he was able to begin higher studies. 
+It also states that he was able to continue his studies after he was ordained as an Augustinian monk. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer simply states "yes," indicating that the statement in the instruction is true. However, the response provided goes into detail about Mendel's birth year and his studies, which are not relevant to the question asked. The response does not accurately address whether Mendel became a professor in 1820, and it contradicts the reference answer.
+[RESULT]: 2

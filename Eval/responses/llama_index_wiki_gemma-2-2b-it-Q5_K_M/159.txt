@@ -1,0 +1,7 @@
+[PROMPT]: What economic uses to ducks have?
+[USER_ANSWER]: 
+The provided text does not contain information about the economic uses of ducks. 
+
+[CORRECT_ANSWER]: They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.
+[FEEDBACK]: The response does not address the economic uses of ducks at all. It states that the provided text does not contain information about the economic uses of ducks, which is not relevant to the instruction. The response is completely incorrect and does not provide any factual information about the economic uses of ducks as outlined in the reference answer.
+[RESULT]: 1

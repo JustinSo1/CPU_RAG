@@ -1,0 +1,7 @@
+[PROMPT]: What is polar bear's skin color?
+[USER_ANSWER]: 
+The provided text does not contain information about the skin color of polar bears. 
+
+[CORRECT_ANSWER]: white or cream
+[FEEDBACK]: The response is completely incorrect and inaccurate. The correct answer is that polar bears have black skin, which is not mentioned in the response. The response does not provide any factual information about the skin color of polar bears.
+[RESULT]: 1

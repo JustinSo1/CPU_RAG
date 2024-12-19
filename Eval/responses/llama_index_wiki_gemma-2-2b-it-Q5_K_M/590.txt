@@ -1,0 +1,9 @@
+[PROMPT]: Is otter a kind of mammal?
+[USER_ANSWER]: 
+Based on the provided context information, the answer is **yes**. 
+
+The text mentions "Pholidota, Tubulidentata, Carnivora, and Xenarthra" as mammalian orders/superorders. Otters belong to the order Carnivora. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that otters are mammals and belong to the order Carnivora. However, the additional context about "Pholidota, Tubulidentata, Carnivora, and Xenarthra" is not necessary for the answer and does not directly address the question. The reference answer is more concise and directly answers the question without additional information.
+[RESULT]: 4

@@ -1,0 +1,9 @@
+[PROMPT]: Is Ford related with the assassination of John F. Kennedy?
+[USER_ANSWER]: 
+No, there is no connection between Ford and the assassination of John F. Kennedy. The provided text discusses genetic disorders and their inheritance patterns. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that there is no connection between Ford and the assassination of John F. Kennedy, which contradicts the reference answer. Additionally, the response introduces irrelevant information about genetic disorders, which is not related to the question asked.
+[RESULT]: 1

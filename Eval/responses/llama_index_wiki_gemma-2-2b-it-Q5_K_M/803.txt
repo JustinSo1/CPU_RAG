@@ -1,0 +1,11 @@
+[PROMPT]: Are turtles a part of the Flying Spaghetti Monster?
+[USER_ANSWER]: 
+No, turtles are not a part of the Flying Spaghetti Monster. 
+
+**Explanation:**
+
+The provided text discusses the phylogenetic relationships of turtles and other reptiles, their genetic makeup, and the concept of conjoined twins in Hinduism. It does not mention anything about the Flying Spaghetti Monster. 
+
+[CORRECT_ANSWER]: *shrug*
+[FEEDBACK]: The response is mostly correct in stating that turtles are not a part of the Flying Spaghetti Monster. However, the explanation provided is unnecessary and deviates from the simplicity and directness of the reference answer. The reference answer is concise and aligns with the humorous and fictional nature of the Flying Spaghetti Monster concept, while the evaluated response introduces unrelated information about phylogenetics and Hinduism, which is not relevant to the question.
+[RESULT]: 3

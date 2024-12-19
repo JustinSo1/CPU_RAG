@@ -1,0 +1,7 @@
+[PROMPT]: What positions Ford played in the school football team?
+[USER_ANSWER]: 
+The provided text does not contain information about Ford's positions in the school football team. 
+
+[CORRECT_ANSWER]: Center and linebacker
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer clearly states that Ford played as a center and linebacker, while the response claims that the provided text does not contain this information. This indicates a lack of accuracy and correctness in the response.
+[RESULT]: 1

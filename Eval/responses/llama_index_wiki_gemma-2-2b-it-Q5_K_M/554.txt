@@ -1,0 +1,8 @@
+[PROMPT]: What is The Remarkable Millard Fillmore?
+[USER_ANSWER]: 
+The provided text does not contain any information about Millard Fillmore. 
+It focuses on Christiaan Barnard, a South African surgeon known for performing the first human heart transplant. 
+
+[CORRECT_ANSWER]: A fake biography based on real events that happened in Fillmore's life.
+[FEEDBACK]: The response is completely incorrect and inaccurate. It does not address the question about "The Remarkable Millard Fillmore" and instead talks about Christiaan Barnard, which is unrelated to the topic. The reference answer clearly indicates that "The Remarkable Millard Fillmore" is a fake biography based on real events in Fillmore's life, which the response fails to mention or acknowledge.
+[RESULT]: 1

@@ -1,0 +1,8 @@
+[PROMPT]: Is the leopard an Old World mammal?
+[USER_ANSWER]: 
+The provided text does not contain information about leopards. 
+Therefore, I cannot answer the query based on the given context. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether the leopard is an Old World mammal. Instead, it states that the provided text does not contain information about leopards, which is not relevant to the question. The reference answer is a simple "yes," indicating that the correct response should be straightforward and factual. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

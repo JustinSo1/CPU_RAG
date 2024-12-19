@@ -1,0 +1,9 @@
+[PROMPT]: What field did Woodrow Wilson leave law practice to study?
+[USER_ANSWER]: 
+The provided text does not mention Woodrow Wilson's field of study. It focuses on the life and work of Gregor Mendel, a scientist known for his work on genetics. 
+
+
+
+[CORRECT_ANSWER]: history and political science
+[FEEDBACK]: The response is completely incorrect and not factual. It does not address the question about Woodrow Wilson's field of study and instead talks about Gregor Mendel, which is irrelevant to the question.
+[RESULT]: 1

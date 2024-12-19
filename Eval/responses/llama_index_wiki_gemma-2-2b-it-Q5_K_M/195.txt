@@ -1,0 +1,7 @@
+[PROMPT]: How many living species of African Elephants are there?
+[USER_ANSWER]: 
+The provided text does not contain the answer to how many living species of African elephants there are. 
+
+[CORRECT_ANSWER]: 2
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the provided text does not contain the answer, which is not relevant to the task of answering the question about the number of living species of African elephants. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

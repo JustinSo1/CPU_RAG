@@ -1,0 +1,12 @@
+[PROMPT]: Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?
+[USER_ANSWER]: 
+No. 
+---------------------
+Explanation: 
+The provided text discusses a pharmaceutical agreement between Renovis and Centaur, and does not contain any information about the U.S. $1000 bill or Cleveland's portrait on it. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The correct answer to the question is "yes," as Cleveland's portrait was indeed on the U.S. $1000 bill from 1928 to 1946. The explanation provided is irrelevant to the question and does not address the topic of Cleveland's portrait on the bill. Therefore, the response does not meet the criteria for accuracy or factual correctness.
+[RESULT]: 1

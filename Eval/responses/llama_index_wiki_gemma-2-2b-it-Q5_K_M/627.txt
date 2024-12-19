@@ -1,0 +1,7 @@
+[PROMPT]: How are Isabelline penguins different from most penguins?
+[USER_ANSWER]: 
+The provided text does not contain information about Isabelline penguins. 
+
+[CORRECT_ANSWER]: they have brown rather than black plumage
+[FEEDBACK]: The response does not provide any information about how Isabelline penguins are different from most penguins. It states that the provided text does not contain information about Isabelline penguins, which is not relevant to the instruction. The response is completely incorrect and does not address the question asked.
+[RESULT]: 1

@@ -1,0 +1,11 @@
+[PROMPT]: What is the smallest German-speaking country in the world?
+[USER_ANSWER]: 
+Based on the provided context information, it is impossible to determine the smallest German-speaking country in the world. 
+The context provides information about various institutions, laboratories, and researchers related to health and animal diseases, particularly in Germany. 
+It does not contain any information about the size or population of German-speaking countries. 
+
+
+
+[CORRECT_ANSWER]: Liechtenstein
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks for the smallest German-speaking country in the world, which is Liechtenstein. The response does not provide this information and instead discusses unrelated context about institutions, laboratories, and researchers in Germany. This does not address the question at all and fails to provide any factual information relevant to the instruction.
+[RESULT]: 1

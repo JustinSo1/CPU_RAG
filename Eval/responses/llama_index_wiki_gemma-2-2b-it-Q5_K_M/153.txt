@@ -1,0 +1,15 @@
+[PROMPT]: What is an economic use of a duck?
+[USER_ANSWER]: 
+The provided text discusses the potential economic benefits of using ducks in the context of influenza virus research. 
+Specifically, the text mentions that:
+* Low levels of oseltamivir were detected in the aquatic environment during the flu season.
+* This finding suggests that dabbling ducks, the natural reservoir of influenza virus, are exposed to oseltamivir.
+* This exposure could promote the evolution of viral resistance.
+
+Therefore, the economic use of ducks in this context is to serve as a natural reservoir for influenza virus, which can be used to study the evolution of viral resistance to oseltamivir. 
+
+
+
+[CORRECT_ANSWER]: Meat
+[FEEDBACK]: The response provided does not align with the reference answer, which is "Meat." The response discusses the role of ducks in influenza virus research and their exposure to oseltamivir, which is not related to an economic use of ducks in the context of the reference answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

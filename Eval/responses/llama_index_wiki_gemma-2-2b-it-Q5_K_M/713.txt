@@ -1,0 +1,8 @@
+[PROMPT]: Is the Romanian economy doing well?
+[USER_ANSWER]: 
+The provided text does not contain information about the Romanian economy. 
+It focuses on medical research, particularly on the effectiveness of a drug called tofacitinib. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not address the question about the Romanian economy at all. Instead, it discusses an unrelated topic about medical research and a drug called tofacitinib. This makes the response completely incorrect and inaccurate based on the reference answer, which simply states "Yes" to indicate the Romanian economy is doing well.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Did the U.S. join the League of Nations?
+[USER_ANSWER]: 
+The provided text does not contain information about the U.S. joining the League of Nations. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is somewhat correct in that it implies the U.S. did not join the League of Nations by stating that the provided text does not contain information about it. However, it does not directly answer the question with a clear "no," which is the expected response. Therefore, it lacks the directness and clarity of the reference answer.
+[RESULT]: 3

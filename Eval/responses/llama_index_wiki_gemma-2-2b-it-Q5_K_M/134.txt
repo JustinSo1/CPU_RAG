@@ -1,0 +1,10 @@
+[PROMPT]: What was Canada's most important industry until the 1800s?
+[USER_ANSWER]: 
+The provided text mentions that Woolsorters' disease was a feared industrial disease associated primarily with Yorkshire's textile industry of the nineteenth and early twentieth centuries. 
+Therefore, Canada's most important industry until the 1800s was likely the **textile industry**. 
+
+
+
+[CORRECT_ANSWER]: The fur trade
+[FEEDBACK]: The response is completely incorrect and not factual. The provided text discusses Woolsorters' disease in Yorkshire's textile industry, which is unrelated to Canada's most important industry until the 1800s. The correct answer is the fur trade, not the textile industry. The response does not align with the reference answer at all.
+[RESULT]: 1

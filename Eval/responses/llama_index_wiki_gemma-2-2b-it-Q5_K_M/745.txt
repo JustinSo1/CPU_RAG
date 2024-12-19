@@ -1,0 +1,8 @@
+[PROMPT]: Is Singapore located at the southern tip of the Korean Penisula?
+[USER_ANSWER]: 
+No. 
+Singapore is a city-state located in Southeast Asia. It is not located on the Korean Peninsula. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Singapore is not located on the Korean Peninsula and provides additional accurate information about Singapore's location in Southeast Asia. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

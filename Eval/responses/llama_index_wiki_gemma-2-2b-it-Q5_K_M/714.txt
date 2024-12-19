@@ -1,0 +1,7 @@
+[PROMPT]: Are there many Roma in Romania?
+[USER_ANSWER]: 
+Yes, the text states that the Roma represent 6% of the Hungarian population and live under extremely bad health conditions. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks about the Roma population in Romania, but the response incorrectly refers to the Hungarian population and their health conditions, which is irrelevant to the question. The reference answer is a simple "No," indicating that the correct response should be straightforward and directly address the question about Romania.
+[RESULT]: 1
