@@ -16,25 +16,25 @@ def main():
     # os.environ["OPENAI_API_KEY"] = "random"
     # model_url = "https://huggingface.co/google/gemma-2-2b-it-GGUF/resolve/main/2b_it_v2.gguf"
     model_url = "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"
-    # llm = create_llama_cpp_model(model_url)
+    llm = create_llama_cpp_model(model_url)
     load_dotenv('../.env')
 
     # # Define llm parameters
-    llm = AzureChatOpenAI(
-        deployment_name=os.environ['MODEL'],
-        openai_api_version=os.environ['API_VERSION'],
-        openai_api_key=os.environ['OPENAI_API_KEY'],
-        azure_endpoint=os.environ['OPENAI_API_BASE'],
-        openai_organization=os.environ['OPENAI_ORGANIZATION']
-    )
+    #llm = AzureChatOpenAI(
+    #    deployment_name=os.environ['MODEL'],
+    #    openai_api_version=os.environ['API_VERSION'],
+    #    openai_api_key=os.environ['OPENAI_API_KEY'],
+    #    azure_endpoint=os.environ['OPENAI_API_BASE'],
+    #    openai_organization=os.environ['OPENAI_ORGANIZATION']
+    #)
     llm_predictor = LangChainLLM(llm=llm)
 
     question_answer = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
     questions = question_answer['question'].tolist()
     answers = question_answer['answer'].tolist()
 
-    Settings.llm = llm_predictor
-    # Settings.llm = llm
+    #Settings.llm = llm_predictor
+    Settings.llm = llm
     answer_dict = {}
     for i, (question, answer) in enumerate(zip(questions, answers), 0):
         print(f"Question #{i}")
@@ -47,12 +47,12 @@ def main():
         answer_dict[f"Q{i}"] = {"Answer": response,
                                 "llm_response_time": end_llm_response_time - start_llm_response_time,
                                 }
-        if i == 50:
-            break
-        break
+#        if i == 50:
+#            break
+#        break
     df = pd.DataFrame.from_dict(answer_dict)
     print(df)
-    df.to_csv("llama_index_wiki_no_rag_gpt-4o.csv")
+    df.to_csv("llama_index_wiki_no_rag_gemma-2-2b-it.csv")
 
 
 def create_llama_cpp_model(model_url):
