@@ -1,0 +1,5 @@
+[PROMPT]: How much of the population is of white European descent?
+[USER_ANSWER]: The provided information does not specify the percentage of the population that is of white European descent.
+[CORRECT_ANSWER]: 88%
+[FEEDBACK]: The response does not provide the correct percentage of the population that is of white European descent. Instead, it states that the information is not specified, which is inaccurate based on the reference answer. The reference answer clearly states that 88% of the population is of white European descent. Therefore, the response is completely incorrect and not factual.
+[RESULT]: 1

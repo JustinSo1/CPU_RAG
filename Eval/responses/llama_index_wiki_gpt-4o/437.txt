@@ -1,0 +1,5 @@
+[PROMPT]: What is now part of Adams National Historical Park?
+[USER_ANSWER]: There is no information provided about Adams National Historical Park.
+[CORRECT_ANSWER]: John Adams' birthplace
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It states that there is no information provided about Adams National Historical Park, which is not true. The correct answer is "John Adams' birthplace." The response does not provide any relevant or accurate information related to the question.
+[RESULT]: 1

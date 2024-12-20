@@ -1,0 +1,5 @@
+[PROMPT]: The State Court rules what?
+[USER_ANSWER]: The State Court rules on specific patient care decisions, which are at the discretion of the patient and health professionals involved, considering all circumstances. The guidelines provided do not substitute for clinical judgment.
+[CORRECT_ANSWER]: on the conformity of laws with the constitution
+[FEEDBACK]: The response is mostly incorrect and does not align with the reference answer. The State Court's primary role is to rule on the conformity of laws with the constitution, not on specific patient care decisions. The response provided is not accurate or factual in the context of the given instruction.
+[RESULT]: 2

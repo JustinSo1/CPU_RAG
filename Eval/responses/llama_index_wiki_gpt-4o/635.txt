@@ -1,0 +1,5 @@
+[PROMPT]: Who spend half of their life on land and half in the oceans?
+[USER_ANSWER]: The context does not provide information about any specific beings that spend half of their life on land and half in the oceans.
+[CORRECT_ANSWER]: Penguins
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information related to the beings that spend half of their life on land and half in the oceans. The reference answer clearly states "Penguins," which is a specific and accurate answer. The evaluated response fails to mention this and instead comments on the context, which is irrelevant to the question asked.
+[RESULT]: 1

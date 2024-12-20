@@ -1,0 +1,5 @@
+[PROMPT]: Did he not die at the age of 55 in Le Croisic ?
+[USER_ANSWER]: There is no information provided about anyone dying at the age of 55 in Le Croisic.
+[CORRECT_ANSWER]: Yes he died at the age of 55
+[FEEDBACK]: The response does not address the question directly and fails to provide the correct information. The question asks if someone died at the age of 55 in Le Croisic, and the reference answer confirms this. The response, however, states that there is no information provided about anyone dying at the age of 55 in Le Croisic, which is incorrect and not factual based on the reference answer.
+[RESULT]: 1

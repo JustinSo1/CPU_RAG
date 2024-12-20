@@ -1,0 +1,7 @@
+[PROMPT]: Are Immature sea turtles not cared for by the adults ?
+[USER_ANSWER]: 
+The provided text does not contain information about sea turtles or their care by adults. It focuses on Nothobranchius furzeri, a small fish species with a short lifespan, and its potential as a model for aging research. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provided does not address the question about immature sea turtles and their care by adults. Instead, it discusses a different topic entirely, which is unrelated to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

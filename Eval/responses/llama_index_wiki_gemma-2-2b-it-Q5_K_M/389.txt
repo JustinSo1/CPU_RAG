@@ -1,0 +1,7 @@
+[PROMPT]: Who was John Monroe standing behind in the painting of  Washington Crossing the Delaware?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: George Washington
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain the answer, which is not relevant to the question asked. The correct answer, "George Washington," is not mentioned at all. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

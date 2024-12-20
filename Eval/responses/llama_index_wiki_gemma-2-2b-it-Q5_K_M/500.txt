@@ -1,0 +1,7 @@
+[PROMPT]: How does the distribution size of the leopard compare to the distribution of other wild cats?
+[USER_ANSWER]: 
+The provided text does not contain information about the distribution size of the leopard compared to other wild cats. 
+
+[CORRECT_ANSWER]: As of 1996, the leopard had the largest distribution of any wild cat, although populations before and since have shown a declining trend and are fragmented outside of subsaharan Africa.
+[FEEDBACK]: The response is completely incorrect and inaccurate. It states that the provided text does not contain information about the distribution size of the leopard compared to other wild cats, which is not true. The reference answer clearly provides information about the leopard's distribution size, indicating that it had the largest distribution of any wild cat as of 1996. Therefore, the response fails to address the instruction accurately and factually.
+[RESULT]: 1

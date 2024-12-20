@@ -1,0 +1,5 @@
+[PROMPT]: How many counties is Romania divided into?
+[USER_ANSWER]: Romania is divided into 41 counties.
+[CORRECT_ANSWER]: 41.
+[FEEDBACK]: The response "Romania is divided into 41 counties." is completely correct, accurate, and factual based on the reference answer "41." It provides the exact number of counties as required by the instruction.
+[RESULT]: 5

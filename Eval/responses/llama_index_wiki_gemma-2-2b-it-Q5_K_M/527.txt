@@ -1,0 +1,7 @@
+[PROMPT]: Does Liechtenstein have an army?
+[USER_ANSWER]: 
+The provided text does not contain information about Liechtenstein's army. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is somewhat correct in that it does not provide incorrect information, but it fails to directly answer the question. The reference answer is a simple "No," which is a clear and direct response. The evaluated response does not address the question directly and instead comments on the lack of information in the provided text, which is not relevant to the instruction. Therefore, it does not meet the criteria for being mostly or completely correct, accurate, and factual.
+[RESULT]: 3

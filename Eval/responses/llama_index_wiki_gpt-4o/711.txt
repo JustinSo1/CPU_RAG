@@ -1,0 +1,5 @@
+[PROMPT]: What is the highest mountain in Romania?
+[USER_ANSWER]: The highest mountain in Romania is Moldoveanu Peak.
+[CORRECT_ANSWER]: Moldoveanu Peak.
+[FEEDBACK]: The response "The highest mountain in Romania is Moldoveanu Peak." is completely correct, accurate, and factual based on the reference answer "Moldoveanu Peak." The additional context provided does not detract from the accuracy of the information.
+[RESULT]: 5

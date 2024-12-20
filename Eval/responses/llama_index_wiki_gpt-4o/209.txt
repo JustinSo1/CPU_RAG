@@ -1,0 +1,5 @@
+[PROMPT]: What land animal has the largest brain?
+[USER_ANSWER]: The land animal with the largest brain is the elephant.
+[CORRECT_ANSWER]: elephant
+[FEEDBACK]: The response "The land animal with the largest brain is the elephant." is completely correct, accurate, and factual based on the reference answer "elephant." The additional context provided does not detract from the accuracy of the response.
+[RESULT]: 5

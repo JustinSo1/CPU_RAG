@@ -1,0 +1,5 @@
+[PROMPT]: Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?
+[USER_ANSWER]: Yes, the largest living species of penguin is the emperor penguin (Aptenodytes forsteri).
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the largest living species of penguin is the emperor penguin (Aptenodytes forsteri), which aligns with the reference answer. The additional detail about the scientific name does not detract from the accuracy of the response.
+[RESULT]: 5

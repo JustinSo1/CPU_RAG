@@ -1,0 +1,7 @@
+[PROMPT]: What are turtle eggs covered in when they incubate?
+[USER_ANSWER]: 
+The provided text does not contain information about what turtle eggs are covered in when they incubate. 
+
+[CORRECT_ANSWER]: Mud or Sand
+[FEEDBACK]: The response does not provide the correct information about what turtle eggs are covered in when they incubate. It states that the provided text does not contain the information, which is not relevant to the question asked. The correct answer should mention that turtle eggs are covered in mud or sand. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

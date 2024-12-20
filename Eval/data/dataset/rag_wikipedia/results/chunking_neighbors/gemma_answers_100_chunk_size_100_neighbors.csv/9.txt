@@ -1,5 +1,0 @@
-[PROMPT]: Did Lincoln beat John C. Breckinridge in the 1860 election?
-[USER_ANSWER]: The context does not provide any information about whether Lincoln beat John C. Breckinridge in the 1860 election, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer simply states "yes," indicating that Lincoln did beat John C. Breckinridge in the 1860 election. The evaluated response, however, states that the context does not provide information to answer the question, which is not aligned with the reference answer. Therefore, the response does not meet the criteria for correctness and accuracy.
-[RESULT]: 1

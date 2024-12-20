@@ -1,0 +1,5 @@
+[PROMPT]: A semi-aquatic marine mammal , the polar bear has what?
+[USER_ANSWER]: The polar bear has brown fat tissue that is brought into thermogenetic activity by an acute drop in ambient temperature.
+[CORRECT_ANSWER]: It has adapted for life on a combination of land, sea, and ice.
+[FEEDBACK]: The response provided is factually accurate in terms of the biological characteristics of polar bears, specifically mentioning brown fat tissue and its role in thermogenesis. However, it does not address the main aspect of the reference answer, which focuses on the polar bear's adaptation to a combination of land, sea, and ice. The response is somewhat related to the topic of polar bears but does not directly answer the question about their semi-aquatic nature and habitat adaptation. Therefore, it is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

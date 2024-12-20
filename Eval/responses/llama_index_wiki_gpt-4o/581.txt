@@ -1,0 +1,5 @@
+[PROMPT]: Do sea otters have long muscular tails?
+[USER_ANSWER]: The information provided does not include details about sea otters' tails.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is somewhat correct in that it does not provide incorrect information about sea otters' tails. However, it does not directly answer the question asked. The reference answer is a simple "no," which directly addresses the question. The evaluated response, while not incorrect, fails to provide a clear and direct answer. Therefore, it is not fully accurate or factual in the context of the question.
+[RESULT]: 3

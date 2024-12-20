@@ -1,0 +1,15 @@
+[PROMPT]: Are Pleurodira known as side-necked turtles?
+[USER_ANSWER]: 
+Based on the provided text, the answer is **yes**. 
+
+Here's why:
+
+* The text mentions "red-eared slider turtle" and "side-necked turtles" in the same sentence. 
+* This suggests that the term "side-necked turtles" is a common name for a group of turtles. 
+* The text does not provide any information about Pleurodira, but it does mention that the study focuses on a new set of expressed genes of the red-eared slider turtle. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is somewhat correct in stating that the answer is "yes," which aligns with the reference answer. However, the explanation provided is inaccurate and irrelevant. The mention of "red-eared slider turtle" and "side-necked turtles" does not directly support the claim about Pleurodira. The response should have focused on the fact that Pleurodira are indeed known as side-necked turtles, without introducing unrelated information. Therefore, the response lacks accuracy and factual correctness in its explanation.
+[RESULT]: 3

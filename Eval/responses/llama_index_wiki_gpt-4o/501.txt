@@ -1,0 +1,5 @@
+[PROMPT]: What resembles that of the similarly-sized cougar in the Americas?
+[USER_ANSWER]: The tortoiseshell coat color in female cats.
+[CORRECT_ANSWER]: The leopard's ecological role
+[FEEDBACK]: The response "The tortoiseshell coat color in female cats" is completely incorrect and not factual based on the reference answer, which is "The leopard's ecological role." The response does not address the ecological role or any characteristic that resembles that of the similarly-sized cougar in the Americas.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Is Liechtenstein doubly landlocked?
+[USER_ANSWER]: Yes, Liechtenstein is doubly landlocked. This means it is a landlocked country surrounded by other landlocked countries.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that Liechtenstein is doubly landlocked and provides a clear explanation of what it means to be doubly landlocked.
+[RESULT]: 5

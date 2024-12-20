@@ -1,0 +1,5 @@
+[PROMPT]: Has another US President been an Eagle Scout?
+[USER_ANSWER]: No, there has not been another US President who was an Eagle Scout.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It directly addresses the question and provides the correct information that no other US President has been an Eagle Scout.
+[RESULT]: 5

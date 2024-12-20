@@ -1,0 +1,7 @@
+[PROMPT]: Who spend half of their life on land and half in the oceans?
+[USER_ANSWER]: 
+This information is not provided in the text. 
+
+[CORRECT_ANSWER]: Penguins
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks for a specific animal that spends half of its life on land and half in the oceans, and the correct answer is "penguins." The response provided does not address the question and instead states that the information is not provided, which is not accurate.
+[RESULT]: 1

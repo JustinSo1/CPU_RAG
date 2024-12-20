@@ -1,0 +1,5 @@
+[PROMPT]: Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?
+[USER_ANSWER]: There is no information available to determine if he is buried in the Princeton Cemetery of the Nassau Presbyterian Church.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that the person in question is indeed buried in the Princeton Cemetery of the Nassau Presbyterian Church. The evaluated response, however, states that there is no information available, which directly contradicts the reference answer.
+[RESULT]: 1

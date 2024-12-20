@@ -1,0 +1,5 @@
+[PROMPT]: Who is depicted holding the flag in the famous painting of Washington Crossing the Delaware?
+[USER_ANSWER]: The query does not provide information about who is depicted holding the flag in the famous painting of Washington Crossing the Delaware.
+[CORRECT_ANSWER]: Monroe
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about who is depicted holding the flag in the famous painting of Washington Crossing the Delaware. The correct answer is Monroe, but the response fails to mention this and instead states that the query does not provide the information, which is inaccurate.
+[RESULT]: 1

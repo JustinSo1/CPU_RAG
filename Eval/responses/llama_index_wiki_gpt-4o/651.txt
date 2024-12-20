@@ -1,0 +1,5 @@
+[PROMPT]: What is the last word on the page?
+[USER_ANSWER]: studies
+[CORRECT_ANSWER]: Connecticut
+[FEEDBACK]: The response "studies" is completely incorrect, inaccurate, and not factual based on the reference answer "Connecticut." The last word on the page should be "Connecticut," not "studies."
+[RESULT]: 1

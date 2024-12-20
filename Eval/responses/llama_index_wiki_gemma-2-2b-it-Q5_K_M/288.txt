@@ -1,0 +1,9 @@
+[PROMPT]: Who was Kwame Nkrumah?
+[USER_ANSWER]: 
+The provided text does not contain information about Kwame Nkrumah. 
+
+
+
+[CORRECT_ANSWER]: founder and first president
+[FEEDBACK]: The response does not provide any information about Kwame Nkrumah, which makes it completely incorrect and not factual based on the reference answer. The reference answer indicates that Kwame Nkrumah was the founder and first president, but the response fails to mention this or any other relevant information.
+[RESULT]: 1

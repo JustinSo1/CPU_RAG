@@ -1,0 +1,8 @@
+[PROMPT]: Who makes up Ghana's Parliament?
+[USER_ANSWER]: 
+The provided text does not contain information about Ghana's Parliament. 
+It focuses on a study about optometrists' role in paediatric eye care in Ghana. 
+
+[CORRECT_ANSWER]: the New Patriotic Party and National Democratic Congress
+[FEEDBACK]: The response does not address the question about who makes up Ghana's Parliament. Instead, it mentions a study about optometrists' role in paediatric eye care in Ghana, which is completely unrelated to the question. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,5 +1,0 @@
-[PROMPT]: Who determined the dependence of the boiling of water with atmospheric pressure?
-[USER_ANSWER]: Anders Celsius determined the dependence of the boiling point of water with atmospheric pressure.
-[CORRECT_ANSWER]: Anders Celsius
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Anders Celsius as the person who determined the dependence of the boiling point of water with atmospheric pressure. However, the additional detail about the boiling point is not necessary and slightly deviates from the concise nature of the reference answer.
-[RESULT]: 4

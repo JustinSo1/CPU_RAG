@@ -1,0 +1,7 @@
+[PROMPT]: Is Indonesia a republic?
+[USER_ANSWER]: 
+The provided text does not contain information about the political system of Indonesia. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question directly and fails to provide the correct information about Indonesia's political system. The reference answer is a simple "yes," indicating that Indonesia is indeed a republic. The evaluated response does not provide this information and instead states that the provided text does not contain the information, which is not relevant to the question asked. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

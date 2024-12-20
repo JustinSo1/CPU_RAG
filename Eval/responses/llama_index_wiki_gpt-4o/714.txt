@@ -1,0 +1,5 @@
+[PROMPT]: Are there many Roma in Romania?
+[USER_ANSWER]: Yes, there is a significant Roma population in Romania.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates "No," suggesting that there is not a significant Roma population in Romania, while the response states the opposite. Therefore, the response does not align with the reference answer and is not factual.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: Why was the capital of Uruguay founded?
+[USER_ANSWER]: The capital of Uruguay, Montevideo, was founded to establish a strategic military stronghold and to secure Spanish control over the region.
+[CORRECT_ANSWER]: For a military stronghold.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Montevideo was founded for a military stronghold, which aligns with the reference answer. However, it adds additional information about securing Spanish control over the region, which, while not incorrect, is not mentioned in the reference answer. This additional detail does not detract from the accuracy but slightly diverges from the simplicity of the reference answer.
+[RESULT]: 4

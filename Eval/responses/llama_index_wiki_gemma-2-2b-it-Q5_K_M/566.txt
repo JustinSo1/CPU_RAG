@@ -1,0 +1,10 @@
+[PROMPT]: How did the supporters of Henry Clay feel about Fillmore in 1848?
+[USER_ANSWER]: 
+The provided text does not contain any information about Henry Clay or Millard Fillmore. 
+Therefore, I cannot answer your query. 
+
+
+
+[CORRECT_ANSWER]: they were ok with him
+[FEEDBACK]: The response does not address the question about how the supporters of Henry Clay felt about Fillmore in 1848. Instead, it states that the provided text does not contain any information about Henry Clay or Millard Fillmore, which is not relevant to the question. The response is completely incorrect and does not provide any factual information related to the query.
+[RESULT]: 1

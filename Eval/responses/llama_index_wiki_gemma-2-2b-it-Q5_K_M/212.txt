@@ -1,0 +1,7 @@
+[PROMPT]: Do they prefer forested areas?
+[USER_ANSWER]: 
+Yes, based on the provided text, people in this population are more likely to visit the forest than a market to fulfill material needs. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that people in the population prefer forested areas, which aligns with the reference answer. However, it adds extra information about visiting the forest to fulfill material needs, which is not necessary to answer the question directly. This additional detail does not detract from the overall accuracy but makes the response slightly more complex than needed.
+[RESULT]: 4

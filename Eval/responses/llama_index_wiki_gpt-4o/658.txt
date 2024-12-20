@@ -1,0 +1,5 @@
+[PROMPT]: Why polar bear is a special species?
+[USER_ANSWER]: The polar bear is considered a special species due to its unique adaptations to the extreme environment in which it lives. Its vulnerability to pathogens and parasites highlights the delicate balance of its isolated habitat, suggesting that any incursion could have significant impacts on the ecosystem.
+[CORRECT_ANSWER]: The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.
+[FEEDBACK]: The response provides some accurate information about the polar bear's unique adaptations and the impact of pathogens and parasites on its ecosystem. However, it does not address the specific details mentioned in the reference answer, such as the World Conservation Union's listing of polar bears as a vulnerable species and the status of their subpopulations. Therefore, while the response is somewhat correct and factual, it lacks the specific details that would make it fully accurate and complete based on the reference answer.
+[RESULT]: 3

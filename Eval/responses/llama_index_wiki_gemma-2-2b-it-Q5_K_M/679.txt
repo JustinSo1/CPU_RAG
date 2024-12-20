@@ -1,0 +1,7 @@
+[PROMPT]: Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?
+[USER_ANSWER]: 
+No, the provided text does not contain information about thumbpolar bears. It focuses on Chronic Wasting Disease (CWD) and its impact on wildlife. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks about thumbpolar bears and their distinctive white fur and habitat, while the response talks about Chronic Wasting Disease (CWD) and its impact on wildlife, which is unrelated to the question. The reference answer is a simple "yes," indicating that the correct response should affirm the statement in the instruction. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality based on the reference answer.
+[RESULT]: 1

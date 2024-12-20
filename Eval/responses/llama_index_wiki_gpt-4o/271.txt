@@ -1,0 +1,5 @@
+[PROMPT]: Is Ford one of only four former Presidents to live to 90 or more years of age ?
+[USER_ANSWER]: Yes, Ford is one of only four former Presidents to live to 90 or more years of age.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Ford is one of only four former Presidents to live to 90 or more years of age, which aligns with the reference answer.
+[RESULT]: 5

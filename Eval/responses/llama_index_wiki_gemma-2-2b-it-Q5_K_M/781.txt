@@ -1,0 +1,9 @@
+[PROMPT]: What was Roosevelt's justification for supporting desegregation of schools in New York?
+[USER_ANSWER]: 
+The provided text does not contain information about Theodore Roosevelt or his views on desegregation. 
+It focuses on the work of Gregor Mendel, a scientist known for his work in genetics. 
+Therefore, it is not possible to answer your query based on the given context. 
+
+[CORRECT_ANSWER]: Noting that his children had been educated with other races and there was nothing wrong with it
+[FEEDBACK]: The response does not address the question about Roosevelt's justification for supporting desegregation of schools in New York. Instead, it mentions Gregor Mendel and genetics, which are unrelated to the topic. Therefore, the response is completely incorrect and not factual based on the reference answer provided.
+[RESULT]: 1

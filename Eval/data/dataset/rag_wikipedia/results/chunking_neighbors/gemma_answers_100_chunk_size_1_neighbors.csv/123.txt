@@ -1,5 +1,0 @@
-[PROMPT]: Did the scientific community not reserve great attention to his theory ?
-[USER_ANSWER]: Sure, the context does not provide any information about whether the scientific community did not reserve great attention to Avogadro's hypothesis, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question as the reference answer does. Instead, it provides an explanation about the lack of context, which is not required. The reference answer is a simple "yes," indicating that the scientific community did not reserve great attention to his theory. The response fails to address this directly and accurately.
-[RESULT]: 1

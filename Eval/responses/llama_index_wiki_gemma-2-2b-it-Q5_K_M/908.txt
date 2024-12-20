@@ -1,0 +1,9 @@
+[PROMPT]: What was Scots-Irish and Scottish?
+[USER_ANSWER]: 
+The provided text discusses genetic research on autosomal recessive Charcot-Marie-Tooth disease (CMT) and its prevalence in Roma populations. It does not contain any information about Scots-Irish or Scottish culture, history, or any other related topics. 
+
+
+
+[CORRECT_ANSWER]: His ancestry
+[FEEDBACK]: The response provided does not address the question about Scots-Irish and Scottish at all. Instead, it discusses genetic research on a disease in Roma populations, which is entirely unrelated to the topic of Scots-Irish or Scottish ancestry. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

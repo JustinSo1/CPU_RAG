@@ -1,0 +1,5 @@
+[PROMPT]: Did ford attend the University of Michigan?
+[USER_ANSWER]: The provided information does not indicate whether Ford attended the University of Michigan.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer clearly states "Yes," indicating that Ford did attend the University of Michigan. The evaluated response, however, suggests that the provided information does not indicate this, which contradicts the reference answer. Therefore, the response does not align with the factual information provided in the reference answer.
+[RESULT]: 2

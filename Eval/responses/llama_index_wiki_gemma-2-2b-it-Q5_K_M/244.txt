@@ -1,0 +1,10 @@
+[PROMPT]: Do women live longer than men?
+[USER_ANSWER]: 
+Yes, the provided text clearly states that women have a longevity advantage over men. 
+The text mentions that women have a 5-7 year advantage in longevity compared to men. 
+It also highlights that this advantage is consistent across different time periods and 
+sports, including Olympic medal winners. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that women have a longevity advantage over men and provides additional details about the extent of this advantage and its consistency across different contexts. However, the reference answer is a simple "Yes," which suggests that a more concise response would be more appropriate. The additional details, while accurate, are not necessary for the response to be considered correct based on the reference answer.
+[RESULT]: 4

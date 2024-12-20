@@ -1,0 +1,5 @@
+[PROMPT]: Does otter give birth or lay egg?
+[USER_ANSWER]: Otters give birth to live young.
+[CORRECT_ANSWER]: give birth
+[FEEDBACK]: The response "Otters give birth to live young" is mostly correct, accurate, and factual. It correctly states that otters give birth, which aligns with the reference answer. However, it includes additional information ("to live young") that, while true, is not necessary to answer the question directly. This additional detail does not detract from the accuracy but makes the response slightly more elaborate than required.
+[RESULT]: 4

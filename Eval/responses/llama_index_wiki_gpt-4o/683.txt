@@ -1,0 +1,5 @@
+[PROMPT]: Do nearly all Qataris profess Islam?
+[USER_ANSWER]: Yes, nearly all Qataris profess Islam.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It confirms that nearly all Qataris profess Islam, which aligns with the reference answer.
+[RESULT]: 5

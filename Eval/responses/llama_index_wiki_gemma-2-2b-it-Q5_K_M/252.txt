@@ -1,0 +1,7 @@
+[PROMPT]: What did Ford say about his biological father?
+[USER_ANSWER]: 
+The provided text does not contain any information about Ford or his biological father. 
+
+[CORRECT_ANSWER]: He was abusive and had a history of hitting his mother.
+[FEEDBACK]: The response does not address the question about what Ford said about his biological father. Instead, it states that the provided text does not contain any information about Ford or his biological father, which is not relevant to the instruction. The response is completely incorrect and does not provide any factual information related to the reference answer.
+[RESULT]: 1

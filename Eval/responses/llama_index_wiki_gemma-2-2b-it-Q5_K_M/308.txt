@@ -1,0 +1,7 @@
+[PROMPT]: What type of tools do biologists use to capture wolves for tagging?
+[USER_ANSWER]: 
+The provided text does not contain information about biologists using tools to capture wolves for tagging. 
+
+[CORRECT_ANSWER]: Darting and Foot hold traps.
+[FEEDBACK]: The response does not provide any information about the tools biologists use to capture wolves for tagging. It states that the provided text does not contain this information, which is not relevant to the question asked. The response is completely incorrect and does not align with the reference answer, which specifies "Darting and Foot hold traps" as the tools used.
+[RESULT]: 1

@@ -1,0 +1,9 @@
+[PROMPT]: Who has its own political legislature and governor ?
+[USER_ANSWER]: 
+---------------------
+The provided context information does not specify which countries or entities have their own political legislatures and governors. 
+--------------------- 
+
+[CORRECT_ANSWER]: each province
+[FEEDBACK]: The response does not directly answer the question. Instead, it states that the provided context does not specify the entities with their own political legislatures and governors. This is not accurate or factual based on the reference answer, which clearly states "each province." The response fails to provide the correct information and is therefore completely incorrect.
+[RESULT]: 1

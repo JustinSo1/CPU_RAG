@@ -1,0 +1,11 @@
+[PROMPT]: What shares land borders with Papua New Guinea, East Timor and Malaysia?
+[USER_ANSWER]: 
+The provided text mentions that Papua New Guinea shares land borders with **Indonesia** and **Australia**. 
+It also mentions that Malaysia is a neighboring country to Papua New Guinea. 
+East Timor is a separate country and does not share land borders with Papua New Guinea. 
+
+
+
+[CORRECT_ANSWER]: Indonesia
+[FEEDBACK]: The response contains several inaccuracies and irrelevant information. It incorrectly states that Papua New Guinea shares land borders with Australia, which is not true. It also mentions Malaysia as a neighboring country to Papua New Guinea, which is incorrect. The only correct part is that East Timor does not share land borders with Papua New Guinea. The response fails to accurately identify Indonesia as the only country that shares a land border with Papua New Guinea, which is the correct and factual answer based on the reference answer.
+[RESULT]: 2

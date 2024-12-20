@@ -1,0 +1,5 @@
+[PROMPT]: Which state were Coolidge born in?
+[USER_ANSWER]: It is not possible to determine the state where Coolidge was born based on the provided information.
+[CORRECT_ANSWER]: Plymouth, Windsor County, Vermont
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks for the state where Coolidge was born, and the correct answer is Vermont. The response does not provide this information and instead states that it is not possible to determine the state based on the provided information, which is not true.
+[RESULT]: 1

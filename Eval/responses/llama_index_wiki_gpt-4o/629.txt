@@ -1,0 +1,5 @@
+[PROMPT]: Do penguins have a better than average sense of hearing for birds?
+[USER_ANSWER]: There is no information provided regarding the sense of hearing in penguins. Thus, it is not possible to determine from the given context whether penguins have a better than average sense of hearing for birds.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "yes," indicating that penguins do have a better than average sense of hearing for birds. The evaluated response, however, claims that there is no information provided and thus does not answer the question. This makes the response completely incorrect and inaccurate according to the given rubric.
+[RESULT]: 1

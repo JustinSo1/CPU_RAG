@@ -1,5 +1,0 @@
-[PROMPT]: Did the scientific community not reserve great attention to his theory ?
-[USER_ANSWER]: Sure, the context says that the scientific community did not reserve great attention to Avogadro's hypothesis.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is mostly correct and accurate, as it confirms that the scientific community did not reserve great attention to Avogadro's hypothesis. However, it adds extra context that was not necessary for the answer, which slightly deviates from the simplicity and directness of the reference answer.
-[RESULT]: 4

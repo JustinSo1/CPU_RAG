@@ -1,0 +1,5 @@
+[PROMPT]: Are Immature sea turtles not cared for by the adults ?
+[USER_ANSWER]: Immature sea turtles are not cared for by the adults.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a complete sentence that conveys the same information as the reference answer, which is a simple "yes." However, the response could be more concise to match the reference answer exactly.
+[RESULT]: 4

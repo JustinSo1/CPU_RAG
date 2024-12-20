@@ -1,0 +1,7 @@
+[PROMPT]: In 1905 Coolidge met and married whom?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Grace Anna Goodhue
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct answer to the question, which is "Grace Anna Goodhue." Instead, it states that the provided text does not contain the answer, which is not relevant to the task of identifying whom Coolidge met and married in 1905.
+[RESULT]: 1

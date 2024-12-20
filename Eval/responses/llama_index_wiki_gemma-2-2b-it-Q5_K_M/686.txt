@@ -1,0 +1,10 @@
+[PROMPT]: Where is Qatar's telecommunication system centered?
+[USER_ANSWER]: 
+The provided text mentions that the rescue terminal uses China's Beidou 1 Navigation Satellite (BD1) System for positioning. 
+Therefore, the answer is **China**. 
+
+
+
+[CORRECT_ANSWER]: Doha.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The question asks about the center of Qatar's telecommunication system, and the correct answer is Doha. The response incorrectly mentions China, which is unrelated to the question.
+[RESULT]: 1

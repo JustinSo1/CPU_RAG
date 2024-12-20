@@ -1,0 +1,5 @@
+[PROMPT]: Do sea otters live along the Pacific coast?
+[USER_ANSWER]: Yes, sea otters live along the Pacific coast.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, sea otters live along the Pacific coast." is completely correct, accurate, and factual based on the reference answer "Yes." The additional information provided does not detract from the accuracy of the response.
+[RESULT]: 5

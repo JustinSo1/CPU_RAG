@@ -1,0 +1,9 @@
+[PROMPT]: Does a male leopard weigh more than a female leopard?
+[USER_ANSWER]: 
+The provided text does not contain information about the weight of male and female leopards. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether a male leopard weighs more than a female leopard. Instead, it states that the provided text does not contain information about the weight of male and female leopards, which is not relevant to the instruction. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard an agile and graceful predator?
+[USER_ANSWER]: Yes, the leopard is known for being an agile and graceful predator.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the leopard is an agile and graceful predator, which aligns with the reference answer. The additional information provided does not detract from the accuracy of the response.
+[RESULT]: 5

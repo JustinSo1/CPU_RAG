@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he became a professor in 1820?
+[USER_ANSWER]: No, it is not true that he became a professor in 1820.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the correct response should be "yes," while the evaluated response states "No, it is not true that he became a professor in 1820," which directly contradicts the reference answer.
+[RESULT]: 1

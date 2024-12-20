@@ -1,0 +1,7 @@
+[PROMPT]: What religion do most Uruguayans profess?
+[USER_ANSWER]: 
+The provided text does not contain information about the religion of most Uruguayans. 
+
+[CORRECT_ANSWER]: None.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The instruction asks about the religion most Uruguayans profess, but the response incorrectly states that the provided text does not contain this information. The reference answer indicates that there is no specific information provided, but the response does not address the question accurately.
+[RESULT]: 1

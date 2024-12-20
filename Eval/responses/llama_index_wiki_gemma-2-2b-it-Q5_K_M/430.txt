@@ -1,0 +1,9 @@
+[PROMPT]: With what party did Adams run for presidency?
+[USER_ANSWER]: 
+The provided text does not contain information about Adams running for presidency. 
+
+
+
+[CORRECT_ANSWER]: The Federalist Party
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It states that the provided text does not contain information about Adams running for presidency, which is not relevant to the question asked. The correct answer is "The Federalist Party," which is not mentioned in the response.
+[RESULT]: 1

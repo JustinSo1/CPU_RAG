@@ -1,0 +1,5 @@
+[PROMPT]: What is used to protect a vehicale from a Kangaroo?
+[USER_ANSWER]: A chest barrier or protector is used to create a safer environment and prevent catastrophic events like commotio cordis.
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response is completely incorrect and not factual based on the reference answer. The reference answer specifies "roo bars," which are specifically designed to protect vehicles from kangaroos. The response mentions a "chest barrier or protector," which is unrelated to vehicle protection from kangaroos.
+[RESULT]: 1

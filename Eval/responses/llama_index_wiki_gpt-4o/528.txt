@@ -1,0 +1,5 @@
+[PROMPT]: When was Liechtenstein's current constitution adopted?
+[USER_ANSWER]: The current constitution of Liechtenstein was adopted on October 5, 1921.
+[CORRECT_ANSWER]: October 1921.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides the exact date (October 5, 1921) when the current constitution of Liechtenstein was adopted, which is more detailed than the reference answer. However, the reference answer only specifies the month and year (October 1921), which is sufficient for a score of 5. The additional detail does not detract from the accuracy but is not necessary based on the reference answer.
+[RESULT]: 4

@@ -1,0 +1,7 @@
+[PROMPT]: How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+[USER_ANSWER]: 
+The provided text does not contain information about the Battle of Singapore or the Imperial Japanese Army. Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: Six days
+[FEEDBACK]: The response does not provide the correct, accurate, or factual information regarding the number of days it took the Imperial Japanese Army to win the Battle of Singapore. Instead, it states that the provided text does not contain the information, which is not relevant to the question asked. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

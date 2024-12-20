@@ -1,0 +1,5 @@
+[PROMPT]: What is the most extensively celebrated holiday?
+[USER_ANSWER]: The context does not provide information regarding the most extensively celebrated holiday.
+[CORRECT_ANSWER]: Christmas
+[FEEDBACK]: The response does not provide an answer to the question asked. Instead, it states that the context does not provide information, which is not relevant to the question. The reference answer clearly indicates that "Christmas" is the most extensively celebrated holiday, and the response fails to address this. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

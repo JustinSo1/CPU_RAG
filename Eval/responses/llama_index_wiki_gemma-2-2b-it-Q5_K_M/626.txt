@@ -1,0 +1,7 @@
+[PROMPT]: How many species of penguins are there?
+[USER_ANSWER]: 
+The provided text does not contain information about the number of penguin species. 
+
+[CORRECT_ANSWER]: between 17 and 20 living species
+[FEEDBACK]: The response does not provide the correct information about the number of penguin species. It states that the provided text does not contain the information, which is not relevant to the question asked. The correct answer should be between 17 and 20 living species. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Is polar bear a carnivore?
+[USER_ANSWER]: Yes, a polar bear is a carnivore.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that a polar bear is a carnivore, which aligns with the reference answer. The additional information provided does not detract from the accuracy of the response.
+[RESULT]: 5

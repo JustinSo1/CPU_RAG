@@ -1,0 +1,7 @@
+[PROMPT]: What are the two subfamilies of the Native Ghanaian languages?
+[USER_ANSWER]: 
+The provided text does not contain information about the two subfamilies of the Native Ghanaian languages. 
+
+[CORRECT_ANSWER]: Kwa and Gur
+[FEEDBACK]: The response does not provide the correct information about the two subfamilies of the Native Ghanaian languages. It states that the provided text does not contain the information, which is not relevant to the question asked. The response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

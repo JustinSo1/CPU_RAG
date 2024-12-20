@@ -1,0 +1,5 @@
+[PROMPT]: What happened in 1896?
+[USER_ANSWER]: In 1896, there was no specific event mentioned in the context provided.
+[CORRECT_ANSWER]:  Becquerel accidentally discovered radioactivity.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer specifies that Becquerel accidentally discovered radioactivity in 1896, which is a significant historical event. The response fails to mention this event and instead states that there was no specific event mentioned, which is factually incorrect.
+[RESULT]: 1

@@ -1,0 +1,15 @@
+[PROMPT]: What animals are related to otters?
+[USER_ANSWER]: 
+The provided text mentions that **pholidotes** are related to carnivores, and **ferrets** are related to otters. 
+ 
+**Explanation:**
+
+* **Pholidotes** are pangolins, which are related to carnivores.
+* **Ferrets** are carnivores, and the text states that they are related to otters. 
+
+
+Let me know if you have any other questions. 
+
+[CORRECT_ANSWER]: weasels, polecats, and badgers
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer lists weasels, polecats, and badgers as animals related to otters, while the response incorrectly mentions pholidotes and ferrets. Pholidotes (pangolins) are not related to otters, and while ferrets are carnivores, they are not specifically mentioned in the reference answer as being related to otters. The explanation provided does not align with the correct information.
+[RESULT]: 2

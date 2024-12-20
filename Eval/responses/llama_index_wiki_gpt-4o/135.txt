@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that it angered many residents of the thirteen colonies?
+[USER_ANSWER]: There is no information provided regarding the anger of residents in the thirteen colonies.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer is a simple "yes," indicating that the statement in the instruction is true. However, the response provided states that there is no information regarding the anger of residents, which contradicts the reference answer. Therefore, the response is completely incorrect and inaccurate.
+[RESULT]: 1

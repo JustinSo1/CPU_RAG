@@ -1,0 +1,5 @@
+[PROMPT]: When was Lee Kuan Yew prime minister of Singapore?
+[USER_ANSWER]: Lee Kuan Yew served as the prime minister of Singapore from 1959 to 1990.
+[CORRECT_ANSWER]: 1959
+[FEEDBACK]: The response "Lee Kuan Yew served as the prime minister of Singapore from 1959 to 1990" is mostly correct, accurate, and factual. It provides the full range of years during which Lee Kuan Yew served as prime minister, which is accurate. However, the reference answer only specifies the starting year, 1959, which is also correct. The response includes additional information that is accurate but not required by the reference answer.
+[RESULT]: 4

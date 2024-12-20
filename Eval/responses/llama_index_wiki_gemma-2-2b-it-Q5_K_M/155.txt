@@ -1,0 +1,8 @@
+[PROMPT]: What makes it more difficult for a diving duck to fly?
+[USER_ANSWER]: 
+The provided text does not contain information about diving ducks or their ability to fly. 
+Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: They are heavier
+[FEEDBACK]: The response does not address the question about what makes it more difficult for a diving duck to fly. Instead, it states that the provided text does not contain information about diving ducks or their ability to fly, which is not relevant to the question. The response is completely incorrect and does not provide any factual information related to the difficulty diving ducks face in flying.
+[RESULT]: 1

@@ -1,0 +1,8 @@
+[PROMPT]: Do sea turtles lay eggs on dry sandy beaches?
+[USER_ANSWER]: 
+The provided text does not contain information about sea turtles' egg-laying habits. 
+It focuses on the phylogenetic position of turtles, their genome structure, and the presence of TTX in certain organisms. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question about sea turtles laying eggs on dry sandy beaches. Instead, it discusses unrelated topics such as the phylogenetic position of turtles, their genome structure, and the presence of TTX in certain organisms. This makes the response completely incorrect and inaccurate based on the reference answer, which is a simple "Yes" to the question asked.
+[RESULT]: 1

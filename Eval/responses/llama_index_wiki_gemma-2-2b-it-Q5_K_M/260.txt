@@ -1,0 +1,7 @@
+[PROMPT]: Was Ford an Eagle Scout?
+[USER_ANSWER]: 
+The provided text does not contain any information about Ford or whether he was an Eagle Scout. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks whether Ford was an Eagle Scout, and the correct answer is simply "yes." The response provided does not address the question and instead states that the text does not contain information about Ford, which is not relevant to the instruction. Therefore, the response fails to provide the correct, accurate, and factual answer required.
+[RESULT]: 1

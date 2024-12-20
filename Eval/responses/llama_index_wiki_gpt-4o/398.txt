@@ -1,0 +1,5 @@
+[PROMPT]: What was the result of the rejection of the Jay Treaty?
+[USER_ANSWER]: The result of the rejection of the Jay Treaty is not mentioned.
+[CORRECT_ANSWER]: As a result, the two nations moved closer toward the War of 1812. 
+[FEEDBACK]: The response is completely incorrect and inaccurate. It does not provide any factual information about the result of the rejection of the Jay Treaty. The reference answer indicates that the rejection led to the two nations moving closer toward the War of 1812, which is not mentioned or implied in the response.
+[RESULT]: 1

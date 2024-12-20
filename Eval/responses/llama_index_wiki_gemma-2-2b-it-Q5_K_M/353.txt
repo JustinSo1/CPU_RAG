@@ -1,0 +1,8 @@
+[PROMPT]: Does Indonesia have the world's hightest level of biodiversity?
+[USER_ANSWER]: 
+The provided text does not contain information about the biodiversity levels of Indonesia or any other country. 
+Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question about Indonesia's biodiversity levels. Instead, it mentions the lack of information in the provided text, which is not relevant to the task. The reference answer is a simple "no," indicating that the correct response should be straightforward and factual. The evaluated response fails to provide this direct answer and is therefore not accurate or factual based on the reference answer.
+[RESULT]: 1

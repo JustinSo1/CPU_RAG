@@ -1,0 +1,5 @@
+[PROMPT]: Was Calvin Coolidge Republican?
+[USER_ANSWER]: Yes, Calvin Coolidge was a Republican.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the same information as the reference answer, confirming that Calvin Coolidge was a Republican. The additional detail does not detract from the accuracy of the response.
+[RESULT]: 5

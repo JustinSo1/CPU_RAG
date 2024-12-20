@@ -1,0 +1,5 @@
+[PROMPT]: Does Egypt's foreign policy operates along moderate lines?
+[USER_ANSWER]: There is no information provided regarding Egypt's foreign policy or its approach in the given context.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not address the question directly and fails to provide an answer regarding Egypt's foreign policy. It states that there is no information provided, which is not accurate as the question itself is asking for a general assessment. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

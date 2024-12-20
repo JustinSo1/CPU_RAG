@@ -1,0 +1,5 @@
+[PROMPT]: Is Calvin Jr. older than John Coolidge?
+[USER_ANSWER]: There is no information provided to determine whether Calvin Jr. is older than John Coolidge.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is not correct based on the reference answer. The reference answer is a simple "No," indicating that the question can be answered definitively. The response, however, suggests that there is no information available to determine the answer, which is inaccurate. Therefore, the response does not align with the reference answer and is not factual.
+[RESULT]: 1

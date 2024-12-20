@@ -1,0 +1,8 @@
+[PROMPT]: How many Eagle Scouts were involved in Ford's funeral procession?
+[USER_ANSWER]: 
+The provided text does not contain any information about Ford's funeral procession or Eagle Scouts. 
+Therefore, I cannot answer your query. 
+
+[CORRECT_ANSWER]: 400
+[FEEDBACK]: The response does not provide the correct number of Eagle Scouts involved in Ford's funeral procession, which is 400. Instead, it states that the provided text does not contain any information about the funeral procession or Eagle Scouts, which is not relevant to the question asked. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Where did Orang Laut people live?
+[USER_ANSWER]: The Orang Laut people lived in the coastal and island regions of the Riau Archipelago, parts of the Malay Peninsula, and the surrounding sea areas.
+[CORRECT_ANSWER]: Orang Laut people lived around the coast, rivers and smaller islands.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides specific details about the regions where the Orang Laut people lived, such as the Riau Archipelago, parts of the Malay Peninsula, and the surrounding sea areas. However, it does not mention the rivers, which are included in the reference answer. This omission makes the response slightly less comprehensive than the reference answer.
+[RESULT]: 4

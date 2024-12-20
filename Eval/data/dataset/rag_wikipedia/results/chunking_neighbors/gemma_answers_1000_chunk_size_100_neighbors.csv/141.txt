@@ -1,5 +1,0 @@
-[PROMPT]: When did he publish a collection?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: 1733
-[FEEDBACK]: The response does not provide any factual information or attempt to answer the question about when a collection was published. It simply states that the knowledge base does not have a match and does not provide any relevant information. This makes the response completely incorrect and not factual based on the reference answer.
-[RESULT]: 1

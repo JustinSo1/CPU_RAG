@@ -1,0 +1,5 @@
+[PROMPT]: Why did Roosevelt start Boxing lessons?
+[USER_ANSWER]: Roosevelt started boxing lessons because he was advised to exercise to improve his health.
+[CORRECT_ANSWER]: To deal with bullies
+[FEEDBACK]: The response is mostly incorrect and does not align with the reference answer. The reference answer indicates that Roosevelt started boxing lessons to deal with bullies, while the response suggests it was for health improvement. This shows a significant deviation from the correct reason provided in the reference answer.
+[RESULT]: 2

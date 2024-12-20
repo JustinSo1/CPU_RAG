@@ -1,0 +1,5 @@
+[PROMPT]: What caused Wilson to ask Congress to declare war on the Central Powers?
+[USER_ANSWER]: The given context does not provide information about the reasons behind Wilson's request for Congress to declare war on the Central Powers.
+[CORRECT_ANSWER]: German began unrestricted submarine warfare
+[FEEDBACK]: The response does not address the question directly and does not provide any factual information about the reasons behind Wilson's request for Congress to declare war on the Central Powers. It fails to mention the key reason, which is the German unrestricted submarine warfare. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

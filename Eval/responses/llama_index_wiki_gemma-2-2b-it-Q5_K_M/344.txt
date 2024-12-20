@@ -1,0 +1,9 @@
+[PROMPT]: Did one places between the phosphorescent substance and the paper a piece of money or a metal screen not pierce with a cut-out design ?
+[USER_ANSWER]: 
+The provided text does not mention anything about placing money or a metal screen between a phosphorescent substance and paper. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The instruction asks a yes/no question, and the reference answer is simply "yes." The response provided does not directly answer the question and instead provides an explanation that is not required. Therefore, it does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[RESULT]: 2

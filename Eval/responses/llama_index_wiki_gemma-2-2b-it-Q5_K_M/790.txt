@@ -1,0 +1,7 @@
+[PROMPT]: Did Roosevelt support racial integration in schools?
+[USER_ANSWER]: 
+No, the provided text does not mention anything about Theodore Roosevelt or his stance on racial integration in schools. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that Roosevelt did support racial integration in schools, while the response incorrectly states that the text does not mention anything about Roosevelt's stance on the matter.
+[RESULT]: 1

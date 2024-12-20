@@ -1,0 +1,5 @@
+[PROMPT]: Was Wilson awarded the 1919 Nobel Peace Prize?
+[USER_ANSWER]: No, Wilson was not awarded the 1919 Nobel Peace Prize.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that Wilson was indeed awarded the 1919 Nobel Peace Prize, while the response states the opposite.
+[RESULT]: 1

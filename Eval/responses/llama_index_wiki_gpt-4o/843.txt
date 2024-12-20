@@ -1,0 +1,5 @@
+[PROMPT]: Who did President Lincoln promote of major general in the regular army, effective July 4?
+[USER_ANSWER]: There is no information available regarding the promotion of a major general by President Lincoln in the provided context.
+[CORRECT_ANSWER]: Grant
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information requested. The correct answer is "Grant," but the response states that there is no information available, which is inaccurate.
+[RESULT]: 1

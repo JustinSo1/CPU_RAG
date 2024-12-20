@@ -1,0 +1,16 @@
+[PROMPT]: Can beetles be found in almost all habitats?
+[USER_ANSWER]: 
+Based on the provided text, we can't definitively say if beetles can be found in almost all habitats. 
+
+Here's why:
+
+* **Focus on specific groups:** The text focuses on tiger beetles (Cicindela) and their phylogenetic relationships. It doesn't provide information about the general distribution of all beetle species.
+* **Limited scope:** The text mentions tiger beetles' distribution in North America, but doesn't suggest they are found in every habitat. 
+* **Beetles are diverse:** The text highlights the diversity of beetles, but doesn't imply they are found in every habitat.
+
+
+**To answer your question, we need more information about the distribution of all beetle species.** 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is somewhat correct in that it acknowledges the diversity of beetles and the need for more information to definitively answer the question. However, it is not accurate in the context of the reference answer, which simply states "Yes." The response overcomplicates the answer by focusing on the limitations of the provided text rather than addressing the general fact that beetles can indeed be found in almost all habitats. This makes the response less accurate and factual compared to the reference answer.
+[RESULT]: 3

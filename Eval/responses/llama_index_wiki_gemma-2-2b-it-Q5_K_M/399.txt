@@ -1,0 +1,7 @@
+[PROMPT]: Who is depicted holding the flag in the famous painting of Washington Crossing the Delaware?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Monroe
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain the answer, which is not relevant to the question asked. The correct answer, "Monroe," is not mentioned at all. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

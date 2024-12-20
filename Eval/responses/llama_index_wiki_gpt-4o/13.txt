@@ -1,0 +1,5 @@
+[PROMPT]: Which county was Lincoln born in?
+[USER_ANSWER]: The information provided does not include details about the birthplace of Lincoln.
+[CORRECT_ANSWER]: Hardin County
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information that Lincoln was born in Hardin County. Instead, it states that the information is not provided, which is inaccurate.
+[RESULT]: 1

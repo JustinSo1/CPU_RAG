@@ -1,0 +1,5 @@
+[PROMPT]: Do wolves leave their pack?
+[USER_ANSWER]: Yes, wolves sometimes leave their pack. This behavior can occur for various reasons including seeking new territories, finding mates, or due to competition within the pack.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional context and reasons why wolves might leave their pack, which are accurate. However, the reference answer is very concise, and the response goes beyond the simplicity of the reference answer. While the additional information is correct, it is not necessary to meet the criteria of the reference answer.
+[RESULT]: 4

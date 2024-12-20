@@ -1,0 +1,5 @@
+[PROMPT]: How many species of penguins are there?
+[USER_ANSWER]: The specific number of penguin species is not provided.
+[CORRECT_ANSWER]: between 17 and 20 living species
+[FEEDBACK]: The response does not provide the specific number of penguin species, which is between 17 and 20. It is not accurate or factual based on the reference answer.
+[RESULT]: 1

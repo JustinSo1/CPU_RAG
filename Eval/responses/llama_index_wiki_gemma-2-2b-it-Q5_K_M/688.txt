@@ -1,0 +1,7 @@
+[PROMPT]: Does the native pronunciation of Qatar sound like 'cutter'?
+[USER_ANSWER]: 
+The provided text does not contain any information about the pronunciation of the word "Qatar". 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not address the question about the pronunciation of "Qatar" and instead states that the provided text does not contain information about the pronunciation. This is not accurate or factual based on the reference answer, which simply states "Yes." The response fails to provide the correct information.
+[RESULT]: 1

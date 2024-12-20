@@ -1,0 +1,5 @@
+[PROMPT]: What was Scots-Irish and Scottish?
+[USER_ANSWER]: The Scottish Imaging Network, A Platform for Scientific Excellence (SINAPSE) Collaboration, located at the University of Edinburgh, and other associated research groups are Scottish.
+[CORRECT_ANSWER]: His ancestry
+[FEEDBACK]: The response provided does not address the question about Scots-Irish and Scottish ancestry. Instead, it talks about a scientific collaboration network in Scotland, which is unrelated to the topic of ancestry. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

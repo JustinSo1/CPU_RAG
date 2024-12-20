@@ -1,0 +1,5 @@
+[PROMPT]: Do all ducks "quack"?
+[USER_ANSWER]: Not all ducks "quack." Some species of ducks make different sounds such as whistles, grunts, or squeaks.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that not all ducks "quack" and provides additional information about the different sounds ducks can make. However, the reference answer is a simple "No," which is more concise and directly addresses the question without additional details. The response, while accurate, goes beyond the simplicity of the reference answer.
+[RESULT]: 4

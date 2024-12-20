@@ -1,0 +1,7 @@
+[PROMPT]: Did John Adams go to Harvard? 
+[USER_ANSWER]: 
+No, the provided context does not mention John Adams. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether John Adams went to Harvard, and the correct answer is "yes." The response provided does not address the question correctly and instead mentions the absence of context, which is irrelevant to the factual accuracy of the answer.
+[RESULT]: 1

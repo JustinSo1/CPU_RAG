@@ -1,0 +1,7 @@
+[PROMPT]: What does the word duck mean?
+[USER_ANSWER]: 
+The word "duck" in the context of the provided text refers to **dabbling ducks**, which are a type of waterfowl known for their habit of foraging in shallow water. 
+
+[CORRECT_ANSWER]: It is the common name for a number of species in the Anatidae family of birds.
+[FEEDBACK]: The response is somewhat correct and factual as it mentions "dabbling ducks," which are indeed a type of duck. However, it is not as comprehensive or general as the reference answer, which correctly identifies "duck" as a common name for species in the Anatidae family. The response is more specific and does not fully capture the broader definition provided in the reference answer.
+[RESULT]: 3

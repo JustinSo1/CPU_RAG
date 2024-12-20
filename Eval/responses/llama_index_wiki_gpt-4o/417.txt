@@ -1,0 +1,5 @@
+[PROMPT]: Did John Adams represent the Continental Congress in Europe?
+[USER_ANSWER]: The provided context does not contain information about John Adams representing the Continental Congress in Europe, so I cannot confirm that he did.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is somewhat correct in that it acknowledges the lack of information in the provided context. However, it does not directly answer the question asked. The reference answer is a simple "Yes," indicating that John Adams did represent the Continental Congress in Europe. The response fails to provide this factual information and instead focuses on the absence of context, which makes it only somewhat accurate.
+[RESULT]: 3

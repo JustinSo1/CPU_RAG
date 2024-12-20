@@ -1,0 +1,12 @@
+[PROMPT]: Was Liechtenstein part of the ancient Roman province of Raetia?
+[USER_ANSWER]: 
+Liechtenstein was not part of the ancient Roman province of Raetia. 
+
+
+**Explanation:**
+
+The provided context information focuses on medical research and epidemiology, particularly concerning the Austrian syndrome. It does not contain any information about the ancient Roman provinces or Liechtenstein's historical context. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer indicates that Liechtenstein was indeed part of the ancient Roman province of Raetia, while the response states the opposite. Additionally, the explanation provided is irrelevant to the question, as it discusses medical research and epidemiology, which are unrelated to the historical context of Liechtenstein and Raetia.
+[RESULT]: 1

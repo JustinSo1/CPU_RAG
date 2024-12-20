@@ -1,0 +1,5 @@
+[PROMPT]: Does Uruguay have cold summers?
+[USER_ANSWER]: The information provided does not specify the climate characteristics of Uruguay's summers.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response does not directly answer the question about Uruguay's summers. Instead, it states that the information provided does not specify the climate characteristics, which is not accurate since the question is asking for a factual answer. The response fails to provide the correct information that Uruguay does not have cold summers. Therefore, it is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: In 1905 Coolidge met and married whom?
+[USER_ANSWER]: Grace Anna Goodhue
+[CORRECT_ANSWER]: Grace Anna Goodhue
+[FEEDBACK]: The response "Grace Anna Goodhue" is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

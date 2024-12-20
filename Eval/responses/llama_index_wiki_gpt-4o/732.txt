@@ -1,0 +1,5 @@
+[PROMPT]: Was Gellu Naum the leader of the surrealist movement in Romania ?
+[USER_ANSWER]: The information provided does not mention Gellu Naum or his involvement with the surrealist movement in Romania. Therefore, based on the given context, it is not possible to determine if Gellu Naum was the leader of the surrealist movement in Romania.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question and instead states that the information provided does not mention Gellu Naum or his involvement with the surrealist movement in Romania. The reference answer is a simple "Yes," indicating that Gellu Naum was indeed the leader of the surrealist movement in Romania. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 1

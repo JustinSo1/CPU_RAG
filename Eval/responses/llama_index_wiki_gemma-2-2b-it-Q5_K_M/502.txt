@@ -1,0 +1,7 @@
+[PROMPT]: What was one of the many species described in Linnaeus's 18th-century work, Systema Naturae?
+[USER_ANSWER]: 
+The provided text does not mention anything about Linnaeus's Systema Naturae or any species described in it. 
+
+[CORRECT_ANSWER]: Felis pardus
+[FEEDBACK]: The response does not provide any information about a species described in Linnaeus's Systema Naturae. Instead, it incorrectly states that the provided text does not mention anything about Linnaeus's work or any species described in it. This is completely inaccurate and does not address the question asked.
+[RESULT]: 1

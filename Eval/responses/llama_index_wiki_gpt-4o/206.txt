@@ -1,0 +1,5 @@
+[PROMPT]: How long is the elephant's gestation period?
+[USER_ANSWER]: The gestation period is between 60.50 and 64.00 days.
+[CORRECT_ANSWER]: 22 months
+[FEEDBACK]: The response is completely incorrect and inaccurate. The gestation period of an elephant is approximately 22 months, not between 60.50 and 64.00 days. The provided answer does not align with the factual information given in the reference answer.
+[RESULT]: 1

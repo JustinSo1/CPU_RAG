@@ -1,0 +1,5 @@
+[PROMPT]: What district was Ford elected from?
+[USER_ANSWER]: The context does not provide information regarding the district from which Ford was elected.
+[CORRECT_ANSWER]: Michigan's 5th congressional district
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information that Ford was elected from Michigan's 5th congressional district. Instead, it states that the context does not provide the information, which is not accurate based on the reference answer.
+[RESULT]: 1

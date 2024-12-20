@@ -1,0 +1,5 @@
+[PROMPT]: How many municipalities is Liechtenstein divided into?
+[USER_ANSWER]: Liechtenstein is divided into eleven municipalities.
+[CORRECT_ANSWER]: 11
+[FEEDBACK]: The response "Liechtenstein is divided into eleven municipalities." is completely correct, accurate, and factual based on the reference answer "11". It provides the exact number of municipalities in Liechtenstein, matching the reference answer perfectly.
+[RESULT]: 5

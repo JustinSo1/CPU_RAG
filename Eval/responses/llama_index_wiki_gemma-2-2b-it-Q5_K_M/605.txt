@@ -1,0 +1,8 @@
+[PROMPT]: How are otters playful animals?
+[USER_ANSWER]: 
+The provided text does not contain information about otters or their playfulness. 
+It focuses on the roles of oxytocin and vasopressin in social behavior across various species, including fish, rodents, and mammals. 
+
+[CORRECT_ANSWER]: The slide down snowy slopes, apparently for sheer enjoyment.  
+[FEEDBACK]: The response does not address the question about otters being playful animals. Instead, it discusses the roles of oxytocin and vasopressin in social behavior across various species, which is unrelated to the playfulness of otters. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,8 @@
+[PROMPT]: What are the similarities between beetles and grasshoppers?
+[USER_ANSWER]: 
+The provided text does not contain information about similarities between beetles and grasshoppers. 
+It focuses on the phylogenetic analysis of tiger beetles and the feeding behavior of the brown marmorated stink bug. 
+
+[CORRECT_ANSWER]: mouthparts
+[FEEDBACK]: The response does not address the similarities between beetles and grasshoppers at all. Instead, it discusses unrelated topics such as the phylogenetic analysis of tiger beetles and the feeding behavior of the brown marmorated stink bug. This makes the response completely incorrect and not factual based on the reference answer, which mentions "mouthparts" as a similarity.
+[RESULT]: 1

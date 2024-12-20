@@ -1,0 +1,7 @@
+[PROMPT]: Who did Wilson win in 1917?
+[USER_ANSWER]: 
+The provided text does not mention who Wilson won in 1917. 
+
+[CORRECT_ANSWER]: Irish Americans
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information related to the reference answer. The reference answer indicates that Wilson won the Irish Americans in 1917, but the response fails to mention this and instead states that the provided text does not mention who Wilson won in 1917, which is not accurate.
+[RESULT]: 1

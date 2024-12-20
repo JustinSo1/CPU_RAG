@@ -1,0 +1,5 @@
+[PROMPT]: How do cuba and declining participation relate?
+[USER_ANSWER]: Fewer non-Hispanic blacks or Hispanics, including those from regions like Cuba, participated in clinical trials. This suggests a potential connection between ethnicity and declining participation rates in clinical research.
+[CORRECT_ANSWER]: Canada maintains full relations with both.
+[FEEDBACK]: The response provided does not address the relationship between Cuba and declining participation as the reference answer does. The reference answer mentions Canada maintaining full relations with both, which is unrelated to the topic of clinical trials and ethnicity mentioned in the response. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

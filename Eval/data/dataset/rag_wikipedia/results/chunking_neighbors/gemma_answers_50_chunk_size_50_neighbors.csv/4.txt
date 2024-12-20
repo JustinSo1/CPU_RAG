@@ -1,5 +1,0 @@
-[PROMPT]: How many long was Lincoln's formal education?
-[USER_ANSWER]: Lincoln's formal education was about 18 m of formal education.
-[CORRECT_ANSWER]: 18 months
-[FEEDBACK]: The response is mostly correct in terms of the duration of Lincoln's formal education, which is 18 months. However, the use of "18 m" instead of "18 months" makes the response slightly less clear and precise.
-[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Is a leopard larger and less lanky than a cheetah?
+[USER_ANSWER]: The context information does not provide specific details about the size and build comparisons between a leopard and a cheetah. Therefore, this information cannot be determined from the provided context.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether a leopard is larger and less lanky than a cheetah. Instead, it states that the context information does not provide specific details, which is not relevant to the question itself. The reference answer is a simple "yes," indicating that the correct response should affirm the comparison. Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

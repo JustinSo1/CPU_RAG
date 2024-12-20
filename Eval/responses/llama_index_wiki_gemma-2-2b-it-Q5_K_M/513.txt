@@ -1,0 +1,7 @@
+[PROMPT]: Can a panther be any of several species of large felid?
+[USER_ANSWER]: 
+Yes. The context information states that "A species-level phylogenetic study of tiger beetles in the genus Cicindela (Coleoptera: Cicindelidae) for 132 terminal taxa and 1897 nucleotide positions from three regions of mtDNA, comprising 75% coverage of species occurring in North America." 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and not factual. The context information provided about a phylogenetic study of tiger beetles is irrelevant to the question about panthers. The response does not address the question asked and provides unrelated information.
+[RESULT]: 1

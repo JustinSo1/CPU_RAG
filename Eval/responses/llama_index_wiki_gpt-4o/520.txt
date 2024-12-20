@@ -1,0 +1,5 @@
+[PROMPT]: What is the national currency of Liechtenstein?
+[USER_ANSWER]: The national currency of Liechtenstein is the Swiss Franc (CHF).
+[CORRECT_ANSWER]: Swiss franc
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies the national currency of Liechtenstein as the Swiss Franc (CHF), which matches the reference answer. The inclusion of the currency code (CHF) adds additional accuracy and detail.
+[RESULT]: 5

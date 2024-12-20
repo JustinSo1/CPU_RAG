@@ -1,5 +1,0 @@
-[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
-[USER_ANSWER]: The context explains that Lincoln initially focused on the war effort but shifted his attention to the Declaration of Independence and the emancipation of slaves. He issued the Emancipation Proclamation in 1863, freeing all slaves in the Confederate states.
-[CORRECT_ANSWER]: To free slaves 
-[FEEDBACK]: The response provides additional context about Lincoln's focus on the war effort and the Declaration of Independence, which is not directly related to the question. However, it does correctly state that Lincoln issued the Emancipation Proclamation in 1863 and that it freed all slaves in the Confederate states. While the response is mostly correct and factual, it includes extraneous information that is not necessary to answer the question directly. The reference answer is more concise and directly addresses the question.
-[RESULT]: 4

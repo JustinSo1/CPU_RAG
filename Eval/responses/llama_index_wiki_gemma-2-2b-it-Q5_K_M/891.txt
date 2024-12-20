@@ -1,0 +1,11 @@
+[PROMPT]: Did Woodrow Wilson create the League of Nations?
+[USER_ANSWER]: 
+No. 
+**Explanation:** 
+The provided text discusses the history of polio vaccine development and the work of Johann Gregor Mendel. It does not mention Woodrow Wilson or the League of Nations. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether Woodrow Wilson created the League of Nations, and the correct answer is "yes." The response provided not only gives the wrong answer but also includes an irrelevant explanation about the history of the polio vaccine and Johann Gregor Mendel, which has no connection to the question asked. This makes the response entirely off-topic and factually incorrect.
+[RESULT]: 1

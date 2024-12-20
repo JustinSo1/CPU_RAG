@@ -1,0 +1,5 @@
+[PROMPT]: How many species of African elephants have been proposed?
+[USER_ANSWER]: Three species of African elephants have been proposed.
+[CORRECT_ANSWER]: three
+[FEEDBACK]: The response "Three species of African elephants have been proposed." is mostly correct, accurate, and factual. However, the reference answer "three" is more concise and directly answers the question without additional context. The response adds unnecessary detail, but it does not contain any factual inaccuracies.
+[RESULT]: 4

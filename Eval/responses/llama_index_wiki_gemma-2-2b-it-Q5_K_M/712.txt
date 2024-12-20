@@ -1,0 +1,7 @@
+[PROMPT]: What is the official language of Romania?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Romanian.
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not contain the answer, which is not relevant to the instruction. The response is completely incorrect and does not address the query about the official language of Romania.
+[RESULT]: 1

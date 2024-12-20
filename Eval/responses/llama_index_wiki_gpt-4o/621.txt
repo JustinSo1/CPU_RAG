@@ -1,0 +1,5 @@
+[PROMPT]: Do penguins live almost exclusively in the Southern Hemisphere?
+[USER_ANSWER]: Yes, penguins live almost exclusively in the Southern Hemisphere.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides the same information as the reference answer, albeit with slightly more detail.
+[RESULT]: 5

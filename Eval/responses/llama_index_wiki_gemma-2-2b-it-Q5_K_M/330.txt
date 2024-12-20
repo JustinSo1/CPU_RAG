@@ -1,0 +1,9 @@
+[PROMPT]: Was Grover Cleveland elected Sheriff of Erie County, New York?
+[USER_ANSWER]: 
+No, Grover Cleveland was the 22nd President of the United States. He was not involved in local government in Erie County. 
+
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. Grover Cleveland was indeed elected Sheriff of Erie County, New York, in 1870. The response incorrectly states that he was not involved in local government in Erie County, which is factually wrong.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What did Ford say about his biological father?
+[USER_ANSWER]: Ford mentioned that his biological father, along with his elder sister, was affected by hypophosphatemic rickets.
+[CORRECT_ANSWER]: He was abusive and had a history of hitting his mother.
+[FEEDBACK]: The response provided does not align with the reference answer. The reference answer indicates that Ford's biological father was abusive and had a history of hitting his mother, while the response mentions a medical condition affecting Ford's biological father and elder sister, which is unrelated to the reference answer. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

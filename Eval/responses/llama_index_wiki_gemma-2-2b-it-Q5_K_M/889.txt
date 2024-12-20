@@ -1,0 +1,9 @@
+[PROMPT]: Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?
+[USER_ANSWER]: 
+The provided text does not contain information about the political system of the country. Therefore, it is impossible to answer the query based on the given context. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question about whether the political system is a constitutional democracy where the president fulfills the roles of both head of state and head of government. Instead, it states that the provided text does not contain the necessary information to answer the query. This makes the response completely incorrect and inaccurate based on the reference answer, which is a simple "Yes."
+[RESULT]: 1

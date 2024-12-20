@@ -1,0 +1,9 @@
+[PROMPT]: What sort of turtles are ectothermic?
+[USER_ANSWER]: 
+The provided text does not explicitly state which turtles are ectothermic. 
+However, it does mention that ectothermic vertebrates, such as reptiles, exhibit "peculiar and variable organization of the SR, the large spectrum of response to stresses and the disaptive absence of crucial proteins (i.e. haemoglobinless and myoglobinless species)." 
+This suggests that some turtles are ectothermic. 
+
+[CORRECT_ANSWER]: all of them
+[FEEDBACK]: The response is somewhat correct in that it implies that some turtles are ectothermic, but it does not directly answer the question. The reference answer clearly states that all turtles are ectothermic, which the response fails to mention. Additionally, the response includes unnecessary and unrelated information about the peculiar organization of the SR and the absence of crucial proteins, which does not contribute to answering the question accurately. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 2

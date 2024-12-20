@@ -1,0 +1,7 @@
+[PROMPT]: What district was Ford elected from?
+[USER_ANSWER]: 
+The provided context information does not contain the answer to the query. 
+
+[CORRECT_ANSWER]: Michigan's 5th congressional district
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the context information does not contain the answer, which is not accurate based on the reference answer. The correct answer is "Michigan's 5th congressional district," and the response fails to mention this. Therefore, the response is completely incorrect and not factual.
+[RESULT]: 1

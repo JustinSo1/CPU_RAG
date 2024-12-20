@@ -1,5 +1,0 @@
-[PROMPT]: How many long was Lincoln's formal education?
-[USER_ANSWER]: Lincoln's formal education lasted about 18 months. He was a skilled reader, mastering the Bible, Shakespeare, and English and American history.
-[CORRECT_ANSWER]: 18 months
-[FEEDBACK]: The response correctly states that Lincoln's formal education lasted about 18 months, which aligns with the reference answer. However, the additional information about his reading skills and the subjects he mastered, while interesting, is not directly relevant to the question asked. This extra information does not detract from the accuracy of the primary answer but is unnecessary for the context of the question.
-[RESULT]: 4

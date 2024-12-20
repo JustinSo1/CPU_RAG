@@ -1,0 +1,7 @@
+[PROMPT]: Where is Uruguay's oldest church?
+[USER_ANSWER]: 
+The provided text does not contain information about Uruguay's oldest church. 
+
+[CORRECT_ANSWER]: San Carlos, Maldonado.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not provide the correct information about Uruguay's oldest church, which is located in San Carlos, Maldonado. Instead, it incorrectly states that the provided text does not contain the information, which is not relevant to the instruction.
+[RESULT]: 1

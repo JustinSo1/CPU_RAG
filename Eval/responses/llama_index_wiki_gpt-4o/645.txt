@@ -1,0 +1,5 @@
+[PROMPT]: Can larger penguins dive deep in case of need ?
+[USER_ANSWER]: There is no specific information provided about penguins and their diving capabilities. Therefore, based on the given context, it is not possible to determine whether larger penguins can dive deep in case of need.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer is a simple "Yes," indicating that larger penguins can indeed dive deep in case of need. The evaluated response, however, states that there is no specific information provided and concludes that it is not possible to determine the diving capabilities of larger penguins. This contradicts the reference answer and does not provide the correct information.
+[RESULT]: 2

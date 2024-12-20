@@ -1,0 +1,5 @@
+[PROMPT]: What suborder of turtles is extinct?
+[USER_ANSWER]: The extinct suborder of turtles is Proganochelydia.
+[CORRECT_ANSWER]: Paracryptodira
+[FEEDBACK]: The response "Proganochelydia" is incorrect. The correct extinct suborder of turtles is "Paracryptodira" as indicated in the reference answer. The response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

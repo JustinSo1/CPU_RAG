@@ -1,0 +1,5 @@
+[PROMPT]: Is the Romanian economy doing well?
+[USER_ANSWER]: There is no information provided that directly addresses the current state of the Romanian economy.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not directly answer the question about the Romanian economy's current state. Instead, it states that there is no information provided, which is not an accurate or factual response based on the reference answer. The reference answer is a simple "Yes," indicating that the Romanian economy is doing well. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

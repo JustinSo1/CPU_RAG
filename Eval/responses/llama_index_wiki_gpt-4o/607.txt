@@ -1,0 +1,5 @@
+[PROMPT]: What traps a layer of air, and keeps them dry and warm under water?
+[USER_ANSWER]: The foam nests created by tropical frogs trap a layer of air, keeping the eggs and embryos dry and warm underwater.
+[CORRECT_ANSWER]: Long guard hair
+[FEEDBACK]: The response provided is completely incorrect and does not align with the reference answer. The reference answer indicates that "Long guard hair" is what traps a layer of air and keeps them dry and warm under water, whereas the response talks about foam nests created by tropical frogs, which is unrelated to the question asked. Therefore, the response is not factual based on the reference answer.
+[RESULT]: 1

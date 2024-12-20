@@ -1,0 +1,5 @@
+[PROMPT]: Why wasn't Romania neutral during World War II?
+[USER_ANSWER]: Romania was not neutral during World War II because it initially aligned with the Axis powers, largely due to territorial disputes and the desire to regain lost territories. Later in the war, Romania switched sides to join the Allies, seeking to avoid Soviet occupation and to save the country from further destruction.
+[CORRECT_ANSWER]: it received a Soviet ultimatum
+[FEEDBACK]: The response provides a detailed explanation of Romania's alignment during World War II, mentioning its initial alliance with the Axis powers and subsequent switch to the Allies. However, it does not directly address the Soviet ultimatum, which is the key reason mentioned in the reference answer. While the response is mostly accurate and factual, it misses the specific detail highlighted in the reference answer.
+[RESULT]: 4

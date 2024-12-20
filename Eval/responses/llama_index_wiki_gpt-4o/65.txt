@@ -1,0 +1,5 @@
+[PROMPT]: What are the similarities between beetles and grasshoppers?
+[USER_ANSWER]: Both beetles and grasshoppers belong to the class Insecta, meaning they share common features such as having three main body parts (head, thorax, and abdomen), six legs, and a pair of antennae. Additionally, both groups undergo metamorphosis during their development.
+[CORRECT_ANSWER]: mouthparts
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that both beetles and grasshoppers belong to the class Insecta and share common features such as having three main body parts, six legs, and a pair of antennae. However, it does not mention the specific similarity of "mouthparts" as indicated in the reference answer. While the response provides accurate information, it misses the key detail highlighted in the reference answer.
+[RESULT]: 4

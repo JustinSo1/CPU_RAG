@@ -1,0 +1,5 @@
+[PROMPT]: Is the kangaroo an herbivour?
+[USER_ANSWER]: Yes, the kangaroo is an herbivore.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes, the kangaroo is an herbivore." is completely correct, accurate, and factual. It provides the same information as the reference answer, with a bit more detail. However, the additional detail does not detract from the accuracy of the response.
+[RESULT]: 5

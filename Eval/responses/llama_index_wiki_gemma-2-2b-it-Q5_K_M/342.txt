@@ -1,0 +1,7 @@
+[PROMPT]: Who won the 1903 Nobel Prize in Physics for discovering radioactivity ?
+[USER_ANSWER]: 
+The provided text does not mention who won the 1903 Nobel Prize in Physics for discovering radioactivity. 
+
+[CORRECT_ANSWER]: Henri Becquerel
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the provided text does not mention the winner, which is not relevant to the instruction. The response is completely incorrect and does not address the question accurately or factually.
+[RESULT]: 1

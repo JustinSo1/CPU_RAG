@@ -1,0 +1,14 @@
+[PROMPT]: Are ducks in the Arctic Northern Hemisphere migratory?
+[USER_ANSWER]: 
+The provided text does not explicitly state whether ducks in the Arctic are migratory. 
+However, it does mention that:
+* **Dabbling ducks** are the natural reservoir of influenza virus.
+* **Birds** can potentially transport tick-borne pathogens. 
+* **Birds** are known to migrate. 
+
+
+Therefore, based on the provided context, we can infer that ducks in the Arctic are likely migratory. 
+
+[CORRECT_ANSWER]: Some are
+[FEEDBACK]: The response provides a detailed explanation and reasoning, but it does not directly answer the question as simply and accurately as the reference answer. The reference answer "Some are" is concise and directly addresses the question, while the evaluated response infers the answer based on additional context. This makes the response somewhat correct and factual, but not as direct and clear as the reference answer.
+[RESULT]: 3

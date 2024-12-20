@@ -1,0 +1,5 @@
+[PROMPT]: Who was Kwame Nkrumah?
+[USER_ANSWER]: Kwame Nkrumah was associated with the School of Medical Sciences at the Kwame Nkrumah University of Science and Technology in Kumasi, Ghana.
+[CORRECT_ANSWER]: founder and first president
+[FEEDBACK]: The response is mostly incorrect and inaccurate. It mentions Kwame Nkrumah's association with the School of Medical Sciences at the Kwame Nkrumah University of Science and Technology, which is not relevant to the question. The reference answer indicates that Kwame Nkrumah was the founder and first president, which is not addressed in the response.
+[RESULT]: 2

@@ -1,0 +1,7 @@
+[PROMPT]: How many species of African elephants have been proposed?
+[USER_ANSWER]: 
+The provided text does not contain the answer to how many species of African elephants have been proposed. 
+
+[CORRECT_ANSWER]: three
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the provided text does not contain the answer, which is not relevant to the task of identifying the number of species of African elephants proposed. The correct answer is "three," and the response fails to address this. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

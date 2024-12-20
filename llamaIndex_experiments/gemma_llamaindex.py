@@ -20,7 +20,7 @@ from llama_index.llms.langchain import LangChainLLM
 from llama_index.llms.llama_cpp import LlamaCPP
 from llama_index.vector_stores.faiss import FaissVectorStore
 
-from llamaIndex_experiments.RAGQueryEngine import RAGQueryEngine
+from RAGQueryEngine import RAGQueryEngine
 
 
 # from utils import read_parquet
@@ -70,18 +70,18 @@ def main():
     # os.environ["OPENAI_API_KEY"] = "random"
     # model_url = "https://huggingface.co/google/gemma-2-2b-it-GGUF/resolve/main/2b_it_v2.gguf"
     model_url = "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"
-    # llm = create_llama_cpp_model(model_url)
+    llm = create_llama_cpp_model(model_url)
     load_dotenv('../.env')
 
     # # Define llm parameters
-    llm = AzureChatOpenAI(
-        deployment_name=os.environ['MODEL'],
-        openai_api_version=os.environ['API_VERSION'],
-        openai_api_key=os.environ['OPENAI_API_KEY'],
-        azure_endpoint=os.environ['OPENAI_API_BASE'],
-        openai_organization=os.environ['OPENAI_ORGANIZATION']
-    )
-    llm_predictor = LangChainLLM(llm=llm)
+#    llm = AzureChatOpenAI(
+#        deployment_name=os.environ['MODEL'],
+#        openai_api_version=os.environ['API_VERSION'],
+#        openai_api_key=os.environ['OPENAI_API_KEY'],
+#        azure_endpoint=os.environ['OPENAI_API_BASE'],
+#        openai_organization=os.environ['OPENAI_ORGANIZATION']
+#    )
+#    llm_predictor = LangChainLLM(llm=llm)
 
     # response = llm_predictor.complete("Hello! Can you tell me a poem about cats and dogs?")
     # print(response.text)
@@ -100,8 +100,8 @@ def main():
         tokenizer=tokenizer
     )
 
-    Settings.llm = llm_predictor
-    # Settings.llm = llm
+#    Settings.llm = llm_predictor
+    Settings.llm = llm
     Settings.embed_model = embed_model
     Settings.callback_manager = CallbackManager([token_counter])
     # Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
@@ -172,12 +172,12 @@ def main():
             """
                     )
         token_counter.reset_counts()
-        if i == 50:
-            break
-        # break
+#        if i == 50:
+#            break
+#        break
     df = pd.DataFrame.from_dict(answer_dict)
     print(df)
-    df.to_csv("llama_index_wiki_gpt-4o.csv")
+    df.to_csv("llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv")
 
 
 def create_llama_cpp_model(model_url):

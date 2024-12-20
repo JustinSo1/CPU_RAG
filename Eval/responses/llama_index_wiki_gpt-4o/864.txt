@@ -1,0 +1,5 @@
+[PROMPT]: Did Uruguay host the first ever World Cup?
+[USER_ANSWER]: Yes, Uruguay hosted the first ever World Cup.
+[CORRECT_ANSWER]: Yes, in 1930.
+[FEEDBACK]: The response is correct in stating that Uruguay hosted the first ever World Cup. However, it lacks the additional detail of the year 1930, which is present in the reference answer. While the response is accurate, it is not as complete as the reference answer.
+[RESULT]: 4

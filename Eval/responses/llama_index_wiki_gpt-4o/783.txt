@@ -1,0 +1,5 @@
+[PROMPT]: Did Theodore Roosevelt study Judo?
+[USER_ANSWER]: Yes, Theodore Roosevelt studied Judo.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that Theodore Roosevelt did not study Judo, while the response incorrectly states that he did.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: How many long was Lincoln's formal education?
+[USER_ANSWER]: The provided context does not contain information about the duration of Abraham Lincoln's formal education.
+[CORRECT_ANSWER]: 18 months
+[FEEDBACK]: The response does not provide the correct information about the duration of Abraham Lincoln's formal education. Instead, it states that the provided context does not contain the information, which is not an accurate answer to the question. The correct answer is "18 months." Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

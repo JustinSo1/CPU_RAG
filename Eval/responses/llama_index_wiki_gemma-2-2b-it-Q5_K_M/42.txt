@@ -1,0 +1,7 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: 
+The text mentions that Gradenigo's syndrome is named after him. 
+
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that the Celsius crater on the Moon is named after him, while the response mentions Gradenigo's syndrome, which is unrelated to the reference answer.
+[RESULT]: 1

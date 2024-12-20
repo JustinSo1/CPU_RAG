@@ -1,0 +1,9 @@
+[PROMPT]: Did Wilson support the committee system?
+[USER_ANSWER]: 
+The provided text does not contain any information about Wilson's support for the committee system. 
+
+
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is somewhat correct in that it implies a lack of information about Wilson's support for the committee system. However, it is not as concise and direct as the reference answer. The reference answer simply states "no," which is a clear and factual response. The evaluated response adds unnecessary information about the provided text, which makes it less accurate and direct compared to the reference answer.
+[RESULT]: 3

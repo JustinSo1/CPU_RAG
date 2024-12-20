@@ -1,0 +1,5 @@
+[PROMPT]: Is a polar bear at high risk of extinction?
+[USER_ANSWER]: The information provided does not specify whether polar bears are at high risk of extinction.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether polar bears are at high risk of extinction. Instead, it comments on the lack of information provided, which is not relevant to the task. Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

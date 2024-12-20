@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that indonesia has vast areas of wilderness?
+[USER_ANSWER]: Yes, it is true that Indonesia has vast areas of wilderness.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and confirms the statement about Indonesia having vast areas of wilderness, which aligns with the reference answer.
+[RESULT]: 5

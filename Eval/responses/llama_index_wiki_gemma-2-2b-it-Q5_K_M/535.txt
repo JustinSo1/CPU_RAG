@@ -1,0 +1,18 @@
+[PROMPT]: What enjoys one of the world's highest standards of living?
+[USER_ANSWER]: 
+The provided text does not explicitly state which group enjoys one of the world's highest standards of living. 
+
+**Explanation:**
+
+The text focuses on the relationship between physical activity, longevity, and health-related quality of life (OHRQOL). It discusses:
+
+* The link between physical fitness and longevity, particularly in Olympic medallists.
+* The impact of lifestyle on lifespan, citing the role of plant-derived polyphenols like resveratrol.
+* The importance of physical activity for health and longevity.
+* The perception of oral health-related quality of life (OHRQOL) among expatriate workers in Saudi Arabia. 
+
+While the text mentions the connection between athletic achievement and longevity, it does not delve into the specific standards of living enjoyed by athletes or any other group. 
+
+[CORRECT_ANSWER]: Liechtenstein's population
+[FEEDBACK]: The response does not address the question directly and instead provides an explanation that is unrelated to the specific query about which group enjoys one of the world's highest standards of living. The reference answer clearly states "Liechtenstein's population," but the response fails to mention this or any other group. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

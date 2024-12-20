@@ -1,0 +1,5 @@
+[PROMPT]: Did Singapore's standard of living decrease since independence?
+[USER_ANSWER]: There is no information provided regarding changes in Singapore's standard of living since independence.
+[CORRECT_ANSWER]: No, the standard living was raised.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that the standard of living in Singapore has increased since independence, while the response claims there is no information provided regarding changes in the standard of living. This directly contradicts the reference answer and does not provide any factual information.
+[RESULT]: 1

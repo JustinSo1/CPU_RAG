@@ -1,5 +1,0 @@
-[PROMPT]: How long was Lincoln's legal Career?
-[USER_ANSWER]: Lincoln was involved in more than 5,100 cases in Illinois during his 23-year legal career.
-[CORRECT_ANSWER]: 23 years
-[FEEDBACK]: The response provides additional information about the number of cases Lincoln was involved in, which is not required by the question. However, it does correctly state the duration of Lincoln's legal career as 23 years. This makes the response mostly correct, accurate, and factual, but not completely aligned with the simplicity of the reference answer.
-[RESULT]: 4

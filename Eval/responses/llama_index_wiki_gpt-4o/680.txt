@@ -1,0 +1,5 @@
+[PROMPT]: Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?
+[USER_ANSWER]: There is no information available regarding Mitchell Taylor or any letter he wrote to the U.S. Fish and Wildlife Service in the provided context.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question. The question asks whether Mitchell Taylor wrote a letter to the U.S. Fish and Wildlife Service, and the correct answer is simply "no." The response instead states that there is no information available regarding Mitchell Taylor or any letter he wrote, which is not the same as directly answering the question. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What includes a lengthy justification of why this species is listed as vulnerable?
+[USER_ANSWER]: The lengthy justification of why this species is listed as vulnerable includes concerns about the animals in the ecosystem being vulnerable to further incursions of pathogens and parasites.
+[CORRECT_ANSWER]: Database entry.
+[FEEDBACK]: The response provided is somewhat related to the topic of why a species might be listed as vulnerable, mentioning concerns about pathogens and parasites. However, it does not directly address the instruction, which asks for what includes a lengthy justification. The reference answer indicates that the correct response should be "Database entry," which is a specific and factual answer. The response does not align with this and is therefore not accurate or factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What do beetles eat?
+[USER_ANSWER]: Beetles have a diverse range of diets and can feed on various parts of vascular plants or plant parts. Each beetle species may have its own specific plant or plant part that it feeds on.
+[CORRECT_ANSWER]: Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately mentions that beetles have a diverse range of diets and can feed on various parts of vascular plants or plant parts. However, it does not address the fact that some beetles are generalists and can eat both plants and animals, nor does it mention that some beetles are highly specialized in their diet. This makes the response incomplete compared to the reference answer.
+[RESULT]: 4

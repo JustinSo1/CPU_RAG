@@ -1,0 +1,5 @@
+[PROMPT]: Where is the largest gray wolf population thought to be found?
+[USER_ANSWER]: The largest gray wolf population is thought to be found in Alaska.
+[CORRECT_ANSWER]: Kazakhstan
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The largest gray wolf population is thought to be found in Kazakhstan, not Alaska.
+[RESULT]: 1

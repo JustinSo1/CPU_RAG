@@ -1,0 +1,9 @@
+[PROMPT]: Was Ford active about Vietnamese affairs?
+[USER_ANSWER]: 
+No, the context information does not provide any information about Ford's involvement in Vietnamese affairs. 
+
+
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly correct in stating that there is no information about Ford's involvement in Vietnamese affairs. However, it includes additional context information that is not necessary. The reference answer is more concise and directly answers the question with a simple "No." The response could be improved by being more succinct and directly addressing the question without additional context.
+[RESULT]: 4

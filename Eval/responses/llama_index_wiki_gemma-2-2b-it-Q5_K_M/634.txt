@@ -1,0 +1,8 @@
+[PROMPT]: Why do penguins "tobaggan"?
+[USER_ANSWER]: 
+The provided text does not contain information about penguins or "tobagganing". 
+Therefore, I cannot answer your query based on the given context. 
+
+[CORRECT_ANSWER]: It conserves energy while moving quickly
+[FEEDBACK]: The response does not address the question about why penguins "tobaggan" and instead states that the provided text does not contain information about penguins or "tobagganing". This does not provide any factual information related to the question, making the response completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

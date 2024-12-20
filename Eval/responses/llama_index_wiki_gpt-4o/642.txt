@@ -1,0 +1,5 @@
+[PROMPT]: Are penguins at risk?
+[USER_ANSWER]: There is no specific information provided about penguins in the context. Therefore, it is not clear whether penguins are at risk based on the given details.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question "Are penguins at risk?" Instead, it states that there is no specific information provided about penguins in the context, which is not relevant to the question. The reference answer is a simple "Yes," indicating that penguins are at risk. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

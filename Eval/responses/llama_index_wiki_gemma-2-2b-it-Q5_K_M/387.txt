@@ -1,0 +1,7 @@
+[PROMPT]: What did James Monroe do before being elected governor?
+[USER_ANSWER]: 
+The provided text does not contain information about James Monroe. 
+
+[CORRECT_ANSWER]: He practiced law in Virginia.
+[FEEDBACK]: The response does not provide any information about what James Monroe did before being elected governor. It states that the provided text does not contain information about James Monroe, which is not relevant to the question asked. The response is completely incorrect and does not align with the reference answer, which states that James Monroe practiced law in Virginia.
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Did Coolidge meet and marry Grace Anna Goodhue?
+[USER_ANSWER]: 
+The provided text does not contain information about Calvin Coolidge's personal life, including his marriage to Grace Anna Goodhue. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether Calvin Coolidge met and married Grace Anna Goodhue, which is a factual question that can be answered with a simple "yes" or "no." The response does not address the question directly and instead mentions the absence of information in the provided text, which is irrelevant to the question asked.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: When did James Monroe die?
+[USER_ANSWER]: The context provided does not contain information about the death of James Monroe.
+[CORRECT_ANSWER]: July 4, 1831
+[FEEDBACK]: The response does not provide the correct date of James Monroe's death, which is July 4, 1831. Instead, it states that the context does not contain the information, which is not relevant to the question asked. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

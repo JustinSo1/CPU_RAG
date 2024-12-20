@@ -1,0 +1,9 @@
+[PROMPT]: Does Egypt receive the least rainfall in the world?
+[USER_ANSWER]: 
+The provided text does not contain information about the rainfall in Egypt or any other country. 
+
+
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not directly answer the question about whether Egypt receives the least rainfall in the world. Instead, it states that the provided text does not contain information about rainfall, which is not relevant to the instruction. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

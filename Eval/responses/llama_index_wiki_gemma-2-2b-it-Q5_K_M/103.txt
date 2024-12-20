@@ -1,0 +1,7 @@
+[PROMPT]: Did Coolidge get in Amherst College?
+[USER_ANSWER]: 
+The provided text does not mention anything about Calvin Coolidge. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and does not address the question asked. The question is about whether Calvin Coolidge got into Amherst College, and the response does not provide any relevant information or answer to this question. It fails to be accurate or factual based on the reference answer, which is a simple "Yes."
+[RESULT]: 1

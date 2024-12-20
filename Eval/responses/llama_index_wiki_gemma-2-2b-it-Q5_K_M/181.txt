@@ -1,0 +1,7 @@
+[PROMPT]: Are there a large number of Jews living in Egypt today?
+[USER_ANSWER]: 
+The provided text does not contain information about the number of Jews living in Egypt today. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question. Instead, it states that the provided text does not contain information about the number of Jews living in Egypt today, which is not relevant to the instruction. The reference answer is a simple "no," indicating that the correct response should directly address the question with a factual answer. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: What was Adams' political party?
+[USER_ANSWER]: The context does not provide information about Adams' political party.
+[CORRECT_ANSWER]: The Federalist Party.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It states that the context does not provide information about Adams' political party, which is not true. The correct answer is that Adams was a member of the Federalist Party.
+[RESULT]: 1

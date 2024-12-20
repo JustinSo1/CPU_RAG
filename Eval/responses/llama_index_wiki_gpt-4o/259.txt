@@ -1,0 +1,5 @@
+[PROMPT]: Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?
+[USER_ANSWER]: Yes, Gerald Ford served as the Republican Minority Leader of the House of Representatives.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Gerald Ford served as the Republican Minority Leader of the House of Representatives, which aligns with the reference answer. The additional detail provided does not detract from the accuracy of the response.
+[RESULT]: 5

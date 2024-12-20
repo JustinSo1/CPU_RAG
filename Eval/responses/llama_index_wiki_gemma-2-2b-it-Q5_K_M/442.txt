@@ -1,0 +1,7 @@
+[PROMPT]: The John Adams Library , housed at the Boston Public Library , contains what?
+[USER_ANSWER]: 
+The provided context information does not contain any details about the John Adams Library at the Boston Public Library. 
+
+[CORRECT_ANSWER]: Adams's personal collection of more than 3,500 volumes
+[FEEDBACK]: The response does not provide any information about the contents of the John Adams Library at the Boston Public Library. It states that the context does not contain details, which is not an answer to the question. The response is completely incorrect and does not align with the reference answer, which specifies that the library contains Adams's personal collection of more than 3,500 volumes.
+[RESULT]: 1

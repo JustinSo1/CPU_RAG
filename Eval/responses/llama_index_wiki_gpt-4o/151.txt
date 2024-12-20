@@ -1,0 +1,5 @@
+[PROMPT]: What is the name of a specialized species of duck adapted to catch large fish?
+[USER_ANSWER]: The context information does not provide details about a specialized species of duck adapted to catch large fish.
+[CORRECT_ANSWER]: the smew
+[FEEDBACK]: The response does not provide the correct answer to the question. It states that the context information does not provide details about a specialized species of duck adapted to catch large fish, which is not an accurate or factual answer. The correct answer is "the smew." Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

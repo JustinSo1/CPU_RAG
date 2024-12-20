@@ -1,0 +1,7 @@
+[PROMPT]: A semi-aquatic marine mammal , the polar bear has what?
+[USER_ANSWER]: 
+The provided text does not contain information about polar bears. 
+
+[CORRECT_ANSWER]: It has adapted for life on a combination of land, sea, and ice.
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about polar bears. It fails to address the question and does not align with the reference answer, which states that polar bears have adapted for life on a combination of land, sea, and ice. The response does not meet any of the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

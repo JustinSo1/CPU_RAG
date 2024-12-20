@@ -1,0 +1,5 @@
+[PROMPT]: Who was Grant's brother in law?
+[USER_ANSWER]: The provided context does not include information regarding Grant's brother-in-law.
+[CORRECT_ANSWER]: Fred Dent
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is "Fred Dent," but the response states that the provided context does not include information regarding Grant's brother-in-law, which is not relevant to the question asked.
+[RESULT]: 1

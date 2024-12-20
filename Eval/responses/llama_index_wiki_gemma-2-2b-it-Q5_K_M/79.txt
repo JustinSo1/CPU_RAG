@@ -1,0 +1,10 @@
+[PROMPT]: Are beetles endopterygotes with complete metamorphosis?
+[USER_ANSWER]: 
+The text states that we are studying the phylogenetic relationships within the radiation of Australasian smurf-weevils (Eupholini), which are beetles.  It also states that "The structural and functional equivalence between insect and vertebrate GRBs marks them as an ancient feature of metazoan genomes and as a key to future studies of development and gene regulation." 
+The text does not explicitly state whether or not beetles are endopterygotes with complete metamorphosis. 
+
+
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not directly answer the question about whether beetles are endopterygotes with complete metamorphosis. Instead, it discusses unrelated information about the phylogenetic relationships of Australasian smurf-weevils and the structural and functional equivalence between insect and vertebrate GRBs. The response fails to provide the correct, accurate, and factual information that beetles are indeed endopterygotes with complete metamorphosis.
+[RESULT]: 1

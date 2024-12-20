@@ -1,0 +1,7 @@
+[PROMPT]: Did James Monroe attend the College of William and Mary?
+[USER_ANSWER]: 
+The provided text does not mention James Monroe. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether James Monroe attended the College of William and Mary, and the correct answer is "yes." The response does not address the question and instead states that the provided text does not mention James Monroe, which is irrelevant to the question asked.
+[RESULT]: 1

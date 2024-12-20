@@ -54,7 +54,7 @@ def create_question_answer_df(file_name):
 def main():
     # rag-mini-wikipedia
     # file_names = glob.glob("../data/dataset/rag_wikipedia/results/chunking_neighbors/*.csv")
-    experiment_name = 'test_experiment'
+    experiment_name = 'llama_index_wiki_gemma-2-2b-it_accuracy_stats'
     file_names = ['llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv']
     for file_name in file_names:
         print(f"Processing {file_name}")
@@ -88,7 +88,7 @@ def main():
             curScore = process_feedback(feedback, question_id, question, user_answer, correct_answer, directory_path)
             score_map[curScore] = score_map.get(curScore, 0) + 1
             total_score += curScore
-            break
+#            break
 
         average_score = total_score / (counter_context_missing + counter_context_exist)
 
@@ -104,7 +104,7 @@ def main():
             'score_map': dict(score_map)
         }
     df = pd.DataFrame.from_dict(accuracy_dict)
-    df.to_csv(f'{experiment_name}.csv')
+    df.to_csv(f'data/{experiment_name}.csv')
 
 
 if __name__ == '__main__':

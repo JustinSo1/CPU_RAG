@@ -1,0 +1,5 @@
+[PROMPT]: Did the U.S. join the League of Nations?
+[USER_ANSWER]: No, the U.S. did not join the League of Nations.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response "No, the U.S. did not join the League of Nations." is completely correct, accurate, and factual based on the reference answer "no." It provides the same information in a more detailed manner but does not deviate from the factual content.
+[RESULT]: 5

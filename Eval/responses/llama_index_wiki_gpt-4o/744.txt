@@ -1,0 +1,5 @@
+[PROMPT]: How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+[USER_ANSWER]: The Imperial Japanese Army took about seven days to win the Battle of Singapore.
+[CORRECT_ANSWER]: Six days
+[FEEDBACK]: The response states that the Imperial Japanese Army took about seven days to win the Battle of Singapore, while the reference answer indicates it took six days. The response is close but not completely accurate. It is mostly correct but contains a slight inaccuracy in the number of days.
+[RESULT]: 4

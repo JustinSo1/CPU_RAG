@@ -1,0 +1,7 @@
+[PROMPT]: Was Fillmore one of the founders of the University of Buffalo?
+[USER_ANSWER]: 
+The provided text does not contain information about Fillmore or the University of Buffalo. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks whether Fillmore was one of the founders of the University of Buffalo, and the correct answer is "yes." The response does not address the question directly and instead states that the provided text does not contain information about Fillmore or the University of Buffalo, which is not relevant to the question asked.
+[RESULT]: 1

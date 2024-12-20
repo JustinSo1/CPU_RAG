@@ -1,0 +1,7 @@
+[PROMPT]: The State Court rules what?
+[USER_ANSWER]: 
+The provided text does not contain information about State Court rules. 
+
+[CORRECT_ANSWER]: on the conformity of laws with the constitution
+[FEEDBACK]: The response is completely incorrect and does not address the question asked. It states that the provided text does not contain information about State Court rules, which is not relevant to the instruction. The correct answer should mention that the State Court rules on the conformity of laws with the constitution.
+[RESULT]: 1

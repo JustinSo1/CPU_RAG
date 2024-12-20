@@ -1,0 +1,5 @@
+[PROMPT]: What order do penguins belong to?
+[USER_ANSWER]: Penguins belong to the order Sphenisciformes.
+[CORRECT_ANSWER]: Sphenisciformes
+[FEEDBACK]: The response "Penguins belong to the order Sphenisciformes." is completely correct, accurate, and factual based on the reference answer "Sphenisciformes." The additional context provided does not detract from the accuracy of the information.
+[RESULT]: 5

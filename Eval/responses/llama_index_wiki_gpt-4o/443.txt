@@ -1,0 +1,5 @@
+[PROMPT]: Adams ' opponents were what?
+[USER_ANSWER]: The context does not provide specific details about Adams' opponents.
+[CORRECT_ANSWER]: Democratic Republicans
+[FEEDBACK]: The response is completely incorrect and does not provide the factual information that Adams' opponents were the Democratic Republicans. It inaccurately states that the context does not provide specific details, which is not true based on the reference answer.
+[RESULT]: 1

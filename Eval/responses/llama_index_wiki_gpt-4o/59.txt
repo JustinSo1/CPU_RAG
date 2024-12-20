@@ -1,0 +1,5 @@
+[PROMPT]: Do beetles antennae function primarily as organs of smell?
+[USER_ANSWER]: Yes, beetles' antennae function primarily as organs of smell.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. It confirms that beetles' antennae function primarily as organs of smell, which aligns with the reference answer "Yes."
+[RESULT]: 5

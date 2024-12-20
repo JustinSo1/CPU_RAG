@@ -1,0 +1,5 @@
+[PROMPT]: When did the Gettysburg address argue that America was born?
+[USER_ANSWER]: The Gettysburg Address argued that America was born 87 years before the speech was delivered, which dates back to 1776.
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the Gettysburg Address refers to the year 1776 as the birth of America. However, it adds additional information about the 87 years, which, while accurate, is not necessary for the answer.
+[RESULT]: 4

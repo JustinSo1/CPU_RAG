@@ -1,0 +1,5 @@
+[PROMPT]: What happened in the election of 1816?
+[USER_ANSWER]: The context does not provide information about the election of 1816.
+[CORRECT_ANSWER]: Monroe was elected president
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about the election of 1816. It fails to mention that Monroe was elected president, which is the key fact required by the instruction.
+[RESULT]: 1

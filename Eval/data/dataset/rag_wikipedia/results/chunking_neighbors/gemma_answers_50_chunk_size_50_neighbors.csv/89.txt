@@ -1,5 +1,0 @@
-[PROMPT]: When did he become a professor?
-[USER_ANSWER]: The context does not provide any information about when the professor became a professor, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 1820
-[FEEDBACK]: The response does not provide the correct information about when the professor became a professor. The reference answer indicates that the correct year is 1820, but the response states that the context does not provide this information. This makes the response completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1

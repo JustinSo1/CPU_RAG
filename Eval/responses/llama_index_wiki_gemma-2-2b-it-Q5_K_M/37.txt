@@ -1,0 +1,16 @@
+[PROMPT]: Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+[USER_ANSWER]: 
+Based on the provided context information, we cannot answer the query. 
+The context information focuses on:
+* Gene finding algorithms
+* Biological data analysis
+* Chemical reaction simulations
+* Graph database technology
+* High final IA concentration in biological processes
+
+
+The context does not provide any information about Avogadro's number or its use in chemical reactions. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about Avogadro's number and its use in computing the results of chemical reactions. Instead, it discusses the context information provided, which is not relevant to the question. The response fails to address the core of the query, making it inaccurate and not factual in relation to the reference answer.
+[RESULT]: 1

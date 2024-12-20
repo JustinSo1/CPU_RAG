@@ -1,0 +1,5 @@
+[PROMPT]: Are there a large number of Jews living in Egypt today?
+[USER_ANSWER]: No, there are not a large number of Jews living in Egypt today.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly addresses the question and provides the same information as the reference answer, albeit with more detail. The additional detail does not detract from the accuracy or correctness of the response.
+[RESULT]: 5

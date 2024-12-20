@@ -1,0 +1,5 @@
+[PROMPT]: What is the largest living species of penguin?
+[USER_ANSWER]: The largest living species of penguin is the emperor penguin.
+[CORRECT_ANSWER]: Emperor Penguin
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies the emperor penguin as the largest living species of penguin, matching the reference answer.
+[RESULT]: 5

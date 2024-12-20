@@ -1,0 +1,9 @@
+[PROMPT]: What is the most extensively celebrated holiday?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+
+
+[CORRECT_ANSWER]: Christmas
+[FEEDBACK]: The response does not address the question asked and does not provide any information about the most extensively celebrated holiday. It is completely incorrect and does not align with the reference answer, which is "Christmas."
+[RESULT]: 1

@@ -1,0 +1,7 @@
+[PROMPT]: Name an animal that is growing in number due to recent conservation efforts
+[USER_ANSWER]: 
+The provided text does not mention any animal that is growing in number due to recent conservation efforts. 
+
+[CORRECT_ANSWER]: Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)
+[FEEDBACK]: The response does not provide any information about an animal that is growing in number due to recent conservation efforts. It fails to answer the question and does not mention any specific animal, making it completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

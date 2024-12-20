@@ -1,0 +1,5 @@
+[PROMPT]: What is the life expectancy for men?
+[USER_ANSWER]: The life expectancy for men varies depending on the level and type of physical activity. For those involved in endurance sports, it is 75.6 years; for those in team sports, it is 73.9 years; for those in power sports, it is 71.5 years; and for the reference group, it is 69.9 years.
+[CORRECT_ANSWER]: 75 years
+[FEEDBACK]: The response provides specific life expectancy figures for men based on their involvement in different types of physical activities. While these figures may be accurate in a broader context, they do not directly answer the general question of the overall life expectancy for men, which is 75 years according to the reference answer. The response is somewhat correct in that it provides relevant information about life expectancy, but it is not directly aligned with the reference answer.
+[RESULT]: 3

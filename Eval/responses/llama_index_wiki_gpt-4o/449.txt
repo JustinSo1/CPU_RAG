@@ -1,0 +1,5 @@
+[PROMPT]: What is a collective noun for kangaroos?
+[USER_ANSWER]: A collective noun for kangaroos is a mob.
+[CORRECT_ANSWER]: mob, troop, or court
+[FEEDBACK]: The response "A collective noun for kangaroos is a mob" is accurate and factual, as "mob" is indeed one of the collective nouns for kangaroos. However, it does not include the other possible collective nouns "troop" or "court" mentioned in the reference answer. While the response is correct, it is not as comprehensive as the reference answer.
+[RESULT]: 4

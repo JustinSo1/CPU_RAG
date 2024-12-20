@@ -1,0 +1,5 @@
+[PROMPT]: When are sperm cells transferred to the female?
+[USER_ANSWER]: Sperm cells are transferred to the female during the process of in vitro fertilization (IVF) studies after being lentivirally transduced.
+[CORRECT_ANSWER]: during pairing
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The question asks about the general biological process of sperm transfer to the female, which typically occurs during mating or copulation. The response incorrectly focuses on a specific scientific procedure (IVF) and mentions lentiviral transduction, which is not relevant to the general process of sperm transfer. Therefore, the response does not align with the reference answer and lacks accuracy in the context of the question.
+[RESULT]: 2

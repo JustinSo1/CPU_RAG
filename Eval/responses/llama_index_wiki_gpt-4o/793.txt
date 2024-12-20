@@ -1,0 +1,5 @@
+[PROMPT]: Does the mother care for the young?
+[USER_ANSWER]: Yes, the mother cares for the young.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer clearly states "No," while the response states "Yes," which is the opposite of the correct answer.
+[RESULT]: 1

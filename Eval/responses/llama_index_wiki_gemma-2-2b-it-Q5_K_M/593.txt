@@ -1,0 +1,7 @@
+[PROMPT]: Where do sea otters live?
+[USER_ANSWER]: 
+The provided text does not contain information about sea otters. 
+
+[CORRECT_ANSWER]: Sea otters (Enhydra lutris) live along the Pacific coast of North America. 
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information about where sea otters live. It states that the provided text does not contain information about sea otters, which is irrelevant to the question asked. The response does not address the question at all and fails to provide any accurate or factual information about the habitat of sea otters.
+[RESULT]: 1

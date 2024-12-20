@@ -1,0 +1,9 @@
+[PROMPT]: Did lincoln have 18 months of schooling?
+[USER_ANSWER]: 
+The provided text does not contain information about Abraham Lincoln. 
+
+
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question about Abraham Lincoln's schooling at all. Instead, it mentions that the provided text does not contain information about Abraham Lincoln, which is irrelevant to the question. The response is completely incorrect and does not provide any factual information related to the question asked.
+[RESULT]: 1

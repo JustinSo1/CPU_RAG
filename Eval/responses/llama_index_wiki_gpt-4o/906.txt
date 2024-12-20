@@ -1,0 +1,5 @@
+[PROMPT]: Did Wilson support the committee system?
+[USER_ANSWER]: The provided context does not contain any information about Wilson's views on the committee system.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is somewhat correct in that it does not provide an incorrect answer, but it does not directly answer the question. The reference answer is a simple "no," which is a direct and factual response. The evaluated response, however, states that the context does not contain information about Wilson's views, which is not the same as directly answering the question. Therefore, it lacks the directness and clarity of the reference answer.
+[RESULT]: 3

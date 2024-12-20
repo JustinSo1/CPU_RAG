@@ -1,0 +1,5 @@
+[PROMPT]: What percentage of Liechtenstein's population is foreign-born?
+[USER_ANSWER]: The context information does not provide specific details regarding the percentage of Liechtenstein's population that is foreign-born.
+[CORRECT_ANSWER]: two-thirds
+[FEEDBACK]: The response does not provide the correct information regarding the percentage of Liechtenstein's population that is foreign-born. Instead, it states that the context information does not provide specific details, which is not an accurate answer to the question. The reference answer clearly states that two-thirds of the population is foreign-born, and the response fails to mention this fact. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

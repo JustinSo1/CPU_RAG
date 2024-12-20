@@ -1,0 +1,5 @@
+[PROMPT]: Was Celsius born in Uppsala in Sweden ?
+[USER_ANSWER]: Yes, Celsius was born in Uppsala in Sweden.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information by specifying the full name "Celsius" and confirming the location "Uppsala in Sweden," which aligns with the reference answer. However, the additional detail, while accurate, is not necessary for the response to be considered correct.
+[RESULT]: 5

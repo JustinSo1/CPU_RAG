@@ -1,0 +1,5 @@
+[PROMPT]: Is foie gras often made from ducks?
+[USER_ANSWER]: Yes, foie gras is often made from ducks.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response "Yes, foie gras is often made from ducks." is completely correct, accurate, and factual based on the reference answer "yes." It provides additional context without introducing any inaccuracies.
+[RESULT]: 5

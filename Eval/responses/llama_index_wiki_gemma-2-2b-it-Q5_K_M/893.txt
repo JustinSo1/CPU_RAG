@@ -1,0 +1,7 @@
+[PROMPT]: Where was the League of Nations created?
+[USER_ANSWER]: 
+The provided text does not contain information about the creation of the League of Nations. 
+
+[CORRECT_ANSWER]: Paris
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The League of Nations was created in Paris, and the response does not provide this information. Instead, it incorrectly states that the provided text does not contain information about the creation of the League of Nations, which is not relevant to the question asked.
+[RESULT]: 1

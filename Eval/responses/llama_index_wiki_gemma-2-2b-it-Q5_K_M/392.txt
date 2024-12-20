@@ -1,0 +1,7 @@
+[PROMPT]: When did James Monroe graduate from William and Mary?
+[USER_ANSWER]: 
+The provided text does not contain information about James Monroe's graduation from William and Mary. 
+
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response does not provide the correct information about James Monroe's graduation from William and Mary. The reference answer indicates that he graduated in 1776, but the response states that the provided text does not contain this information, which is not addressing the question directly. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

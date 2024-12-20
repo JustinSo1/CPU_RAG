@@ -1,0 +1,7 @@
+[PROMPT]: Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?
+[USER_ANSWER]: 
+The provided text does not contain the answer to your query. 
+
+[CORRECT_ANSWER]: Anders Celsius
+[FEEDBACK]: The response does not provide any information related to the question asked. It does not mention Anders Celsius or any other relevant information. Therefore, it is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

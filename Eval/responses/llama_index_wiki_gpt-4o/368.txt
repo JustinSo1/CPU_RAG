@@ -1,0 +1,5 @@
+[PROMPT]: Who has its own political legislature and governor ?
+[USER_ANSWER]: The USA has its own political legislature and governor.
+[CORRECT_ANSWER]: each province
+[FEEDBACK]: The response "The USA has its own political legislature and governor" is completely incorrect based on the reference answer. The question is asking about entities within a larger political structure that have their own legislature and governor, which refers to "each province" or similar sub-national entities, not the entire country of the USA. Therefore, the response does not align with the reference answer and is not accurate or factual in this context.
+[RESULT]: 1

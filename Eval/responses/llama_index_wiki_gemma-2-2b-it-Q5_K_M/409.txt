@@ -1,0 +1,9 @@
+[PROMPT]: What happened in the election of 1816?
+[USER_ANSWER]: 
+The provided text is about John Hunter's work on inflammation and doesn't contain any information about the election of 1816. 
+
+
+
+[CORRECT_ANSWER]: Monroe was elected president
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. It does not address the election of 1816 at all and instead talks about John Hunter's work on inflammation, which is unrelated to the given instruction.
+[RESULT]: 1

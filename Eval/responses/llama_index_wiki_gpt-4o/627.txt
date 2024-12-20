@@ -1,0 +1,5 @@
+[PROMPT]: How are Isabelline penguins different from most penguins?
+[USER_ANSWER]: Isabelline penguins are different from most penguins in that they exhibit a unique coloration. Unlike the typical black and white plumage seen in most penguins, Isabelline penguins have a lighter, pale brown to creamy yellow coloration due to a genetic mutation that affects melanin production.
+[CORRECT_ANSWER]: they have brown rather than black plumage
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes the unique coloration of Isabelline penguins and explains the genetic mutation affecting melanin production. However, it includes additional details not present in the reference answer, which only mentions the brown plumage. While the extra information is accurate, it goes beyond the simplicity of the reference answer.
+[RESULT]: 4

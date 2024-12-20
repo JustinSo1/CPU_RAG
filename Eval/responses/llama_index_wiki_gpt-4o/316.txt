@@ -1,0 +1,5 @@
+[PROMPT]: What did Cleveland's opponents say in 1884 to counter his innocent image?
+[USER_ANSWER]: Cleveland's opponents in 1884 countered his innocent image by highlighting his affair with Maria Halpin and the resulting child, implying questionable moral character.
+[CORRECT_ANSWER]: That he had fathered an illegitimate child
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately mentions Cleveland's affair with Maria Halpin and the resulting child, which aligns with the reference answer. However, the response includes additional details about the affair and the implication of questionable moral character, which, while relevant, are not explicitly mentioned in the reference answer. This additional context does not detract from the accuracy but goes slightly beyond the scope of the reference answer.
+[RESULT]: 4

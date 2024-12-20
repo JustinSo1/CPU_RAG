@@ -1,0 +1,7 @@
+[PROMPT]: What resembles that of the similarly-sized cougar in the Americas?
+[USER_ANSWER]: 
+The provided text does not contain information about the similarities between CWD and the cougar. 
+
+[CORRECT_ANSWER]: The leopard's ecological role
+[FEEDBACK]: The response does not address the question about what resembles the similarly-sized cougar in the Americas. Instead, it mentions the lack of information about similarities between CWD and the cougar, which is irrelevant to the question. The reference answer indicates that the correct response should be "the leopard's ecological role." Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

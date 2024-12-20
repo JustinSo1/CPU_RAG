@@ -1,0 +1,14 @@
+[PROMPT]: What are vehicles that frequent isolated roads often fitted with?
+[USER_ANSWER]: 
+The provided text does not explicitly state what vehicles frequent isolated roads. However, it does mention that:
+
+* **Car-drivers** are more likely to suffer severe head injuries in car collisions.
+* **Front car-passengers** are more likely to suffer severe injuries in car collisions.
+
+This suggests that vehicles on isolated roads may be fitted with **safety features** to protect occupants in case of accidents. 
+
+
+
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response does not directly answer the question about what vehicles that frequent isolated roads are often fitted with. Instead, it discusses the likelihood of injuries for car drivers and passengers in collisions, which is not relevant to the question. The reference answer "roo bars" is specific and factual, whereas the response is speculative and does not provide the correct information. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

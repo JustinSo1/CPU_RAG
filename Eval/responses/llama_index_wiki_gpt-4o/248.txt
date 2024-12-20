@@ -1,0 +1,5 @@
+[PROMPT]: Was Gerald Ford a member of Delta Kappa Epsilon?
+[USER_ANSWER]: Yes, Gerald Ford was a member of Delta Kappa Epsilon.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the same information as the reference answer, confirming that Gerald Ford was a member of Delta Kappa Epsilon. The additional detail does not detract from the accuracy of the response.
+[RESULT]: 5

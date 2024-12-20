@@ -1,0 +1,5 @@
+[PROMPT]: What did Tourism in Romania attract in 2005?
+[USER_ANSWER]: Tourism in Romania attracted 1.184 million international tourist arrivals in 2005.
+[CORRECT_ANSWER]: investments worth 400 million euros
+[FEEDBACK]: The response is completely incorrect and does not match the reference answer. The reference answer indicates that tourism in Romania attracted investments worth 400 million euros in 2005, while the response mentions international tourist arrivals, which is not relevant to the question asked.
+[RESULT]: 1

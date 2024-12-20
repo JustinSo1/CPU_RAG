@@ -1,0 +1,5 @@
+[PROMPT]: What kinds of coats do wolves have?
+[USER_ANSWER]: Wolves typically have coats that can range in color, including shades of black, gray, and brown.
+[CORRECT_ANSWER]: bulky coats with two layers
+[FEEDBACK]: The response mentions the color variations of wolves' coats, which is factual information. However, it does not address the key aspect of the reference answer, which is the structure of the coat (bulky with two layers). Therefore, while the response is somewhat correct in terms of the color, it misses the main point about the coat's structure.
+[RESULT]: 3

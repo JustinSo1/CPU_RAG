@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that adams had spent some time as the ambassador?
+[USER_ANSWER]: There is no information provided that indicates Adams had spent time as an ambassador.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Adams had indeed spent time as an ambassador, while the response denies this fact. Therefore, the response does not align with the reference answer at all.
+[RESULT]: 1

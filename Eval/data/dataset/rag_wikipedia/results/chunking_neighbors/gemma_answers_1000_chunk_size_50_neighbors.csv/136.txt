@@ -1,5 +1,0 @@
-[PROMPT]: What happened in 1833?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: Avogadro had been recalled to Turin university
-[FEEDBACK]: The response does not provide any factual information related to the event in 1833. It states an inability to find a match in the knowledge base and does not mention Avogadro or any other relevant historical event. Therefore, it is completely incorrect and not factual based on the reference answer.
-[RESULT]: 1

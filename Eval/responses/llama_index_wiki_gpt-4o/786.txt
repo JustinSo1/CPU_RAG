@@ -1,0 +1,5 @@
+[PROMPT]: Where was Theodore Roosevelt from?
+[USER_ANSWER]: Theodore Roosevelt was from New York, NY, USA.
+[CORRECT_ANSWER]: Gramercy section of New York City
+[FEEDBACK]: The response "Theodore Roosevelt was from New York, NY, USA" is mostly correct, accurate, and factual. It correctly identifies that Theodore Roosevelt was from New York City, which aligns with the reference answer. However, it lacks the specific detail of the Gramercy section, which is mentioned in the reference answer. This omission prevents it from being completely correct and factual.
+[RESULT]: 4

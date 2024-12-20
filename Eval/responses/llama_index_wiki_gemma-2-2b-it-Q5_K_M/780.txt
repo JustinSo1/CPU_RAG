@@ -1,0 +1,7 @@
+[PROMPT]: What was the nickname of Theodore Roosevelt's sister Anna?
+[USER_ANSWER]: 
+The provided context does not contain the answer to the question. 
+
+[CORRECT_ANSWER]: Bamie as a child and Bye as an adult
+[FEEDBACK]: The response does not provide the correct nicknames of Theodore Roosevelt's sister Anna, which are "Bamie" as a child and "Bye" as an adult. Instead, it states that the context does not contain the answer, which is not relevant to the accuracy of the information requested. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

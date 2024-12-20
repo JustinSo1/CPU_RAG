@@ -1,0 +1,5 @@
+,llama_index_wiki_gpt-4o.csv
+missing_context,68.0
+exist_content,850.0
+average_score,2.7450980392156863
+score_map,"{5: 234, 1: 396, 4: 157, 3: 64, 2: 67}"

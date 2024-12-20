@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he sent in federal troops to chicago?
+[USER_ANSWER]: There is no information provided that confirms he sent in federal troops to Chicago.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "yes," indicating that federal troops were indeed sent to Chicago. The evaluated response, however, states that there is no information confirming this, which directly contradicts the reference answer.
+[RESULT]: 1
