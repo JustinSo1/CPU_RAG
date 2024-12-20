@@ -1,0 +1,5 @@
+[PROMPT]: When did Monroe's presidency expired?
+[USER_ANSWER]: James Monroe's presidency expired on March 4, 1825. He served two terms as the 5th President of the United States, from March 4, 1817, to March 4, 1825.
+[CORRECT_ANSWER]: March 4, 1825
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact date when Monroe's presidency expired, which matches the reference answer. Additionally, it includes extra information about his terms in office, which, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

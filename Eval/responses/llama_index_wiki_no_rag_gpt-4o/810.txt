@@ -1,0 +1,5 @@
+[PROMPT]: Do turtles lay eggs underwater?
+[USER_ANSWER]: No, turtles do not lay eggs underwater. Most species of turtles come onto land to lay their eggs. They typically dig nests in sandy or soft soil, deposit their eggs, and then cover the nests to protect them from predators. The eggs incubate in the nest until they hatch, at which point the hatchlings make their way to the water. This behavior is seen in both marine turtles and many freshwater turtle species.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that turtles do not lay eggs underwater and provides additional accurate information about the nesting behavior of turtles. However, the reference answer is very concise, and the response includes extra details that, while accurate, are not necessary to answer the question directly.
+[RESULT]: 4

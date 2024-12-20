@@ -1,0 +1,9 @@
+[PROMPT]: Are sports in Indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?
+[USER_ANSWER]: Sports in Indonesia, like many other countries, can exhibit a strong male orientation, particularly in terms of participation and media coverage. However, this does not mean that women do not participate in or contribute significantly to sports. Female athletes in Indonesia have gained recognition in various disciplines, such as badminton, weightlifting, and martial arts, and they continue to inspire more women to engage in sports.
+
+Spectator sports in Indonesia, such as soccer, badminton, and basketball, indeed have large followings. Unfortunately, in some cases, these sports events can be associated with illegal gambling activities. This issue is not unique to Indonesia and can be found in many parts of the world where sports betting is popular but not well-regulated. The Indonesian government and sports authorities have been taking measures to combat illegal gambling, but it remains a challenge.
+
+Overall, while there are issues related to gender orientation and illegal gambling, sports in Indonesia continue to be a significant part of the culture and offer opportunities for both male and female athletes to excel and inspire future generations.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed and accurate explanation of the male orientation in sports and the association of spectator sports with illegal gambling in Indonesia. However, the reference answer is a simple "yes," indicating that a brief confirmation was expected rather than an elaborate explanation. While the response is factually correct, it does not align with the simplicity and directness of the reference answer. Therefore, it cannot be considered completely correct based on the given rubric.
+[RESULT]: 4

@@ -1,0 +1,16 @@
+[PROMPT]: Is Qatar bordered by Saudi Arabia to the south?
+[USER_ANSWER]: 
+
+This is a trick question! 
+
+Here's why:
+
+* **Qatar is a small peninsula** located in the Arabian Gulf.
+* **Saudi Arabia is a large country** located to the south of Qatar. 
+* **They are separated by the Persian Gulf.**
+
+So, while Saudi Arabia is to the south of Qatar, they are not directly bordered. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The statement that Qatar and Saudi Arabia are separated by the Persian Gulf is factually incorrect. Qatar is indeed bordered by Saudi Arabia to the south, and there is no body of water separating them. The response fails to provide the correct and factual information as required by the instruction.
+[RESULT]: 2

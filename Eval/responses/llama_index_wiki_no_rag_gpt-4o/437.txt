@@ -1,0 +1,13 @@
+[PROMPT]: What is now part of Adams National Historical Park?
+[USER_ANSWER]: Adams National Historical Park, located in Quincy, Massachusetts, preserves the home and legacy of two U.S. presidents, John Adams and his son John Quincy Adams, as well as other notable family members. The park includes several important historical sites:
+
+1. **John Adams Birthplace** - The house where John Adams was born in 1735.
+2. **John Quincy Adams Birthplace** - The house where John Quincy Adams was born in 1767.
+3. **Peacefield (Old House)** - The home where both John Adams and John Quincy Adams lived after their respective presidencies. It was also home to subsequent generations of the Adams family.
+4. **United First Parish Church** - Sometimes known as the "Church of the Presidents," where both John Adams and John Quincy Adams are buried in the family crypt along with their wives, Abigail Adams and Louisa Catherine Adams.
+5. **Stone Library** - Built by John Quincy Adams’ son Charles Francis Adams, it contains more than 14,000 historic volumes and is considered the first presidential library.
+
+These sites collectively provide a comprehensive look at the personal lives and public careers of the Adams family and are managed by the National Park Service.
+[CORRECT_ANSWER]: John Adams' birthplace
+[FEEDBACK]: The response provides a detailed and accurate description of the various sites that are part of Adams National Historical Park, including John Adams' birthplace, John Quincy Adams' birthplace, Peacefield, United First Parish Church, and the Stone Library. While the reference answer only mentions John Adams' birthplace, the response correctly identifies additional significant sites within the park, making it mostly correct and factual. However, it goes beyond the simplicity of the reference answer, which may not be necessary for a perfect score based on the rubric.
+[RESULT]: 4

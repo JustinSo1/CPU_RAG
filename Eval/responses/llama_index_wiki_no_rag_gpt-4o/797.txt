@@ -1,0 +1,5 @@
+[PROMPT]: What do all turtles and tortoises breathe?
+[USER_ANSWER]: All turtles and tortoises breathe air. They have lungs and need to come to the surface to breathe, even if they spend a significant amount of time underwater. They cannot extract oxygen from water like fish do through gills.
+[CORRECT_ANSWER]: air
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that turtles and tortoises breathe air and provides additional information about their lungs and the necessity to come to the surface to breathe. However, the reference answer is very concise, and the response includes extra details that, while accurate, are not necessary to answer the question directly. The core information is correct, but the additional details make it slightly more elaborate than needed.
+[RESULT]: 4

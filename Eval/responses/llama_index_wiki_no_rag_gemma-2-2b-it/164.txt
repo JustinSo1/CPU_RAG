@@ -1,0 +1,20 @@
+[PROMPT]: How does a Mallard's tongue work?
+[USER_ANSWER]: 
+
+A Mallard's tongue is a fascinating example of an adaptation for its aquatic lifestyle. Here's a breakdown of how it works:
+
+**Structure:**
+
+* **Long and flexible:** Unlike most birds, Mallards have a long, flexible tongue that can extend up to 10 inches.
+* **Covered in papillae:** The tongue is covered in tiny, hair-like projections called papillae. These papillae are covered in taste buds, allowing the bird to taste.
+* **Strong muscles:** The tongue is attached to strong muscles that allow it to move quickly and efficiently.
+
+**Function:**
+
+* **Prey capture:** The long, flexible tongue is perfect for catching small aquatic creatures like insects, worms, and crustaceans. The bird can quickly extend its tongue and snatch prey from the water's surface.
+* **Food manipulation:** The tongue's papillae help the bird to manipulate food, such as picking up small pieces of food or breaking down tough vegetation.
+* **Water intake:** The tongue can also be used to drink water. The bird can extend its tongue and lap up water from the surface.
+* **Grooming:** The tongue is also used for grooming, helping the bird to clean its feathers and
+[CORRECT_ANSWER]: It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat
+[FEEDBACK]: The response provides a detailed description of the Mallard's tongue, including its structure and functions. However, it contains several inaccuracies when compared to the reference answer. The reference answer describes the tongue as a flat plate with a short liftable flap and spikes for pushing food down the throat, which is not mentioned in the response. Instead, the response inaccurately describes the tongue as long, flexible, and covered in papillae, which is not supported by the reference. Additionally, the response includes functions such as prey capture, food manipulation, water intake, and grooming, which are not mentioned in the reference answer. Therefore, the response is mostly incorrect and inaccurate based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,15 @@
+[PROMPT]: Was Gerald Ford a member of Delta Kappa Epsilon?
+[USER_ANSWER]: 
+
+Gerald Ford was not a member of Delta Kappa Epsilon. 
+
+Here's why:
+
+* **Ford's Background:** Gerald Ford was a graduate of the University of Michigan, where he was a member of the Sigma Nu fraternity.
+* **Delta Kappa Epsilon:** Delta Kappa Epsilon is a prestigious fraternity at Yale University. 
+
+It's important to note that while Ford was a member of Sigma Nu, he was not affiliated with Delta Kappa Epsilon. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Gerald Ford was a member of Delta Kappa Epsilon, while the response incorrectly asserts that he was not. The additional details about Ford's background and the description of Delta Kappa Epsilon do not compensate for the fundamental inaccuracy of the main claim.
+[RESULT]: 1

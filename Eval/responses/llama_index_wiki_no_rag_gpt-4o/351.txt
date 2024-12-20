@@ -1,0 +1,5 @@
+[PROMPT]: In what year did East Timor secede from Indonesia?
+[USER_ANSWER]: East Timor, also known as Timor-Leste, seceded from Indonesia in 1999. After a UN-supervised referendum held on August 30, 1999, in which the East Timorese people voted overwhelmingly for independence, Indonesia relinquished control. Official independence was declared on May 20, 2002.
+[CORRECT_ANSWER]: 1999
+[FEEDBACK]: The response provides a detailed and accurate account of East Timor's secession from Indonesia. It correctly states that the secession process began in 1999 with a UN-supervised referendum and notes the official declaration of independence in 2002. While the reference answer is concise, the response includes additional relevant details that are factually correct. However, the primary focus of the question is the year of secession, which is correctly identified as 1999.
+[RESULT]: 5

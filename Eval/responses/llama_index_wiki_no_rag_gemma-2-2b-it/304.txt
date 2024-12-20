@@ -1,0 +1,16 @@
+[PROMPT]: Where is the largest gray wolf population thought to be found?
+[USER_ANSWER]: 
+
+The largest gray wolf population is thought to be found in **North America**. 
+
+Here's a breakdown:
+
+* **Alaska:**  Alaska has the largest and most diverse gray wolf population in North America. 
+* **Canada:**  Canada also has a significant gray wolf population, particularly in the western provinces.
+* **United States:**  The gray wolf population in the United States is recovering, with populations found in the western states. 
+
+It's important to note that wolf populations are constantly fluctuating, and the exact location of the largest population can change over time. 
+
+[CORRECT_ANSWER]: Kazakhstan
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The largest gray wolf population is thought to be found in Kazakhstan, not North America. While the response provides detailed information about gray wolf populations in North America, it does not address the correct location as specified in the reference answer. Therefore, the response does not meet the criteria for accuracy and correctness.
+[RESULT]: 2

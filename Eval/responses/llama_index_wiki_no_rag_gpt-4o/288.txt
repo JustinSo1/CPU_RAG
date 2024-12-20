@@ -1,0 +1,9 @@
+[PROMPT]: Who was Kwame Nkrumah?
+[USER_ANSWER]: Kwame Nkrumah was a prominent Ghanaian politician, revolutionary, and the first Prime Minister and President of Ghana. He was born on September 21, 1909, in Nkroful, Gold Coast (now Ghana) and died on April 27, 1972. Nkrumah played a crucial role in leading Ghana to independence from British colonial rule, which was achieved on March 6, 1957. 
+
+He was a leading advocate for Pan-Africanism and worked to promote the unity and solidarity of African states. Nkrumah's vision extended beyond Ghana; he sought to advance the cause of African independence and development across the continent. He was also known for his socialist policies and efforts to industrialize and modernize Ghana.
+
+Nkrumah's presidency saw significant infrastructure development, but his tenure was also marked by political challenges, economic difficulties, and allegations of increasing authoritarianism. In 1966, he was overthrown in a military coup while on a state visit to North Vietnam and China, and he spent the remainder of his life in exile, primarily in Guinea. Despite the controversies surrounding his rule, Nkrumah remains a significant and influential figure in African history.
+[CORRECT_ANSWER]: founder and first president
+[FEEDBACK]: The response provides a detailed and accurate account of Kwame Nkrumah's life and contributions. It correctly identifies him as the first Prime Minister and President of Ghana, his role in leading Ghana to independence, his advocacy for Pan-Africanism, and his efforts to modernize Ghana. The response also accurately mentions his overthrow and subsequent exile. While the reference answer is very brief, the evaluated response is comprehensive and factually correct, aligning well with the reference answer's core information.
+[RESULT]: 5

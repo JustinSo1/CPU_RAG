@@ -1,0 +1,23 @@
+[PROMPT]: Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?
+[USER_ANSWER]:  
+
+It's important to note that:
+
+* **Money laundering is a serious crime:** It involves disguising the origins of illegally obtained money. 
+* **International cooperation is crucial:**  Countries often work together to combat money laundering. 
+* **Prosecution is not always about image:**  The primary goal is to hold criminals accountable and prevent further financial crime.
+
+**Here's what we can say about Liechtenstein's approach:**
+
+* **Liechtenstein is known for its strong financial secrecy laws:** This has attracted criticism from some countries and organizations, as it can be used to hide illicit funds. 
+* **Liechtenstein has been involved in international efforts to combat money laundering:**  It has signed agreements with other countries and participates in international organizations like the Financial Action Task Force (FATF). 
+* **Liechtenstein has a reputation for being a safe and stable financial center:** This attracts businesses and investors, but also raises concerns about potential misuse of financial systems.
+
+**To answer your question directly:**
+
+Liechtenstein has taken steps to promote its image by prosecuting international money-laundering, but it's important to consider the following:
+
+* **The focus is on combating crime:**  The primary goal is to prevent financial crime
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed discussion about money laundering, international cooperation, and Liechtenstein's financial secrecy laws. However, it does not directly and clearly answer the question about whether Liechtenstein has worked to promote its image by prosecuting international money-laundering. The reference answer is a simple "Yes," indicating that a direct and clear affirmation is required. The response does mention that Liechtenstein has taken steps to combat money laundering, but it fails to explicitly connect these actions to promoting the country's image. Therefore, the response is somewhat correct and factual but lacks the directness and clarity needed to fully align with the reference answer.
+[RESULT]: 3

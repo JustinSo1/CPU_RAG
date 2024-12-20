@@ -1,0 +1,5 @@
+[PROMPT]: Did Monroe' wedding happen at the Trinity Church in New York?
+[USER_ANSWER]: Marilyn Monroe's wedding to playwright Arthur Miller did not take place at the Trinity Church in New York. They were married in a civil ceremony on June 29, 1956, at the Westchester County Court in White Plains, New York. They also had a small Jewish ceremony on July 1, 1956, to honor Miller's faith.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about Marilyn Monroe's wedding to Arthur Miller, including the locations and dates of their civil and Jewish ceremonies. However, the response does not directly answer the question with a simple "yes" or "no," which is what the reference answer does. The additional details, while informative, are not necessary for the specific question asked. Therefore, the response is mostly correct but not completely aligned with the reference answer's simplicity and directness.
+[RESULT]: 4

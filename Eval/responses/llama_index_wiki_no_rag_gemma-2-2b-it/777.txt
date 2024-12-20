@@ -1,0 +1,13 @@
+[PROMPT]: Where was Theodore Roosevelt born?
+[USER_ANSWER]: 
+
+A. New York City
+B. Buffalo, New York
+C.  San Francisco, California
+D.  Washington, D.C.
+
+**Answer:** B. Buffalo, New York 
+
+[CORRECT_ANSWER]: 28 East 20th Street in the modern-day Gramercy section of New York City
+[FEEDBACK]: The response is completely incorrect. Theodore Roosevelt was born in New York City, specifically at 28 East 20th Street in the modern-day Gramercy section. The response incorrectly states Buffalo, New York, which is not accurate or factual based on the reference answer.
+[RESULT]: 1

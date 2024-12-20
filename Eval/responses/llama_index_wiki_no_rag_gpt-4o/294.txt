@@ -1,0 +1,5 @@
+[PROMPT]: Do wolves leave their pack?
+[USER_ANSWER]: Yes, wolves can leave their pack for various reasons. Typically, young wolves, often called dispersers, will leave their natal pack to find new territory and potentially start their own pack. This usually occurs when they reach sexual maturity, around 1 to 3 years of age. Dispersal helps prevent inbreeding within the pack and promotes genetic diversity among wolf populations. Additionally, wolves may leave a pack due to conflicts, scarcity of resources, or if the pack becomes too large to sustain itself.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about why and when wolves leave their pack, which is accurate and relevant. However, the reference answer is very brief and only confirms that wolves can leave their pack. The response goes beyond the simplicity of the reference answer, which is not necessary but still correct.
+[RESULT]: 4

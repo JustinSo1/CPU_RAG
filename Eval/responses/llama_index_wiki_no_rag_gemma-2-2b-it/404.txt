@@ -1,0 +1,10 @@
+[PROMPT]: Was Monroe appointed Minister to France from 1794 to 1796?
+[USER_ANSWER]: 
+
+The answer is **no**.
+
+James Monroe was appointed Minister to France from **1798 to 1800**. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is "yes," as James Monroe was indeed appointed Minister to France from 1794 to 1796. The response not only provides the wrong answer but also gives incorrect dates for Monroe's appointment.
+[RESULT]: 1

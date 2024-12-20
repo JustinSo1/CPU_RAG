@@ -1,0 +1,12 @@
+[PROMPT]: Was Qatar University founded in 1973 ?
+[USER_ANSWER]: 
+
+**Answer:** No.
+
+**Explanation:**
+
+Qatar University was founded in **1974**. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer indicates that Qatar University was founded in 1973, while the response incorrectly states that it was founded in 1974. This discrepancy shows that the response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

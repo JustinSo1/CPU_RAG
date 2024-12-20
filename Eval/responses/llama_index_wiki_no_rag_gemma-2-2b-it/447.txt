@@ -1,0 +1,10 @@
+[PROMPT]: Is a kangaroo on the Australian coat of arms?
+[USER_ANSWER]: 
+
+No, a kangaroo is not on the Australian coat of arms. 
+
+The coat of arms features a **Southern Cross constellation** and a **shield** with a **Union Jack** in the top left corner. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The kangaroo is indeed on the Australian coat of arms, contrary to what the response states. Additionally, the details provided about the Southern Cross constellation, shield, and Union Jack are not relevant to the question and do not correct the initial inaccuracy.
+[RESULT]: 1

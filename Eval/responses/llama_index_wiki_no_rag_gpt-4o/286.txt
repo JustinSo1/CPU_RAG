@@ -1,0 +1,5 @@
+[PROMPT]: Is Ghana's head of state John Agyekum Kufuor?
+[USER_ANSWER]: No, John Agyekum Kufuor is not the current head of state of Ghana. He served as the President of Ghana from January 7, 2001, to January 7, 2009. As of my knowledge cutoff date in October 2023, the current President of Ghana is Nana Addo Dankwa Akufo-Addo, who has been in office since January 7, 2017.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that John Agyekum Kufuor is not the current head of state of Ghana and provides accurate historical context about his term in office. However, the reference answer is "yes," which indicates that the response should have been a simple affirmation rather than a detailed explanation. Despite this, the factual content provided is accurate and relevant to the question.
+[RESULT]: 4

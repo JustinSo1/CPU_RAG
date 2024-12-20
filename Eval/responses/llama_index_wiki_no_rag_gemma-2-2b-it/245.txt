@@ -1,0 +1,15 @@
+[PROMPT]: What is a country with which Finland is involved in an international conflict?
+[USER_ANSWER]: 
+
+Finland is not currently involved in an international conflict. 
+
+It's important to note that:
+
+* **Finland has a long history of neutrality:**  They have historically avoided direct involvement in major international conflicts.
+* **Current geopolitical situation:** While Finland is a member of NATO, they have not been directly involved in any active military operations. 
+
+It's always best to rely on verified news sources for information about current events. 
+
+[CORRECT_ANSWER]: Finland is not involved in international conflicts or border disputes. 
+[FEEDBACK]: The response is completely correct, accurate, and factual. It states that Finland is not currently involved in an international conflict, which aligns with the reference answer. Additionally, the response provides relevant context about Finland's history of neutrality and its current geopolitical situation, which, while not necessary, does not detract from the accuracy of the main statement. The additional information is accurate and supports the main point effectively.
+[RESULT]: 5

@@ -1,0 +1,16 @@
+[PROMPT]: Do sea turtles lay eggs on dry sandy beaches?
+[USER_ANSWER]: 
+
+Sea turtles lay eggs on **sandy beaches that are close to the ocean**. They need the sand to be soft and moist to dig their nests. 
+
+Here's why:
+
+* **Nesting:** Sea turtles dig nests in the sand to lay their eggs. The sand needs to be soft and moist to allow them to dig easily.
+* **Protection:** The sand provides protection for the eggs from predators like crabs, birds, and other animals.
+* **Water:** The sand needs to be close to the ocean to allow the hatchlings to reach the water quickly after hatching.
+
+So, while sea turtles can lay eggs on beaches with different types of sand, they prefer sandy beaches that are close to the ocean. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation about the conditions sea turtles prefer for laying eggs, which is mostly accurate. However, the reference answer is a simple "Yes," indicating that the response should be straightforward and directly address the question without additional details. The response does not directly answer the question with a simple "Yes" or "No," which makes it less aligned with the reference answer. While the information provided is factual and correct, it is not completely aligned with the simplicity and directness of the reference answer.
+[RESULT]: 4

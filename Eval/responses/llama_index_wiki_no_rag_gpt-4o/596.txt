@@ -1,0 +1,7 @@
+[PROMPT]: What drives sea otter almost to extinction?
+[USER_ANSWER]: Sea otters were driven almost to extinction primarily due to the fur trade. Starting in the 18th century, Russian, European, and American fur traders hunted sea otters extensively for their luxurious and dense fur, which was highly valued. The hunting pressure was so intense that sea otter populations plummeted dramatically. By the early 20th century, sea otters were nearly extinct in many parts of their range.
+
+Conservation efforts, including legal protections such as the International Fur Seal Treaty of 1911 and the Marine Mammal Protection Act of 1972, have helped sea otter populations to recover in some areas. However, they still face threats from oil spills, habitat degradation, entanglement in fishing gear, and predation by killer whales in certain regions. Conservationists continue to work towards ensuring the long-term survival of sea otters.
+[CORRECT_ANSWER]: Humans hunted them almost to extinction. 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately identifies the primary reason for the near extinction of sea otters, which is the fur trade. The additional details about the historical context, conservation efforts, and ongoing threats are factual and relevant, although they go beyond the scope of the reference answer. The response provides a comprehensive understanding of the issue, but the extra information, while accurate, is not necessary to answer the question directly.
+[RESULT]: 4

@@ -1,0 +1,14 @@
+[PROMPT]: Was Fillmore the first U.S. President born after the death of a former president ?
+[USER_ANSWER]: 
+
+**Answer:** No
+
+**Explanation:**
+
+While Millard Fillmore was the 13th President of the United States, he was not the first president born after the death of a former president. 
+
+* **John F. Kennedy** was the first U.S. president born after the death of a former president. He was born in 1917, and President Franklin D. Roosevelt died in 1945. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The answer provided is "No," while the reference answer is "Yes." Additionally, the explanation given is factually incorrect. John F. Kennedy was not the first U.S. president born after the death of a former president. The response fails to align with the reference answer and does not provide accurate information.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: How much do sea otters weigh?
+[USER_ANSWER]: Sea otters typically weigh between 35 to 90 pounds (16 to 41 kilograms). Males are generally larger than females, with males weighing up to 100 pounds (45 kilograms) in some cases. Sea otters are the heaviest members of the weasel family, but among marine mammals, they are relatively small.
+[CORRECT_ANSWER]: 30 kg (about 65 pounds)
+[FEEDBACK]: The response provides a range for the weight of sea otters, stating that they typically weigh between 35 to 90 pounds (16 to 41 kilograms) and mentioning that males can weigh up to 100 pounds (45 kilograms). While this information is generally accurate and factual, it does not align perfectly with the reference answer, which states a specific weight of 30 kg (about 65 pounds). The response is mostly correct and provides additional context about the weight differences between male and female sea otters, as well as their relative size among marine mammals. However, it does not match the specific weight given in the reference answer.
+[RESULT]: 4

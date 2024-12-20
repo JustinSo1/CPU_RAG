@@ -1,0 +1,17 @@
+[PROMPT]: Since when has Egypt been a republic?
+[USER_ANSWER]: 
+
+Egypt became a republic in **1952**. 
+
+Here's a bit more context:
+
+* **Before 1952:** Egypt was ruled by a monarchy under King Farouk.
+* **1952 Revolution:** A military coup led by Gamal Abdel Nasser overthrew the monarchy and established a republic.
+* **Nasser's rule:** Nasser was a key figure in the revolution and led Egypt through a period of nationalization and modernization.
+* **Post-Nasser:** Egypt has had a series of presidents and military leaders since Nasser's death in 1970. 
+
+Let me know if you have any other questions about Egypt's history! 
+
+[CORRECT_ANSWER]: June 18 1953.
+[FEEDBACK]: The response provides a general timeframe (1952) for when Egypt became a republic, which is close but not completely accurate. The reference answer specifies the exact date as June 18, 1953. While the additional context about the 1952 revolution and subsequent events is informative, it does not correct the inaccuracy in the specific date. Therefore, the response is mostly correct but not completely accurate.
+[RESULT]: 4

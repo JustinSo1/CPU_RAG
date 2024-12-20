@@ -1,0 +1,5 @@
+[PROMPT]: Since when has Egypt been a republic?
+[USER_ANSWER]: Egypt has been a republic since June 18, 1953. Prior to that, it was a monarchy under King Farouk. The monarchy was overthrown following the Egyptian Revolution of 1952, which led to the establishment of the Republic of Egypt.
+[CORRECT_ANSWER]: June 18 1953.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact date when Egypt became a republic, which matches the reference answer. Additionally, it offers extra context about the historical background, such as the monarchy under King Farouk and the Egyptian Revolution of 1952, which is accurate and enhances the response. However, the additional information, while accurate, is not necessary to meet the criteria of the rubric. The core information required by the instruction is fully correct and factual.
+[RESULT]: 5

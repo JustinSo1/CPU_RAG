@@ -1,0 +1,5 @@
+[PROMPT]: Did Ford need to do extra work to pay for college?
+[USER_ANSWER]: If you are referring to Gerald Ford, the 38th President of the United States, then yes, he had to work hard to pay for his college education. Gerald Ford attended the University of Michigan, where he played football and earned a partial scholarship. However, the scholarship did not cover all his expenses, so he worked various jobs, including as a waiter and a janitor, to make ends meet and pay for his tuition and other costs. This determination and work ethic were evident in his later political career as well.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about Gerald Ford's efforts to pay for his college education, including his partial scholarship and the various jobs he took on. However, the reference answer is a simple "yes," which directly addresses the question without additional context. While the response is informative and accurate, it goes beyond the simplicity of the reference answer.
+[RESULT]: 4

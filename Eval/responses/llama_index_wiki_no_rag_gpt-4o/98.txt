@@ -1,0 +1,5 @@
+[PROMPT]: Was Calvin Coolidge a governor of MassachuS08_setts?
+[USER_ANSWER]: Yes, Calvin Coolidge served as the Governor of Massachusetts. He held the office from 1919 to 1921 before becoming Vice President and later the 30th President of the United States.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Calvin Coolidge served as the Governor of Massachusetts and provides additional relevant information about his tenure and subsequent political career. However, the reference answer is very brief, and the response goes beyond the minimal requirement. Despite this, the additional information does not detract from the accuracy of the response.
+[RESULT]: 5

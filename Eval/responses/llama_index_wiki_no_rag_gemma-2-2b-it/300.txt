@@ -1,0 +1,8 @@
+[PROMPT]: Are Gray Wolves native to North America?
+[USER_ANSWER]: 
+
+Gray wolves are native to North America. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question by confirming that gray wolves are native to North America, which aligns with the reference answer.
+[RESULT]: 5

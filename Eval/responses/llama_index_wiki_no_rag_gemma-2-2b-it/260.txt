@@ -1,0 +1,15 @@
+[PROMPT]: Was Ford an Eagle Scout?
+[USER_ANSWER]: 
+
+No, Ford was not an Eagle Scout. 
+
+It's important to note that:
+
+* **Ford is a company, not a person.**  
+* **Eagle Scout is a rank in the Boy Scouts of America.** 
+
+Perhaps you were thinking of a different person? 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The instruction asks whether Ford was an Eagle Scout, and the reference answer indicates "yes." The response incorrectly states that Ford was not an Eagle Scout and then provides additional information that is not relevant to the question. The response does not align with the reference answer and fails to provide the correct factual information.
+[RESULT]: 2

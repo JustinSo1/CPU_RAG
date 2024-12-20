@@ -1,0 +1,5 @@
+[PROMPT]: During what period was Akhenaten a Pharaoh?
+[USER_ANSWER]: Akhenaten, originally named Amenhotep IV, was a Pharaoh of ancient Egypt who reigned during the 18th Dynasty. His reign is typically dated from about 1353 BC to 1336 BC, although some sources might slightly vary these dates. Akhenaten is most notable for his religious revolution, in which he promoted the worship of the Aten, the sun disk, and attempted to shift Egyptian religion away from its traditional polytheistic beliefs.
+[CORRECT_ANSWER]: The New Kingdom (c.1550&#8722;1070 BC) 
+[FEEDBACK]: The response provides detailed information about Akhenaten, including his original name, the dynasty he belonged to, and the approximate dates of his reign. However, it does not directly answer the question about the period during which he was a Pharaoh in the same concise manner as the reference answer. The reference answer specifies the New Kingdom period, which is the expected response. While the response is factually accurate and provides relevant context, it does not directly match the reference answer's format and specificity.
+[RESULT]: 4

@@ -1,0 +1,13 @@
+[PROMPT]: Who is the most popular rock group in Finland?
+[USER_ANSWER]: Determining the "most popular" rock group in Finland can vary based on different metrics such as album sales, streaming numbers, concert attendance, and general public opinion. However, one of the most widely recognized and influential rock bands from Finland is **HIM (His Infernal Majesty)**. Formed in 1991 and led by frontman Ville Valo, HIM gained international fame with their unique blend of gothic rock and metal.
+
+Another notable mention is **The Rasmus**, who have also achieved significant international success, particularly with their hit single "In the Shadows."
+
+**Nightwish**, although more symphonic metal, is extremely popular both in Finland and globally. Led by Tuomas Holopainen, their blend of metal with orchestral elements has garnered a massive following.
+
+Finally, **Apocalyptica**, known for their cello-driven metal music, has also gained substantial popularity both domestically and internationally.
+
+The popularity of these bands can fluctuate, so it's always a good idea to check current charts and trends for the latest information.
+[CORRECT_ANSWER]: CMX
+[FEEDBACK]: The response provides a detailed and informative overview of several popular rock bands from Finland, including HIM, The Rasmus, Nightwish, and Apocalyptica. However, it does not mention CMX, which is the reference answer. While the bands mentioned are indeed popular and factual, the response does not align with the reference answer provided. Therefore, it cannot be considered completely correct or accurate based on the given rubric.
+[RESULT]: 3

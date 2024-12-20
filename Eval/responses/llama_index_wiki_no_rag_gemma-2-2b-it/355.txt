@@ -1,0 +1,19 @@
+[PROMPT]: Why did Indonesia break off relations with the People's Republic of China?
+[USER_ANSWER]: 
+
+Indonesia did **not** break off relations with the People's Republic of China. 
+
+In fact, Indonesia and China have a long-standing and complex relationship, characterized by:
+
+* **Economic ties:** Indonesia is a major trading partner of China, with significant investments in infrastructure and manufacturing.
+* **Political cooperation:** Indonesia and China cooperate on regional and international issues, including counterterrorism and climate change.
+* **Cultural exchange:** There is a growing exchange of students, scholars, and cultural figures between the two countries.
+
+While there have been occasional tensions and disagreements, Indonesia has maintained a relatively stable and positive relationship with China. 
+
+
+It's important to rely on accurate information from credible sources when discussing international relations. 
+
+[CORRECT_ANSWER]: because of anti-communist purges early in the Suharto era
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Indonesia broke off relations with the People's Republic of China due to anti-communist purges early in the Suharto era. The response, however, claims that Indonesia did not break off relations with China and goes on to describe the current relationship between the two countries, which is not relevant to the historical context provided in the reference answer. This demonstrates a fundamental misunderstanding of the historical event in question.
+[RESULT]: 1

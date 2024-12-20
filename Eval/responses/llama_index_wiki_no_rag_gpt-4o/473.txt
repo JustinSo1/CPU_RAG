@@ -1,0 +1,9 @@
+[PROMPT]: Are kangaroos farmed to any extent?
+[USER_ANSWER]: Yes, kangaroos are indeed farmed to some extent, but it is more accurate to describe the practice as "harvesting" rather than traditional farming. In Australia, kangaroos are predominantly wild animals, and their numbers are managed through regulated culling. This process is controlled by government-issued quotas to ensure sustainability and ecological balance.
+
+The meat, hides, and other by-products from these harvested kangaroos are used for various purposes. Kangaroo meat is considered lean and nutritious, and it is consumed both domestically and exported to other countries. The hides are used in the leather industry to produce products such as shoes, gloves, and other items.
+
+The practice is subject to strict regulations to ensure that it is humane and sustainable, reflecting concerns about animal welfare and environmental impact. However, it is a topic of debate and varying opinions, with some advocating for its benefits and others raising ethical and ecological concerns.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response provided is mostly incorrect and inaccurate based on the reference answer. The reference answer simply states "No," indicating that kangaroos are not farmed to any extent. However, the response elaborates on the practice of "harvesting" kangaroos, which is not the same as farming. While the details about regulated culling and the use of kangaroo products are factual, they do not align with the reference answer's clear negation. Therefore, the response does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[RESULT]: 2

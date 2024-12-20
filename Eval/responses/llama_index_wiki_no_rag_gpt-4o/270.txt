@@ -1,0 +1,5 @@
+[PROMPT]: Was Ford interred at his Presidential Museum in Grand Rapids, Michigan?
+[USER_ANSWER]: Yes, President Gerald R. Ford was interred at his Presidential Museum in Grand Rapids, Michigan. After his death in December 2006, Ford was laid to rest on the grounds of the museum, which is located in his hometown. The site serves as both a museum and his final resting place.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional context about President Gerald R. Ford's interment at his Presidential Museum in Grand Rapids, Michigan, including the date of his death and the significance of the site. While the reference answer is very brief, the response expands on the information without introducing any inaccuracies.
+[RESULT]: 5

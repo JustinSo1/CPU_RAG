@@ -1,0 +1,5 @@
+[PROMPT]: Who did Sir Thomas Stamford Raffles work for?
+[USER_ANSWER]: Sir Thomas Stamford Raffles worked for the British East India Company. He is best known for founding modern Singapore and his significant role in the expansion of British influence in Southeast Asia during the early 19th century.
+[CORRECT_ANSWER]: British East India Company
+[FEEDBACK]: The response correctly identifies that Sir Thomas Stamford Raffles worked for the British East India Company, which matches the reference answer. Additionally, the response provides extra information about Raffles' achievements, which, while not necessary, does not detract from the accuracy of the main answer.
+[RESULT]: 5

@@ -1,0 +1,8 @@
+[PROMPT]: What shape are a leopard's black roS08_settes in East Africa?
+[USER_ANSWER]: 
+
+The shape of a leopard's black rosettes in East Africa is **typically round or oval**. 
+
+[CORRECT_ANSWER]: circular
+[FEEDBACK]: The response is mostly correct, accurate, and factual. The terms "round" and "oval" are close to "circular," but "oval" introduces a slight inaccuracy compared to the reference answer. The response captures the general idea but is not as precise as the reference answer.
+[RESULT]: 4

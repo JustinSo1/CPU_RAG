@@ -1,0 +1,14 @@
+[PROMPT]: Who is Daffy Duck?
+[USER_ANSWER]: 
+
+Daffy Duck is a fictional character and the main character of the Looney Tunes cartoon series. He is a duck with a short temper, a penchant for schemes, and a signature "Sufferin' Succotash!"
+
+Here's a bit more about him:
+
+* **Personality:** Daffy is known for his egotistical, arrogant, and often delusional personality. He's a master of self-promotion and loves to boast about his talents, even when they're clearly not impressive. He's also prone to fits of rage and can be quite cowardly when faced with danger.
+* **Appearance:** Daffy is a small, yellow duck with a black beak, white chest, and a distinctive, oversized, and often messy hairstyle. He's often seen wearing a bow tie and a vest.
+* **Catchphrases:**  "Sufferin' Succotash!" is his most famous catchphrase, but he also uses other phrases like "That's all folks!" and "I'm the greatest!"
+* **Relationships:** Daffy is often seen interacting with other Looney Tunes characters, most notably Bugs Bunny, Porky Pig, and Sylvester the Cat. He frequently tries to outsmart and outwit them,
+[CORRECT_ANSWER]: A silly cartoon character
+[FEEDBACK]: The response provides a detailed and accurate description of Daffy Duck, including his personality, appearance, catchphrases, and relationships with other characters. However, the reference answer is very brief and only describes Daffy Duck as a "silly cartoon character." While the response is factually correct, it goes beyond the simplicity of the reference answer. Therefore, it is mostly correct and accurate but not completely aligned with the reference answer's simplicity.
+[RESULT]: 4

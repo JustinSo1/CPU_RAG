@@ -1,0 +1,10 @@
+[PROMPT]: The eggs of the largest species are what?
+[USER_ANSWER]: 
+
+The largest species of bird is the **ostrich**. 
+
+Ostrich eggs are **huge**! They can weigh up to **3.5 pounds** and measure about **6 inches** in length. 
+
+[CORRECT_ANSWER]: spherical
+[FEEDBACK]: The response provides information about the largest species of bird and details about the size and weight of its eggs. However, it does not directly answer the question about the shape of the eggs, which is "spherical" according to the reference answer. Therefore, while the information given is factual, it does not address the specific query accurately.
+[RESULT]: 2

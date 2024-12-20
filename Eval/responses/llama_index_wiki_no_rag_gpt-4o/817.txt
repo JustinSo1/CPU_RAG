@@ -1,0 +1,5 @@
+[PROMPT]: What are turtle eggs covered in when they incubate?
+[USER_ANSWER]: Turtle eggs are typically covered in sand, soil, or other substrate when they incubate. The mother turtle digs a nest in the ground, deposits her eggs, and then covers them to protect them from predators and environmental conditions. The covering material helps to regulate the temperature and humidity around the eggs, which is crucial for their development.
+[CORRECT_ANSWER]: Mud or Sand
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of what turtle eggs are covered in when they incubate, mentioning sand, soil, or other substrate. However, the reference answer specifically mentions "mud or sand," and the response does not explicitly mention "mud." While the additional details about the nesting process and the role of the covering material are informative, they are not necessary for the specific question asked. Therefore, the response is mostly correct but not completely aligned with the reference answer.
+[RESULT]: 4

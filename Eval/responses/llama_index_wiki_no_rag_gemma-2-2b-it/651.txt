@@ -1,0 +1,12 @@
+[PROMPT]: What is the last word on the page?
+[USER_ANSWER]: 
+
+This is a classic riddle! 
+
+The answer is **"the"**. 
+
+Let me know if you'd like to try another one! 😊 
+
+[CORRECT_ANSWER]: Connecticut
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The last word on the page is "Connecticut," not "the." The response does not provide any factual information related to the instruction.
+[RESULT]: 1

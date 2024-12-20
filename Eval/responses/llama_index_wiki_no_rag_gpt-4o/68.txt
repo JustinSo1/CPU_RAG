@@ -1,0 +1,5 @@
+[PROMPT]: Are beetles endopterygotes?
+[USER_ANSWER]: Yes, beetles are endopterygotes. Endopterygotes, also known as Holometabola, are insects that undergo complete metamorphosis, which includes four distinct life stages: egg, larva, pupa, and adult. Beetles belong to the order Coleoptera, which is part of this group. During their development, beetles transform from larvae to adults through the pupal stage, a hallmark of endopterygote development.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies beetles as endopterygotes and provides additional information about the characteristics of endopterygotes, including the stages of complete metamorphosis and the order Coleoptera. This additional detail, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

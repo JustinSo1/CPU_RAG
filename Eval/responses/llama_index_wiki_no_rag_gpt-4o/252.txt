@@ -1,0 +1,5 @@
+[PROMPT]: What did Ford say about his biological father?
+[USER_ANSWER]: Could you please provide more context or specify which Ford you are referring to? There are several prominent individuals with the last name Ford, and more context would help in providing an accurate response.
+[CORRECT_ANSWER]: He was abusive and had a history of hitting his mother.
+[FEEDBACK]: The response does not provide any information about what Ford said about his biological father. Instead, it asks for more context and clarification, which means it does not address the question directly. Therefore, it is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

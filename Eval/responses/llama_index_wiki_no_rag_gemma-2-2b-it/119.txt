@@ -1,0 +1,10 @@
+[PROMPT]: What was the Consitution Act formerly called?
+[USER_ANSWER]: 
+
+The Constitution Act is the name given to the document that established the Canadian Constitution. 
+
+It was formerly known as the **British North America Act (BNA Act)**. 
+
+[CORRECT_ANSWER]: The British North America Act.
+[FEEDBACK]: The response correctly identifies the former name of the Constitution Act as the British North America Act (BNA Act), which is accurate and factual based on the reference answer. However, the additional information about the Canadian Constitution, while informative, is not necessary for the response. The core answer is correct and factual.
+[RESULT]: 5

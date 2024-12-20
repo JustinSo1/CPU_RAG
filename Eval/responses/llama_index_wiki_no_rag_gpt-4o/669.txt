@@ -1,0 +1,32 @@
+[PROMPT]: What is actually black in color?
+[USER_ANSWER]: Many things can be black in color. Here are a few examples:
+
+1. Objects:
+   - Coal
+   - Charcoal
+   - Obsidian
+   - Onyx
+   - Black clothing and fabric
+
+2. Animals:
+   - Black panther
+   - Crows and ravens
+   - Black cats
+   - Black bears
+
+3. Food:
+   - Black beans
+   - Blackberries
+   - Black rice
+   - Black olives
+
+4. Miscellaneous:
+   - Night sky (absence of light)
+   - Ink
+   - Shadows
+   - Some types of soil
+
+These are just a few examples. The color black can be found in many natural and man-made objects and substances.
+[CORRECT_ANSWER]: A polar bear's skin.
+[FEEDBACK]: The response provides a list of various objects, animals, foods, and miscellaneous items that are black in color. While the examples given are accurate and factual, the response does not directly address the specific example given in the reference answer, which is "a polar bear's skin." The response is somewhat correct in identifying things that are black, but it does not match the specific example provided in the reference answer. Therefore, it does not fully meet the criteria for complete correctness and accuracy based on the reference answer.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: What is one significant non-official language?
+[USER_ANSWER]: One significant non-official language is Mandarin Chinese. Although it is an official language in China, it is considered non-official in many other countries where it is widely spoken, such as Malaysia, Indonesia, and the United States. Mandarin Chinese has a large number of native speakers and is one of the most spoken languages in the world, making it significant in global communication, business, and cultural exchange.
+[CORRECT_ANSWER]: Chinese.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Mandarin Chinese as a significant non-official language in many countries, providing additional context about its global significance. However, the reference answer is more concise and directly answers the question without additional information. The response could be improved by being more succinct and directly aligned with the reference answer.
+[RESULT]: 4

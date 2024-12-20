@@ -1,0 +1,5 @@
+[PROMPT]: How many times has Uruguay won the World Cup?
+[USER_ANSWER]: As of 2021, Uruguay has won the FIFA World Cup two times. Their victories came in 1930, when they hosted the inaugural tournament, and in 1950 in Brazil.
+[CORRECT_ANSWER]: Twice. 
+[FEEDBACK]: The response is completely correct, accurate, and factual. It states that Uruguay has won the FIFA World Cup two times, which aligns with the reference answer. Additionally, it provides extra details about the years and locations of the victories, which are accurate and enhance the response without detracting from its correctness.
+[RESULT]: 5

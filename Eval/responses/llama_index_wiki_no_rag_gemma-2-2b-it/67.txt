@@ -1,0 +1,27 @@
+[PROMPT]: Is a beetle's general anatomy uniform?
+[USER_ANSWER]: 
+
+A beetle's general anatomy is not uniform, but rather exhibits a wide range of variations depending on the species and its ecological niche. 
+
+Here's a breakdown of some key features and their variations:
+
+**1. Body Shape:**
+* **Elongated:** Found in ground beetles, some longhorn beetles, and some scarab beetles.
+* **Rounded:** Found in many dung beetles and weevils.
+* **Flattened:** Found in some leaf beetles and weevils.
+
+**2. Head:**
+* **Simple:** Found in many beetles, with a small, rounded head.
+* **Complex:** Found in some longhorn beetles, with a large, complex head containing antennae, eyes, and mouthparts.
+
+**3. Antennae:**
+* **Short and simple:** Found in many beetles, used for sensing chemicals.
+* **Long and feathery:** Found in some longhorn beetles, used for sensing air currents.
+* **Clubbed:** Found in some scarab beetles, used for sensing vibrations.
+
+**4. Legs:**
+* **Short and stout:** Found in many beetles, adapted for digging or climbing.
+* **Long and slender:** Found in some longhorn beetles, adapted
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provided is detailed and informative, explaining the variations in beetle anatomy across different species. However, the reference answer is a simple "Yes," indicating that the expected response should affirm the uniformity of beetle anatomy. The response contradicts the reference answer by stating that beetle anatomy is not uniform and varies widely. Therefore, the response is not aligned with the reference answer and is mostly incorrect based on the given rubric.
+[RESULT]: 2

@@ -1,0 +1,17 @@
+[PROMPT]: Is it true that singapore has several long - standing disputes with malaysia?
+[USER_ANSWER]: Singapore and Malaysia have a complex and multifaceted relationship. While the two countries share deep historical, cultural, and economic ties, there have been several disputes and disagreements over the years. Some of the long-standing issues include:
+
+1. **Territorial Disputes**: The most notable territorial dispute was over Pedra Branca (also known as Pulau Batu Puteh), Middle Rocks, and South Ledge. The International Court of Justice (ICJ) ruled in 2008 that Pedra Branca belonged to Singapore, while Middle Rocks was awarded to Malaysia. The status of South Ledge depends on the territorial waters in which it is located.
+
+2. **Water Agreements**: Water supply has been a significant issue, with agreements dating back to the 1960s that govern the sale of water from Malaysia to Singapore. Disputes have arisen over the interpretation and pricing of these agreements.
+
+3. **Airspace Management**: There have been disagreements over airspace management, particularly concerning the control of air traffic over southern Johor. This issue involves both national sovereignty and aviation safety.
+
+4. **Land Reclamation**: Malaysia has expressed concerns over Singapore's land reclamation activities, fearing environmental and navigational impacts.
+
+5. **Ties and Diplomacy**: There have been various other diplomatic tensions and disagreements over the years, often linked to broader political and economic issues.
+
+Despite these disputes, both countries have generally managed to maintain a stable and cooperative relationship, addressing issues through negotiations, diplomacy, and legal frameworks. They continue to work together on various regional and international platforms, reflecting the broader importance of their bilateral relationship.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed and accurate account of the disputes between Singapore and Malaysia, including territorial disputes, water agreements, airspace management, land reclamation, and diplomatic tensions. While the reference answer is a simple "Yes," the response elaborates on the nature of the disputes, which aligns with the reference answer's implication that such disputes exist. The response is correct, accurate, and factual, providing a comprehensive overview of the issues mentioned.
+[RESULT]: 5

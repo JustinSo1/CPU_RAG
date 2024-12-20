@@ -1,0 +1,17 @@
+[PROMPT]: Did John Adams go to Harvard? 
+[USER_ANSWER]: 
+
+John Adams, the second president of the United States, did **not** attend Harvard University. 
+
+Here's why:
+
+* **Harvard's founding:** Harvard University was founded in 1636. John Adams was born in 1735. 
+* **Education:** John Adams received his education at a local school and later at the **Massachusetts Academy**, a precursor to Harvard. 
+* **Harvard's role:** While Adams did not attend Harvard, he was a strong supporter of the institution and helped to establish the **Harvard Law School**.
+
+
+Let me know if you have any other questions about John Adams or Harvard! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. John Adams did attend Harvard University, graduating in 1755. The response incorrectly states that he did not attend Harvard and provides inaccurate details about his education and Harvard's role in his life. This contradicts the reference answer, which correctly states that John Adams did go to Harvard.
+[RESULT]: 1

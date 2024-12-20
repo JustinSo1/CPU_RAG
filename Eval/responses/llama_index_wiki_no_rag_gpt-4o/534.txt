@@ -1,0 +1,5 @@
+[PROMPT]: The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?
+[USER_ANSWER]: The first Savings and Loans Bank, known as the Savings and Loan Association, was founded in 1831 in the United States. The first cotton-weaving mill, the Beverly Cotton Manufactory, was established in 1787 in Beverly, Massachusetts.
+[CORRECT_ANSWER]: 1861
+[FEEDBACK]: The response provided is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that the year is 1861, while the response gives two different years (1831 and 1787) for the founding of the Savings and Loans Bank and the first cotton-weaving mill, respectively. This does not align with the reference answer at all.
+[RESULT]: 1

@@ -1,0 +1,19 @@
+[PROMPT]: Where is old Ghana in relation to present Ghana?
+[USER_ANSWER]: 
+
+Old Ghana was a powerful empire that existed in West Africa from the 10th to 13th centuries. It's important to understand that the term "Old Ghana" refers to a specific historical period and not a single, unified entity. 
+
+Here's a breakdown of how to understand the relationship between Old Ghana and present-day Ghana:
+
+* **Location:** The geographical area of Old Ghana encompassed parts of modern-day Ghana, Burkina Faso, Mali, and Niger. 
+* **Time:** The empire existed from the 10th to 13th centuries.
+* **Present-day Ghana:** The modern nation of Ghana, which gained independence in 1957, is located in West Africa. It encompasses the same general area as Old Ghana.
+
+**Therefore, Old Ghana is a historical period that predates the modern nation of Ghana.  It's important to remember that the modern nation of Ghana is built upon the legacy of the ancient empires that existed in the region, including Old Ghana.**
+
+
+Let me know if you have any other questions about Old Ghana or present-day Ghana. 
+
+[CORRECT_ANSWER]: 500 miles north
+[FEEDBACK]: The response provides a detailed historical context about Old Ghana, including its time period and geographical location. However, it does not directly answer the question of where Old Ghana is in relation to present-day Ghana. The reference answer clearly states "500 miles north," which is a specific and factual geographical relationship. The response, while informative, fails to provide this direct and accurate information.
+[RESULT]: 2

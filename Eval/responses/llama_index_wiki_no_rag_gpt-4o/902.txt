@@ -1,0 +1,7 @@
+[PROMPT]: Where is Wilson buried?
+[USER_ANSWER]: There are many notable individuals with the surname "Wilson," and without additional context, it's difficult to determine which specific Wilson you are referring to. However, one of the most notable individuals with that surname is Woodrow Wilson, the 28th President of the United States. 
+
+Woodrow Wilson is buried in the Washington National Cathedral in Washington, D.C. He is the only U.S. president interred in the nation's capital. If you have a different Wilson in mind, please provide more details so I can give you a more accurate answer.
+[CORRECT_ANSWER]: He was buried in Washington National Cathedral
+[FEEDBACK]: The response provides accurate information about Woodrow Wilson's burial place, which matches the reference answer. However, it includes additional context about the surname "Wilson" and the need for more details, which, while informative, is not necessary for the specific question asked. The core information about Woodrow Wilson being buried in the Washington National Cathedral is correct and factual.
+[RESULT]: 4

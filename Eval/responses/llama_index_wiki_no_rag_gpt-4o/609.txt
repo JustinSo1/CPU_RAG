@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that otters eat a variety of fish?
+[USER_ANSWER]: Yes, it is true that otters eat a variety of fish. Otters are carnivorous mammals and their diet often includes a wide range of fish species. They are skilled hunters and have adaptations such as webbed feet and strong, agile bodies that help them catch fish. In addition to fish, otters may also consume other aquatic creatures such as crustaceans, mollusks, amphibians, and occasionally small mammals and birds. The specific diet of an otter can vary based on its species and the availability of prey in its habitat.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that otters eat a variety of fish and provides additional relevant information about their diet and hunting adaptations. This additional detail, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

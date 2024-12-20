@@ -1,0 +1,5 @@
+[PROMPT]: Where was the League of Nations created?
+[USER_ANSWER]: The League of Nations was created in Geneva, Switzerland. It was established in 1920 following the end of World War I, as part of the Treaty of Versailles. The League was the first international organization aimed at maintaining world peace and preventing future conflicts.
+[CORRECT_ANSWER]: Paris
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The League of Nations was created in Paris, not Geneva, Switzerland. While the additional information about the establishment year and the Treaty of Versailles is accurate, it does not compensate for the incorrect location.
+[RESULT]: 2

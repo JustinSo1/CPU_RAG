@@ -1,0 +1,10 @@
+[PROMPT]: How many children did Grover Cleveland have?
+[USER_ANSWER]: 
+
+The answer is **two**. 
+
+Grover Cleveland had two children with his wife Frances Folsom Cleveland. 
+
+[CORRECT_ANSWER]: 5
+[FEEDBACK]: The response is mostly correct, accurate, and factual. However, it is not completely correct because Grover Cleveland actually had five children with his wife Frances Folsom Cleveland, not two. This discrepancy means the response is not entirely accurate.
+[RESULT]: 4

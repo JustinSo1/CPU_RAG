@@ -1,0 +1,16 @@
+[PROMPT]: What have become flippers, useless for flight in the air?
+[USER_ANSWER]: 
+
+This is a riddle, and the answer is **airplane wings**. 
+
+Here's why:
+
+* **Flippers:**  The wings of an airplane are often described as "flippers" because of their shape.
+* **Useless for flight in the air:**  This is a play on words. While the wings are essential for flight, they are not used for actual "flipping" in the air. 
+
+
+Let me know if you'd like to try another riddle! 
+
+[CORRECT_ANSWER]: Penguins' wings
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that the correct answer is "Penguins' wings," which are flippers and useless for flight in the air. The response provided "airplane wings," which does not align with the reference answer and does not fit the criteria of being flippers or useless for flight in the air.
+[RESULT]: 1

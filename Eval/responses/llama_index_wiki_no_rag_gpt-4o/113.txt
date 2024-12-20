@@ -1,0 +1,5 @@
+[PROMPT]: What years were Coolidge's two sons born in?
+[USER_ANSWER]: Calvin Coolidge, the 30th President of the United States, had two sons. His older son, John Coolidge, was born in 1906, and his younger son, Calvin Coolidge Jr., was born in 1908.
+[CORRECT_ANSWER]: 1906 and 1908
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact years of birth for Calvin Coolidge's two sons, matching the reference answer.
+[RESULT]: 5

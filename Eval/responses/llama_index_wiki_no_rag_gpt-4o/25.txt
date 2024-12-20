@@ -1,0 +1,5 @@
+[PROMPT]: What trail did Lincoln use a Farmers' Almanac in? 
+[USER_ANSWER]: Abraham Lincoln used a Farmers' Almanac during the famous "Almanac Trial" in 1858. In this case, Lincoln defended William "Duff" Armstrong, who was accused of murder. Lincoln used the almanac to challenge the credibility of a key prosecution witness who claimed to have seen the murder by moonlight. Lincoln demonstrated, using the almanac, that the moon was in a position that would not have provided enough light for the witness to see the events clearly. This piece of evidence contributed to Armstrong's acquittal.
+[CORRECT_ANSWER]: he defended William "Duff" Armstrong
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the "Almanac Trial" and provides additional context about the case, including the use of the Farmers' Almanac to challenge the credibility of a key witness. However, the reference answer is very concise, and the response includes more detail than necessary. While the additional information is accurate, it goes beyond the scope of the reference answer.
+[RESULT]: 4

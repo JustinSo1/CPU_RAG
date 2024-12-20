@@ -1,0 +1,20 @@
+[PROMPT]: How are otters playful animals?
+[USER_ANSWER]: 
+
+Otters are known for their playful nature. Here's a breakdown of why they're so fun to watch:
+
+**1.  They're Highly Social:** Otters live in groups called rafts, and they're constantly interacting with each other. This social interaction is a big part of their playfulness.
+
+**2.  They're Curious:** Otters are naturally curious creatures. They love to explore their surroundings and try new things. This curiosity often leads to playful antics.
+
+**3.  They're Energetic:** Otters are incredibly energetic animals. They're always on the move, whether they're swimming, playing, or just exploring. This energy is infectious and makes them a joy to watch.
+
+**4.  They're Intelligent:** Otters are highly intelligent animals. They can learn tricks, solve puzzles, and even communicate with each other. This intelligence is reflected in their playful behavior.
+
+**5.  They're Playful:**  Otters engage in a wide variety of playful behaviors, including:
+
+* **Swimming and chasing:** Otters love to swim and chase each other through the water.
+* **Playing with toys:** Otters are known to play with sticks, rocks,
+[CORRECT_ANSWER]: The slide down snowy slopes, apparently for sheer enjoyment.  
+[FEEDBACK]: The response provides a detailed and accurate explanation of why otters are considered playful animals. It mentions their social nature, curiosity, energy, intelligence, and specific playful behaviors such as swimming, chasing, and playing with toys. However, it does not mention the specific behavior of sliding down snowy slopes for enjoyment, which is highlighted in the reference answer. While the response is mostly correct and factual, it misses this particular detail that is central to the reference answer.
+[RESULT]: 4

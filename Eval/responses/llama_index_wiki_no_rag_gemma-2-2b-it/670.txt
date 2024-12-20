@@ -1,0 +1,13 @@
+[PROMPT]: What insulate it against the cold?
+[USER_ANSWER]: 
+
+The question is a bit vague.  To help me answer, could you please tell me:
+
+* **What is "it"?**  Are you talking about a specific object, a material, or a concept?
+* **What kind of cold are you referring to?**  Is it the cold of winter, the cold of a refrigerator, or something else?
+
+Once I have more information, I can give you a more specific and helpful answer. 
+
+[CORRECT_ANSWER]: Its think blubber and fur.
+[FEEDBACK]: The response does not provide an answer to the question "What insulate it against the cold?" Instead, it asks for clarification on what "it" refers to and the type of cold being discussed. While the response is logical and seeks to gather more information, it does not address the question directly or provide any factual information related to insulation against the cold. Therefore, it does not meet the criteria for correctness, accuracy, or factuality based on the reference answer.
+[RESULT]: 1

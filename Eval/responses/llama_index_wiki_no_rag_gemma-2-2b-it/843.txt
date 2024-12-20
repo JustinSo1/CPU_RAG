@@ -1,0 +1,10 @@
+[PROMPT]: Who did President Lincoln promote of major general in the regular army, effective July 4?
+[USER_ANSWER]: 
+
+Answer: **George B. McClellan**
+
+George B. McClellan was promoted to Major General in the regular army on July 4, 1862, by President Lincoln. This was a significant event as McClellan was a highly regarded officer, but his promotion also marked the beginning of a controversial relationship between the two. 
+
+[CORRECT_ANSWER]: Grant
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that Grant was promoted, not George B. McClellan. The additional information provided about McClellan is also irrelevant and does not align with the correct answer.
+[RESULT]: 1

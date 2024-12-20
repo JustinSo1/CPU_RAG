@@ -1,0 +1,17 @@
+[PROMPT]: Grant was elected president as a Republican in what year?
+[USER_ANSWER]: 
+
+The answer is **1861**. 
+
+Here's why:
+
+* **Abraham Lincoln** was elected president in 1860 as a Republican.
+* **The Civil War** began in 1861. 
+* **Abraham Lincoln** was the president during the Civil War. 
+
+
+Let me know if you have any other history questions! 
+
+[CORRECT_ANSWER]: 1868
+[FEEDBACK]: The response is completely incorrect and inaccurate. The year provided, 1861, is not the year Ulysses S. Grant was elected president. The explanation given is also irrelevant to the question about Grant's election year, as it focuses on Abraham Lincoln and the Civil War. The correct year is 1868.
+[RESULT]: 1

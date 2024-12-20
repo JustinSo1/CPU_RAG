@@ -1,0 +1,15 @@
+[PROMPT]: How often do turtles breed?
+[USER_ANSWER]: The breeding frequency of turtles varies widely depending on the species, environmental conditions, and other factors. Generally, most turtle species do not breed every year. Here are some examples:
+
+1. **Sea Turtles**: Female sea turtles typically nest every two to four years, but during a nesting season, they may lay several clutches of eggs, usually at intervals of about two weeks.
+
+2. **Box Turtles**: Female box turtles often lay one to two clutches of eggs per year, with each clutch containing three to eight eggs.
+
+3. **Snapping Turtles**: These turtles usually breed once a year, typically in late spring or early summer, and lay 20 to 40 eggs per clutch.
+
+4. **Painted Turtles**: They usually breed once a year, often in late spring or early summer, and lay three to 20 eggs per clutch.
+
+It is essential to note that these are general patterns and can vary based on the turtles' health, age, environmental conditions, and habitat.
+[CORRECT_ANSWER]: Every few years or more
+[FEEDBACK]: The response provides detailed information about the breeding frequency of various turtle species, which is accurate and factual. However, the reference answer is very concise and general, stating "Every few years or more." The response, while informative, does not align perfectly with the simplicity and generality of the reference answer. It offers more specific details than required, which makes it somewhat more complex than the reference answer. Therefore, while the response is mostly correct and factual, it does not match the reference answer's level of generality.
+[RESULT]: 4

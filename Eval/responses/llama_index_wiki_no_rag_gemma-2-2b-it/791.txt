@@ -1,0 +1,21 @@
+[PROMPT]: Was Roosevelt's family rich?
+[USER_ANSWER]: 
+
+Answer: No, Roosevelt's family was not rich.
+
+**Explanation:**
+
+Theodore Roosevelt, the 26th President of the United States, was born into a relatively modest family. His father was a wealthy landowner, but he was not wealthy by any means.  His family was not wealthy by any means. 
+
+Here are some additional points to consider:
+
+* **His father's wealth:** Theodore Roosevelt's father, Theodore Roosevelt Sr., was a successful businessman and landowner, but he was not a wealthy man by modern standards.
+* **Family background:** Roosevelt's family was not part of the elite class, and he grew up in a modest home.
+* **His own success:** Despite his humble beginnings, Roosevelt went on to become one of the most influential figures in American history.
+
+
+Let me know if you have any other questions. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Roosevelt's family was rich, while the response claims the opposite. The explanation provided in the response also contains inaccuracies, such as stating that Roosevelt's father was not wealthy by any means, which contradicts historical facts about the Roosevelt family's wealth and status.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Is there an airport in Liechtenstein?
+[USER_ANSWER]: No, there is no airport in Liechtenstein. The country is very small and does not have its own airport. The nearest major airports are located in neighboring countries, such as Zurich Airport in Switzerland, which is about 120 kilometers (75 miles) away, and Friedrichshafen Airport in Germany. These airports serve as the primary points of entry for travelers to Liechtenstein.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is correct and factual in stating that there is no airport in Liechtenstein. It provides additional information about the country's size and the nearest major airports in neighboring countries, which is accurate. However, the reference answer is very concise, and the additional details, while accurate, are not necessary to answer the question directly. Therefore, the response is mostly correct, accurate, and factual but not as concise as the reference answer.
+[RESULT]: 4

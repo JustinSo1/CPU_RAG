@@ -1,0 +1,8 @@
+[PROMPT]: Is it the world 's second largest country by total area?
+[USER_ANSWER]: 
+
+The world's second largest country by total area is **Brazil**. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The world's second largest country by total area is Canada, not Brazil. This response does not align with the reference answer and fails to provide correct information.
+[RESULT]: 1

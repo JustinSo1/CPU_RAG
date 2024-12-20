@@ -1,0 +1,22 @@
+[PROMPT]: What is the punishment for first-degree murder?
+[USER_ANSWER]: The punishment for first-degree murder varies depending on the jurisdiction in which the crime is committed. In general, first-degree murder is considered one of the most serious offenses and is typically met with severe penalties. Here are some common punishments for first-degree murder in various jurisdictions:
+
+1. **United States**: 
+   - **Death Penalty**: In states that allow capital punishment, a conviction for first-degree murder can result in the death penalty.
+   - **Life Imprisonment**: In states without the death penalty, or for cases where the death penalty is not pursued, life imprisonment without the possibility of parole is a common sentence.
+
+2. **Canada**: 
+   - **Life Imprisonment**: The penalty for first-degree murder is mandatory life imprisonment with eligibility for parole after 25 years.
+
+3. **United Kingdom**: 
+   - **Life Imprisonment**: First-degree murder, which is referred to simply as "murder," typically results in a mandatory life sentence. The judge will set a minimum term that must be served before the possibility of parole.
+
+4. **Australia**: 
+   - **Life Imprisonment**: The punishment for first-degree murder, referred to as "murder," generally includes life imprisonment, with the judge setting a non-parole period.
+
+5. **Other countries**: Punishments can vary widely, with some countries imposing life imprisonment or long fixed-term sentences, and others allowing for the death penalty.
+
+It is important to check the specific laws and sentencing guidelines in the relevant jurisdiction to understand the precise penalties for first-degree murder.
+[CORRECT_ANSWER]: There are laws which allow capital punishment in Singapore for first-degree murder and drug trafficking.
+[FEEDBACK]: The response provides a detailed and accurate overview of the punishments for first-degree murder in various jurisdictions, including the United States, Canada, the United Kingdom, and Australia. It mentions both the death penalty and life imprisonment, which aligns with the reference answer's mention of capital punishment. However, the reference answer specifically mentions Singapore, which is not covered in the response. Despite this, the response is mostly correct, accurate, and factual in its general description of punishments for first-degree murder.
+[RESULT]: 4

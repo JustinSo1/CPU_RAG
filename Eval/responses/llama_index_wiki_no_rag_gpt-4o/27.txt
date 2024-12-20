@@ -1,0 +1,9 @@
+[PROMPT]: Did Lincoln's Wife's Family support slavery?
+[USER_ANSWER]: Mary Todd Lincoln, the wife of President Abraham Lincoln, came from a prominent and wealthy family in Lexington, Kentucky. The Todd family had divided loyalties regarding the issue of slavery and the Civil War. While some members of her family supported the Confederacy and slavery, others were Unionists.
+
+Mary's father, Robert Smith Todd, was a prosperous businessman and slaveholder, which indicates that at least some members of her immediate family supported the institution of slavery. However, Mary herself did not publicly support slavery and stood by her husband, Abraham Lincoln, who was a staunch opponent of the expansion of slavery and eventually issued the Emancipation Proclamation to free slaves in the Confederate states.
+
+The divided loyalties within Mary Todd Lincoln's family led to significant personal conflict, especially during the Civil War, as she had relatives who fought for the Confederacy.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed and accurate account of Mary Todd Lincoln's family background, including their divided loyalties regarding slavery and the Civil War. It correctly identifies that some members of her family supported slavery, while others were Unionists. The response also accurately mentions Mary Todd Lincoln's father's status as a slaveholder, which directly addresses the question. However, the response could be more concise and directly answer the question with a simple "yes" before elaborating. Despite this, the information provided is correct, accurate, and factual.
+[RESULT]: 4

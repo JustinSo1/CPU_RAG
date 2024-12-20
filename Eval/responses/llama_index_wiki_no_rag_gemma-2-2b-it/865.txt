@@ -1,0 +1,13 @@
+[PROMPT]: How many square kilometres of continental land is Uruguay?
+[USER_ANSWER]: 
+
+Here's how to find the answer:
+
+* **Find Uruguay's total land area:** You can find this information on websites like Wikipedia or the CIA World Factbook. 
+* **Convert to square kilometers:**  Once you have the total land area in square kilometers, you'll have your answer. 
+
+Let me know if you'd like me to find the information for you! 
+
+[CORRECT_ANSWER]: 176.215 km�� 
+[FEEDBACK]: The response does not provide the specific answer to the question asked. Instead, it gives a general method for finding the answer, which is not what was required. The instruction asked for the specific number of square kilometers of continental land in Uruguay, which is 176,215 km². The response fails to provide this factual information directly.
+[RESULT]: 1

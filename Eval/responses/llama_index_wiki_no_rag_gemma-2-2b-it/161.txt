@@ -1,0 +1,10 @@
+[PROMPT]: What unrelated water birds are ducks sometimes confused with?
+[USER_ANSWER]: 
+
+Here's a hint: They're both found in the same general area and are often seen in similar habitats. 
+
+Let me know the answer! 
+
+[CORRECT_ANSWER]: loons or divers, grebes, gallinules, and coots
+[FEEDBACK]: The response does not provide any specific information about the unrelated water birds that ducks are sometimes confused with. Instead, it offers a hint and asks for the answer, which does not address the question directly. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,8 @@
+[PROMPT]: Is the main sport in Uruguay football ?
+[USER_ANSWER]: 
+
+Yes, football is the main sport in Uruguay. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that football is the main sport in Uruguay, which aligns with the reference answer. The additional information provided does not detract from the accuracy of the response.
+[RESULT]: 5

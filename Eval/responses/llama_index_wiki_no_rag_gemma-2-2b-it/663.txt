@@ -1,0 +1,8 @@
+[PROMPT]: How heavy is a male polar bear?
+[USER_ANSWER]: 
+
+A male polar bear can weigh anywhere from **800 to 1,500 pounds (360 to 680 kilograms)**. 
+
+[CORRECT_ANSWER]: 300-600 kg (660-1320 lb)
+[FEEDBACK]: The response provides a weight range for male polar bears that is mostly accurate but slightly broader than the reference answer. The upper limit of 1,500 pounds (680 kilograms) is somewhat higher than the reference answer's upper limit of 1,320 pounds (600 kilograms). However, the response is still within a reasonable range and mostly aligns with the reference answer.
+[RESULT]: 4

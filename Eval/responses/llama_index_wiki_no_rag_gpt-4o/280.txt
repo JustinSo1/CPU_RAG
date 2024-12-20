@@ -1,0 +1,5 @@
+[PROMPT]: Who is the head of state of Ghana?
+[USER_ANSWER]: As of my last update in October 2023, the head of state of Ghana is President Nana Addo Dankwa Akufo-Addo. He has been in office since January 7, 2017. Please verify with up-to-date sources as political positions can change.
+[CORRECT_ANSWER]: President John Agyekum Kofuor
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer states that the head of state of Ghana is President John Agyekum Kufuor, while the response mentions President Nana Addo Dankwa Akufo-Addo. Although the response provides a disclaimer to verify with up-to-date sources, it does not align with the reference answer provided.
+[RESULT]: 2

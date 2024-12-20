@@ -1,0 +1,15 @@
+[PROMPT]: What did Roosevelt do to improve his physical condition?
+[USER_ANSWER]: Franklin D. Roosevelt (FDR), the 32nd President of the United States, was diagnosed with polio in 1921, which resulted in permanent paralysis from the waist down. To improve his physical condition and cope with the effects of polio, Roosevelt engaged in various activities and therapies:
+
+1. **Hydrotherapy:** FDR was a strong advocate of hydrotherapy, which is the use of water for pain relief and treatment. He spent a considerable amount of time at the Warm Springs Institute in Georgia, which he eventually purchased and turned into a center for polio patients. The warm, buoyant waters helped him exercise and strengthened his muscles.
+
+2. **Braces and Physical Therapy:** Roosevelt used leg braces and crutches to help him stand and walk short distances. He also regularly engaged in physical therapy to maintain and improve his muscle strength.
+
+3. **Swimming:** Swimming was an important part of FDR’s physical regimen. It allowed him to exercise without putting weight on his legs, and it helped maintain his upper body strength and overall health.
+
+4. **Exercise Routines:** He followed a strict exercise routine that included various exercises aimed at maintaining strength and mobility in his upper body and improving his overall physical condition.
+
+Roosevelt's determination and commitment to these therapies and exercises were crucial in helping him manage his condition. Despite his disability, he led a highly active political life and served as President of the United States during a critical time in history.
+[CORRECT_ANSWER]: Roosevelt took up exercise
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the various activities and therapies Roosevelt engaged in to improve his physical condition, such as hydrotherapy, using braces and physical therapy, swimming, and following exercise routines. While the reference answer is very brief, the evaluated response expands on the idea of Roosevelt taking up exercise, which aligns with the reference answer. However, the level of detail goes beyond what is necessary to match the reference answer exactly.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: What is the national language of Singapore?
+[USER_ANSWER]: The national language of Singapore is Malay. Although Singapore is a multilingual country with four official languages—English, Mandarin, Malay, and Tamil—Malay holds the status of the national language. This is primarily due to historical and cultural reasons. English is the primary language of administration, business, and education.
+[CORRECT_ANSWER]: The national language of Singapore is Malay.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Malay as the national language of Singapore and provides additional context about the multilingual nature of the country and the roles of other languages. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What is largest polar bear on record?
+[USER_ANSWER]: The largest polar bear on record was a male polar bear that was shot in Kotzebue Sound in northwestern Alaska in 1960. This enormous bear weighed an estimated 2,209 pounds (1,002 kg) and stood 11 feet 1 inch (3.38 meters) tall on its hind legs.
+[CORRECT_ANSWER]: 2200 lb
+[FEEDBACK]: The response provides detailed information about the largest polar bear on record, including its weight, height, and the location and year it was found. However, the reference answer only specifies the weight of the bear as 2200 lb. While the response is mostly accurate and factual, it slightly deviates from the reference answer by providing additional details and a slightly different weight (2209 pounds instead of 2200 pounds). This makes the response mostly correct but not completely aligned with the reference answer.
+[RESULT]: 4

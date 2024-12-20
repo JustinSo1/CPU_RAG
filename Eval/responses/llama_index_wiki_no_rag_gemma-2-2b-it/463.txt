@@ -1,0 +1,16 @@
+[PROMPT]: Is the kangaroo an herbivour?
+[USER_ANSWER]: 
+
+No, a kangaroo is not an herbivore. 
+
+Here's why:
+
+* **Kangaroos are marsupials:** This means they have a pouch where their young develop after birth.
+* **Marsupials are primarily carnivores:**  They have a diet that includes meat, often small animals like insects, reptiles, and birds.
+* **Kangaroos are herbivores:** They primarily eat grasses, leaves, and other plant matter. 
+
+Let me know if you have any other animal questions! 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The initial statement claims that kangaroos are not herbivores, which is factually incorrect. The explanation provided is also misleading and contains incorrect information, such as stating that marsupials are primarily carnivores, which is not true. The response does mention that kangaroos are herbivores, but this is contradictory to the initial statement and does not align with the reference answer. Overall, the response fails to provide a clear and accurate answer to the question.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: Is an otter 's den called a holt ?
+[USER_ANSWER]: Yes, an otter's den is commonly referred to as a "holt" or sometimes a "couch." Holts are typically burrows they dig into riverbanks or other areas close to water, providing them with a safe place to rest and raise their young.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that an otter's den is called a "holt" and provides additional information about the nature of holts. However, the reference answer is very brief and only confirms the term "holt" without additional details. The response also mentions "couch," which is not necessary based on the reference answer. While the extra information is accurate, it goes beyond the simplicity of the reference answer.
+[RESULT]: 4

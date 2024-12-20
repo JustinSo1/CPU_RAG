@@ -1,0 +1,11 @@
+[PROMPT]: How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?
+[USER_ANSWER]: When President Theodore Roosevelt invited Booker T. Washington to dine at the White House on October 16, 1901, it generated a significant and mixed response from newspapers across the United States. Washington was the first African American to be invited to a formal dinner at the White House, which was a groundbreaking and controversial event at the time.
+
+Northern newspapers generally viewed the dinner positively, praising Roosevelt for his progressive stance on race relations and his willingness to treat Washington as an equal. They saw the invitation as a step toward racial equality and a challenge to the prevailing social norms that enforced racial segregation and discrimination.
+
+In contrast, Southern newspapers reacted with outrage and condemnation. Many Southern editors and readers were deeply offended by the idea of an African American dining with the President, which they saw as an affront to the racial hierarchy and social customs of the South. The backlash included vitriolic editorials and racist cartoons, reflecting the widespread resistance to racial integration and equality.
+
+Overall, the dinner invitation highlighted the deep divisions in American society over race and civil rights, and the varied newspaper responses underscored the regional differences in attitudes toward these issues.
+[CORRECT_ANSWER]: mixing of the races on social occassions
+[FEEDBACK]: The response provides a detailed and accurate account of the newspaper reactions to Roosevelt inviting Booker T. Washington to dinner at the White House. It correctly identifies the mixed reactions from Northern and Southern newspapers, highlighting the praise from the North and the outrage from the South. The response is factual and aligns with the reference answer, which mentions the controversy over the mixing of races on social occasions. However, the response goes beyond the reference answer by providing additional context and details, which are accurate and relevant.
+[RESULT]: 5

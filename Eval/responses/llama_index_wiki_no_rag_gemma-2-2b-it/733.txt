@@ -1,0 +1,8 @@
+[PROMPT]: Was the Bucharest Metro only opened in 1979 ?
+[USER_ANSWER]: 
+
+The Bucharest Metro was not opened in 1979. It was opened in **1974**. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The Bucharest Metro was indeed opened in 1979, not 1974. The response contradicts the factual information provided in the reference answer.
+[RESULT]: 1

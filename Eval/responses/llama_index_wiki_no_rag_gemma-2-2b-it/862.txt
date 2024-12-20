@@ -1,0 +1,8 @@
+[PROMPT]: Is Uruguay located in South America?
+[USER_ANSWER]: 
+
+Yes, Uruguay is located in **South America**. 
+
+[CORRECT_ANSWER]: Yes. It's located in the southeastern part
+[FEEDBACK]: The response is correct, accurate, and factual in stating that Uruguay is located in South America. However, it lacks the additional detail about the specific location within South America (southeastern part) that is present in the reference answer. While this detail is not strictly necessary to answer the question, its absence means the response is not as complete as the reference answer.
+[RESULT]: 4

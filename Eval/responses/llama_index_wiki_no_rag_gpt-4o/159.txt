@@ -1,0 +1,21 @@
+[PROMPT]: What economic uses to ducks have?
+[USER_ANSWER]: Ducks have several economic uses across various industries. Here are some of the primary ways in which ducks contribute economically:
+
+1. **Meat Production**: Ducks are raised for their meat, which is consumed in many parts of the world. Duck meat is a popular delicacy in various cuisines, especially in Asian countries.
+
+2. **Egg Production**: Duck eggs are another significant product. They are larger and richer in certain nutrients compared to chicken eggs and are used in various culinary applications.
+
+3. **Feathers and Down**: Duck feathers and down are highly valued for their insulating properties and are used in the manufacture of bedding, clothing, and outdoor gear.
+
+4. **Pest Control**: Ducks are used in integrated pest management in agriculture. They help control pests like snails and insects in crops such as rice paddies, reducing the need for chemical pesticides.
+
+5. **Ornamental and Hobby Farming**: Ducks are also kept for ornamental purposes and by hobby farmers. Rare and exotic breeds can be quite valuable.
+
+6. **Ecotourism and Conservation**: Ducks play a role in ecotourism and conservation efforts. Wetlands and reserves that host duck populations can attract tourists and bird watchers, generating revenue and promoting conservation.
+
+7. **By-products**: Other by-products from ducks, such as their liver (for foie gras) and feet, can also be economically valuable in certain markets.
+
+Overall, ducks contribute to various sectors, including agriculture, food production, textiles, and tourism, making them economically significant in many regions.
+[CORRECT_ANSWER]: They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed and comprehensive list of the economic uses of ducks, including meat production, egg production, feathers and down, pest control, ornamental and hobby farming, ecotourism and conservation, and by-products. While the reference answer is more concise, the response expands on the same points with additional details and examples. However, the response includes some points not mentioned in the reference answer, such as pest control and ecotourism, which, while accurate, are not directly referenced. This makes the response mostly correct but not completely aligned with the reference answer.
+[RESULT]: 4

@@ -1,0 +1,19 @@
+[PROMPT]: Was Wilson president of the American Political Science Association in 1910 ?
+[USER_ANSWER]: 
+
+This question requires information about the history of the American Political Science Association (APSA).  
+
+Unfortunately, I don't have access to historical records of APSA presidents. 
+
+**To find the answer, you could try:**
+
+* **Searching the APSA website:** The APSA website may have a list of past presidents.
+* **Contacting the APSA:** You could reach out to the APSA directly and ask for information about their past presidents.
+* **Searching historical archives:** Libraries or historical societies may have records of APSA presidents. 
+
+
+Good luck with your research! 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it suggests ways to find the information, which is not what was asked for. The reference answer is a simple "Yes," indicating that Wilson was indeed president of the American Political Science Association in 1910. The response fails to address this directly and accurately. Therefore, it is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

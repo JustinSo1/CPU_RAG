@@ -1,0 +1,5 @@
+[PROMPT]: What is the world population of Asian elephants?
+[USER_ANSWER]: As of recent estimates, the population of Asian elephants is approximately 40,000 to 50,000 individuals in the wild. This number can vary slightly due to factors such as habitat loss, poaching, and conservation efforts. It's important to refer to updated sources such as the International Union for Conservation of Nature (IUCN) or other wildlife conservation organizations for the most current figures.
+[CORRECT_ANSWER]: 60000
+[FEEDBACK]: The response provides an estimate of the Asian elephant population as 40,000 to 50,000 individuals, which is not completely accurate based on the reference answer of 60,000. While the response does mention the variability due to factors like habitat loss, poaching, and conservation efforts, it does not align with the specific figure given in the reference answer. Therefore, the response is somewhat correct but not mostly or completely accurate.
+[RESULT]: 3

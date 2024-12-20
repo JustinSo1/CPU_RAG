@@ -1,0 +1,17 @@
+[PROMPT]: When did Coolidge meet and marry Grace Anna Goodhue?
+[USER_ANSWER]: 
+
+The answer is: **1910**
+
+Here's why:
+
+* **Calvin Coolidge** was the 30th President of the United States.
+* **Grace Anna Goodhue** was a prominent socialite and the daughter of a wealthy New England family.
+* They met in 1910 and were married in 1910. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: 1905
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer states that Coolidge met and married Grace Anna Goodhue in 1905, while the response incorrectly states that both events occurred in 1910. The additional information about Coolidge and Goodhue does not compensate for the inaccuracy of the main answer.
+[RESULT]: 2

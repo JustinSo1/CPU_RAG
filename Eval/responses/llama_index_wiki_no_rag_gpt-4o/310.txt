@@ -1,0 +1,5 @@
+[PROMPT]: Was Grover Cleveland born in New York?
+[USER_ANSWER]: No, Grover Cleveland was not born in New York. He was born in Caldwell, New Jersey, on March 18, 1837.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Grover Cleveland was not born in New York and provides additional accurate information about his birthplace and birthdate. This level of detail exceeds the simplicity of the reference answer but remains entirely factual and accurate.
+[RESULT]: 5

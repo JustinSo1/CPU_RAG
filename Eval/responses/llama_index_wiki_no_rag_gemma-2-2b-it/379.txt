@@ -1,0 +1,8 @@
+[PROMPT]: Did Monroe' wedding happen at the Trinity Church in New York?
+[USER_ANSWER]: 
+
+The wedding of James Monroe and Elizabeth Kortright took place at Trinity Church in New York City. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional context by mentioning the full names of the individuals involved and the specific location, which aligns with the reference answer.
+[RESULT]: 5

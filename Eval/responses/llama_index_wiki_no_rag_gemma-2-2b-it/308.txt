@@ -1,0 +1,28 @@
+[PROMPT]: What type of tools do biologists use to capture wolves for tagging?
+[USER_ANSWER]: 
+
+Biologists use a variety of tools to capture wolves for tagging, depending on the specific needs of the study. Here are some common methods:
+
+**1. Baiting:**
+
+* **Trapping:** This involves setting up traps baited with food, usually meat or fish, to lure wolves into a cage. 
+* **Bait stations:** These are strategically placed to attract wolves and allow for capture.
+
+**2. Non-lethal methods:**
+
+* **Remote cameras:** These can be used to observe wolf behavior and identify individuals, without physically capturing them.
+* **Acoustic monitoring:** This involves using microphones to detect wolf vocalizations and track their movements.
+* **GPS collars:** These are lightweight devices that can be attached to wolves to track their movements and provide data on their habitat use and behavior.
+
+**3. Capture and handling:**
+
+* **Harnesses:** These are used to safely restrain wolves during capture and transport.
+* **Capture poles:** These are poles with a net attached, used to capture wolves from a distance.
+* **Capture cages:** These are enclosed cages used to safely capture and hold wolves for a short period.
+
+**4. Tagging:**
+
+* **Radio collars:** These are lightweight devices that emit radio signals
+[CORRECT_ANSWER]: Darting and Foot hold traps.
+[FEEDBACK]: The response provides a detailed list of tools and methods used by biologists to capture wolves for tagging. However, it includes several methods that are not directly related to the physical capture of wolves, such as remote cameras, acoustic monitoring, and GPS collars. The reference answer specifically mentions "Darting and Foot hold traps," which are not explicitly covered in the response. While the response does mention trapping and capture cages, it does not directly address the primary methods highlighted in the reference answer. Therefore, the response is somewhat correct but includes extraneous information and misses key details from the reference answer.
+[RESULT]: 3

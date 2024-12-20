@@ -1,0 +1,16 @@
+[PROMPT]: Was Coolidge opposed in the Republican nomination for Governor of MassachuS08_setts in 1918?
+[USER_ANSWER]: 
+
+The answer is **yes**. 
+
+Here's why:
+
+* **Calvin Coolidge's political career:** Coolidge was a rising star in the Republican Party. He served as the Massachusetts Governor from 1917 to 1921.
+* **The 1918 Republican nomination:**  The Republican Party was in a state of flux, with several candidates vying for the nomination. Coolidge faced opposition from other prominent Republicans.
+* **The opposition:**  While Coolidge was the favored candidate, he did face opposition from figures like **William Howard Taft** and **Charles Dawes**. 
+
+Let me know if you'd like to know more about Coolidge's political career or the 1918 Republican nomination! 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct in stating that Coolidge faced opposition for the Republican nomination for Governor of Massachusetts in 1918. However, there are inaccuracies in the details provided. For instance, William Howard Taft and Charles Dawes were not opponents in the gubernatorial race. The response includes some factual errors that detract from its overall accuracy.
+[RESULT]: 3

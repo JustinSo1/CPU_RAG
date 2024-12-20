@@ -1,0 +1,8 @@
+[PROMPT]: Is romania -LRB- , -RRB- a country in southeastern europe?
+[USER_ANSWER]: 
+
+Romania is located in southeastern Europe. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Romania as being located in southeastern Europe. However, it does not directly answer the yes/no question as the reference answer does.
+[RESULT]: 4

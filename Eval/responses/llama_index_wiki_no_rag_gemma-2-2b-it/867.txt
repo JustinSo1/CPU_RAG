@@ -1,0 +1,17 @@
+[PROMPT]: Why was the capital of Uruguay founded?
+[USER_ANSWER]: 
+
+The capital of Uruguay, Montevideo, was founded in 1721 by **Spanish explorer Juan de la Cruz**. 
+
+Here's why:
+
+* **Strategic Location:** Montevideo was chosen as the capital due to its strategic location on the Río de la Plata, a major river in South America. This location provided access to trade routes and made it a natural hub for the newly established Spanish colony.
+* **Protection:** The city was built on a peninsula, offering natural protection from potential attacks.
+* **Economic Potential:** The port of Montevideo was strategically located for trade, attracting merchants and investors. This economic potential contributed to the city's growth and development.
+* **Political Center:**  Montevideo was chosen as the capital to serve as the political center of the Spanish colony.
+
+It's important to note that the city's history is complex and has been shaped by various influences, including the arrival of different European powers and the development of the nation of Uruguay. 
+
+[CORRECT_ANSWER]: For a military stronghold.
+[FEEDBACK]: The response provides several reasons for the founding of Montevideo, including its strategic location, protection, economic potential, and role as a political center. However, the reference answer specifies that the capital of Uruguay was founded as a military stronghold. While the response touches on strategic and protective aspects, it does not explicitly mention the primary reason of a military stronghold. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

@@ -1,0 +1,19 @@
+[PROMPT]: Have elephants been used as working animals?
+[USER_ANSWER]: Yes, elephants have historically been used as working animals in various parts of the world, particularly in Asia and Africa. These large and powerful animals have been employed in a variety of roles due to their strength, intelligence, and ability to be trained. Some of the common uses include:
+
+1. **Logging:** Elephants have been used to haul and transport heavy logs in the timber industry, especially in countries like India, Myanmar, and Thailand. They can navigate difficult terrain that machinery might struggle with.
+
+2. **Transport:** Elephants have been employed to carry heavy loads and people across long distances, particularly in areas where other forms of transportation are impractical.
+
+3. **Construction:** In some historical contexts, elephants were used in the construction of large buildings and monuments, assisting in moving heavy stones and materials.
+
+4. **Agriculture:** In certain regions, elephants have been used to plow fields and perform other agricultural tasks.
+
+5. **Ceremonial and Cultural Roles:** Beyond their practical uses, elephants have also played important roles in ceremonies, festivals, and cultural traditions, often being adorned and paraded.
+
+6. **Warfare:** In ancient times, elephants were used in battle, known as war elephants. They were used to charge at enemy lines, intimidate opponents, and break through fortifications.
+
+While the use of elephants as working animals has declined with the advent of modern machinery and changing ethical views on animal labor, they still play a role in some traditional practices and industries. Conservation efforts and animal rights concerns have also led to increased scrutiny and regulation of their use.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed and comprehensive explanation of the various ways elephants have been used as working animals throughout history, including logging, transport, construction, agriculture, ceremonial roles, and warfare. The response also acknowledges the decline in the use of elephants for labor due to modern machinery and ethical considerations, which adds to its completeness and accuracy. This level of detail and accuracy aligns well with the criteria for a score of 5.
+[RESULT]: 5

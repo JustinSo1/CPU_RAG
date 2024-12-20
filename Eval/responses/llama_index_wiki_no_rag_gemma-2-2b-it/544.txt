@@ -1,0 +1,43 @@
+[PROMPT]: Are nationals referred to by the plural : Liechtensteiners ?
+[USER_ANSWER]: 
+
+Liechtenstein is a small country in Europe. It is bordered by Switzerland and Austria. 
+
+Liechtenstein is a constitutional monarchy. The country's head of state is a prince. 
+
+Liechtenstein has a population of about 40,000 people. 
+
+Liechtenstein is a member of the European Union. 
+
+Liechtenstein is a member of the United Nations. 
+
+Liechtenstein is a member of the World Trade Organization. 
+
+Liechtenstein is a member of the OECD. 
+
+Liechtenstein is a member of the Council of Europe. 
+
+Liechtenstein is a member of the International Monetary Fund. 
+
+Liechtenstein is a member of the World Bank. 
+
+Liechtenstein is a member of the International Criminal Court. 
+
+Liechtenstein is a member of the World Health Organization. 
+
+Liechtenstein is a member of the World Trade Organization. 
+
+Liechtenstein is a member of the OECD. 
+
+Liechtenstein is a member of the Council of Europe. 
+
+Liechtenstein is a member of the International Monetary Fund. 
+
+Liechtenstein is a member of the World Bank. 
+
+Liechtenstein is a member of the International Criminal Court. 
+
+Liechtenstein is a member of the World Health Organization.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question asked. The instruction specifically asks whether nationals of Liechtenstein are referred to by the plural "Liechtensteiners." The response provides general information about Liechtenstein but does not answer the question. Therefore, it is completely incorrect and does not meet the criteria for accuracy or relevance based on the reference answer.
+[RESULT]: 1

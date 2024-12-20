@@ -1,0 +1,18 @@
+[PROMPT]: What universities are in Education City?
+[USER_ANSWER]: 
+
+Education City is a planned community in Qatar that houses several universities. Here are some of the most prominent ones:
+
+* **Weill Cornell Medical College Qatar:** A medical school affiliated with Weill Cornell Medical College in New York.
+* **Hamad Bin Khalifa University:** A research-focused university offering a wide range of undergraduate and graduate programs.
+* **Qatar University:** A public university offering a diverse range of undergraduate and graduate programs.
+* **Texas A&M University at Qatar:** A branch of Texas A&M University in College Station, Texas.
+* ** Georgetown University in Qatar:** A branch of Georgetown University in Washington, D.C.
+* **Northwestern University in Qatar:** A branch of Northwestern University in Evanston, Illinois.
+* **Pennsylvania State University Qatar:** A branch of Pennsylvania State University in State College, Pennsylvania.
+
+**Note:** This list is not exhaustive, and there may be other universities or institutions of higher learning in Education City.
+
+[CORRECT_ANSWER]: Carnegie Mellon University, Georgetown University School of Foreign Service, Texas A&M University, Virginia Commonwealth University, and Cornell University's Weill Medical College.
+[FEEDBACK]: The response provides a list of universities in Education City, but it includes some inaccuracies. Specifically, Qatar University and Pennsylvania State University Qatar are not part of Education City. The other universities mentioned (Weill Cornell Medical College Qatar, Hamad Bin Khalifa University, Texas A&M University at Qatar, Georgetown University in Qatar, and Northwestern University in Qatar) are correct. However, the response misses Carnegie Mellon University and Virginia Commonwealth University, which are also part of Education City. Therefore, the response is mostly correct but contains some inaccuracies and omissions.
+[RESULT]: 4

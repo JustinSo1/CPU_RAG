@@ -1,0 +1,12 @@
+[PROMPT]: Who spend half of their life on land and half in the oceans?
+[USER_ANSWER]: Animals that spend significant portions of their lives both on land and in the ocean include several species, such as:
+
+1. **Sea Turtles**: They spend the majority of their lives in the ocean but return to land to lay their eggs.
+2. **Seals and Sea Lions**: These marine mammals hunt and live in the ocean but come ashore to breed, give birth, and molt.
+3. **Penguins**: While they are primarily aquatic, they come onto land for breeding and molting.
+4. **Marine Iguanas**: Found in the Galápagos Islands, they forage for algae in the sea but bask on land to regulate their body temperature.
+
+These species have adapted to thrive in both environments, making them fascinating subjects of study in terms of evolutionary biology and ecological adaptation.
+[CORRECT_ANSWER]: Penguins
+[FEEDBACK]: The response provides a list of animals that spend significant portions of their lives both on land and in the ocean, including sea turtles, seals and sea lions, penguins, and marine iguanas. While the reference answer specifically mentions "penguins," the response includes additional species that also fit the criteria of spending time both on land and in the ocean. However, the reference answer is more specific and concise, focusing solely on penguins. The response is mostly correct and factual but includes more information than necessary and does not align perfectly with the reference answer's specificity.
+[RESULT]: 4

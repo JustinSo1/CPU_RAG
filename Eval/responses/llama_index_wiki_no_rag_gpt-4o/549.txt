@@ -1,0 +1,5 @@
+[PROMPT]: Did Webster write, "I can now sleep of nights"?
+[USER_ANSWER]: No, the line "I can now sleep of nights" is not attributed to Noah Webster, the American lexicographer known for his dictionaries. Instead, it is a quote from Herman Melville's novella "Bartleby, the Scrivener." The full context of the quote is when the narrator is describing his sense of relief after Bartleby's removal from his office.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The instruction asks whether Webster wrote the line "I can now sleep of nights," and the correct answer is simply "Yes." The response incorrectly attributes the quote to Herman Melville's novella "Bartleby, the Scrivener," which is not accurate. Therefore, the response does not align with the reference answer and fails to provide the correct information.
+[RESULT]: 2

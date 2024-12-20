@@ -1,0 +1,8 @@
+[PROMPT]: Is foie gras often made from ducks?
+[USER_ANSWER]: 
+
+Foie gras is traditionally made from **goose** or **duck**, but it can also be made from other animals. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that foie gras is traditionally made from goose or duck, which aligns with the reference answer indicating that foie gras is often made from ducks. However, the additional information about other animals is not necessary and slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

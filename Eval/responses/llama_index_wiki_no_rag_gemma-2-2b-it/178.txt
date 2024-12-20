@@ -1,0 +1,18 @@
+[PROMPT]: What religions has Egypt outlawed?
+[USER_ANSWER]: 
+
+It's important to understand that **Egypt has not outright outlawed any specific religion**. 
+
+However, there have been historical periods and instances where certain religious practices or groups have faced restrictions or persecution. 
+
+Here's a nuanced look at the situation:
+
+* **Ancient Egypt:**  While the ancient Egyptians practiced polytheism, their religion was not the same as the Abrahamic religions (Judaism, Christianity, Islam) that later emerged. 
+* **Early Islamic Period:**  After the Arab conquest of Egypt in the 7th century, Islam became the dominant religion. While the early Islamic period saw some tolerance for other religions, there were instances of persecution of Christians and Jews.
+* **Modern Egypt:**  Since the 1950s, Egypt has been a secular state with a constitution guaranteeing freedom of religion. However, there have been instances of:
+    * **Restrictions on religious practices:**  For example, the construction of churches and other religious buildings has been subject to bureaucratic hurdles.
+    * **Persecution of religious minorities:**  There have been reports of discrimination and harassment against Coptic Christians, who make up the largest Christian minority in Egypt.
+    * **Political influence:**  The government has been
+[CORRECT_ANSWER]: All but Christianity, Islam, and Judaism
+[FEEDBACK]: The response provided does not directly answer the question about which religions Egypt has outlawed. Instead, it gives a historical overview of religious tolerance and persecution in Egypt. While the information is accurate and provides context, it does not address the specific query about outlawing religions. The reference answer clearly states that all religions except Christianity, Islam, and Judaism are outlawed, which is not mentioned in the response. Therefore, the response is somewhat correct in terms of providing relevant historical context but fails to directly answer the question.
+[RESULT]: 3

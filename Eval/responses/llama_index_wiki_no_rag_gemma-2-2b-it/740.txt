@@ -1,0 +1,10 @@
+[PROMPT]: Where did Orang Laut people live?
+[USER_ANSWER]: 
+
+The Orang Laut people are indigenous to the **coastal regions of Borneo**, specifically the **islands of Borneo**. 
+
+They are known for their traditional seafaring skills and their close connection to the ocean. 
+
+[CORRECT_ANSWER]: Orang Laut people lived around the coast, rivers and smaller islands.
+[FEEDBACK]: The response is somewhat correct and factual. It accurately mentions that the Orang Laut people are indigenous to coastal regions and islands, which aligns with the reference answer's mention of the coast and smaller islands. However, it incorrectly specifies Borneo, which is not mentioned in the reference answer. This makes the response partially inaccurate.
+[RESULT]: 3

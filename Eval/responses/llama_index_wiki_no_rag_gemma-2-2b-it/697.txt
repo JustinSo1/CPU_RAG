@@ -1,0 +1,32 @@
+[PROMPT]: What bordered by Saudi?
+[USER_ANSWER]: 
+
+The question is a bit tricky because it depends on what you mean by "bordered by." 
+
+Here's a breakdown:
+
+* **Saudi Arabia's land borders:** Saudi Arabia shares land borders with only one other country: **Yemen**. 
+* **Saudi Arabia's maritime borders:** Saudi Arabia has maritime borders with several countries, including:
+    * **Oman**
+    * **United Arab Emirates**
+    * **Qatar**
+    * **Bahrain**
+    * **Kuwait**
+    * **Iraq**
+    * **Jordan**
+    * **Lebanon**
+    * **Syria**
+    * **Israel**
+    * **Egypt**
+
+So, to answer your question, it depends on what you mean by "bordered by." 
+
+**If you mean land borders:** Saudi Arabia borders only Yemen. 
+**If you mean maritime borders:** Saudi Arabia borders several countries. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Qatar
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer indicates that Qatar is the country bordered by Saudi Arabia, but the response incorrectly states that Saudi Arabia shares a land border with Yemen and lists several countries as having maritime borders with Saudi Arabia, many of which are incorrect. The response does not align with the reference answer and contains significant factual inaccuracies.
+[RESULT]: 2

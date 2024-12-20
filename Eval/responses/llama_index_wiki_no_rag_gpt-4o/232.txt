@@ -1,0 +1,5 @@
+[PROMPT]: What is the biggest city in Finland?
+[USER_ANSWER]: The biggest city in Finland is Helsinki. It is not only the capital of the country but also its largest city in terms of population and economic significance. Helsinki is located on the southern coast of Finland, along the shores of the Gulf of Finland.
+[CORRECT_ANSWER]: Greater Helsinki
+[FEEDBACK]: The response correctly identifies Helsinki as the biggest city in Finland, which aligns with the reference answer "Greater Helsinki." The additional information about Helsinki being the capital, its location, and its economic significance is accurate and factual. However, the reference answer specifies "Greater Helsinki," which includes the metropolitan area, while the response focuses on Helsinki city itself. Despite this slight difference, the response is mostly correct and factual.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Are Canada 's two official languages English and French ?
+[USER_ANSWER]: Yes, Canada has two official languages: English and French. This bilingual status is enshrined in the Canadian Constitution and is reflected in federal government institutions, which provide services in both languages. French is predominantly spoken in the province of Quebec, while English is the primary language in most other provinces and territories.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Canada has two official languages, English and French, and provides additional context about the bilingual status being enshrined in the Canadian Constitution and the distribution of language use across provinces. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

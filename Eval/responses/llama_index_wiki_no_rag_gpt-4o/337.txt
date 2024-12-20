@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he married louise désirée lorieux in 1890?
+[USER_ANSWER]: It seems like there might be some confusion or misinformation regarding the names and dates provided. To provide accurate information, could you specify who "he" refers to? This will help clarify the context and allow for a more precise answer.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question and instead asks for clarification. While it is important to ensure accuracy, the response does not provide any factual information regarding the marriage of Louise Désirée Lorieux in 1890. Therefore, it does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[RESULT]: 1

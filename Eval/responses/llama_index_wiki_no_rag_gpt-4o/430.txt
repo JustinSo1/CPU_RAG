@@ -1,0 +1,5 @@
+[PROMPT]: With what party did Adams run for presidency?
+[USER_ANSWER]: John Adams, the second President of the United States, ran for the presidency as a candidate of the Federalist Party.
+[CORRECT_ANSWER]: The Federalist Party
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the necessary information that John Adams ran for the presidency as a candidate of the Federalist Party, which aligns perfectly with the reference answer.
+[RESULT]: 5

@@ -1,0 +1,16 @@
+[PROMPT]: Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?
+[USER_ANSWER]: 
+
+This is a trick question! 
+
+Here's why:
+
+* **Thermometers work:** Thermometers measure temperature using a liquid that expands or contracts with temperature changes. 
+* **Freezing and boiling points:** These are the temperatures at which a substance changes state (solid to liquid or liquid to gas). 
+* **The problem:** A thermometer with a reading of 100 for the freezing point of water and 0 for the boiling point is impossible. 
+
+Let me know if you'd like to try another riddle! 
+
+[CORRECT_ANSWER]: Yes it had
+[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer simply states "Yes it had," indicating that the thermometer did indeed have 100 for the freezing point of water and 0 for the boiling point. The response, however, explains why such a thermometer is impossible, which contradicts the reference answer. Therefore, the response does not align with the reference answer and is completely incorrect.
+[RESULT]: 1

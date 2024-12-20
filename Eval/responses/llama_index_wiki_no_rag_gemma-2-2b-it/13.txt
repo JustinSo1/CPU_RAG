@@ -1,0 +1,8 @@
+[PROMPT]: Which county was Lincoln born in?
+[USER_ANSWER]: 
+
+The answer is **Rutland**. 
+
+[CORRECT_ANSWER]: Hardin County
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is Hardin County, but the response provided is Rutland, which is not related to the correct answer.
+[RESULT]: 1

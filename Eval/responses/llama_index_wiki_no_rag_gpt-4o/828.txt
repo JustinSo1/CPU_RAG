@@ -1,0 +1,5 @@
+[PROMPT]: Are the Pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?
+[USER_ANSWER]: Yes, the term "side-necked turtles" refers to the unique way that turtles in the suborder Pleurodira withdraw their heads into their shells. Unlike most other turtles that retract their heads straight back into their shells, Pleurodira turtles bend their necks sideways, folding their heads underneath the front edge of their shells. This distinctive method of head retraction is a key characteristic of the side-necked turtles.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation of why Pleurodira are known as side-necked turtles, describing their unique method of head retraction. This additional information, while not present in the reference answer, does not detract from the accuracy and correctness of the response.
+[RESULT]: 5

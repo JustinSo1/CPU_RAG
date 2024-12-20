@@ -1,0 +1,5 @@
+[PROMPT]: Is Canada a member of the OECD?
+[USER_ANSWER]: Yes, Canada is a member of the Organisation for Economic Co-operation and Development (OECD). Canada has been a member since the organization's founding in 1961.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Canada is a member of the OECD and provides additional information about Canada's membership since the organization's founding in 1961. This additional detail, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

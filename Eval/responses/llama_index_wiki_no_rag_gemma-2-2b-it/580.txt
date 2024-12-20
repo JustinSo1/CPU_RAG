@@ -1,0 +1,10 @@
+[PROMPT]: Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?
+[USER_ANSWER]: 
+
+**Please provide details on the plays, their creators, and their production history.**
+
+I'm interested in learning more about the theatrical adaptations of Nikola Tesla's life and work. 
+
+[CORRECT_ANSWER]: yes.
+[FEEDBACK]: The response does not directly answer the question about whether a number of live theatrical plays based on Tesla's life have been produced and staged worldwide. Instead, it asks for more details about the plays, their creators, and their production history. This does not align with the reference answer, which is a simple "yes." Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

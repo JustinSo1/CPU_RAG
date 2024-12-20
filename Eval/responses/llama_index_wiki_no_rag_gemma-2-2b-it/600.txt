@@ -1,0 +1,16 @@
+[PROMPT]: Are otters herbivores?
+[USER_ANSWER]: 
+
+Otters are **carnivores**, not herbivores. 
+
+Here's why:
+
+* **Diet:** Otters primarily eat fish, shellfish, and other aquatic animals.
+* **Teeth:** Their teeth are designed for tearing and crushing prey.
+* **Digestive System:** Their digestive system is adapted to process meat and bones.
+
+Let me know if you have any other animal questions! 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that otters are carnivores and provides additional information to support this fact, such as their diet, teeth, and digestive system. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

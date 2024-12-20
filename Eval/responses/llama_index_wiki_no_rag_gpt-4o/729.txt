@@ -1,0 +1,5 @@
+[PROMPT]: What did Tourism in Romania attract in 2005?
+[USER_ANSWER]: In 2005, tourism in Romania attracted approximately 6.6 million visitors. The country was known for its scenic landscapes, rich history, and cultural heritage, including attractions such as the Carpathian Mountains, the Black Sea coast, medieval castles, and fortresses like Bran Castle, and the vibrant capital city of Bucharest.
+[CORRECT_ANSWER]: investments worth 400 million euros
+[FEEDBACK]: The response provided does not align with the reference answer. The reference answer indicates that tourism in Romania in 2005 attracted investments worth 400 million euros, while the response mentions the number of visitors and various attractions in Romania. This information is not relevant to the specific question asked and does not address the financial aspect highlighted in the reference answer. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

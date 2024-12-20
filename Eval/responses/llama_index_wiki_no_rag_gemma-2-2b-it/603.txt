@@ -1,0 +1,22 @@
+[PROMPT]: Why is the giant otter becoming increasingly rare?
+[USER_ANSWER]: 
+
+The giant otter (Pteronura brasiliensis) is a critically endangered species facing a multitude of threats that have led to its decline. Here's a breakdown of the key reasons:
+
+**1. Habitat Loss and Degradation:**
+   - **Deforestation:**  The primary driver of giant otter decline is habitat loss due to deforestation for agriculture, logging, and mining. This destroys their primary hunting grounds and nesting sites.
+   - **Dam Construction:**  Large dams on rivers disrupt the natural flow of water, impacting the otters' access to food and breeding areas.
+
+**2. Overexploitation:**
+   - **Hunting and Poaching:**  Historically, giant otters were hunted for their fur and meat, and this continues to be a threat. 
+   - **Illegal Trade:**  The illegal trade of wildlife products, including giant otter pelts, is a significant factor in their decline.
+
+**3. Pollution:**
+   - **Agricultural Runoff:**  Chemicals and fertilizers used in agriculture contaminate rivers and streams, harming the otters' health and food sources.
+   - **Industrial Waste:**  Pollution from industrial activities can also poison the water and affect the otters' survival.
+
+**4. Climate Change:**
+   - **
+[CORRECT_ANSWER]: Poaching, habitat loss, and toxins in gold mining.  
+[FEEDBACK]: The response provides a detailed and accurate explanation of the reasons behind the decline of the giant otter population. It covers habitat loss and degradation, overexploitation, pollution, and hints at climate change, which are all relevant factors. However, the reference answer is much more concise, mentioning only poaching, habitat loss, and toxins in gold mining. While the response is mostly correct and factual, it includes additional details not mentioned in the reference answer and does not explicitly mention toxins in gold mining. Therefore, it is not completely aligned with the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Who did Millard Fillmore fall in love with?
+[USER_ANSWER]: Millard Fillmore, the 13th President of the United States, fell in love with Abigail Powers. They met when Fillmore was a student and she was a teacher at the New Hope Academy in New York. The couple married on February 5, 1826, and had two children together. Abigail Powers Fillmore played an active role in her husband's political career and served as the First Lady during his presidency from 1850 to 1853.
+[CORRECT_ANSWER]: He fell in love with Abigail Powers
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional context about Millard Fillmore's relationship with Abigail Powers, including details about their meeting, marriage, and her role during his presidency. While the extra information is not necessary to answer the question, it does not detract from the accuracy of the response. The core answer, "Millard Fillmore fell in love with Abigail Powers," is fully aligned with the reference answer.
+[RESULT]: 5

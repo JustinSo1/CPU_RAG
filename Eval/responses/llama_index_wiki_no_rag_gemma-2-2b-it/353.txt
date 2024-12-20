@@ -1,0 +1,16 @@
+[PROMPT]: Does Indonesia have the world's hightest level of biodiversity?
+[USER_ANSWER]: 
+
+Indonesia is known for its incredible biodiversity, but it's not the world's highest. 
+
+Here's why:
+
+* **The Amazon Rainforest:**  The Amazon rainforest in South America is often considered the most biodiverse place on Earth, with an estimated 10% of the world's known species.
+* **Madagascar:**  This island nation boasts a unique and highly diverse ecosystem, with a high concentration of endemic species (found nowhere else).
+* **Indonesia's Strengths:**  Indonesia is home to a vast array of species, including orangutans, Komodo dragons, and countless other unique animals and plants. It's also a crucial part of the Coral Triangle, a region with high marine biodiversity.
+
+**While Indonesia is incredibly biodiverse, it's not the highest.** The Amazon rainforest holds the title for the most species in a single location. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct and factual. It accurately states that Indonesia is not the most biodiverse place on Earth and provides valid comparisons with the Amazon Rainforest and Madagascar. However, the reference answer is a simple "no," which is a direct and concise response. The evaluated response, while informative, goes beyond the simplicity required by the reference answer. Therefore, it is not completely aligned with the reference answer's brevity and directness.
+[RESULT]: 4

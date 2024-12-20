@@ -1,0 +1,5 @@
+[PROMPT]: Adams ' opponents were what?
+[USER_ANSWER]: Could you please provide more context or specify which Adams you are referring to? There have been many notable individuals with the last name Adams, such as John Adams, John Quincy Adams, Samuel Adams, and others. Each had different opponents in various contexts, such as political, sports, or other fields.
+[CORRECT_ANSWER]: Democratic Republicans
+[FEEDBACK]: The response does not provide a direct answer to the question "Adams' opponents were what?" Instead, it asks for more context and clarification about which Adams is being referred to. While the response is reasonable and seeks clarification, it does not address the question directly or provide any factual information about the opponents of any Adams. Therefore, it does not meet the criteria for correctness, accuracy, and factuality based on the reference answer.
+[RESULT]: 1

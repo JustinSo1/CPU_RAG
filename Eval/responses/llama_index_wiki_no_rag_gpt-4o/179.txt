@@ -1,0 +1,5 @@
+[PROMPT]: What is the poulation of Egypt?
+[USER_ANSWER]: As of the most recent estimates in 2023, Egypt's population is approximately 105 million people. However, for the most current and precise population figures, it is advisable to refer to the latest data from authoritative sources such as the Central Agency for Public Mobilization and Statistics (CAPMAS) in Egypt or other reputable demographic resources.
+[CORRECT_ANSWER]: more than 78 million
+[FEEDBACK]: The response provides an accurate and factual estimate of Egypt's population as of 2023, stating it is approximately 105 million people. This is a more current and precise figure compared to the reference answer, which states "more than 78 million." The response also advises consulting authoritative sources for the most current data, which adds to its accuracy and reliability. However, the reference answer is less specific and might be considered outdated, but it is not incorrect. The response is mostly correct, accurate, and factual based on the reference answer.
+[RESULT]: 4

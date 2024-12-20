@@ -1,0 +1,10 @@
+[PROMPT]: Is the most read newspaper in Finland Taloussanomat?
+[USER_ANSWER]: 
+
+The answer is **yes**. 
+
+Taloussanomat is the most read newspaper in Finland. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is "no," but the response states "yes" and provides incorrect information about Taloussanomat being the most read newspaper in Finland.
+[RESULT]: 1

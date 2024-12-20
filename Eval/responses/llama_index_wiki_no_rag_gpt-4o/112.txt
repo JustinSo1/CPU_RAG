@@ -1,0 +1,5 @@
+[PROMPT]: Have there been other US presidents that have visited Cuba?
+[USER_ANSWER]: Yes, there have been other U.S. Presidents who have visited Cuba. The most notable visit in recent history was by President Barack Obama in March 2016. He was the first sitting U.S. President to visit Cuba in nearly 90 years, since President Calvin Coolidge visited the island in 1928. Obama's visit was part of a broader effort to normalize relations between the United States and Cuba, which had been strained for decades.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that no other U.S. Presidents have visited Cuba, while the response incorrectly states that both President Barack Obama and President Calvin Coolidge visited Cuba. This discrepancy shows that the response does not align with the factual information provided in the reference answer.
+[RESULT]: 2

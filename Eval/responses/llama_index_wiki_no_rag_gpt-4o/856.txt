@@ -1,0 +1,5 @@
+[PROMPT]: Who founded Montevideo?
+[USER_ANSWER]: Montevideo, the capital of Uruguay, was founded by the Spanish in 1724. The foundation is often attributed to Bruno Mauricio de Zabala, a Spanish soldier and colonial administrator, who established the city to counter the Portuguese influence in the region.
+[CORRECT_ANSWER]: The Spanish.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Montevideo was founded by the Spanish, which aligns with the reference answer. Additionally, it provides extra context about the foundation year and the role of Bruno Mauricio de Zabala. However, the additional details, while accurate, are not necessary for the primary question of "Who founded Montevideo?" and slightly diverge from the simplicity of the reference answer.
+[RESULT]: 4

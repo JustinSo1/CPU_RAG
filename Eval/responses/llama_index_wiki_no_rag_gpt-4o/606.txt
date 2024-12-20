@@ -1,0 +1,16 @@
+[PROMPT]: What animals are related to otters?
+[USER_ANSWER]: Otters belong to the family Mustelidae, which is a diverse group of carnivorous mammals. Animals related to otters within the Mustelidae family include:
+
+1. **Weasels**: These small, agile predators are known for their slender bodies and quick movements.
+2. **Minks**: Semi-aquatic creatures that are also valued for their fur.
+3. **Ferrets**: Domesticated descendants of the European polecat, often kept as pets.
+4. **Badgers**: Robust animals known for their burrowing habits.
+5. **Wolverines**: The largest terrestrial members of the family, known for their strength and ferocity.
+6. **Martens**: Tree-dwelling mustelids with bushy tails.
+7. **Fishers**: Larger relatives of martens, known for their ability to hunt porcupines.
+8. **Polecats**: Found in Eurasia and characterized by their distinctive markings.
+
+These animals share various morphological and behavioral traits, such as their carnivorous diet and often elongated bodies, which are adapted to their respective ecological niches.
+[CORRECT_ANSWER]: weasels, polecats, and badgers
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies several animals related to otters within the Mustelidae family, including weasels, minks, ferrets, badgers, wolverines, martens, fishers, and polecats. However, the reference answer only lists weasels, polecats, and badgers. While the response provides additional related animals, it goes beyond the simplicity of the reference answer. The additional information is accurate but not necessary for a perfect score based on the reference answer provided.
+[RESULT]: 4

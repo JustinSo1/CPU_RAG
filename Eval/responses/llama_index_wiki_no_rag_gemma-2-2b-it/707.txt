@@ -1,0 +1,10 @@
+[PROMPT]: Does Romania border Hungary?
+[USER_ANSWER]: 
+
+No, Romania does not border Hungary. 
+
+Romania borders **Bulgaria** to the south, **Serbia** to the north, **Moldova** to the east, and **Ukraine** to the north-west. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that Romania does border Hungary, while the response incorrectly states that it does not. Additionally, the response provides incorrect bordering countries for Romania, further demonstrating a lack of accuracy and factual correctness.
+[RESULT]: 1

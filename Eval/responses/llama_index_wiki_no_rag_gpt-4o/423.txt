@@ -1,0 +1,5 @@
+[PROMPT]: What was Adams' political party?
+[USER_ANSWER]: John Adams, the second President of the United States, was a member of the Federalist Party.
+[CORRECT_ANSWER]: The Federalist Party.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies John Adams as a member of the Federalist Party, which aligns with the reference answer. The additional information about Adams being the second President of the United States does not detract from the accuracy of the response.
+[RESULT]: 5

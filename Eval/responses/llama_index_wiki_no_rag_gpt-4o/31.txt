@@ -1,0 +1,5 @@
+[PROMPT]: When did he become a professor?
+[USER_ANSWER]: I'm sorry, but your question is too vague. Without additional context or specific information about the person you're referring to, I can't determine when he became a professor. Could you please provide more details or specify the individual's name?
+[CORRECT_ANSWER]: 1820
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information based on the reference answer. Instead of giving the year 1820, it states that the question is too vague and asks for more details. This indicates that the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

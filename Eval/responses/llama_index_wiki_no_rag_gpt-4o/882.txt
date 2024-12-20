@@ -1,0 +1,5 @@
+[PROMPT]: Is Uruguay very common?
+[USER_ANSWER]: Uruguay is a relatively small country in South America, bordered by Brazil to the north and Argentina to the west. While it may not be as internationally prominent as some larger countries, Uruguay is known for its high quality of life, progressive social policies, and stable economy. It is not considered "very common" in terms of global recognition compared to major countries, but it is well-regarded in several aspects such as democracy, education, and social development.
+[CORRECT_ANSWER]: No?
+[FEEDBACK]: The response provides a detailed and accurate description of Uruguay, including its geographical location, quality of life, social policies, and economy. However, the instruction asks whether Uruguay is "very common," which the reference answer addresses directly with a simple "No." The evaluated response, while informative, does not directly answer the question in a straightforward manner. Therefore, it is not completely aligned with the reference answer, which is concise and directly addresses the question.
+[RESULT]: 3

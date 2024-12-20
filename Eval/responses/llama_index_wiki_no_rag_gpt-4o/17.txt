@@ -1,0 +1,10 @@
+[PROMPT]: Who was the general in charge at the Battle of Antietam?
+[USER_ANSWER]: The Battle of Antietam, also known as the Battle of Sharpsburg, was fought on September 17, 1862, during the American Civil War. The generals in charge were:
+
+- For the Union (Federal) forces: Major General George B. McClellan
+- For the Confederate forces: General Robert E. Lee
+
+This battle is known as the bloodiest single-day battle in American history.
+[CORRECT_ANSWER]: General McClellan
+[FEEDBACK]: The response provides accurate information about the generals in charge at the Battle of Antietam, mentioning both Major General George B. McClellan for the Union forces and General Robert E. Lee for the Confederate forces. While the reference answer only mentions General McClellan, the response is factually correct and provides additional relevant context.
+[RESULT]: 5

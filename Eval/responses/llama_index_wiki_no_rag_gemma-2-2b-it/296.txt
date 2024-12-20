@@ -1,0 +1,16 @@
+[PROMPT]: Where do wolves have scent glands?
+[USER_ANSWER]: 
+
+Wolves have scent glands located on their **paws, flanks, and tails**. 
+
+Here's a breakdown:
+
+* **Paws:**  These glands are located near the base of the paw and are used to mark territory and communicate with other wolves.
+* **Flanks:**  These glands are located on the sides of the wolf's body and are used to mark territory and communicate with other wolves.
+* **Tails:**  These glands are located near the base of the tail and are used to mark territory and communicate with other wolves.
+
+These scent glands are important for wolves because they allow them to communicate with each other and mark their territory. 
+
+[CORRECT_ANSWER]: Helping the woldf to effectively navigate over large expanses while concurrently keeping others informed of its whereabouts.
+[FEEDBACK]: The response provides detailed information about the locations of scent glands in wolves, specifying the paws, flanks, and tails. However, the reference answer does not mention these specific locations and instead focuses on the general purpose of scent glands in helping wolves navigate and communicate. While the response is factually accurate about the locations of scent glands, it does not align with the reference answer's focus on the purpose of these glands. Therefore, the response is somewhat correct and accurate but does not fully match the reference answer's content.
+[RESULT]: 3

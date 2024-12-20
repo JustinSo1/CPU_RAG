@@ -1,0 +1,11 @@
+[PROMPT]: What have become flippers, useless for flight in the air?
+[USER_ANSWER]: Flippers, which are adapted for swimming in water, have become a characteristic feature of various aquatic and semi-aquatic animals. Over time, some animals that originally had limbs adapted for walking or flying evolved these limbs into flippers to better suit their aquatic environments. This evolutionary change has rendered their limbs useless for flight or walking on land. Examples of such animals include:
+
+1. Penguins: Penguins' wings have evolved into flippers, making them excellent swimmers but incapable of flight.
+2. Seals and Sea Lions: Their forelimbs have evolved into flippers, which they use for swimming.
+3. Whales and Dolphins: Their forelimbs have also evolved into flippers, aiding in their movement through water.
+
+These adaptations demonstrate how certain species have evolved specialized limbs to thrive in their specific habitats.
+[CORRECT_ANSWER]: Penguins' wings
+[FEEDBACK]: The response provides a detailed explanation of how certain animals have evolved limbs into flippers, making them useless for flight. It accurately mentions penguins, which directly answers the question. However, the response includes additional examples (seals, sea lions, whales, and dolphins) that are not directly related to the question about flight. While the information is accurate and factual, it goes beyond the scope of the question, which specifically asks about flippers useless for flight. Therefore, the response is mostly correct and factual but includes extraneous information.
+[RESULT]: 4

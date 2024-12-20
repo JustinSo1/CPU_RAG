@@ -1,0 +1,24 @@
+[PROMPT]: Are Kangaroos Shy?
+[USER_ANSWER]: 
+
+Kangaroos are known for their powerful legs and hopping gait, but are they shy animals? The answer is a bit more complex than a simple yes or no. 
+
+Here's a breakdown:
+
+**Factors that influence kangaroo behavior:**
+
+* **Species:** Different kangaroo species have different personalities and behaviors. For example, red kangaroos are generally more social and approachable than tree kangaroos.
+* **Environment:** Kangaroos are naturally wary of humans and other predators. They are more likely to be shy in unfamiliar or dangerous environments.
+* **Individual temperament:** Just like humans, kangaroos have individual personalities. Some kangaroos are naturally more timid than others.
+* **Age:** Young kangaroos are often more playful and curious, while older kangaroos may be more cautious.
+
+**What does "shy" mean in the context of kangaroos?**
+
+* **Defensive:** Kangaroos are naturally defensive animals. They will often freeze or run away when they feel threatened.
+* **Avoidant:** Kangaroos are also naturally avoidant of humans. They are not domesticated animals and can be unpredictable.
+* **Cautious:** Kangaroos are cautious creatures. They will often avoid contact with humans, especially if they are unfamiliar.
+
+**How to interact
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed and nuanced explanation of kangaroo behavior, considering various factors such as species, environment, individual temperament, and age. However, the reference answer is a simple "Yes," indicating that the expected response should be straightforward and direct. The detailed explanation, while informative, does not align with the simplicity and directness of the reference answer. Therefore, the response is somewhat correct and factual but does not fully meet the criteria of the reference answer.
+[RESULT]: 3

@@ -1,0 +1,9 @@
+[PROMPT]: How old was Lincoln in 1816?
+[USER_ANSWER]: Abraham Lincoln was born on February 12, 1809. To determine his age in 1816, you subtract the year of his birth from the year in question:
+
+1816 - 1809 = 7
+
+So, Abraham Lincoln was 7 years old in 1816.
+[CORRECT_ANSWER]: seven
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the correct calculation and explanation to determine Abraham Lincoln's age in 1816, which matches the reference answer.
+[RESULT]: 5

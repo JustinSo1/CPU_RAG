@@ -1,0 +1,5 @@
+[PROMPT]: Does Romania border Hungary?
+[USER_ANSWER]: Yes, Romania shares a border with Hungary. The two countries are located in Central Europe, and their shared border lies to the northwest of Romania and the east of Hungary.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Romania shares a border with Hungary and provides additional context about the geographical location of the border, which is accurate. However, the additional information, while correct, is not necessary to answer the question directly. The reference answer is more concise, but the response still meets all criteria for correctness and accuracy.
+[RESULT]: 5

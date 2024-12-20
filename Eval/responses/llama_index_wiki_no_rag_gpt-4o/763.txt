@@ -1,0 +1,9 @@
+[PROMPT]: What used Singapore as a strategic trading post along the spice route?
+[USER_ANSWER]: Singapore's strategic location along the spice route has been utilized by various entities throughout history. The earliest known use of Singapore as a trading post dates back to the 14th century when it was part of the Srivijaya Empire, a powerful maritime kingdom based in Sumatra. Later, it became part of the Sultanate of Malacca, which was an important center for trade in the region.
+
+During the 19th century, the British East India Company recognized the strategic importance of Singapore for trade and as a naval base. Sir Stamford Raffles established a British trading post there in 1819. Under British colonial rule, Singapore developed into a major port and trading hub, facilitating the trade of spices, silk, tin, rubber, and other commodities between the East and West.
+
+Singapore's strategic trading location has continued to be significant in modern times, evolving into one of the world's busiest ports and a global financial center.
+[CORRECT_ANSWER]: British
+[FEEDBACK]: The response provides a detailed historical account of Singapore's use as a strategic trading post, mentioning the Srivijaya Empire, the Sultanate of Malacca, and the British East India Company. However, the instruction specifically asks for what used Singapore as a strategic trading post along the spice route, and the reference answer is "British." While the response includes the British, it also includes other entities, which makes it more elaborate than necessary and not strictly aligned with the reference answer. Therefore, it is not completely correct according to the rubric.
+[RESULT]: 3

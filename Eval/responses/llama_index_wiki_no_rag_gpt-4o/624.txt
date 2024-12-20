@@ -1,0 +1,7 @@
+[PROMPT]: Are penguins afraid of humans?
+[USER_ANSWER]: Penguin reactions to humans can vary depending on the species and their previous exposure to human activity. In areas where penguins are accustomed to seeing humans, such as popular tourist sites or research stations, they may show little fear and might even approach people out of curiosity. However, in more remote areas where they have had minimal contact with humans, penguins are likely to be more wary and could exhibit signs of fear or stress when humans are nearby.
+
+It's important to note that regardless of their initial reaction, it's best to observe penguins from a respectful distance to avoid causing them unnecessary stress or disrupting their natural behavior. Guidelines for wildlife watching typically recommend keeping a safe distance and minimizing noise and movement to ensure the well-being of the animals.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response provides a detailed explanation about penguin reactions to humans, which is accurate and factual. However, the reference answer is a simple "no," indicating that the expected response should be concise and directly address whether penguins are afraid of humans. The evaluated response, while informative, does not align with the simplicity and directness of the reference answer. Therefore, it does not fully meet the criteria for being completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

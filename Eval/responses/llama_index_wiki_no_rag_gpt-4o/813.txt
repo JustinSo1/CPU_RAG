@@ -1,0 +1,5 @@
+[PROMPT]: What suborder of turtles is extinct?
+[USER_ANSWER]: The suborder of turtles that is extinct is known as †Pleurodira (also referred to as side-necked turtles). This group of turtles was characterized by the way they would retract their heads sideways into their shells rather than pulling them directly back. It's important to note that while some members of Pleurodira are extinct, there are still living representatives within this suborder today. However, there are other groups, such as the †Proganochelydia, that are entirely extinct and are among the earliest known turtles.
+[CORRECT_ANSWER]: Paracryptodira
+[FEEDBACK]: The response provided is not correct based on the reference answer. The extinct suborder of turtles mentioned in the reference answer is Paracryptodira, whereas the response mentions †Pleurodira and †Proganochelydia. While the response does provide some factual information about these groups, it does not accurately identify the extinct suborder as Paracryptodira. Therefore, the response is mostly incorrect and inaccurate.
+[RESULT]: 2

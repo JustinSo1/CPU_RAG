@@ -1,0 +1,14 @@
+[PROMPT]: What are the three sections of a beetle?
+[USER_ANSWER]: 
+
+A beetle has three main sections: the **head**, **thorax**, and **abdomen**. 
+
+Here's a little more about each section:
+
+* **Head:**  The head is where the beetle's senses are located. It has antennae, eyes, and mouthparts.
+* **Thorax:** The thorax is the middle section of the beetle's body. It's where the beetle's legs are attached.
+* **Abdomen:** The abdomen is the rear section of the beetle's body. It's where the beetle's digestive system is located. 
+
+[CORRECT_ANSWER]: the head, the thorax, and the abdomen
+[FEEDBACK]: The response is completely correct, accurate, and factual. It identifies the three main sections of a beetle as the head, thorax, and abdomen, which matches the reference answer. Additionally, the response provides extra information about each section, which is accurate and enhances the understanding of the beetle's anatomy.
+[RESULT]: 5

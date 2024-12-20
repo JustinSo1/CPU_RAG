@@ -1,0 +1,5 @@
+[PROMPT]: What was Grant's political affiliation?
+[USER_ANSWER]: Ulysses S. Grant, the 18th President of the United States, was a member of the Republican Party. He served two terms as president from 1869 to 1877.
+[CORRECT_ANSWER]: Republican
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Ulysses S. Grant's political affiliation as a member of the Republican Party. Additionally, it provides extra context about his presidency, which, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,16 @@
+[PROMPT]: How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?
+[USER_ANSWER]: 
+
+The response was largely **negative**, with many newspapers criticizing the President for inviting the segregationist leader to the White House.
+
+Here's a breakdown of the situation:
+
+* **The Context:** In 1901, President Theodore Roosevelt invited Booker T. Washington to dinner at the White House. Washington was a prominent figure in the Black community, known for his work in establishing vocational schools for African Americans.
+* **The Controversy:** Washington was a segregationist, advocating for Black people to focus on economic advancement rather than political rights. This stance was seen as incompatible with the progressive ideals of the time, which emphasized social justice and equality.
+* **The Press Response:** Newspapers across the country were divided on the issue. Some condemned Roosevelt for associating with a segregationist, arguing that it undermined the fight for civil rights. Others defended Roosevelt's decision, claiming that Washington's economic contributions were valuable and that the President was simply trying to foster cooperation between different groups.
+* **The Impact:** The incident highlighted the deep divisions within American society regarding race and equality. It also demonstrated the power of the press in shaping public opinion and influencing political discourse.
+
+It's important to note that this event is just one example of the complex and often contentious
+[CORRECT_ANSWER]: mixing of the races on social occassions
+[FEEDBACK]: The response provides a detailed and nuanced account of the situation surrounding Roosevelt's invitation to Booker T. Washington. However, it contains several inaccuracies. Firstly, Booker T. Washington was not a segregationist; he was an advocate for African American advancement through education and economic progress, which is different from supporting segregation. Secondly, the response suggests that newspapers were divided on the issue, whereas the reference answer indicates a largely negative reaction focused on the social mixing of races. The response does not directly address the specific nature of the negative press reaction as described in the reference answer. Therefore, while the response contains some correct information, it is not fully accurate or aligned with the reference answer.
+[RESULT]: 3

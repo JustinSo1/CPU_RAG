@@ -1,0 +1,16 @@
+[PROMPT]: Does the Gray Wolf share an ancestry with the domestic dog?
+[USER_ANSWER]: 
+
+**Yes**, the gray wolf and the domestic dog share a common ancestor. This ancestor is believed to have lived around 100,000 to 40,000 years ago. 
+
+Here's a breakdown of their relationship:
+
+* **Common Ancestor:**  Both wolves and dogs descended from a single wolf-like ancestor.
+* **Domestication:**  Over thousands of years, humans selectively bred wolves, favoring those with traits that made them more docile and less aggressive. This process led to the development of the domestic dog.
+* **Genetic Similarity:**  Gray wolves and domestic dogs are genetically very similar, with about 99.9% of their DNA being the same.
+
+This shared ancestry is a testament to the close relationship between wolves and dogs, and it's a fascinating example of how humans have shaped the evolution of other species.
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that the gray wolf and the domestic dog share a common ancestor and provides additional details about their relationship, domestication, and genetic similarity. However, the reference answer is very concise, and the additional details, while accurate, are not necessary to meet the criteria of the reference answer. The response could be seen as over-explaining, but it does not contain any inaccuracies.
+[RESULT]: 4

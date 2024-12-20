@@ -1,0 +1,5 @@
+[PROMPT]: hard
+[USER_ANSWER]: It sounds like you're facing a difficult challenge or situation. If you provide more details, I can try to offer some advice or assistance.
+[CORRECT_ANSWER]: hard
+[FEEDBACK]: The response is not aligned with the reference answer, which is simply "hard." The response provides additional context and suggestions, which are not present in the reference answer. Therefore, it is not completely correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

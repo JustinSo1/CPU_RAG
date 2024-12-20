@@ -1,0 +1,5 @@
+[PROMPT]: Was Qatar University founded in 1973 ?
+[USER_ANSWER]: Yes, Qatar University was founded in 1973. It is the national university of Qatar and has grown significantly since its establishment, offering a wide range of undergraduate and graduate programs.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Qatar University was founded in 1973, which aligns with the reference answer. However, the additional information about the university's growth and programs, while accurate, is not necessary for the response to the specific question asked. The extra details do not detract from the correctness but are not required to meet the criteria of the reference answer.
+[RESULT]: 4

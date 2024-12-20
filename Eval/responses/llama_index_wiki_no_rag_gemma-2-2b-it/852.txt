@@ -1,0 +1,23 @@
+[PROMPT]: What happened in recent years?
+[USER_ANSWER]: 
+
+It's difficult to give a definitive answer to "what happened in recent years" without knowing what specific area you're interested in. 
+
+To help me understand your question, please tell me:
+
+* **What field are you interested in?** (e.g., technology, politics, environment, economy, etc.)
+* **What time frame are you considering?** (e.g., last year, the past decade, etc.)
+* **What specific events or trends are you curious about?**
+
+For example, you could ask:
+
+* "What happened in recent years in the field of **artificial intelligence**?"
+* "What happened in recent years in **global politics**?"
+* "What happened in recent years in **climate change**?"
+
+
+Once you provide me with more information, I can give you a more specific and helpful answer. 
+
+[CORRECT_ANSWER]: his reputation as president has improved
+[FEEDBACK]: The response does not address the specific event mentioned in the reference answer, which is "his reputation as president has improved." Instead, the response asks for more information and provides examples of different fields and time frames. This makes the response not factual or accurate based on the reference answer.
+[RESULT]: 1

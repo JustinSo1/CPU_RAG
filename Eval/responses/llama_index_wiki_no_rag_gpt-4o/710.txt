@@ -1,0 +1,5 @@
+[PROMPT]: How many counties is Romania divided into?
+[USER_ANSWER]: Romania is divided into 41 counties (județe) and one municipality, Bucharest, which has a status similar to that of a county.
+[CORRECT_ANSWER]: 41.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Romania is divided into 41 counties and includes the additional detail about Bucharest having a status similar to that of a county, which is accurate and provides extra context.
+[RESULT]: 5

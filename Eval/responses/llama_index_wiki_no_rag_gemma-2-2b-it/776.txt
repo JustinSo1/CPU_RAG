@@ -1,0 +1,10 @@
+[PROMPT]: Did Theodore Roosevelt go to Harvard?
+[USER_ANSWER]: 
+
+Theodore Roosevelt did **not** go to Harvard. 
+
+He attended **Harvard College** for a short period in 1880, but he was not a student for a full year. He left Harvard after only a few months due to a lack of interest in his studies. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. Theodore Roosevelt did attend Harvard College, and the reference answer confirms this with a simple "Yes." The response incorrectly states that he did not go to Harvard and provides inaccurate details about his attendance.
+[RESULT]: 1

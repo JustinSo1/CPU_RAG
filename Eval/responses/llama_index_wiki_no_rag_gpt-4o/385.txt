@@ -1,0 +1,5 @@
+[PROMPT]: Where was James Monroe shot?
+[USER_ANSWER]: James Monroe, the fifth President of the United States, was not shot. He served as president from 1817 to 1825 and died of natural causes on July 4, 1831. Monroe passed away in New York City, likely due to heart failure and tuberculosis.
+[CORRECT_ANSWER]: at the Battle of Trenton, in his left shoulder
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that James Monroe was shot at the Battle of Trenton in his left shoulder, while the response incorrectly states that he was not shot and provides unrelated information about his presidency and death.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Do all ducks "quack"?
+[USER_ANSWER]: No, not all ducks quack. While quacking is commonly associated with ducks, particularly female mallards, different species of ducks have a variety of vocalizations. Some ducks whistle, grunt, or make other noises. Male ducks, or drakes, tend to be quieter and may produce different sounds such as whistles or rasps. Additionally, some species of ducks are relatively silent. The specific sounds ducks make can vary widely depending on the species and their environment.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the vocalizations of different duck species, which is accurate. However, the reference answer is very concise, simply stating "No," which directly addresses the question. The evaluated response, while informative, goes beyond the simplicity of the reference answer. Therefore, it is mostly correct but not completely aligned with the reference answer's brevity.
+[RESULT]: 4

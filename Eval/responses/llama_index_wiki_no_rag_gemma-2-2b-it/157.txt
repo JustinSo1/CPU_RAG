@@ -1,0 +1,17 @@
+[PROMPT]: Do ducks forage underwater?
+[USER_ANSWER]: 
+
+Yes, ducks are excellent swimmers and divers. They use their webbed feet to propel themselves through the water and their long necks to reach food. 
+
+Here's a breakdown of how ducks forage underwater:
+
+* **Diving:** Ducks can dive to depths of up to 10 feet, using their webbed feet to propel themselves underwater. They have a special adaptation called a "diving reflex" that helps them control their breathing and stay submerged for longer periods.
+* **Sniffing:** Ducks have a keen sense of smell and use it to locate food underwater. They can sniff out small invertebrates like worms and insects, as well as aquatic plants and algae.
+* **Pecking:** Ducks can also forage underwater by pecking at the bottom of the water. They use their beaks to break up sediment and expose food.
+* **Waterfowl foraging:** Ducks are known for their diverse foraging techniques, which can include swimming, diving, pecking, and even using their beaks to scrape algae off rocks.
+
+So, yes, ducks are very adept at foraging underwater and play a crucial role in maintaining healthy aquatic ecosystems.
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about how ducks forage underwater, including diving, sniffing, pecking, and other foraging techniques. However, the reference answer is a simple "yes," which indicates that a more concise response would have been sufficient. The additional details, while informative, are not necessary to answer the question directly. Therefore, the response is mostly correct but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,9 @@
+[PROMPT]: How do elephants communicate over long distances?
+[USER_ANSWER]: Elephants have a sophisticated system of communication that includes vocalizations, body language, touch, and even seismic signals. One of the most notable ways they communicate over long distances is through infrasound, which are low-frequency sounds below the range of human hearing (typically below 20 Hz). These infrasound waves can travel several kilometers through the ground and air, allowing elephants to communicate with one another over vast distances.
+
+Infrasound is particularly useful in dense forests or across savannas where visibility is limited. Elephants produce these sounds using their larynx, and the sound waves can convey a variety of messages, such as calls for mates, warnings about predators, or coordination of group movements. The ability to detect and interpret these sounds is crucial for maintaining social bonds and coordinating activities within elephant herds.
+
+In addition to vocalizations, elephants can also detect vibrations through the ground using their sensitive feet. This seismic communication helps them stay connected with other members of their herd and be aware of potential threats or opportunities in their environment.
+[CORRECT_ANSWER]: by producing and receiving low frequency sound
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of how elephants communicate over long distances, specifically mentioning infrasound, which aligns with the reference answer. The response also includes additional relevant information about the use of seismic signals and the role of infrasound in different environments, which, while not necessary, does not detract from the accuracy of the main point. However, the reference answer is very concise, and the response, while accurate, goes beyond the simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: How many species of beetles are there?
+[USER_ANSWER]: There are estimated to be around 400,000 species of beetles, making them the largest order of insects, known as Coleoptera. This number is continually updated as new species are discovered and classified, so the exact number may vary over time.
+[CORRECT_ANSWER]: 350,000
+[FEEDBACK]: The response provides an estimate of 400,000 species of beetles, which is higher than the reference answer of 350,000. While the response acknowledges that the number is continually updated, the given estimate is not completely accurate based on the reference answer. Therefore, the response is mostly correct but not completely accurate.
+[RESULT]: 4

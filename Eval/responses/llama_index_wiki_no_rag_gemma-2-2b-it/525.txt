@@ -1,0 +1,18 @@
+[PROMPT]: Is Liechtenstein heavily urbanized?
+[USER_ANSWER]: 
+
+Liechtenstein is a small, landlocked country in Central Europe. It is known for its stunning natural beauty and its high standard of living. 
+
+Liechtenstein is **not** heavily urbanized. In fact, it has a very low population density. 
+
+Here's why:
+
+* **Small Size:** Liechtenstein is only 160 square kilometers (61 square miles), which is smaller than the city of New York.
+* **Mountainous Terrain:** The country is dominated by mountains, making it difficult to build large cities.
+* **High Cost of Living:** The cost of living in Liechtenstein is very high, which discourages large-scale urbanization.
+
+Liechtenstein's population is concentrated in a few small towns and villages. The capital city, Vaduz, is the largest town and has a population of around 8,000. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response provides a detailed explanation about Liechtenstein's urbanization status, mentioning its small size, mountainous terrain, and high cost of living as factors that discourage large-scale urbanization. It accurately states that Liechtenstein is not heavily urbanized and supports this with factual information about the country's population distribution and the size of its capital city, Vaduz. However, the reference answer is a simple "No," which is a direct and concise response to the question. While the evaluated response is correct and factual, it goes beyond the simplicity of the reference answer.
+[RESULT]: 4

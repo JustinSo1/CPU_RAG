@@ -1,0 +1,5 @@
+[PROMPT]: Are elephants the largest land animals alive today?
+[USER_ANSWER]: Yes, elephants are the largest land animals alive today. The African elephant, in particular, holds the title for being the largest, with males standing up to 13 feet tall at the shoulder and weighing as much as 12,000 pounds. There are two species of African elephants (the African bush elephant and the African forest elephant) and one species of Asian elephant, all of which are notable for their size.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional relevant information about the African elephant, including its size and the distinction between the African bush elephant, the African forest elephant, and the Asian elephant. This additional detail does not detract from the correctness of the response but rather enhances it by providing more context.
+[RESULT]: 5

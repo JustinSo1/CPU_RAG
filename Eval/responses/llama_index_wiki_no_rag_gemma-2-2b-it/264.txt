@@ -1,0 +1,10 @@
+[PROMPT]: Has another US President been an Eagle Scout?
+[USER_ANSWER]: 
+
+No, there has not been another US President who has been an Eagle Scout. 
+
+**President George W. Bush** was an Eagle Scout, but he was the only US President to hold that distinction.
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer simply states "no," indicating that no US President has been an Eagle Scout. However, the response incorrectly states that President George W. Bush was an Eagle Scout, which is factually incorrect. Therefore, the response does not align with the reference answer and contains inaccurate information.
+[RESULT]: 1

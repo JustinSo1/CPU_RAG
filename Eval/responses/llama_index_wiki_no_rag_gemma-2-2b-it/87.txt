@@ -1,0 +1,8 @@
+[PROMPT]: Was Calvin Coolidge the twenty-ninth vice president?
+[USER_ANSWER]: 
+
+No, Calvin Coolidge was the **30th president of the United States**. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct in stating that Calvin Coolidge was the 30th president of the United States. However, it does not directly address the question about whether he was the twenty-ninth vice president. The reference answer is a simple "no," which directly answers the question without additional information. The response, while factually correct about Coolidge's presidency, does not fully align with the simplicity and directness of the reference answer.
+[RESULT]: 4

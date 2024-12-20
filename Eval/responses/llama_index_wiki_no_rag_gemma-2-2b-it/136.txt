@@ -1,0 +1,22 @@
+[PROMPT]: How do cuba and declining participation relate?
+[USER_ANSWER]: 
+
+It's important to understand that the relationship between Cuba and declining participation is complex and multifaceted.  Here's a breakdown of some key factors:
+
+**1. Economic Decline:**
+
+* **US Embargo:** The US embargo has severely hampered Cuba's economy for decades. This has led to shortages of goods, limited access to foreign investment, and a decline in tourism.
+* **Limited Economic Opportunities:**  Cuba's economy is heavily reliant on tourism and agriculture, both of which have been impacted by the embargo and other factors. This has limited opportunities for economic growth and job creation, leading to a decline in participation in the workforce.
+
+**2. Political Restrictions:**
+
+* **Limited Freedoms:**  Cuba has a one-party socialist state with limited political freedoms. This has discouraged participation in political processes and activism.
+* **Lack of Economic Incentives:**  Many Cubans feel that their participation in the economy is not rewarded fairly, leading to a sense of disillusionment and a lack of motivation to participate.
+
+**3. Social Factors:**
+
+* **Aging Population:**  Cuba has a rapidly aging population, with a high proportion of elderly citizens. This can lead to a decline in the workforce participation rate.
+* **Brain Drain:**  
+[CORRECT_ANSWER]: Canada maintains full relations with both.
+[FEEDBACK]: The response provided does not directly address the relationship between Cuba and declining participation as the reference answer does. The reference answer indicates that Canada maintains full relations with both, which is a factual statement about international relations. The response, however, delves into various internal factors affecting Cuba, such as economic decline, political restrictions, and social factors, which are not relevant to the question of how Cuba and declining participation relate in the context of international relations. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

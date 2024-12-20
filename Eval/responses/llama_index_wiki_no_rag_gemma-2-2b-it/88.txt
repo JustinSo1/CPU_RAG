@@ -1,0 +1,12 @@
+[PROMPT]: Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?
+[USER_ANSWER]: 
+
+This is a trick question! 
+
+**No, Calvin Coolidge was not born in Plymouth, Windsor County, Vermont.**
+
+He was born in **Amherst, Massachusetts**. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. Calvin Coolidge was actually born in Plymouth Notch, Windsor County, Vermont, not Amherst, Massachusetts. The reference answer clearly states "yes," indicating that the correct answer is that he was born in Plymouth, Windsor County, Vermont. The response fails to provide the correct information and misleads by stating an incorrect birthplace.
+[RESULT]: 1

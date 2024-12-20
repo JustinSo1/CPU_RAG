@@ -1,0 +1,17 @@
+[PROMPT]: The John Adams Library , housed at the Boston Public Library , contains what?
+[USER_ANSWER]: 
+
+The John Adams Library at the Boston Public Library houses a collection of **primary source materials** related to the life and work of John Adams, the second president of the United States. 
+
+Here's a breakdown of what you can find there:
+
+* **Personal papers:** Letters, diaries, and other documents written by John Adams himself.
+* **Official documents:** Correspondence, speeches, and other records related to his political career.
+* **Historical documents:**  Materials related to the American Revolution, the formation of the United States government, and Adams's role in shaping them.
+* **Art and artifacts:**  Items that reflect the life and times of John Adams.
+
+The library is a valuable resource for researchers, historians, and anyone interested in learning more about John Adams and his impact on American history. 
+
+[CORRECT_ANSWER]: Adams's personal collection of more than 3,500 volumes
+[FEEDBACK]: The response provides detailed information about the types of materials housed in the John Adams Library, such as personal papers, official documents, historical documents, and art and artifacts. However, it does not mention the specific detail that the library contains Adams's personal collection of more than 3,500 volumes, which is the key fact in the reference answer. While the response is informative and relevant, it lacks the precise information required to be fully accurate according to the reference answer. Therefore, it is somewhat correct and factual but not completely accurate.
+[RESULT]: 3

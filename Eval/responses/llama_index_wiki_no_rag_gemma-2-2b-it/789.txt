@@ -1,0 +1,21 @@
+[PROMPT]: Who helped to fund Roosevelt's African safari?
+[USER_ANSWER]: 
+
+**Answer:**  The answer is **John D. Rockefeller**. 
+
+**Explanation:**
+
+John D. Rockefeller, a wealthy businessman and philanthropist, funded Theodore Roosevelt's African safari in 1910. This trip was a significant event in Roosevelt's life, as it allowed him to experience the natural world firsthand and gain a deeper understanding of conservation. 
+
+**Additional Information:**
+
+* Roosevelt's safari was a major success, and he returned to the United States a changed man.
+* He used his experience to advocate for conservation and wildlife protection.
+* The trip also helped to solidify his image as a strong and adventurous leader. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Financed by Andrew Carnegie and his own proposed writings
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that Roosevelt's African safari was financed by Andrew Carnegie and his own proposed writings, not John D. Rockefeller. The explanation and additional information provided in the response are irrelevant and do not align with the factual details given in the reference answer. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

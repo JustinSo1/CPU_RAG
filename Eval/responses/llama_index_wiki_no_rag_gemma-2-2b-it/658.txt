@@ -1,0 +1,26 @@
+[PROMPT]: Why polar bear is a special species?
+[USER_ANSWER]: 
+
+Polar bears are special for several reasons:
+
+**1.  Unique Adaptations:**
+    * **Thick Fur and Blubber:** Their thick fur and blubber provide insulation against the frigid Arctic temperatures.
+    * **Large Paws:** Their large paws with rough pads help them navigate icy surfaces and grip snow.
+    * **White Fur:** Their white fur helps them camouflage in the snow, making them difficult to spot by prey.
+
+**2.  Ecological Importance:**
+    * **Apex Predator:** They are the top predators in the Arctic food chain, regulating populations of seals and other marine mammals.
+    * **Indicator Species:** Their health and population are indicators of the health of the Arctic ecosystem.
+
+**3.  Conservation Status:**
+    * **Vulnerable:** Polar bears are listed as vulnerable by the International Union for Conservation of Nature (IUCN) due to habitat loss, climate change, and hunting.
+
+**4.  Cultural Significance:**
+    * **Indigenous Peoples:** Polar bears hold significant cultural and spiritual importance for many indigenous peoples in the Arctic.
+
+**5.  Scientific Significance:**
+    * **Climate Change Research:** Polar bears are highly sensitive to climate change, making them valuable subjects for studying its impacts.
+    *
+[CORRECT_ANSWER]: The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.
+[FEEDBACK]: The response provides a detailed and accurate explanation of why polar bears are special, covering their unique adaptations, ecological importance, conservation status, cultural significance, and scientific significance. However, it does not directly address the specific information given in the reference answer about the World Conservation Union's listing and the status of subpopulations. While the response is mostly correct and factual, it lacks the specific details mentioned in the reference answer.
+[RESULT]: 4

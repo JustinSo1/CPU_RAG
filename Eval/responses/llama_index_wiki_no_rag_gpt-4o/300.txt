@@ -1,0 +1,5 @@
+[PROMPT]: Are Gray Wolves native to North America?
+[USER_ANSWER]: Yes, Gray Wolves (Canis lupus) are native to North America. Their historical range once covered most of the continent, from the Arctic tundra to Mexico. However, due to habitat loss, human conflict, and hunting, their populations have significantly decreased and their range has been greatly reduced. Conservation efforts have been implemented in various regions to help recover and protect existing populations.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional context about the historical range of Gray Wolves in North America, the reasons for their population decline, and conservation efforts. While the reference answer is very brief, the evaluated response expands on the topic without introducing any inaccuracies.
+[RESULT]: 5

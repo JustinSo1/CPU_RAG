@@ -1,0 +1,8 @@
+[PROMPT]: What is the capital city?
+[USER_ANSWER]: 
+
+The capital city of the United States is **Washington, D.C.** 
+
+[CORRECT_ANSWER]: Helsinki
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the capital city is Helsinki, while the response incorrectly states that it is Washington, D.C.
+[RESULT]: 1

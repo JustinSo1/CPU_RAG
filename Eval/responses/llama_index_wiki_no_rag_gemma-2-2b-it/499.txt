@@ -1,0 +1,22 @@
+[PROMPT]: What is the difference between leopards and cheetahs?
+[USER_ANSWER]: 
+
+Leopards and cheetahs are both members of the cat family, but they have distinct differences in appearance, behavior, and habitat. 
+
+**Appearance:**
+
+* **Leopards:**  Have a distinctive spotted coat, with rosettes (circular patterns) of varying sizes and shapes. Their fur is typically tawny brown or golden yellow, with black spots.
+* **Cheetahs:**  Have a sleek, spotted coat with a distinctive "tear drop" shape to their spots. Their fur is typically golden yellow or cream, with black spots.
+
+**Behavior:**
+
+* **Leopards:**  Are solitary hunters, known for their agility and climbing abilities. They are opportunistic feeders, eating a variety of prey, including birds, rodents, and reptiles.
+* **Cheetahs:**  Are highly social animals, living in groups called "clans." They are known for their incredible speed, but are not as agile as leopards. They are primarily carnivores, feeding on gazelles, impalas, and other small mammals.
+
+**Habitat:**
+
+* **Leopards:**  Live in a variety of habitats, including forests, grasslands, and mountains, across Africa and parts of Asia.
+* **Cheetahs:**  
+[CORRECT_ANSWER]: The leopard has roS08_settes rather than cheetah's simple spots and the leopard is larger and less lanky than the cheetah.
+[FEEDBACK]: The response provides a detailed comparison between leopards and cheetahs, covering their appearance, behavior, and habitat. However, it is incomplete as it does not finish the section on cheetahs' habitat. Additionally, while the response is mostly accurate, it contains some inaccuracies. For example, cheetahs are not typically described as living in "clans" but rather in small family groups or coalitions. The reference answer is much more concise but does highlight the key differences in appearance and size, which the response also covers. Overall, the response is mostly correct and factual but not entirely complete or accurate.
+[RESULT]: 4

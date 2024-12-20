@@ -1,0 +1,16 @@
+[PROMPT]: Is a Kangaroo a Marsupial?
+[USER_ANSWER]: 
+
+Yes, a kangaroo is a marsupial. 
+
+Here's why:
+
+* **Marsupials** are mammals that carry their young in a pouch. 
+* **Kangaroos** are a type of marsupial, specifically a **diprotodontid**. 
+* This means they have a pouch where their young, called joeys, develop after birth.
+
+Let me know if you have any other animal questions! 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that a kangaroo is a marsupial and provides additional accurate information about marsupials and kangaroos, such as the fact that marsupials carry their young in a pouch and that kangaroos are a type of diprotodontid. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

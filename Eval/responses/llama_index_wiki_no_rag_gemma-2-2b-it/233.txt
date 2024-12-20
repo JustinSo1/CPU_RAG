@@ -1,0 +1,15 @@
+[PROMPT]: Who is the most popular rock group in Finland?
+[USER_ANSWER]: 
+
+It's difficult to definitively say who is the *most* popular rock group in Finland, as popularity can be measured in different ways (album sales, concert attendance, radio play, social media following, etc.). 
+
+However, some of the most consistently popular and influential rock groups in Finland include:
+
+* **The Rasmus:** This band has been a major force in Finnish rock for over two decades, with numerous hit singles and albums. They are known for their powerful vocals, catchy melodies, and energetic live performances.
+* **Apocalyptica:** This metal band is known for its unique use of cello in their music. They have achieved international success and are considered one of the most popular metal bands in Finland.
+* **Nightwish:** This symphonic metal band has gained international recognition for their epic sound and powerful vocals. They have a large and dedicated fanbase in Finland and have sold millions of albums worldwide.
+* **HIM:** This gothic rock band has a devoted following in Finland and internationally. They are known for their dark and atmospheric sound and their theatrical live performances.
+* **The GazettE:** This Japanese-Finnish band is known for their unique blend of rock, metal, and electronic music. They have a large and dedicated fanbase in Finland
+[CORRECT_ANSWER]: CMX
+[FEEDBACK]: The response does not directly answer the question with the specific rock group "CMX," which is the reference answer. Instead, it provides a list of several popular rock groups in Finland, none of which include CMX. While the information about the listed bands is accurate and factual, it does not align with the reference answer provided. Therefore, the response is mostly incorrect based on the given score rubric.
+[RESULT]: 2

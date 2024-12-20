@@ -1,0 +1,23 @@
+[PROMPT]: Who or what vary greatly in form within the coleoptera?
+[USER_ANSWER]: 
+
+A.  Size
+B.  Color
+C.  Habitat
+D.  All of the above
+
+**Correct Answer:** D. All of the above
+
+**Explanation:**
+
+Coleoptera, the order that includes beetles, exhibit a remarkable diversity in form. Here's why:
+
+* **Size:** Beetles range in size from tiny, microscopic species to giants like stag beetles.
+* **Color:**  From bright, iridescent hues to dull browns and blacks, beetles display a wide spectrum of colors.
+* **Habitat:**  Beetles inhabit diverse environments, including forests, deserts, oceans, and even the air. This vast range of habitats has led to adaptations in their physical forms.
+
+The sheer variety of beetle forms is a testament to the power of natural selection and the ability of these insects to adapt to different environments and lifestyles. 
+
+[CORRECT_ANSWER]: Antennae.
+[FEEDBACK]: The response provided is completely incorrect based on the reference answer. The reference answer indicates that "antennae" vary greatly in form within the coleoptera, while the response suggests that size, color, and habitat are the varying factors. This discrepancy shows that the response is not accurate or factual according to the given reference answer.
+[RESULT]: 1

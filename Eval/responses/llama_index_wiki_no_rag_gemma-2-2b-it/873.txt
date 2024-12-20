@@ -1,0 +1,23 @@
+[PROMPT]: What does a citizen use to propose changes to the Constitution?
+[USER_ANSWER]:  
+
+A. A petition
+B. A bill
+C. A referendum
+D. A court order
+
+**Answer:** A. A petition
+
+**Explanation:**
+
+* **A petition** is a formal request signed by many people, often used to gather support for a specific cause, including proposing changes to the Constitution. 
+* **A bill** is a proposed law that must be passed by Congress to become law. It's not directly used for constitutional changes.
+* **A referendum** is a vote by the people on a specific issue, often used to approve or reject a proposed law. It's not the primary method for proposing constitutional changes.
+* **A court order** is a legal ruling issued by a court, and while it can influence constitutional interpretation, it doesn't allow for direct changes to the document itself.
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Referendum
+[FEEDBACK]: The response provided is incorrect. The correct answer, as indicated by the reference answer, is "referendum." The response incorrectly identifies "petition" as the method for proposing changes to the Constitution. The explanation provided for each option is detailed and accurate in describing what each term means, but it does not align with the correct answer according to the reference. Therefore, the response is mostly incorrect and inaccurate based on the reference answer.
+[RESULT]: 2

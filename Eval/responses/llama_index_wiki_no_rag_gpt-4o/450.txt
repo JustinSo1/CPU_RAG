@@ -1,0 +1,5 @@
+[PROMPT]: Where do joeys complete postnatal development?
+[USER_ANSWER]: Joeys, which are young marsupials such as kangaroos and koalas, complete their postnatal development in their mother's pouch. After birth, which occurs at a very early stage of development, the tiny joey crawls into the mother's pouch where it latches onto a teat. It continues to grow and develop in the safe and nurturing environment of the pouch until it is mature enough to emerge and face the outside world.
+[CORRECT_ANSWER]: marsupium
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of where joeys complete their postnatal development, specifying that it occurs in their mother's pouch. However, the reference answer is more concise, using the term "marsupium," which is the scientific term for the pouch. While the response is accurate, it could be improved by using the precise term "marsupium" to align perfectly with the reference answer.
+[RESULT]: 4

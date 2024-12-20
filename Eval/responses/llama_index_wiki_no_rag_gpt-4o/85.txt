@@ -1,0 +1,5 @@
+[PROMPT]: Can beetles be found in almost all habitats?
+[USER_ANSWER]: Yes, beetles are one of the most diverse and adaptable groups of insects and can be found in almost all habitats around the world. They inhabit environments ranging from forests, grasslands, and deserts to freshwater and coastal ecosystems. Some beetles have even adapted to extreme conditions, like high altitudes and arid regions. Their vast diversity in form and function allows them to exploit a wide variety of ecological niches, making them one of the most successful groups of organisms on the planet.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the adaptability and diversity of beetles, explaining their presence in various habitats around the world. This additional information, while not necessary, does not detract from the correctness of the answer. The response aligns with the reference answer by affirming that beetles can be found in almost all habitats.
+[RESULT]: 5

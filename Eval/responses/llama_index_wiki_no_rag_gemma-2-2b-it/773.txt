@@ -1,0 +1,8 @@
+[PROMPT]: Is singapore the 17th wealthiest country in the world in terms of gdp per capita?
+[USER_ANSWER]: 
+
+I'm looking for a reliable source to confirm this information.
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response does not directly answer the question and instead indicates a need for further verification. It does not provide any factual information or confirmation regarding Singapore's ranking in terms of GDP per capita. Therefore, it does not meet the criteria for correctness, accuracy, and factuality based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,17 @@
+[PROMPT]: What is cause of polar bear's skin diseases?
+[USER_ANSWER]: Polar bears can suffer from skin diseases due to various causes, including:
+
+1. **Environmental Contaminants:** Exposure to pollutants such as polychlorinated biphenyls (PCBs) and other industrial chemicals can weaken their immune systems and make them more susceptible to skin infections.
+
+2. **Climate Change:** As the Arctic environment changes, the bears' habitats are affected, leading to increased stress and potential exposure to new pathogens or parasites. Diminished sea ice forces bears to spend more time on land, potentially increasing contact with disease vectors.
+
+3. **Parasitic Infections:** Polar bears can suffer from parasitic infestations, such as mites, which can cause mange and other skin conditions.
+
+4. **Nutritional Stress:** Limited access to their primary prey, seals, can lead to nutritional deficiencies, weakening their immune systems and making them more prone to infections and skin diseases.
+
+5. **Human Interaction:** Increased contact with humans and domestic animals can introduce new pathogens to polar bear populations, leading to outbreaks of skin diseases that the bears are not equipped to handle.
+
+Addressing these issues involves reducing pollution, mitigating climate change, and minimizing human-wildlife conflicts to help maintain polar bear health and their Arctic ecosystem.
+[CORRECT_ANSWER]: mites or other parasites
+[FEEDBACK]: The response provides a detailed and accurate explanation of various causes of polar bear skin diseases, including environmental contaminants, climate change, parasitic infections, nutritional stress, and human interaction. While the reference answer is very brief, mentioning only mites or other parasites, the response expands on this by including additional relevant factors that can contribute to skin diseases in polar bears. This demonstrates a comprehensive understanding of the topic and aligns well with the reference answer, though it goes beyond the simplicity of the reference.
+[RESULT]: 4

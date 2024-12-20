@@ -1,0 +1,18 @@
+[PROMPT]: What is the life expectancy for men in Finland?
+[USER_ANSWER]: 
+
+Finland has a high life expectancy for men, with an average of **79.7 years**. 
+
+It's important to note that this is just an average, and individual life expectancy can vary depending on factors such as:
+
+* **Age at birth:** Men born later in the year tend to have a slightly lower life expectancy than those born earlier.
+* **Socioeconomic status:** Men from higher socioeconomic backgrounds tend to have a longer life expectancy.
+* **Health conditions:** Men with certain health conditions may have a shorter life expectancy.
+* **Lifestyle choices:** Men who engage in healthy habits, such as regular exercise and a balanced diet, tend to have a longer life expectancy.
+
+
+It's also worth noting that Finland has a strong healthcare system, which contributes to its high life expectancy. 
+
+[CORRECT_ANSWER]: 75 years
+[FEEDBACK]: The response provides an incorrect life expectancy for men in Finland, stating it as 79.7 years, whereas the reference answer indicates it is 75 years. While the response includes additional relevant information about factors affecting life expectancy and the healthcare system, the primary fact requested is incorrect. Therefore, the response is mostly incorrect and inaccurate based on the reference answer.
+[RESULT]: 2

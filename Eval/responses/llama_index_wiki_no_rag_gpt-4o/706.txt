@@ -1,0 +1,5 @@
+[PROMPT]: Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?
+[USER_ANSWER]: Yes, Qatar, officially known as the State of Qatar (Arabic: دولة قطر, transliterated as Dawlat Qatar), is an Arab emirate located in Southwest Asia. It is situated on the northeastern coast of the Arabian Peninsula, bordering Saudi Arabia to the south and surrounded by the Persian Gulf on the other sides.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional information about Qatar's location and borders, which is accurate. However, the reference answer is very brief and only confirms the statement, while the response goes beyond what was asked. This additional information, while correct, is not necessary for the task at hand. Therefore, the response is mostly correct but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

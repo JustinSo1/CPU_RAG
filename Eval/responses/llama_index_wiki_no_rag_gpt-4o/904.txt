@@ -1,0 +1,5 @@
+[PROMPT]: Where was Woodrow Wilson born?
+[USER_ANSWER]: Woodrow Wilson was born in Staunton, Virginia, on December 28, 1856.
+[CORRECT_ANSWER]: Woodrow Wilson was born in Staunton, Virginia
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact location of Woodrow Wilson's birth, Staunton, Virginia, and adds the additional detail of his birth date, December 28, 1856, which is accurate and enhances the completeness of the answer.
+[RESULT]: 5

@@ -1,0 +1,19 @@
+[PROMPT]: Was Calvin Coolidge Republican?
+[USER_ANSWER]: 
+
+**Answer:** Yes, Calvin Coolidge was a staunch Republican.
+
+**Explanation:**
+
+* **Political Affiliation:** Calvin Coolidge was a member of the Republican Party throughout his political career. He served as the 30th President of the United States from 1923 to 1929.
+* **Republican Ideals:** Coolidge's political philosophy aligned closely with the core principles of the Republican Party, including:
+    * **Limited Government:** He believed in a smaller government with less intervention in the economy.
+    * **Free Markets:** He supported free-market principles and opposed government regulation of businesses.
+    * **Individual Liberty:** He emphasized individual rights and limited government interference in personal choices.
+* **Policies:** Coolidge's policies reflected his Republican beliefs. He implemented policies that promoted economic growth, reduced taxes, and limited government spending.
+
+**In conclusion:** Calvin Coolidge was a staunch Republican who believed in limited government, free markets, and individual liberty. His policies reflected these core Republican principles.
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It clearly states that Calvin Coolidge was a Republican and provides detailed explanations and evidence to support this claim. The additional information about his political philosophy and policies aligns with historical facts and enhances the response's accuracy.
+[RESULT]: 5

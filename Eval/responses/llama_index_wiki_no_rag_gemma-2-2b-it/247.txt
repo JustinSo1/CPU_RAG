@@ -1,0 +1,14 @@
+[PROMPT]: For how long was Ford a member of the House of Representatives?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Ford served in the House of Representatives for **1 term**. 
+
+**Explanation:**
+
+Gerald Ford served as the 38th President of the United States, not as a member of the House of Representatives. 
+
+[CORRECT_ANSWER]: Over eight years.
+[FEEDBACK]: The response is completely incorrect and inaccurate. Gerald Ford served in the House of Representatives for over 24 years, not just one term. Additionally, the explanation provided is incorrect as it states that Ford did not serve in the House of Representatives, which is factually wrong.
+[RESULT]: 1

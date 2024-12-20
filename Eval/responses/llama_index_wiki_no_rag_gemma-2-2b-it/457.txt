@@ -1,0 +1,8 @@
+[PROMPT]: What is the average life expectancy of a kangaroo?
+[USER_ANSWER]: 
+
+The average life expectancy of a kangaroo is **10-15 years**. 
+
+[CORRECT_ANSWER]: 4.6 years
+[FEEDBACK]: The response "The average life expectancy of a kangaroo is 10-15 years" is completely incorrect and inaccurate based on the reference answer, which states that the average life expectancy is 4.6 years. The provided range of 10-15 years is significantly higher than the factual average life expectancy.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: How many species of otter are there?
+[USER_ANSWER]: There are 13 recognized species of otters. They belong to the family Mustelidae and are spread across various regions of the world, including North and South America, Europe, Africa, and Asia. The species differ in size, habitat, and behavior, but all are known for their playful nature and aquatic adaptations.
+[CORRECT_ANSWER]: 13
+[FEEDBACK]: The response correctly states that there are 13 recognized species of otters, which aligns with the reference answer. However, the additional information about the family Mustelidae, their distribution, and characteristics, while accurate, is not necessary for the answer. The extra details do not detract from the correctness of the response but are not required to meet the criteria of the task. Therefore, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

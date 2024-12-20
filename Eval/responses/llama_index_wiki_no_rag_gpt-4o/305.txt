@@ -1,0 +1,5 @@
+[PROMPT]: To what genus does the gray wolf belong?
+[USER_ANSWER]: The gray wolf belongs to the genus *Canis*.
+[CORRECT_ANSWER]: Canis
+[FEEDBACK]: The response "The gray wolf belongs to the genus *Canis*." is completely correct, accurate, and factual based on the reference answer "Canis." The additional context provided does not detract from the accuracy of the information.
+[RESULT]: 5

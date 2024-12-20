@@ -1,0 +1,5 @@
+[PROMPT]: What arrived in Britain?
+[USER_ANSWER]: Could you provide more context or specify what you are referring to? Are you asking about a specific event, shipment, historical event, or something else?
+[CORRECT_ANSWER]: The first Canadian Army units in WW II
+[FEEDBACK]: The response does not provide any factual information related to the reference answer, which is "The first Canadian Army units in WW II." Instead, it asks for more context or clarification, which does not address the question directly or provide any accurate information about what arrived in Britain. Therefore, it is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

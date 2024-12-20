@@ -1,0 +1,15 @@
+[PROMPT]: What is the primary domestic source of water supply?
+[USER_ANSWER]: The primary domestic sources of water supply can vary depending on the region and local infrastructure. However, the most common sources include:
+
+1. **Groundwater:** Extracted through wells and boreholes, groundwater is a significant source of domestic water supply in many areas, especially where surface water is scarce.
+
+2. **Surface Water:** This includes rivers, lakes, and reservoirs. Surface water is often treated to ensure it is safe for domestic use.
+
+3. **Rainwater Harvesting:** In some regions, especially those facing water scarcity, rainwater is collected and stored for domestic use.
+
+4. **Desalination:** In coastal areas with limited freshwater sources, desalination of seawater can provide a significant portion of the domestic water supply.
+
+The specific primary source can depend on geographic, climatic, and technological factors unique to each region.
+[CORRECT_ANSWER]: The primary domestic source of water supply in Singapore is rainfall.
+[FEEDBACK]: The response provides a detailed and accurate overview of various domestic water sources, including groundwater, surface water, rainwater harvesting, and desalination. However, it does not directly address the specific primary domestic source of water supply in Singapore, which is rainfall, as stated in the reference answer. Therefore, while the information is generally correct and factual, it does not align with the specific context of the question.
+[RESULT]: 3

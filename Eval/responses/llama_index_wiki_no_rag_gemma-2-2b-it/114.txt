@@ -1,0 +1,20 @@
+[PROMPT]: Did France cede nearly all of its colonies in Europe in 1763?
+[USER_ANSWER]: 
+
+No, France did not cede nearly all of its colonies in Europe in 1763. 
+
+Here's why:
+
+* **The Treaty of Paris (1763)** ended the Seven Years' War (also known as the French and Indian War).  This treaty did result in France losing significant territories in North America, but not all of its European colonies.
+* **France retained significant territories in Europe:**  France still held territories in Europe, including parts of:
+    * **North Africa:**  Algeria, Morocco, and Tunisia
+    * **The Caribbean:**  Guadeloupe, Martinique, and Saint-Domingue (Haiti)
+    * **The Mediterranean:**  Corsica, the French islands of the Mediterranean Sea
+    * **The Indian Ocean:**  French Indochina (Vietnam, Cambodia, Laos)
+* **The Seven Years' War was a major turning point:** The war significantly weakened France's power and influence in Europe and the Americas. 
+
+**In summary:** While the Treaty of Paris did result in significant territorial losses for France, it did not cede nearly all of its colonies in Europe. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The question specifically asks about France's European colonies in 1763, and the response incorrectly lists territories outside of Europe, such as North Africa, the Caribbean, and the Indian Ocean. The reference answer is a simple "Yes," indicating that France did cede nearly all of its European colonies in 1763, which the response fails to acknowledge. The response also includes irrelevant information about the Seven Years' War and its impact on France's power, which does not directly address the question.
+[RESULT]: 2

@@ -1,0 +1,25 @@
+[PROMPT]: Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Yes, that is correct. 
+
+**Explanation:**
+
+Romania is a semi-presidential democratic republic. This means:
+
+* **Semi-presidential:** The executive power is shared between a president and a prime minister. The president is the head of state, while the prime minister is the head of government.
+* **Democratic:** The country has free and fair elections, and citizens have the right to vote.
+* **Republic:** The country is governed by a constitution and a system of elected representatives.
+
+**Key Roles:**
+
+* **President:**  The president is the head of state, responsible for foreign policy, defense, and appointing the prime minister. They also have a ceremonial role and represent Romania internationally.
+* **Prime Minister:** The prime minister is the head of government, responsible for day-to-day administration, leading the cabinet, and implementing policies. They are chosen by the parliament and are accountable to it.
+
+This system ensures a balance of power between the executive and legislative branches, promoting stability and accountability. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Romania is a semi-presidential democratic republic where executive functions are shared between the president and the prime minister. The explanation provided is detailed and aligns with the reference answer, elaborating on the roles of the president and prime minister, and the nature of Romania's political system. This additional information, while not necessary, does not detract from the correctness of the response.
+[RESULT]: 5

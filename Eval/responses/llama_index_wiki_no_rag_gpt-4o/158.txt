@@ -1,0 +1,5 @@
+[PROMPT]: Is foie gras often made from ducks?
+[USER_ANSWER]: Yes, foie gras is often made from ducks, as well as from geese. The term "foie gras" translates to "fatty liver" in French and refers to the liver of a duck or goose that has been specially fattened. This is typically achieved through a process known as gavage, where the birds are fed a high-starch diet through a tube to enlarge their livers. Both duck foie gras and goose foie gras are considered delicacies, though duck foie gras is generally more common and more affordable than goose foie gras.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional context and details about foie gras, including the fact that it is made from both ducks and geese, the meaning of the term "foie gras," and the process of gavage. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

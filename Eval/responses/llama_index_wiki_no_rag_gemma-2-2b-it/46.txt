@@ -1,0 +1,10 @@
+[PROMPT]: Was Celsius born in Uppsala in Sweden?
+[USER_ANSWER]: 
+
+No, Celsius was not born in Uppsala, Sweden. 
+
+Celsius was named after **the Swedish scientist Anders Celsius**, who was a professor of astronomy and physics at the University of Uppsala. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer clearly states "Yes," indicating that Celsius was indeed born in Uppsala, Sweden. The response incorrectly states "No" and provides additional information that is not relevant to the question. Therefore, the response does not align with the reference answer and fails to provide correct information about Celsius's birthplace.
+[RESULT]: 2

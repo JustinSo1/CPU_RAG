@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that each penguin gets a turn in the center?
+[USER_ANSWER]: Yes, it is generally true that penguins, especially those in cold climates like Emperor Penguins, take turns rotating in and out of the center of their huddles. This behavior helps them conserve heat. By rotating, all members of the group get a chance to stay warm in the center and avoid prolonged exposure to the colder outer edges. This cooperative behavior is crucial for their survival in extreme temperatures.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional context about penguin behavior, specifically mentioning Emperor Penguins and their rotation in huddles to conserve heat. However, the reference answer is a simple "Yes," which is completely correct and factual. The evaluated response, while informative, goes beyond the simplicity of the reference answer.
+[RESULT]: 4

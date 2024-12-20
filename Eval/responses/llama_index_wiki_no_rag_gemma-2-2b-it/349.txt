@@ -1,0 +1,15 @@
+[PROMPT]: Is Indonesia a monarchy with a presidential system?
+[USER_ANSWER]: 
+
+Indonesia is a **republic** with a **presidential system**. 
+
+Here's why:
+
+* **Republic:** Indonesia is not a monarchy. It is a republic, meaning the head of state is a president, not a king.
+* **Presidential System:** The president is the head of state and head of government. They are elected directly by the people and have significant power in the country's political system. 
+
+Let me know if you have any other questions about Indonesia! 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Indonesia as a republic with a presidential system, which aligns with the factual nature of the reference answer. However, the reference answer is very concise, simply stating "no," while the evaluated response provides additional context and explanation. This additional information, while accurate, goes beyond the simplicity of the reference answer. Therefore, while the response is factually correct, it is not completely aligned with the reference answer's brevity.
+[RESULT]: 4

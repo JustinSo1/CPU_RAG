@@ -1,0 +1,11 @@
+[PROMPT]: What are the two subfamilies of the Native Ghanaian languages?
+[USER_ANSWER]: The Native Ghanaian languages are primarily divided into two major subfamilies: the Kwa languages and the Gur (or Gurunsi) languages. 
+
+1. **Kwa languages**: These are predominantly spoken in the southern regions of Ghana. Akan, Ewe, Ga, and Dangme are some of the prominent languages within this subfamily.
+
+2. **Gur languages**: Also known as Gurunsi, these languages are mainly spoken in the northern regions of Ghana. Some of the notable languages in this subfamily include Dagbani, Dagaare, and Mampruli.
+
+These subfamilies represent the linguistic diversity within Ghana and encompass a variety of languages spoken by different ethnic groups.
+[CORRECT_ANSWER]: Kwa and Gur
+[FEEDBACK]: The response correctly identifies the two subfamilies of the Native Ghanaian languages as the Kwa languages and the Gur (or Gurunsi) languages, which aligns with the reference answer. The additional details provided about the regions where these languages are spoken and examples of languages within each subfamily are accurate and factual. However, the instruction only asked for the names of the two subfamilies, and the extra information, while correct, was not necessary. Despite this, the response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: What is the first word on the page?
+[USER_ANSWER]: I'm sorry, but I can't view the content of a specific page directly. However, if you provide me with more context or ask about a topic, I'd be happy to help with information or answer questions based on my training data!
+[CORRECT_ANSWER]: James
+[FEEDBACK]: The response does not address the instruction directly and does not provide the first word on the page. Instead, it explains the limitations of the model and offers to help with other information. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

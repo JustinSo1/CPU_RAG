@@ -1,0 +1,11 @@
+[PROMPT]: Do kangaroos have many natural predators?
+[USER_ANSWER]: Kangaroos have relatively few natural predators, especially in their adult form, due to their size and strength. However, young kangaroos, known as joeys, are more vulnerable. Natural predators of kangaroos include:
+
+1. Dingoes – These wild dogs are one of the primary natural predators of kangaroos in Australia.
+2. Large birds of prey – Eagles and other large birds can prey on young joeys.
+3. Crocodiles – In northern Australia, saltwater and freshwater crocodiles can prey on kangaroos when they come to drink or cross waterways.
+
+Humans are also significant predators of kangaroos, hunting them for their meat and hides, and occasionally culling them to manage populations. Other than these, adult kangaroos face few threats from predators due to their powerful legs and ability to deliver strong kicks in self-defense.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response provides a detailed and accurate account of the natural predators of kangaroos, including dingoes, large birds of prey, and crocodiles. It also mentions humans as significant predators. However, the reference answer is simply "no," which suggests that the expected response should be a straightforward negation rather than a detailed explanation. While the response is factually correct, it does not align with the simplicity and directness of the reference answer. Therefore, it does not fully meet the criteria for complete correctness based on the reference answer.
+[RESULT]: 3

@@ -1,0 +1,12 @@
+[PROMPT]: What year did Coolidge open his own law office?
+[USER_ANSWER]: 
+
+Calvin Coolidge, the 30th President of the United States, did not open his own law office. He was a lawyer, but he never practiced law independently. 
+
+He served as a lawyer in the Massachusetts state legislature and later as a lawyer for the city of Northampton. 
+
+He was a successful lawyer, but he never opened his own law office. 
+
+[CORRECT_ANSWER]: 1898
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that Coolidge opened his own law office in 1898, while the response incorrectly claims that he never opened his own law office and provides unrelated information about his career.
+[RESULT]: 1

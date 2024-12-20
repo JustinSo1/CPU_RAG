@@ -1,0 +1,18 @@
+[PROMPT]: Are there cathedrals scattered all across Finland?
+[USER_ANSWER]: 
+
+No, there aren't any cathedrals scattered all across Finland. 
+
+Finland has a rich history and culture, but it's not known for having a large number of cathedrals. 
+
+Here's why:
+
+* **Historically:** Finland's history is marked by a strong Lutheran tradition. This means that the country's churches were primarily built and maintained by the Lutheran Church. 
+* **Geography:** Finland is a relatively sparsely populated country with a vast amount of wilderness. This makes it difficult to build and maintain large, elaborate structures like cathedrals.
+* **Modern times:** While Finland still has a strong Christian presence, the country has moved away from the traditional emphasis on large, centralized churches. 
+
+Instead of cathedrals, Finland has many beautiful and historic churches of various sizes and styles. These churches are often smaller and more intimate, reflecting the country's unique cultural and religious landscape. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer simply states "Yes," indicating that there are cathedrals scattered across Finland. The response provided not only contradicts this by saying there aren't any cathedrals scattered across Finland but also provides an explanation that is not aligned with the reference answer. Therefore, the response fails to meet the criteria for correctness, accuracy, and factuality as per the score rubric.
+[RESULT]: 1

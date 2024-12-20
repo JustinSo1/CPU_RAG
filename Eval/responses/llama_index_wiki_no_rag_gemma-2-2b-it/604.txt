@@ -1,0 +1,17 @@
+[PROMPT]: How do otters keep themselves warm without blubber?
+[USER_ANSWER]: 
+
+Otters don't have blubber, but they have a thick layer of fur that helps them stay warm. 
+
+Here's how it works:
+
+* **Fur:** Otters have dense, waterproof fur that traps air close to their bodies. This air acts as insulation, keeping them warm in cold water.
+* **Body Shape:** Their streamlined bodies also help them conserve heat.
+* **Active Lifestyle:** Otters are active animals, which helps them generate their own body heat.
+* **Social Behavior:** They huddle together for warmth, especially during cold weather.
+
+So, while otters don't have blubber, they have other adaptations that help them stay warm in cold water. 
+
+[CORRECT_ANSWER]: A layer of air trapped in their fur.  
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes how otters keep themselves warm without blubber by mentioning their dense, waterproof fur that traps air close to their bodies, which acts as insulation. This aligns with the reference answer. Additionally, the response provides extra information about their body shape, active lifestyle, and social behavior, which, while not mentioned in the reference answer, are factual and relevant to the topic. However, the extra details, while accurate, are not necessary to meet the criteria of the reference answer.
+[RESULT]: 4

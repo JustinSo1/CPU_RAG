@@ -1,0 +1,23 @@
+[PROMPT]: Were the Leopard men a West African secret society who practised cannibalism ?
+[USER_ANSWER]: 
+
+The Leopard men are a fascinating and terrifying figure in folklore, but their origins and practices are shrouded in mystery. 
+
+**Origins and Beliefs:**
+
+* **West African Roots:** The Leopard men are most commonly associated with West Africa, particularly the Congo Basin.
+* **Spiritual Beliefs:** Their beliefs are often linked to animism and ancestor worship. They are believed to be spirits or guardians of the forest, possessing supernatural powers.
+* **Ritualistic Practices:** They are said to engage in rituals and ceremonies, often involving animal sacrifice.
+
+**Cannibalism:**
+
+* **Historical Accounts:** There are historical accounts of Leopard men engaging in cannibalism, but these are often exaggerated or based on hearsay.
+* **Cultural Context:** It's important to consider the cultural context of these accounts. Cannibalism was not uncommon in some parts of Africa, but it was not necessarily a defining characteristic of all Leopard men societies.
+* **Modern Interpretations:** Modern interpretations of Leopard men often focus on their spiritual significance and connection to nature, rather than their supposed cannibalistic practices.
+
+**Conclusion:**
+
+While the Leopard men are a captivating part of West African folklore, their origins and practices remain largely unknown. The historical accounts of cannibalism should be viewed with caution
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed and nuanced discussion about the Leopard men, including their origins, beliefs, and practices. However, it does not directly answer the question posed in the instruction. The reference answer is a simple "Yes," indicating that the Leopard men were indeed a West African secret society who practiced cannibalism. The response, while informative, suggests that the accounts of cannibalism are exaggerated or based on hearsay and emphasizes the spiritual significance of the Leopard men. This makes the response somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

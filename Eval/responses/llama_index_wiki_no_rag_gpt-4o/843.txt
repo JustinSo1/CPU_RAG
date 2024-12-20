@@ -1,0 +1,5 @@
+[PROMPT]: Who did President Lincoln promote of major general in the regular army, effective July 4?
+[USER_ANSWER]: President Abraham Lincoln promoted Ulysses S. Grant to the rank of Major General in the regular army, effective July 4, 1863. This promotion came after Grant's successful campaign and victory at the Battle of Vicksburg, which was a significant turning point in the Civil War.
+[CORRECT_ANSWER]: Grant
+[FEEDBACK]: The response correctly identifies Ulysses S. Grant as the person promoted by President Lincoln to the rank of Major General in the regular army, effective July 4. However, the additional details about the date (1863) and the context of the promotion (Battle of Vicksburg) are not necessary for the answer and are not mentioned in the reference answer. While these details are accurate, they are extraneous to the specific question asked. Therefore, the response is mostly correct, accurate, and factual, but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

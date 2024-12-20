@@ -1,0 +1,5 @@
+[PROMPT]: Is Romania a semi-presidential unitary state?
+[USER_ANSWER]: Yes, Romania is classified as a semi-presidential unitary state. This means that the country has both a president and a prime minister who share executive powers. The president is elected by popular vote, while the prime minister is appointed by the president and typically comes from the majority party or coalition in the parliament. In a unitary state, the central government holds significant power, with any administrative divisions (such as counties or municipalities) exercising only powers that the central government chooses to delegate.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Romania as a semi-presidential unitary state and provides additional details about the roles of the president and prime minister, as well as the nature of a unitary state. However, the reference answer is very concise, and the additional information, while accurate, is not necessary to answer the question directly.
+[RESULT]: 4

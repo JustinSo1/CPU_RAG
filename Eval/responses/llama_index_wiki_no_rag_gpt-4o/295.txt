@@ -1,0 +1,11 @@
+[PROMPT]: What kinds of coats do wolves have?
+[USER_ANSWER]: Wolves have two main types of coats that help them survive in various climates: the undercoat and the outer coat.
+
+1. **Undercoat**: This is the dense, insulating layer of fur that lies closest to the wolf's body. It is soft and provides excellent insulation, keeping the wolf warm in cold temperatures. The undercoat is particularly important during the winter months.
+
+2. **Outer coat (Guard hairs)**: The outer coat consists of longer, coarser hairs that protect the undercoat from dirt, moisture, and injury. These guard hairs are more weather-resistant and help repel water and snow, keeping the undercoat dry and effective.
+
+Together, these two layers provide wolves with the protection and insulation they need to endure a wide range of environmental conditions. During seasonal changes, wolves shed their coats to adjust to varying temperatures—shedding the thicker winter coat in spring and growing it back in preparation for winter.
+[CORRECT_ANSWER]: bulky coats with two layers
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the two main types of coats that wolves have: the undercoat and the outer coat. The explanation includes the functions of each coat, how they help wolves survive in various climates, and the seasonal shedding process. This level of detail aligns well with the reference answer, which mentions the two layers of the coat.
+[RESULT]: 5

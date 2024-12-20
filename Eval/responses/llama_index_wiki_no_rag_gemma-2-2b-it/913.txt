@@ -1,0 +1,22 @@
+[PROMPT]: What lived in Columbia?
+[USER_ANSWER]: 
+
+It's a bit tricky to answer this question definitively because "lived" can mean different things!  
+
+Here are some possibilities, depending on what you mean:
+
+**Historically:**
+
+* **Indigenous Peoples:**  The land that is now Columbia was inhabited by many different Indigenous groups for thousands of years before European contact. These groups included the **Cherokee, Shawnee, Iroquois, and many others.**
+* **Spanish Colonizers:**  The Spanish arrived in the 16th century and established colonies in what is now Columbia.  
+* **British Colonizers:**  The British took control of the region in the 18th century.
+* **Slaves:**  The transatlantic slave trade brought enslaved Africans to the Americas, and many were brought to the region that is now Columbia.
+* **People of European descent:**  As the region was colonized, people of European descent, including those from Spain, Britain, France, and other countries, settled there.
+
+**Today:**
+
+* **Colombians:**  The modern-day population of Colombia is diverse, with people of various ethnicities, religions, and backgrounds. 
+* **Animals:**  Colombia is a biodiversity hotspot, and the country is home to a wide variety
+[CORRECT_ANSWER]: Wilson
+[FEEDBACK]: The response provided is not correct, accurate, or factual based on the reference answer. The reference answer simply states "Wilson," which implies a specific individual or entity named Wilson lived in Columbia. The response, however, discusses various groups and populations that lived in Colombia, which is not aligned with the reference answer. Therefore, the response is completely incorrect and does not match the reference answer in any way.
+[RESULT]: 1

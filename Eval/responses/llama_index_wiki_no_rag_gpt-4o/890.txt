@@ -1,0 +1,5 @@
+[PROMPT]: Was Woodrow Wilson the thirtieth President of the United States?
+[USER_ANSWER]: No, Woodrow Wilson was the 28th President of the United States. He served from 1913 to 1921. The 30th President was Calvin Coolidge, who served from 1923 to 1929.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Woodrow Wilson as the 28th President of the United States and provides additional accurate information about his term and the 30th President, Calvin Coolidge. This level of detail exceeds the simplicity of the reference answer but remains entirely factual and accurate.
+[RESULT]: 5

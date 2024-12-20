@@ -1,0 +1,5 @@
+[PROMPT]: When did John Adams serve as Vice President?
+[USER_ANSWER]: John Adams served as the first Vice President of the United States from April 21, 1789, to March 4, 1797. He served under President George Washington for two terms before becoming the second President of the United States.
+[CORRECT_ANSWER]: 1789-1797
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides the correct time frame during which John Adams served as Vice President (1789-1797). However, it includes additional details such as the exact dates (April 21, 1789, to March 4, 1797) and the fact that he served under President George Washington for two terms before becoming the second President of the United States. While these details are accurate, they go beyond the concise information provided in the reference answer. The core information is correct, but the additional details are not necessary for the specific question asked.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Was Roosevelt's family rich?
+[USER_ANSWER]: Yes, Franklin D. Roosevelt came from a wealthy and prominent family. The Roosevelts were part of the upper class in New York society. His father, James Roosevelt I, was a successful businessman and landowner. His mother, Sara Ann Delano, also came from a wealthy family. This affluent background provided Franklin D. Roosevelt with numerous opportunities, including an elite education at Groton School, Harvard College, and later Columbia Law School. This privileged upbringing played a significant role in shaping his future political career.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about Franklin D. Roosevelt's wealthy family background, including specifics about his parents and the opportunities his affluence afforded him. This aligns well with the reference answer, which simply states "yes." The additional details enhance the response without introducing any inaccuracies.
+[RESULT]: 5

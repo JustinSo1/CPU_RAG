@@ -1,0 +1,5 @@
+[PROMPT]: What traps a layer of air, and keeps them dry and warm under water?
+[USER_ANSWER]: A wetsuit traps a layer of water between the suit and the wearer's skin, which is then warmed by the body heat, providing insulation. However, for keeping dry underwater specifically, a drysuit is used. A drysuit seals at the wrists and neck and has a watertight zipper, preventing water entry and trapping a layer of air inside, which helps keep the wearer both dry and warm.
+[CORRECT_ANSWER]: Long guard hair
+[FEEDBACK]: The response provided is not aligned with the reference answer. The reference answer indicates that "long guard hair" is what traps a layer of air and keeps them dry and warm under water. The response discusses wetsuits and drysuits, which are not relevant to the question about what naturally traps air. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

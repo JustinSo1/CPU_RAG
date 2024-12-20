@@ -1,0 +1,19 @@
+[PROMPT]: What type of tools do biologists use to capture wolves for tagging?
+[USER_ANSWER]: Biologists use a variety of tools and techniques to capture wolves for tagging, ensuring minimal stress and harm to the animals. Some of the commonly used methods include:
+
+1. **Tranquilizer Darts**: These darts are used to safely sedate wolves from a distance. They are typically delivered using a dart gun or rifle.
+
+2. **Foot-Hold Traps**: Specially designed padded or rubber-lined traps are used to capture wolves without injuring them. These traps are checked frequently to ensure the captured animal does not remain in the trap for too long.
+
+3. **Box Traps**: These are large, baited enclosures that capture wolves alive. They are generally used in areas where wolves are more likely to enter the trap out of curiosity or hunger.
+
+4. **Helicopter Netting**: In some cases, biologists use helicopters to locate wolves and then capture them using a net gun. This method allows for quick and efficient capture, especially in open terrain where other methods might be less effective.
+
+5. **Snares**: Cable snares are sometimes used, although they must be carefully monitored to prevent injury. These snares are designed to capture the wolf by the neck or foot.
+
+6. **Chemical Immobilization**: Once a wolf is captured using any of the above methods, it may be further sedated with injectable drugs to ensure it remains calm and still during the tagging process.
+
+These methods are employed by trained professionals who follow strict guidelines to ensure the safety and well-being of the wolves.
+[CORRECT_ANSWER]: Darting and Foot hold traps.
+[FEEDBACK]: The response provides a detailed and accurate list of tools and techniques used by biologists to capture wolves for tagging. It includes tranquilizer darts, foot-hold traps, box traps, helicopter netting, snares, and chemical immobilization. While the reference answer only mentions darting and foot-hold traps, the response expands on these methods and includes additional relevant techniques. The information is correct and factual, aligning with the reference answer, though it is more comprehensive.
+[RESULT]: 4

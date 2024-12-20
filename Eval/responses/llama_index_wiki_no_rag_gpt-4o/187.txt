@@ -1,0 +1,15 @@
+[PROMPT]: When were the Great Sphinx and the Pyramids of Giza built?
+[USER_ANSWER]: The Great Sphinx and the Pyramids of Giza in Egypt were constructed during the Old Kingdom period of Ancient Egypt.
+
+1. **The Great Pyramid of Giza (Pyramid of Khufu/Cheops)**: It is the largest of the three pyramids and was built for the Pharaoh Khufu (Cheops in Greek). It is believed to have been constructed over a 20-year period concluding around 2560 BCE.
+
+2. **The Pyramid of Khafre (Chephren)**: The second pyramid was built for Pharaoh Khafre, the son of Khufu. The construction dates are generally placed around 2520 BCE.
+
+3. **The Pyramid of Menkaure (Mykerinos)**: The smallest of the three pyramids was built for Pharaoh Menkaure. It is thought to have been completed around 2490 BCE.
+
+4. **The Great Sphinx of Giza**: This monumental statue, which has the body of a lion and the head of a pharaoh (believed to represent Pharaoh Khafre), is thought to have been built around the same time as the Pyramid of Khafre, circa 2520 BCE.
+
+These dates are approximate and are based on current archaeological and historical evidence.
+[CORRECT_ANSWER]: During the Old Kingdom.
+[FEEDBACK]: The response provides detailed and accurate information about the construction periods of the Great Sphinx and the Pyramids of Giza, including specific dates and the pharaohs for whom they were built. This information is consistent with historical and archaeological evidence. However, the reference answer is very brief and only mentions the Old Kingdom period, while the response goes into much more detail. Despite this, the response is factually correct and aligns with the reference answer in terms of the time period mentioned.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Is Calvin Jr. older than John Coolidge?
+[USER_ANSWER]: Yes, Calvin Coolidge Jr. was older than John Coolidge. Calvin Coolidge Jr. was born on April 13, 1908, while John Coolidge was born on September 7, 1906. Therefore, John Coolidge was the older of the two brothers.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely incorrect and inaccurate. The instruction asks whether Calvin Jr. is older than John Coolidge, and the correct answer is "No." The response incorrectly states that Calvin Coolidge Jr. was older than John Coolidge and provides incorrect birth dates, which further misleads the reader. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

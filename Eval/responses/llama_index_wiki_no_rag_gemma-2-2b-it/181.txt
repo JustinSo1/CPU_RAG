@@ -1,0 +1,23 @@
+[PROMPT]: Are there a large number of Jews living in Egypt today?
+[USER_ANSWER]: 
+
+The number of Jews living in Egypt today is relatively small, but it is not insignificant. 
+
+Here's a breakdown:
+
+* **Historical Context:** Egypt has a long and complex history with Jewish communities.  There were large Jewish populations in Egypt for centuries, but they were expelled in the 16th century. 
+* **Present Day:**  Today, there are estimated to be around **10,000-15,000 Jews in Egypt**. This is a significant decrease from the past, but it is still a substantial community.
+* **Challenges:**  Like many Jewish communities around the world, Egyptian Jews face challenges such as antisemitism and assimilation. 
+* **Community Life:** Despite these challenges, Egyptian Jews maintain a vibrant community with synagogues, cultural centers, and a strong sense of identity.
+
+It's important to note that the exact number of Jews in Egypt is difficult to determine due to the lack of official statistics and the potential for underreporting. 
+
+
+**For further information:**
+
+* **The Jewish Agency for Israel:** https://www.jewishvirtuallibrary.org/
+* **The World Jewish Congress:** https://www.worldjewishcongress.org/
+* **The Cairo
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that there are not a large number of Jews living in Egypt today, which is a simple and direct "no." However, the response provided an estimate of 10,000-15,000 Jews, which is significantly higher than the actual number, which is believed to be much lower, in the range of a few dozen to a few hundred. The response also includes additional context and details that are not necessary and do not align with the reference answer. Therefore, the response does not meet the criteria for being correct, accurate, and factual.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: Was Grover Cleveland married in the whitehouse?
+[USER_ANSWER]: Yes, Grover Cleveland was married in the White House. He married Frances Folsom on June 2, 1886, in the Blue Room of the White House. This event is notable because Grover Cleveland is the only U.S. President to have been married in the White House.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional details about Grover Cleveland's marriage, including the date, location, and the significance of the event, which are all accurate and relevant to the question. However, the reference answer is very concise, and the additional details, while accurate, are not necessary to meet the criteria of the reference answer.
+[RESULT]: 5

@@ -1,0 +1,17 @@
+[PROMPT]: In 1905 Coolidge met and married whom?
+[USER_ANSWER]: 
+
+The answer is **Grace Goodhue**. 
+
+Here's why:
+
+* **Calvin Coolidge** was the 30th President of the United States.
+* **Grace Goodhue** was a prominent socialite and philanthropist. 
+* They married in 1905. 
+
+
+Let me know if you have any other history questions! 
+
+[CORRECT_ANSWER]: Grace Anna Goodhue
+[FEEDBACK]: The response correctly identifies Grace Goodhue as the person Calvin Coolidge married in 1905. However, the reference answer specifies her full name as "Grace Anna Goodhue," which is slightly more detailed. Despite this minor omission, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

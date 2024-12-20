@@ -1,0 +1,23 @@
+[PROMPT]: Where is the leopard distributed?
+[USER_ANSWER]: Leopards (Panthera pardus) have a broad geographic distribution and are found in various regions across Africa and Asia. Here are some key areas where leopards are distributed:
+
+1. **Sub-Saharan Africa**: Leopards are widespread across sub-Saharan Africa, inhabiting a range of environments, including savannas, grasslands, forests, and mountainous regions.
+
+2. **North Africa**: Small, isolated populations exist in parts of North Africa, such as the Atlas Mountains.
+
+3. **Middle East**: Leopards are found in countries like Iran, Afghanistan, and Pakistan, often in mountainous and rugged terrains.
+
+4. **Central Asia**: They inhabit regions of Turkmenistan, Uzbekistan, and parts of Kazakhstan.
+
+5. **South Asia**: Leopards are widespread throughout India, Sri Lanka, Nepal, Bhutan, and Bangladesh, living in diverse habitats from tropical rainforests to dry deciduous forests.
+
+6. **Southeast Asia**: Populations are present in Myanmar, Thailand, Malaysia, Cambodia, Laos, Vietnam, and parts of Indonesia.
+
+7. **East Asia**: Small populations exist in China and the Russian Far East, particularly in the Amur region where the Amur leopard subspecies is found.
+
+8. **Islands**: Leopards are found in some island regions such as Sri Lanka and Java.
+
+The adaptability of leopards to various habitats, including forests, mountains, grasslands, and savannas, has contributed to their wide distribution. However, their populations are threatened by habitat loss, human-wildlife conflict, and poaching, leading to declining numbers in some regions. Conservation efforts are ongoing to protect and preserve leopard populations across their range.
+[CORRECT_ANSWER]: southern Eurasia and Africa
+[FEEDBACK]: The response provides a detailed and accurate description of the geographic distribution of leopards, covering various regions in Africa and Asia. It includes specific areas and countries, which aligns with the reference answer indicating southern Eurasia and Africa. The response is factual and correct, providing a comprehensive overview of the leopard's distribution.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Was Wilson awarded the 1919 Nobel Peace Prize?
+[USER_ANSWER]: No, Woodrow Wilson was awarded the Nobel Peace Prize in 1919 for his efforts in founding the League of Nations and his work towards achieving peace after World War I.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct and factual in providing details about Woodrow Wilson's Nobel Peace Prize in 1919. However, it incorrectly starts with "No," which contradicts the reference answer. This initial inaccuracy affects the overall correctness of the response.
+[RESULT]: 3

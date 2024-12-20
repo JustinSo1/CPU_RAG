@@ -1,0 +1,8 @@
+[PROMPT]: Is it the world 's largest archipelagic state?
+[USER_ANSWER]:  
+
+**Indonesia** is the world's largest archipelagic state. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Indonesia as the world's largest archipelagic state, which aligns with the reference answer.
+[RESULT]: 5

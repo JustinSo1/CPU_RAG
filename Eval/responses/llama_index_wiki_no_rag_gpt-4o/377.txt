@@ -1,0 +1,5 @@
+[PROMPT]: What is Monroe's daughter's name?
+[USER_ANSWER]: Monroe's daughter is named Mariah.
+[CORRECT_ANSWER]: Maria Hester Monroe Gouverneur
+[FEEDBACK]: The response "Monroe's daughter is named Mariah" is somewhat correct but not entirely accurate. The correct name is "Maria Hester Monroe Gouverneur," and "Mariah" is a close approximation but not the exact name. Therefore, the response lacks full accuracy and completeness.
+[RESULT]: 3

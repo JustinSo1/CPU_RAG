@@ -1,0 +1,5 @@
+[PROMPT]: What was one of the many species described in Linnaeus's 18th-century work, Systema Naturae?
+[USER_ANSWER]: One of the many species described in Carl Linnaeus's 18th-century work, "Systema Naturae," is Homo sapiens, the scientific name for humans. Linnaeus's work laid the foundation for modern biological classification and taxonomy.
+[CORRECT_ANSWER]: Felis pardus
+[FEEDBACK]: The response is correct in identifying Homo sapiens as one of the species described in Linnaeus's "Systema Naturae." However, the reference answer specifies Felis pardus, indicating that the expected answer was a different species. While the response is accurate and factual, it does not align with the reference answer provided. Therefore, it cannot be considered completely correct based on the rubric criteria.
+[RESULT]: 3

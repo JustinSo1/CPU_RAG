@@ -1,0 +1,5 @@
+[PROMPT]: Who won the 1903 Nobel Prize in Physics for discovering radioactivity ?
+[USER_ANSWER]: The 1903 Nobel Prize in Physics was awarded jointly to Antoine Henri Becquerel and to Pierre Curie and Marie Curie. Antoine Henri Becquerel received the prize for his discovery of spontaneous radioactivity, while Pierre Curie and Marie Curie were honored for their joint research on the radiation phenomena.
+[CORRECT_ANSWER]: Henri Becquerel
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Antoine Henri Becquerel as one of the recipients of the 1903 Nobel Prize in Physics for his discovery of spontaneous radioactivity. However, it also includes additional information about Pierre Curie and Marie Curie, who were co-recipients for their joint research on radiation phenomena. While this information is accurate, it goes beyond the scope of the reference answer, which only mentions Henri Becquerel. Therefore, the response is not completely aligned with the reference answer but is still mostly correct and factual.
+[RESULT]: 4

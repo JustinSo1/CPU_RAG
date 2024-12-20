@@ -1,0 +1,5 @@
+[PROMPT]: Is it a winter sports resort?
+[USER_ANSWER]: Could you please provide more context or specify the name of the location or resort you're referring to? There are many winter sports resorts around the world, and I need more information to answer your question accurately.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question "Is it a winter sports resort?" Instead, it asks for more context or specifies the name of the location or resort. While the response is reasonable and seeks clarification, it does not provide a direct answer as the reference answer does. Therefore, it is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 1

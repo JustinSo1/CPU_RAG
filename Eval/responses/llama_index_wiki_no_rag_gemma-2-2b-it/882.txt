@@ -1,0 +1,22 @@
+[PROMPT]: Is Uruguay very common?
+[USER_ANSWER]: 
+
+It's a bit tricky to answer "very common" without knowing what you're referring to. 
+
+**Here's what I can tell you:**
+
+* **Uruguay as a country:** Uruguay is a small country in South America. It's not as common as countries like the United States or China, but it's definitely not unheard of. 
+* **Uruguay as a name:** The name "Uruguay" is a common one, especially in Spanish-speaking countries. It's a beautiful name with a rich history. 
+* **Uruguay as a concept:** The concept of "Uruguay" can be applied to different things, like a lifestyle, a culture, or a way of life. 
+
+**To give you a more specific answer, please tell me:**
+
+* What are you interested in knowing about Uruguay? 
+* Are you asking about its prevalence in a specific context? 
+
+
+Let me know, and I'll do my best to help! 
+
+[CORRECT_ANSWER]: No?
+[FEEDBACK]: The response provided is not aligned with the reference answer, which is a simple "No?" indicating that Uruguay is not very common. The evaluated response goes into unnecessary detail about different aspects of Uruguay, which is not required by the instruction. The response is mostly incorrect and does not directly address the question in the same manner as the reference answer.
+[RESULT]: 2

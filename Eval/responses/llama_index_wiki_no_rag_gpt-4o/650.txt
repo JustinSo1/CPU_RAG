@@ -1,0 +1,11 @@
+[PROMPT]: What happened in a region not quite 2000 km south of the equator 35 mya?
+[USER_ANSWER]: Approximately 35 million years ago, during the late Eocene epoch, a significant event occurred in the region that is now known as Antarctica: the initiation of the Antarctic glaciation. This event marked the beginning of the formation of the Antarctic ice sheet. 
+
+At that time, the Earth's climate was undergoing a major transition from the warm, greenhouse conditions of the earlier Eocene to the cooler, icehouse conditions that characterized the Oligocene epoch. A combination of factors, including changes in atmospheric carbon dioxide levels, ocean circulation patterns, and continental configurations, contributed to the cooling of the planet.
+
+Specifically, the separation of Antarctica from South America and Australia allowed the development of the Antarctic Circumpolar Current. This ocean current effectively isolated Antarctica from the warmer waters to the north, leading to a significant cooling of the continent. As temperatures dropped, ice sheets began to form and expand, fundamentally altering the climate and ecosystems of the region.
+
+This glaciation event had profound implications for global climate, sea levels, and oceanic circulation, and it marked the beginning of a long-term trend toward cooler global temperatures that continued into the Oligocene and beyond.
+[CORRECT_ANSWER]: At least one giant penguin.
+[FEEDBACK]: The response provides a detailed and accurate account of the initiation of the Antarctic glaciation approximately 35 million years ago, which is a significant event in Earth's climatic history. However, the reference answer specifically mentions "at least one giant penguin," which the response does not address. While the response is factually correct and provides valuable information about the period, it does not directly align with the reference answer's focus on giant penguins. Therefore, the response is somewhat correct and factual but does not fully match the reference answer.
+[RESULT]: 3

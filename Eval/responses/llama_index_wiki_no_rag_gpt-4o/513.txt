@@ -1,0 +1,11 @@
+[PROMPT]: Can a panther be any of several species of large felid?
+[USER_ANSWER]: Yes, the term "panther" can refer to several species of large felids. In general, it is most commonly used to describe:
+
+1. **Leopard (Panthera pardus)**: In Africa and Asia, a leopard with a black coat due to a genetic mutation is often called a black panther.
+2. **Jaguar (Panthera onca)**: In the Americas, a jaguar with a black coat is also referred to as a black panther.
+3. **Cougar (Puma concolor)**: In some regions of the United States, particularly in Florida, the term "panther" is used to describe the Florida panther, a subspecies of the cougar.
+
+So, a "panther" is not a separate species but a term that can refer to these different large felids, particularly when they exhibit melanism (a condition that gives them a black or dark-colored coat).
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the term "panther" and its usage to describe several species of large felids, including leopards, jaguars, and cougars. However, the reference answer is very brief and simply states "Yes," which is completely correct and factual. The evaluated response, while informative, goes beyond the simplicity of the reference answer. Therefore, it is mostly correct but not completely aligned with the reference answer's brevity and simplicity.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: What was Canada's most important industry until the 1800s?
+[USER_ANSWER]: Until the 1800s, the fur trade was Canada's most important industry. The fur trade was a significant driver of exploration, settlement, and economic development in the region. European demand for beaver pelts, used to make felt hats, was particularly high, leading to extensive trading networks with Indigenous peoples and the establishment of trading posts by companies like the Hudson's Bay Company and the North West Company.
+[CORRECT_ANSWER]: The fur trade
+[FEEDBACK]: The response accurately identifies the fur trade as Canada's most important industry until the 1800s, which aligns with the reference answer. The additional details provided about the fur trade's impact on exploration, settlement, and economic development, as well as the involvement of European demand and trading companies, are factual and enhance the response. However, the extra information, while accurate, is not necessary to meet the criteria of the reference answer.
+[RESULT]: 5

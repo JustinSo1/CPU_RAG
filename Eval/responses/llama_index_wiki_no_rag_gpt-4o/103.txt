@@ -1,0 +1,5 @@
+[PROMPT]: Did Coolidge get in Amherst College?
+[USER_ANSWER]: Yes, Calvin Coolidge attended Amherst College in Massachusetts. He graduated with honors in 1895. Coolidge went on to have a successful career in law and politics, eventually becoming the 30th President of the United States.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is correct, accurate, and factual. It confirms that Calvin Coolidge attended Amherst College, which aligns with the reference answer. Additionally, it provides extra information about his graduation and subsequent career, which, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

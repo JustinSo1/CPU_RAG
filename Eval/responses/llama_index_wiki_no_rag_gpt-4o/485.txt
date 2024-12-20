@@ -1,0 +1,9 @@
+[PROMPT]: Are large pythons potential prey for leopards?
+[USER_ANSWER]: Leopards are known for their adaptability and opportunistic feeding habits, which means they can prey on a wide variety of animals. While leopards primarily hunt medium-sized ungulates, they are also capable of taking down larger or more formidable prey under certain circumstances.
+
+Large pythons, such as the African rock python, can grow to substantial sizes and are formidable predators themselves. However, there have been documented cases of leopards preying on large pythons. The outcome of such an encounter often depends on factors such as the size and strength of the individual leopard and python, the element of surprise, and the specific circumstances of the encounter.
+
+In general, while large pythons are not typical prey for leopards, leopards are powerful and skilled hunters with the ability to tackle a wide range of prey when necessary.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the feeding habits of leopards and their ability to prey on large pythons, which aligns with the reference answer. However, the response is more elaborate than necessary, given that the reference answer is a simple "yes." While the additional context is informative, it is not required to meet the criteria of the reference answer.
+[RESULT]: 4

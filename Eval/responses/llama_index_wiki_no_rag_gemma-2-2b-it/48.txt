@@ -1,0 +1,8 @@
+[PROMPT]: Is The Celsius crater on the Moon named after him?
+[USER_ANSWER]: 
+
+The Celsius crater on the Moon is named after **the astronomer and physicist, Johannes Kepler**. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The Celsius crater on the Moon is not named after Johannes Kepler; it is named after Anders Celsius. The reference answer is a simple "Yes," indicating that the crater is indeed named after Celsius, not Kepler.
+[RESULT]: 1

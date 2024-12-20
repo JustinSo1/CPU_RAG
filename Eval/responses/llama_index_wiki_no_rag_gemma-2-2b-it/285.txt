@@ -1,0 +1,26 @@
+[PROMPT]: Is English the official language?
+[USER_ANSWER]: 
+
+The official language of the United States is **English**. 
+
+However, it's important to note that:
+
+* **English is not the only official language in the US.**  While it's the most widely spoken and used language, there are other official languages recognized by the US government, including:
+    * **Spanish**
+    * **Chinese**
+    * **Tagalog**
+    * **Vietnamese**
+    * **Arabic**
+    * **Korean**
+    * **Russian**
+    * **French**
+    * **Polish**
+    * **German**
+* **The US government does not have a policy of enforcing the use of any official language.** This means that while English is the most common language, people from other backgrounds are free to speak their native language.
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The United States does not have an official language at the federal level, and the statement that English is the official language is factually incorrect. Additionally, the list of other languages as official languages is also incorrect. The US does not recognize any other languages as official at the federal level. The response contains significant inaccuracies and does not align with the reference answer.
+[RESULT]: 2

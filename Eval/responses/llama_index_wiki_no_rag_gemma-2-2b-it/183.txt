@@ -1,0 +1,8 @@
+[PROMPT]: Is Egypt in Asia?
+[USER_ANSWER]: 
+
+Egypt is in **Africa**, not Asia. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response correctly states that Egypt is in Africa, which is accurate and factual. However, the reference answer is a simple "No," which directly addresses the question without additional information. While the response is factually correct, it does not align perfectly with the simplicity of the reference answer.
+[RESULT]: 4

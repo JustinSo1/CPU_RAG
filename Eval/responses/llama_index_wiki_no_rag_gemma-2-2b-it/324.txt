@@ -1,0 +1,17 @@
+[PROMPT]: Which election did Grover Cleveland win?
+[USER_ANSWER]: 
+
+**A.** 1884
+**B.** 1888
+**C.** 1892
+**D.** 1896
+
+**Correct Answer:** **C.** 1892
+
+**Explanation:**
+
+Grover Cleveland served two non-consecutive terms as President of the United States. He won the 1884 election but lost the 1888 election to Benjamin Harrison.  He then won the 1892 election and served his second term. 
+
+[CORRECT_ANSWER]: 1884 and 1892 presidential elections
+[FEEDBACK]: The response correctly identifies the 1892 election as one that Grover Cleveland won, which is accurate and factual. However, it fails to mention the 1884 election, which is also a correct answer according to the reference answer. The explanation provided is accurate and adds context, but the omission of the 1884 election means the response is not completely correct.
+[RESULT]: 4

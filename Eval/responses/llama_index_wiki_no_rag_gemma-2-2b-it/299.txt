@@ -1,0 +1,23 @@
+[PROMPT]: What is surplus killing?
+[USER_ANSWER]: 
+
+Surplus killing is a term used to describe the practice of **killing animals that are not needed for food or other purposes**. This can include animals that are considered "surplus" to the needs of a particular farm, ranch, or other animal-based operation. 
+
+Here's a breakdown of the term:
+
+* **Surplus:** This refers to animals that are not needed for a specific purpose, such as breeding, meat production, or labor.
+* **Killing:** This refers to the act of ending the life of the animal.
+
+**Why is surplus killing happening?**
+
+There are several reasons why surplus killing occurs:
+
+* **Economic factors:**  Farmers and ranchers may kill surplus animals to reduce costs associated with feeding, housing, and caring for animals that are not needed for their primary purpose.
+* **Overpopulation:**  In some cases, animals may be overpopulated, leading to a surplus that cannot be sold or used for other purposes.
+* **Disease:**  Animals that are sick or diseased may be killed to prevent the spread of disease to other animals.
+* **Animal welfare concerns:**  Some people believe that it is unethical to kill animals that are not needed for food or other purposes.
+
+**What are the
+[CORRECT_ANSWER]: Surplus killing is defined as the killing of several prey animals too numerous to eat at one sitting.
+[FEEDBACK]: The response provided is mostly incorrect and inaccurate based on the reference answer. The reference answer defines surplus killing specifically as the killing of several prey animals too numerous to eat at one sitting, which is a behavior observed in certain predators. The response, however, describes surplus killing in the context of farm or ranch operations, which is not aligned with the reference definition. The explanation given in the response about economic factors, overpopulation, disease, and animal welfare concerns does not pertain to the concept of surplus killing as defined in the reference answer. Therefore, the response does not accurately capture the essence of surplus killing.
+[RESULT]: 2

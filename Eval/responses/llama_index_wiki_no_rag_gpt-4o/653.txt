@@ -1,0 +1,5 @@
+[PROMPT]: Is polar bear a carnivore?
+[USER_ANSWER]: Yes, polar bears are carnivores. They primarily feed on seals, which provide the high-fat content necessary for their survival in the harsh Arctic environment. They are highly adapted to hunting and consuming meat.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies polar bears as carnivores and provides additional relevant information about their diet and adaptations, which, while not necessary, does not detract from the accuracy of the answer.
+[RESULT]: 5

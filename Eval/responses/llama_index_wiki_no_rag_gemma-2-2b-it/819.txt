@@ -1,0 +1,15 @@
+[PROMPT]: What are deposited in holes dug into mud or sand?
+[USER_ANSWER]: 
+
+**Answer:**  
+* **Seeds**
+* **Small objects**
+* **Water**
+
+**Explanation:**
+
+Holes dug into mud or sand are often used for planting seeds or to collect small objects.  They can also be used to collect water. 
+
+[CORRECT_ANSWER]: eggs
+[FEEDBACK]: The response lists "seeds," "small objects," and "water" as items deposited in holes dug into mud or sand. However, the reference answer specifies "eggs" as the correct response. The given response does not mention "eggs" at all, making it completely incorrect based on the reference answer.
+[RESULT]: 1

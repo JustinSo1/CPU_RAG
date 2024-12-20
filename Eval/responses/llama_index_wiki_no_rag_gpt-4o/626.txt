@@ -1,0 +1,5 @@
+[PROMPT]: How many species of penguins are there?
+[USER_ANSWER]: As of the most recent data, there are approximately 18 recognized species of penguins. These flightless birds are primarily found in the Southern Hemisphere, with a majority of species living in and around Antarctica. Some species also inhabit more temperate regions, such as the coasts of South America, Africa, Australia, and New Zealand.
+[CORRECT_ANSWER]: between 17 and 20 living species
+[FEEDBACK]: The response states that there are approximately 18 recognized species of penguins, which falls within the range of 17 to 20 living species mentioned in the reference answer. The additional information about their habitat is accurate and relevant, but the primary focus should be on the number of species. The response is mostly correct, accurate, and factual based on the reference answer.
+[RESULT]: 4

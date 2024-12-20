@@ -1,0 +1,5 @@
+[PROMPT]: Felis pardus was what?
+[USER_ANSWER]: Felis pardus is an outdated scientific name that was once used to refer to the leopard. The leopard is now classified under the genus Panthera, making its current scientific name Panthera pardus. This reclassification reflects a better understanding of the evolutionary relationships among big cats.
+[CORRECT_ANSWER]: One of the many species described in Linnaeus's 18th-century work, Systema Naturae
+[FEEDBACK]: The response provides accurate information about the outdated scientific name "Felis pardus" and its reclassification to "Panthera pardus." However, it does not directly address the historical context provided in the reference answer, which mentions Linnaeus's 18th-century work, Systema Naturae. While the response is factually correct, it misses the specific detail about Linnaeus's classification, which is crucial for a perfect score based on the reference answer.
+[RESULT]: 4

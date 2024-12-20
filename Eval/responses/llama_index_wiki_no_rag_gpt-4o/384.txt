@@ -1,0 +1,5 @@
+[PROMPT]: Where was James Monroe born?
+[USER_ANSWER]: James Monroe was born on April 28, 1758, in Westmoreland County, Virginia, which was then a part of the British American colonies.
+[CORRECT_ANSWER]: Westmoreland County, Virginia
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional details such as the birth date and the historical context of Westmoreland County being part of the British American colonies, which are accurate but not necessary for the answer. The core information, "Westmoreland County, Virginia," matches the reference answer. However, the extra details, while accurate, are not required to answer the question directly.
+[RESULT]: 4

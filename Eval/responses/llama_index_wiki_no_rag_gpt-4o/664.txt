@@ -1,0 +1,5 @@
+[PROMPT]: How heavy was the largest polar bear on record?
+[USER_ANSWER]: The largest polar bear on record reportedly weighed about 2,209 pounds (1,002 kilograms). This massive bear was a male and was found in the Kotzebue Sound in northwestern Alaska in 1960.
+[CORRECT_ANSWER]: 1002 kg (2200 lb) 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. The weight of the largest polar bear on record is given as 2,209 pounds (1,002 kilograms), which is very close to the reference answer of 2,200 pounds (1,002 kilograms). The additional details about the bear being male and found in Kotzebue Sound in 1960 are accurate and provide useful context, but they are not necessary for the answer. The slight discrepancy in the weight in pounds prevents it from being completely correct.
+[RESULT]: 4

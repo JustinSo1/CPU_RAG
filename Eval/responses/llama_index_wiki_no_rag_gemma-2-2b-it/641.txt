@@ -1,0 +1,18 @@
+[PROMPT]: Are penguins astonishingly agile?
+[USER_ANSWER]: 
+
+Penguins are not known for their agility. They are flightless birds, and their bodies are adapted for swimming and diving. 
+
+Here's why:
+
+* **Body Shape:** Penguins have a streamlined body shape that helps them move efficiently through water.
+* **Flippers:** Their flippers are powerful and act like wings, propelling them through the water.
+* **Webbed Feet:** Their webbed feet provide extra stability and help them navigate underwater.
+
+While penguins are not agile in the traditional sense, they are incredibly adept at swimming and diving. They can reach speeds of up to 20 miles per hour in short bursts. 
+
+So, while they may not be the most agile creatures on land, they are masters of the water. 
+
+[CORRECT_ANSWER]: In the water they are.
+[FEEDBACK]: The response provides a detailed explanation about penguins' agility, particularly focusing on their swimming and diving abilities. While it correctly states that penguins are not agile on land, it emphasizes their adeptness in water, which aligns with the reference answer. However, the response is more elaborate than necessary and does not directly address the simplicity of the reference answer. Despite this, the information provided is accurate and factual.
+[RESULT]: 4

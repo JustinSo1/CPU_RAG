@@ -1,0 +1,19 @@
+[PROMPT]: Are sports in Indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?
+[USER_ANSWER]: 
+
+It's important to note that generalizations about entire countries can be misleading and inaccurate. However, based on available information and cultural context, here's a nuanced perspective:
+
+**Sports in Indonesia:**
+
+* **Growing Participation:**  Indonesia has seen a surge in participation in sports, particularly in recent years. This is driven by a growing awareness of health and fitness, as well as the popularity of certain sports like badminton, sepak takraw, and martial arts.
+* **Male Dominance:**  While participation is increasing, traditional sports like sepak takraw and martial arts are still largely dominated by men. This reflects historical gender roles and societal expectations.
+* **Emerging Female Athletes:**  There is a growing number of female athletes excelling in various sports, including badminton, volleyball, and swimming. However, they still face challenges in terms of funding, support, and media coverage compared to their male counterparts.
+* **Government Support:**  The Indonesian government has been actively promoting sports development, particularly through the establishment of national sports academies and the provision of financial assistance to athletes.
+
+**Spectator Sports and Gambling:**
+
+* **Popularity of Sports:**  Indonesia has a strong passion for sports, with football (soccer) being the most popular spectator sport. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed and nuanced perspective on sports in Indonesia, including aspects of participation, gender dominance, emerging female athletes, and government support. However, it does not directly address the question about whether sports in Indonesia are generally male-oriented and associated with illegal gambling. The reference answer is a simple "yes," indicating that the response should have directly confirmed the general male orientation and the association with illegal gambling. The response is somewhat correct in discussing male dominance in sports but fails to address the gambling aspect, making it only partially accurate and factual based on the reference answer.
+[RESULT]: 3

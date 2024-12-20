@@ -1,0 +1,5 @@
+[PROMPT]: What established a trading post on the island in 1819?
+[USER_ANSWER]: In 1819, Sir Stamford Raffles of the British East India Company established a trading post on the island of Singapore. This event marked the beginning of Singapore's development as a major port and trading hub in Southeast Asia.
+[CORRECT_ANSWER]: British East India Company 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the British East India Company as the entity that established the trading post on the island in 1819. However, it includes additional information about Sir Stamford Raffles and the development of Singapore, which, while accurate, is not directly asked for in the instruction. The core fact is present and correct, but the extra details are not necessary for the answer to be considered completely correct based on the reference answer.
+[RESULT]: 4

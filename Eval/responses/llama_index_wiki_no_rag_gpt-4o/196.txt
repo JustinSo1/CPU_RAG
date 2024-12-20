@@ -1,0 +1,10 @@
+[PROMPT]: How long may elephants live?
+[USER_ANSWER]: Elephants are known for their relatively long lifespans compared to other land mammals. The lifespan of an elephant can vary depending on the species and other factors such as habitat and human activity. 
+
+- **African elephants**: These elephants generally live between 60 to 70 years in the wild.
+- **Asian elephants**: They typically live between 48 to 60 years in the wild.
+
+In captivity, elephants may live longer due to regular food supply, absence of predators, and veterinary care, but they can also face health issues related to confinement. The lifespan in captivity can vary, with some elephants living into their 60s or even 70s, though not all captive elephants reach these ages.
+[CORRECT_ANSWER]: 70 years
+[FEEDBACK]: The response provides detailed information about the lifespans of both African and Asian elephants, including variations in the wild and in captivity. While the reference answer is a concise "70 years," the response expands on this by giving a range for both species and explaining factors that can influence lifespan. This additional detail is accurate and factual, aligning well with the reference answer, though it is more elaborate. The response is mostly correct, accurate, and factual, but it does not match the simplicity and directness of the reference answer.
+[RESULT]: 4

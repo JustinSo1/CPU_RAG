@@ -1,0 +1,18 @@
+[PROMPT]: Garbage is what?
+[USER_ANSWER]: 
+
+This is a bit of a trick question! 
+
+Here's why:
+
+* **Garbage is a noun.** It refers to discarded or unwanted items.
+* **The question asks for a definition.**  We need to know what garbage is.
+
+**So, the answer is:** Garbage is discarded or unwanted items. 
+
+
+Let me know if you'd like to try another word puzzle! 
+
+[CORRECT_ANSWER]: Garbage is now recycled or transported to Thompson, Manitoba.
+[FEEDBACK]: The response does not align with the reference answer, which states that garbage is now recycled or transported to Thompson, Manitoba. Instead, the response provides a general definition of garbage as discarded or unwanted items. While the definition is accurate, it does not address the specific information given in the reference answer. Therefore, the response is mostly incorrect and does not meet the criteria for accuracy based on the reference answer.
+[RESULT]: 2

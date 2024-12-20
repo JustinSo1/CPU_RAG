@@ -1,0 +1,5 @@
+[PROMPT]: What do turles use to breathe in the water?
+[USER_ANSWER]: Turtles do not actually breathe underwater. They are reptiles and have lungs, so they need to come to the surface to breathe air. However, they can hold their breath for extended periods while underwater. Some aquatic turtles are also capable of absorbing a small amount of oxygen through their skin, throat, and cloaca, which can help them stay submerged longer, but this is not the same as breathing through gills like fish do.
+[CORRECT_ANSWER]: Papillae
+[FEEDBACK]: The response provides a detailed explanation about how turtles breathe, emphasizing that they do not actually breathe underwater but come to the surface for air. It also mentions their ability to absorb some oxygen through their skin, throat, and cloaca. However, the reference answer "Papillae" is not mentioned, which is a specific term related to their ability to absorb oxygen. Therefore, while the response is mostly accurate and factual, it does not directly address the reference answer.
+[RESULT]: 4

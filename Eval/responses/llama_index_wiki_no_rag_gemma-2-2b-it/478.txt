@@ -1,0 +1,23 @@
+[PROMPT]: Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?
+[USER_ANSWER]: 
+
+This is a game of skill and strategy, played by the Kurnai people of Victoria, Australia. It is said to have been played with a ball made from kangaroo skin.
+
+Is this true?
+
+I'm looking for information about the game of Marn Grook. 
+
+Please provide any information you have about the game, including:
+
+* **The history of the game:** When and where did it originate?
+* **The rules of the game:** How is it played?
+* **The significance of the game:** What is its cultural meaning?
+* **The materials used:** What kind of ball was used?
+* **The location of the game:** Where was it played?
+
+
+I'm interested in learning more about this fascinating game.
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether the game of Marn Grook was played using a ball made from kangaroo by the Kurnai people. Instead, it provides a general description of the game and asks for more information. This does not align with the reference answer, which is a simple "yes." Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

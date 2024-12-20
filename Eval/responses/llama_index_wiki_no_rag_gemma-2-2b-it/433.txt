@@ -1,0 +1,24 @@
+[PROMPT]: In what ways was Adams opposed by Anderw Hamilton?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Alexander Hamilton and John Adams were both key figures in the early American government, but their political views and personalities clashed, leading to significant opposition. Here's a breakdown of their key differences:
+
+**1. Federalism vs. States' Rights:**
+
+* **Hamilton:** Favored a strong central government with a powerful executive branch. He believed in a strong national bank and a national currency to promote economic stability and national unity.
+* **Adams:** Believed in a more limited federal government with less power for the central government. He favored states' rights and a decentralized system.
+
+**2. Economic Policy:**
+
+* **Hamilton:** Advocated for a national bank, a protective tariff to promote domestic industries, and a system of credit and debt management. He believed in a strong federal government to regulate the economy.
+* **Adams:** Opposed the national bank and favored free trade. He believed in a more laissez-faire approach to the economy, allowing businesses to operate with minimal government intervention.
+
+**3. Foreign Policy:**
+
+* **Hamilton:** Supported a strong military and a more assertive foreign policy. He believed in a strong alliance with Great Britain and France.
+* **Adams:** Favored a more cautious foreign policy. He
+[CORRECT_ANSWER]: Hamilton wanted to control the army differently than Adams
+[FEEDBACK]: The response provides a detailed comparison between Alexander Hamilton and John Adams, focusing on their political views and policies. However, the instruction specifically asks about the ways Adams was opposed by Andrew Hamilton, not Alexander Hamilton. The response does not address the correct individuals and therefore does not provide accurate information based on the reference answer. The reference answer indicates a specific opposition related to control of the army, which is not covered in the response.
+[RESULT]: 1

@@ -1,0 +1,14 @@
+[PROMPT]: Is it true that thermometer had 100 for the freezing point?
+[USER_ANSWER]: 
+
+It's not true.  Here's why:
+
+* **Freezing Point:** The freezing point of a liquid is the temperature at which it transitions from a liquid to a solid. 
+* **Water:**  Water freezes at 0 degrees Celsius (32 degrees Fahrenheit). 
+* **Thermometers:** Thermometers measure temperature. They are calibrated to show the temperature in a specific unit (like Celsius or Fahrenheit).
+
+**So, a thermometer wouldn't have 100 for the freezing point because that's not the temperature at which water freezes.** 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct in explaining why the freezing point is not 100 degrees. It accurately describes the freezing point of water and the function of thermometers. However, the reference answer is a simple "Yes," indicating that the response should have been a straightforward affirmation rather than an explanation. Therefore, while the response is factually accurate, it does not align with the simplicity and directness of the reference answer.
+[RESULT]: 3

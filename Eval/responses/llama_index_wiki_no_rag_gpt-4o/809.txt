@@ -1,0 +1,5 @@
+[PROMPT]: Why are side-necked turtles called side-necked turtles?
+[USER_ANSWER]: Side-necked turtles are called side-necked turtles because of the unique way they retract their heads. Unlike other turtles that pull their heads straight back into their shells, side-necked turtles bend their necks sideways and tuck their heads under the edge of their shells. This distinctive method of neck retraction gives them their common name. The scientific term for this group of turtles is Pleurodira, which is derived from Greek words meaning "side" and "neck."
+[CORRECT_ANSWER]: Because of the way they withdraw their heads into their shells.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It explains the unique way side-necked turtles retract their heads, which aligns with the reference answer. Additionally, it provides extra information about the scientific term "Pleurodira," which is accurate and relevant. The response fully meets the criteria for correctness, accuracy, and factuality based on the reference answer.
+[RESULT]: 5

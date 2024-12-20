@@ -1,0 +1,17 @@
+[PROMPT]: Why did Grant think that war was unjust?
+[USER_ANSWER]: 
+
+Ulysses S. Grant, the 18th President of the United States, was a complex and controversial figure. While he is known for his military leadership during the Civil War, he also held strong personal beliefs that shaped his views on war. 
+
+Grant's views on war were shaped by his experiences in the military and his personal convictions. He believed that war was a last resort, and he was deeply troubled by the immense human cost of conflict. 
+
+Here's a breakdown of Grant's views on war:
+
+* **War as a last resort:** Grant believed that war should only be used as a last resort, after all other peaceful means of resolving conflict have been exhausted. He was a strong advocate for diplomacy and negotiation.
+* **Human cost of war:** Grant was deeply troubled by the immense human cost of war. He witnessed firsthand the suffering and destruction caused by conflict, and he believed that war was a terrible thing.
+* **Moral implications of war:** Grant was also concerned about the moral implications of war. He believed that war was a violation of human rights and that it caused unnecessary suffering.
+
+It's important to note that Grant's views on war were not always consistent. He was a pragmatic leader who was
+[CORRECT_ANSWER]: He thought it was designed to gain land open to slavery.
+[FEEDBACK]: The response provides a detailed explanation of Ulysses S. Grant's views on war, focusing on his belief that war should be a last resort, the human cost of war, and the moral implications of war. However, it does not address the specific reason mentioned in the reference answer, which is that Grant thought war was designed to gain land open to slavery. The response is somewhat correct in discussing Grant's general views on war, but it misses the specific point about slavery and land acquisition. Therefore, it is not fully aligned with the reference answer.
+[RESULT]: 3

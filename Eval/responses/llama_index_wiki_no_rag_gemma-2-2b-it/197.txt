@@ -1,0 +1,14 @@
+[PROMPT]: Why does the phrase 'elephants never forget' have no metaphorical meaning?
+[USER_ANSWER]: 
+
+The phrase "elephants never forget" is a proverb that has been used for centuries. It is often used to describe people who are very loyal and have a strong sense of memory. 
+
+However, it is important to note that the phrase is not meant to be taken literally. Elephants are not actually incapable of forgetting. They have excellent memories, but they do not have the same kind of memory as humans. 
+
+The proverb is a metaphor that is used to describe the strong sense of loyalty and memory that humans possess. It is a way of saying that people who are loyal and have a strong sense of memory are like elephants, who are known for their long memories. 
+
+Therefore, the phrase "elephants never forget" does have a metaphorical meaning. 
+
+[CORRECT_ANSWER]: it refers literally to elephants supposedly having an excellent memory
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer clearly states that the phrase "elephants never forget" refers literally to elephants supposedly having an excellent memory. However, the response provided argues that the phrase has a metaphorical meaning, which contradicts the reference answer. The response also includes additional information about the proverb and its use, which is not relevant to the question asked. Therefore, the response does not align with the reference answer and is mostly incorrect.
+[RESULT]: 2

@@ -1,0 +1,19 @@
+[PROMPT]: Who did James Monroe live with in New York City?
+[USER_ANSWER]: 
+
+The answer is **none of the above**. 
+
+James Monroe was a US president, and he lived in New York City for a short period of time. However, he did not live with anyone in particular. 
+
+Here's why this question is tricky:
+
+* **Monroe's life was complex:** He was a prominent figure in American history, and his life was filled with various relationships and residences. 
+* **Privacy:** Presidents are not obligated to disclose their personal living arrangements. 
+* **Historical research:**  While there are records of Monroe's time in New York City, they don't always provide details about his living situation.
+
+
+Let me know if you'd like to explore other aspects of James Monroe's life! 
+
+[CORRECT_ANSWER]: His daughter Maria Hester Monroe Gouverneur
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that James Monroe lived with his daughter Maria Hester Monroe Gouverneur in New York City. The response, however, claims that he did not live with anyone in particular and provides additional, irrelevant information about Monroe's life and privacy. This does not align with the factual information provided in the reference answer.
+[RESULT]: 1

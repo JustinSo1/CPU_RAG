@@ -1,0 +1,25 @@
+[PROMPT]: Are penguins at risk?
+[USER_ANSWER]: 
+
+Penguins are facing a number of threats, and their populations are declining in some areas. Here's a breakdown of the key issues:
+
+**Climate Change:**
+
+* **Melting ice:**  Penguins rely on ice for breeding, hunting, and raising chicks. As ice melts due to warming temperatures, penguins are losing critical habitat.
+* **Ocean acidification:**  Increased carbon dioxide in the atmosphere is absorbed by the ocean, making it more acidic. This harms the growth of phytoplankton, which penguins rely on for food.
+* **Sea-level rise:**  Rising sea levels can inundate penguin nesting sites and make it harder for them to find food.
+
+**Other Threats:**
+
+* **Overfishing:**  Overfishing of krill and other prey species can disrupt penguin food chains.
+* **Pollution:**  Penguins can ingest plastic and other pollutants, which can harm their health.
+* **Hunting:**  While hunting is illegal in many places, some penguins are still hunted for their feathers or meat.
+* **Disease:**  Penguins can be susceptible to diseases, such as avian influenza.
+
+**Conservation Efforts:**
+
+* **Protected areas:**  Establishing marine protected areas can help conserve penguin habitat.
+* **Climate change mitigation
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed and accurate explanation of the threats faced by penguins, including climate change, overfishing, pollution, hunting, and disease. It also mentions conservation efforts. However, the reference answer is a simple "Yes," indicating that the response should be concise and directly address whether penguins are at risk. While the response is factually correct and informative, it does not align with the simplicity and directness of the reference answer. Therefore, it is not completely correct based on the reference answer.
+[RESULT]: 4

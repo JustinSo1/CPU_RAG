@@ -1,0 +1,12 @@
+[PROMPT]: Who achieved international fame as the leading Union general in the American Civil War?
+[USER_ANSWER]: 
+
+**Answer:** Ulysses S. Grant
+
+**Explanation:**
+
+Ulysses S. Grant was a Union general who played a pivotal role in the American Civil War. He was instrumental in the Union's victory, becoming the President of the United States after the war. 
+
+[CORRECT_ANSWER]: Grant
+[FEEDBACK]: The response "Ulysses S. Grant" is completely correct, accurate, and factual. It identifies the leading Union general in the American Civil War accurately and provides additional context about his role and subsequent presidency, which is factual and relevant.
+[RESULT]: 5

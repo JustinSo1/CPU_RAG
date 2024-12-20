@@ -1,0 +1,10 @@
+[PROMPT]: When was James Monroe appointed to Secretary of War?
+[USER_ANSWER]: 
+
+James Monroe was never appointed Secretary of War. 
+
+He served as the **5th President of the United States** from 1817 to 1825. 
+
+[CORRECT_ANSWER]: 1814
+[FEEDBACK]: The response is completely incorrect and inaccurate. James Monroe was indeed appointed as Secretary of War in 1814, contrary to the response's claim that he was never appointed to this position. The additional information about his presidency is irrelevant to the question asked.
+[RESULT]: 1

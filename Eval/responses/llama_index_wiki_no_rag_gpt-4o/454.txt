@@ -1,0 +1,5 @@
+[PROMPT]: Are wild kangaroos shot for meat?
+[USER_ANSWER]: Yes, wild kangaroos are often harvested for their meat in Australia. The commercial harvesting of kangaroos is regulated by the Australian government to ensure that it is done sustainably and humanely. Quotas are set based on population surveys to ensure that kangaroo populations remain stable. The meat is used for human consumption, pet food, and other products. The practice is part of wildlife management programs aimed at balancing the ecological impact of kangaroo populations.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the commercial harvesting of wild kangaroos for meat in Australia, including the regulation by the Australian government, the setting of quotas based on population surveys, and the uses of the meat. This additional information, while not present in the reference answer, does not detract from the accuracy and correctness of the response.
+[RESULT]: 5

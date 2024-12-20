@@ -1,0 +1,16 @@
+[PROMPT]: Can polar bears be seen under infrared photography?
+[USER_ANSWER]: 
+
+Polar bears are white, and they blend in with the snow and ice. This makes them difficult to see with traditional photography. Infrared photography can help to see them, but it's not a guaranteed way to spot them. 
+
+Here's why:
+
+* **Polar bears are white:**  Their fur is designed to camouflage them in the snow. This means they reflect most light, making them difficult to see even with regular cameras.
+* **Infrared photography:** This type of photography uses a special camera that detects heat. Polar bears are warm-blooded animals, so they emit heat. This heat can be detected by infrared cameras, making them easier to spot.
+* **Challenges:**  Even with infrared cameras, spotting a polar bear can be difficult. They are often camouflaged in the snow and ice, and their movements can be subtle.
+
+**In conclusion:** Infrared photography can help to see polar bears, but it's not a foolproof method. It's best to combine it with other techniques, such as tracking signs and using binoculars.
+
+[CORRECT_ANSWER]: Polar bears are nearly invisible under infrared photography.
+[FEEDBACK]: The response provides a detailed explanation about polar bears and infrared photography, but it diverges from the reference answer. The reference answer states that polar bears are nearly invisible under infrared photography, while the response suggests that infrared photography can help see polar bears, though not guaranteed. This indicates a significant discrepancy in accuracy and factual correctness. The response is somewhat correct in explaining the principles of infrared photography and the challenges, but it does not align with the reference answer's assertion about the visibility of polar bears under infrared photography.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Does Liechtenstein have an army?
+[USER_ANSWER]: No, Liechtenstein does not have an army. The country abolished its military in 1868 due to the high cost of maintaining it. Since then, Liechtenstein has remained without a military and relies on Switzerland for its defense if needed. The country focuses on maintaining neutrality and does not engage in military alliances.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is correct, accurate, and factual. It provides additional context about Liechtenstein's decision to abolish its military in 1868 due to high costs, its reliance on Switzerland for defense, and its focus on neutrality. While the reference answer is very brief, the response expands on the information without introducing any inaccuracies.
+[RESULT]: 5

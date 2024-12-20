@@ -1,0 +1,5 @@
+[PROMPT]: The State Court rules what?
+[USER_ANSWER]: The specific ruling of a State Court can vary widely depending on the case being considered. State Courts are responsible for interpreting and applying state law within their jurisdiction. They handle a range of cases, including civil disputes, criminal cases, family law matters, and more. If you have a specific case or ruling in mind, please provide more details so I can offer a more precise response.
+[CORRECT_ANSWER]: on the conformity of laws with the constitution
+[FEEDBACK]: The response provides a general overview of the functions of State Courts, mentioning their role in interpreting and applying state law and handling various types of cases. However, it does not directly address the specific task of ruling on the conformity of laws with the constitution, which is the focus of the reference answer. Therefore, while the response is factually accurate about the broader role of State Courts, it does not directly answer the question as intended by the reference answer.
+[RESULT]: 3

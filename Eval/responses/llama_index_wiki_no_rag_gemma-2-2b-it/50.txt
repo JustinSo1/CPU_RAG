@@ -1,0 +1,19 @@
+[PROMPT]: The Celsius crater on the Moon is what?
+[USER_ANSWER]: 
+
+The Celsius crater on the Moon is a **large impact crater** that is **one of the largest in the lunar highlands**. 
+
+Here's some more information about it:
+
+* **Location:** It's located in the lunar highlands, near the lunar equator.
+* **Size:** It's about 100 kilometers (62 miles) in diameter.
+* **Age:** It's estimated to be about 4 billion years old.
+* **Features:** It has a rim that is relatively smooth and a floor that is heavily cratered.
+* **Significance:** It's a valuable target for studying the history of the Moon and the impact events that have shaped its surface.
+
+
+Let me know if you have any other questions about the Celsius crater or the Moon! 
+
+[CORRECT_ANSWER]: named after him
+[FEEDBACK]: The response provides detailed information about the Celsius crater on the Moon, including its location, size, age, features, and significance. However, the reference answer indicates that the correct response should simply state that the crater is named after Celsius. The response does not address this specific fact, making it inaccurate according to the reference answer. Therefore, the response is mostly incorrect and not factual based on the given criteria.
+[RESULT]: 2

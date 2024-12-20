@@ -1,0 +1,17 @@
+[PROMPT]: Are adult ducks fast fliers?
+[USER_ANSWER]: 
+
+Adult ducks are not known for their speed or agility in the air. They are generally considered to be **moderate fliers**, meaning they can fly short distances with some effort. 
+
+Here's a breakdown:
+
+* **Not as fast as geese:** Geese are much faster fliers, capable of sustained high-speed flights.
+* **Short bursts of flight:** Ducks can fly short distances, but they are not built for long-distance travel. 
+* **Strong swimmers:** Ducks are excellent swimmers and spend a lot of time in the water. 
+* **Flight for short distances:** They use their wings to fly short distances to escape predators or to reach food sources.
+
+So, while adult ducks can fly, they are not known for their speed or endurance in the air. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provided is somewhat correct and accurate but does not align with the simplicity and directness of the reference answer. The reference answer simply states "Yes," indicating that adult ducks are fast fliers. The evaluated response, however, suggests that ducks are moderate fliers and not particularly fast, which contradicts the reference answer. Additionally, the response includes extra information about ducks' flying capabilities and swimming skills, which, while factual, is not directly relevant to the question. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

@@ -1,0 +1,23 @@
+[PROMPT]: What suborder of turtle draws its head into its shell?
+[USER_ANSWER]: 
+
+* **A.**  Cryptodira
+* **B.**  Pleurodira
+* **C.**  Chelonina
+* **D.**  Testudinata
+
+**Correct Answer:** **A.** Cryptodira
+
+**Explanation:**
+
+* **Cryptodira** turtles are characterized by their heads that can be drawn into their shells. This is a unique feature that distinguishes them from other turtle suborders. 
+* **Pleurodira** turtles have their heads tucked under their shells.
+* **Chelonina** turtles are sea turtles.
+* **Testudinata** turtles are the land turtles, including tortoises. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Pleurodira
+[FEEDBACK]: The response is completely incorrect. The correct answer according to the reference is "Pleurodira," but the response states "Cryptodira" and provides an explanation that is not aligned with the reference answer. The explanation given for Cryptodira is also inaccurate based on the reference answer. Therefore, the response is not factual or accurate.
+[RESULT]: 1

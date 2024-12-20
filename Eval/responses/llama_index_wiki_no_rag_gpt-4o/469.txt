@@ -1,0 +1,5 @@
+[PROMPT]: What method is used by Kangaroos to travel?
+[USER_ANSWER]: Kangaroos primarily use a method of locomotion called hopping or saltation. They have powerful hind legs with large feet designed for this type of movement, allowing them to cover large distances efficiently. When hopping, a kangaroo propels itself forward with both hind legs simultaneously, using its strong tail for balance and support. This mode of travel is energy-efficient and well-suited to the kangaroo's habitat in the open landscapes of Australia.
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes the method of locomotion used by kangaroos, which is hopping or saltation. The additional details about their hind legs, feet, and tail, as well as the efficiency and suitability of this mode of travel, are accurate and factual. However, the reference answer is very concise, and the response, while detailed, goes beyond the simplicity of the reference answer.
+[RESULT]: 4

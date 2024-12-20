@@ -1,0 +1,23 @@
+[PROMPT]: What are turtle eggs covered in when they incubate?
+[USER_ANSWER]: 
+
+A. A thin layer of sand
+B. A thick layer of mud
+C. A hard, protective shell
+D. A layer of leaves
+
+**Answer:** C. A hard, protective shell
+
+**Explanation:**
+
+Turtle eggs are covered in a hard, protective shell that helps to keep them safe from predators and the elements. This shell is made of calcium carbonate and is very strong. 
+
+The other options are incorrect because:
+
+* **A. A thin layer of sand:** While some turtles may lay their eggs in sand, it's not a universal covering.
+* **B. A thick layer of mud:** Mud can provide some protection, but it's not as strong or durable as a shell.
+* **D. A layer of leaves:** Leaves are not a protective covering for turtle eggs. 
+
+[CORRECT_ANSWER]: Mud or Sand
+[FEEDBACK]: The response is completely incorrect based on the reference answer. The reference answer indicates that turtle eggs are covered in mud or sand when they incubate, whereas the response incorrectly states that they are covered in a hard, protective shell. The explanation provided also supports this incorrect answer, further deviating from the factual information given in the reference answer. Therefore, the response does not align with the correct, accurate, and factual information required by the rubric.
+[RESULT]: 1

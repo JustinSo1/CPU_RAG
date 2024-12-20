@@ -1,0 +1,23 @@
+[PROMPT]: Why do penguins "tobaggan"?
+[USER_ANSWER]: 
+
+Penguins don't actually "tobaggan" in the way we typically think of the activity. 
+
+Here's why:
+
+* **"Tobagganing" is a human activity:** It involves sliding down a slope on a board or sled. 
+* **Penguins are flightless birds:** They have adapted to their environment and use their wings for swimming and maneuvering in the water. 
+
+**What penguins *do* is slide on their bellies:**
+
+Penguins use their belly to slide across the ice or snow. This is a natural behavior that helps them:
+
+* **Move quickly:** It allows them to cover ground quickly and efficiently.
+* **Find food:** They can slide to areas with food sources.
+* **Escape predators:** They can quickly move away from danger.
+
+**So, while penguins don't "tobaggan" in the human sense, they do have a unique and fascinating way of sliding across the ice.** 
+
+[CORRECT_ANSWER]: It conserves energy while moving quickly
+[FEEDBACK]: The response provides a detailed explanation of penguins' sliding behavior, which is accurate and factual. However, it does not directly address the primary reason why penguins "tobaggan," which is to conserve energy while moving quickly. The response focuses more on the differences between human tobogganing and penguin sliding, and the various benefits of sliding for penguins, rather than the core reason mentioned in the reference answer. Therefore, while the information is mostly correct and factual, it does not fully align with the reference answer's focus on energy conservation.
+[RESULT]: 4

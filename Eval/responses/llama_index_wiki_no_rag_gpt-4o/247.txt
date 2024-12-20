@@ -1,0 +1,5 @@
+[PROMPT]: For how long was Ford a member of the House of Representatives?
+[USER_ANSWER]: Gerald Ford served as a member of the U.S. House of Representatives from January 3, 1949, to December 6, 1973. This totals nearly 25 years.
+[CORRECT_ANSWER]: Over eight years.
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that Ford was a member of the House of Representatives for over eight years, while the response incorrectly states that he served for nearly 25 years. This discrepancy shows a significant inaccuracy in the response.
+[RESULT]: 1

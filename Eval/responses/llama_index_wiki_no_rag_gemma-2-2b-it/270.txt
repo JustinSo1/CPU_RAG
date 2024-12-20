@@ -1,0 +1,15 @@
+[PROMPT]: Was Ford interred at his Presidential Museum in Grand Rapids, Michigan?
+[USER_ANSWER]: 
+
+This question is based on a misunderstanding. 
+
+**Henry Ford** was a businessman and industrialist, not a president. He was the founder of the Ford Motor Company. 
+
+**Ford's Presidential Museum** is a fictional concept. There is no such museum in Grand Rapids, Michigan. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question pertains to Gerald Ford, the 38th President of the United States, not Henry Ford, the businessman. Additionally, the response incorrectly states that Ford's Presidential Museum is a fictional concept, when in fact, the Gerald R. Ford Presidential Museum is located in Grand Rapids, Michigan. The response does not address the actual question about Gerald Ford's interment.
+[RESULT]: 1

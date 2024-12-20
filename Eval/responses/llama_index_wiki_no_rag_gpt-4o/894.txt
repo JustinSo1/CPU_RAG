@@ -1,0 +1,5 @@
+[PROMPT]: When was Woodrow Wilson born?
+[USER_ANSWER]: Woodrow Wilson was born on December 28, 1856.
+[CORRECT_ANSWER]: December 28, 1856
+[FEEDBACK]: The response "Woodrow Wilson was born on December 28, 1856." is completely correct, accurate, and factual based on the reference answer "December 28, 1856." The response includes the correct date and provides additional context by mentioning Woodrow Wilson's name, which aligns perfectly with the reference answer.
+[RESULT]: 5

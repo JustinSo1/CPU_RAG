@@ -1,0 +1,18 @@
+[PROMPT]: Is it true that romania has a population of 21,698,181?
+[USER_ANSWER]: 
+
+The population of Romania is not 21,698,181. That number is far too high. 
+
+Here's what you need to know:
+
+* **The official population of Romania is estimated to be around 19 million.** This number is constantly changing, but it's a reliable estimate. 
+* **Reliable sources:** You can find accurate population data from official sources like:
+    * **The Romanian National Institute of Statistics (INS):** [https://www.ins.ro/](https://www.ins.ro/)
+    * **Worldometer:** [https://www.worldometers.info/world-population/romania-population/](https://www.worldometers.info/world-population/romania-population/)
+
+
+It's important to rely on credible sources for population data to avoid misinformation. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer indicates that the statement "Romania has a population of 21,698,181" is true, while the response claims that this number is far too high and provides an estimate of around 19 million. This contradicts the reference answer. Additionally, while the response provides useful information about reliable sources for population data, it does not align with the reference answer's assertion.
+[RESULT]: 2

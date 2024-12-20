@@ -1,0 +1,30 @@
+[PROMPT]: What is an economic use of a duck?
+[USER_ANSWER]: 
+
+Ducks are versatile animals that can be used for a variety of economic purposes. Here are some examples:
+
+**Food Production:**
+
+* **Meat:** Duck meat is a lean protein source and is becoming increasingly popular. It is known for its rich flavor and tender texture.
+* **Eggs:** Ducks lay eggs, which can be sold as a source of protein and nutrients.
+* **Down:** Duck down is a soft and warm material used in clothing and bedding.
+
+**Agriculture:**
+
+* **Pest Control:** Ducks are natural predators of insects and other pests, making them useful for controlling agricultural pests.
+* **Weed Control:** Ducks can help control weeds by foraging in fields and gardens.
+* **Manure:** Duck manure is a valuable fertilizer for gardens and farms.
+
+**Other Economic Uses:**
+
+* **Tourism:** Duck farms and wildlife sanctuaries can attract tourists.
+* **Research:** Ducks are used in research to study various aspects of animal behavior, physiology, and genetics.
+* **Aquaculture:** Ducks can be raised in ponds and other water bodies for aquaculture purposes.
+* **Composting:** Duck feathers can be used in composting.
+
+**Specific Examples:**
+
+* **Organic farms:** Many organic farms use ducks to control pests and
+[CORRECT_ANSWER]: Meat
+[FEEDBACK]: The response provides a detailed and accurate list of economic uses of ducks, including food production, agriculture, and other economic uses. It mentions duck meat, which aligns with the reference answer. However, the reference answer is very specific and only mentions "meat," while the response includes a broader range of uses. Despite this, the response is factually correct and accurate in its information.
+[RESULT]: 4

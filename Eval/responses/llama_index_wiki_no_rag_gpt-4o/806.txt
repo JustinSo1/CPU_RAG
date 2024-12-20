@@ -1,0 +1,12 @@
+[PROMPT]: Name four related articles for the article on turtles.
+[USER_ANSWER]: Sure, here are four related article topics for an article on turtles:
+
+1. **Marine Conservation Efforts**: Discussing the various conservation programs and initiatives aimed at protecting sea turtles and their habitats.
+2. **Turtle Evolution and Species Diversity**: Exploring the evolutionary history of turtles and the diversity of species, including differences between sea turtles, freshwater turtles, and tortoises.
+3. **Threats to Turtle Populations**: Examining the major threats faced by turtles, such as habitat destruction, climate change, pollution, and illegal wildlife trade.
+4. **Turtle Behavior and Ecology**: Investigating the natural behaviors, diet, migratory patterns, and ecological roles of turtles in different environments.
+
+These topics are closely linked to the study and conservation of turtles and can provide a comprehensive understanding of their significance and the challenges they face.
+[CORRECT_ANSWER]: Triassic, Ernst Haeckel, Kunstformen der Natur, Animal
+[FEEDBACK]: The response provided four related article topics that are relevant to the study and conservation of turtles. However, the reference answer lists specific terms (Triassic, Ernst Haeckel, Kunstformen der Natur, Animal) that are more historical and scientific in nature. The response does not align with the reference answer in terms of specificity and context. Therefore, while the response is factually correct and relevant to turtles, it does not match the reference answer's focus and specificity.
+[RESULT]: 3

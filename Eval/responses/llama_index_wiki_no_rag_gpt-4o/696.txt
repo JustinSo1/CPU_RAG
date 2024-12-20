@@ -1,0 +1,5 @@
+[PROMPT]: Is Qatar bordered by Saudi Arabia to the south?
+[USER_ANSWER]: Yes, Qatar is bordered by Saudi Arabia to the south.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Qatar is bordered by Saudi Arabia to the south, which aligns with the reference answer. The additional detail provided does not detract from the accuracy of the response.
+[RESULT]: 5

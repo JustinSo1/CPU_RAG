@@ -1,0 +1,5 @@
+[PROMPT]: Which future Heisman Trophy winner did Ford tackle?
+[USER_ANSWER]: Gerald Ford, the 38th President of the United States, played college football at the University of Michigan. While he was a center and linebacker for the Wolverines, he once tackled Jay Berwanger, who would go on to become the first recipient of the Heisman Trophy in 1935.
+[CORRECT_ANSWER]: Jay Berwanger
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional context about Gerald Ford's background and his football career at the University of Michigan, which is accurate. The response correctly identifies Jay Berwanger as the future Heisman Trophy winner tackled by Ford. However, the additional context, while accurate, is not necessary to answer the question directly. The essential information is correct and factual, but the response could be more concise.
+[RESULT]: 4

@@ -1,0 +1,22 @@
+[PROMPT]: When do African elephants lie down?
+[USER_ANSWER]: 
+
+African elephants are known for their intelligence and social behavior. They are also known for their impressive size and strength. However, they are not always active and can lie down for various reasons. 
+
+Here's a breakdown of when African elephants might lie down:
+
+**1. Rest and Relaxation:**
+* **After a long day of foraging:** Elephants spend a lot of time searching for food, and lying down allows them to rest and conserve energy.
+* **During hot weather:**  They can lie down in the shade to cool down.
+* **To avoid predators:**  Elephants are large and powerful, but they can still be vulnerable to predators. Lying down can make them less visible to potential threats.
+
+**2. Social Interactions:**
+* **To show affection:**  Elephants are highly social animals and often lie down to show affection to each other.
+* **To communicate:**  Elephants use a variety of vocalizations and body language to communicate with each other. Lying down can be a way to convey a message or signal a change in mood.
+
+**3. Medical Reasons:**
+* **Pain or injury:**  If an elephant is experiencing pain or injury, it may lie down to avoid further movement.
+* **Ill
+[CORRECT_ANSWER]: when they are sick or wounded
+[FEEDBACK]: The response provides a detailed explanation of various scenarios when African elephants might lie down, including rest and relaxation, social interactions, and medical reasons. However, the reference answer specifically mentions that elephants lie down when they are sick or wounded. While the response does include medical reasons such as pain or injury, it also includes other reasons that are not mentioned in the reference answer. Therefore, the response is somewhat correct and factual but not completely aligned with the reference answer.
+[RESULT]: 3

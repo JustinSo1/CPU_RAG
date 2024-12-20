@@ -1,0 +1,12 @@
+[PROMPT]: Who was John Monroe standing behind in the painting of  Washington Crossing the Delaware?
+[USER_ANSWER]: 
+
+John Monroe was a real person, but he was not standing behind Washington in the painting. 
+
+The painting depicts **George Washington** crossing the Delaware River with his Continental Army during the American Revolutionary War. 
+
+It's important to note that the painting is a work of historical fiction, and the details of the scene are not entirely accurate. 
+
+[CORRECT_ANSWER]: George Washington
+[FEEDBACK]: The response does not directly answer the question of who John Monroe was standing behind in the painting. Instead, it provides additional context about the painting and mentions that John Monroe was a real person but not in the painting. The reference answer is "George Washington," which is not addressed in the response. Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

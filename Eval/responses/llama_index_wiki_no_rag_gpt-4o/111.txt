@@ -1,0 +1,5 @@
+[PROMPT]: Why did Coolidge not attend law school?
+[USER_ANSWER]: Calvin Coolidge, the 30th President of the United States, did not attend law school primarily because, during his time, it was common for aspiring lawyers to enter the legal profession through an apprenticeship or "reading law" rather than attending formal law school. Coolidge read law under the supervision of a practicing attorney, which was a typical path to becoming a lawyer in the late 19th and early 20th centuries. After completing his apprenticeship, he passed the bar exam and was admitted to the Massachusetts bar in 1897.
+[CORRECT_ANSWER]: It was too expensive
+[FEEDBACK]: The response provides a detailed explanation of why Calvin Coolidge did not attend law school, mentioning the common practice of "reading law" and the apprenticeship system. However, it does not address the specific reason given in the reference answer, which is that law school was too expensive. Therefore, while the response is factually accurate and provides relevant historical context, it does not directly answer the question based on the reference answer provided.
+[RESULT]: 3

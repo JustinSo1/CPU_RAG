@@ -1,0 +1,5 @@
+[PROMPT]: Where does the word "otter" derive from?
+[USER_ANSWER]: The word "otter" derives from the Old English word "otor" or "oter," which itself comes from the Proto-Germanic *utra. This is related to the Proto-Indo-European root *udr-, which means "water" or "water creature." This etymology reflects the otter's natural habitat and behavior as an aquatic animal. Similar words can be found in other languages, such as the Old Norse "otr" and the Latin "lutra."
+[CORRECT_ANSWER]: The word "otter" derives from the Old English word otr, otor or oter. 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the Old English origins of the word "otter" as "otor" or "oter," and it accurately traces the etymology back to Proto-Germanic *utra and Proto-Indo-European *udr-. However, the reference answer is more concise and does not include the additional information about related words in other languages. While the extra details are informative, they are not necessary for the core answer and slightly deviate from the reference answer's simplicity.
+[RESULT]: 4

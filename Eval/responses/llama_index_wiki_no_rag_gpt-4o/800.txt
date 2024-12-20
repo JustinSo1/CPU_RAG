@@ -1,0 +1,5 @@
+[PROMPT]: What suborder of turtle draws its head into its shell?
+[USER_ANSWER]: The suborder of turtles that can draw their heads straight back into their shells is called Cryptodira. Cryptodiran turtles have a unique mechanism allowing them to retract their necks in a vertical S-shaped curve, providing protection by pulling their heads completely inside their shells.
+[CORRECT_ANSWER]: Pleurodira
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The correct suborder of turtles that draw their heads into their shells is Pleurodira, not Cryptodira. The response provided detailed information about Cryptodira, which is not relevant to the question asked.
+[RESULT]: 1

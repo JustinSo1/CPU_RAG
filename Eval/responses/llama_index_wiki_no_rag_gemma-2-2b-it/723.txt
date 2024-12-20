@@ -1,0 +1,18 @@
+[PROMPT]: Why doesn't Romania have a state religion?  
+[USER_ANSWER]: 
+
+Romania's history is complex, and its relationship with religion has been a significant factor in its development.  Here's a breakdown of why Romania doesn't have a state religion:
+
+**Historical Context:**
+
+* **The Ottoman Empire:**  Romania was under Ottoman rule for centuries, and the Ottoman Empire had a strong Islamic presence. This historical context influenced the country's religious landscape.
+* **The Romanian National Awakening:**  During the 19th century, Romania experienced a period of national awakening, which led to a desire for a distinct national identity. This included a rejection of foreign influences, including religious ones.
+* **The Communist Era:**  Romania's communist regime, which lasted from 1947 to 1989, actively promoted atheism and secularism. This further solidified the separation of religion from state affairs.
+
+**Legal Framework:**
+
+* **The Constitution:**  Romania's current constitution, adopted in 1991, explicitly prohibits the establishment of a state religion. This ensures that religious freedom is protected for all citizens.
+* **Freedom of Religion:**  The constitution guarantees freedom of religion, allowing individuals to practice any religion they choose. This freedom is enshrined in the constitution and is a
+[CORRECT_ANSWER]: Romania is a secular state
+[FEEDBACK]: The response provides a detailed and accurate explanation of why Romania does not have a state religion, including historical context and legal framework. It mentions the influence of the Ottoman Empire, the Romanian National Awakening, and the Communist Era, all of which are relevant to understanding Romania's secular stance. Additionally, it correctly references the Romanian constitution and its provisions for religious freedom. However, the response is somewhat verbose and could be more concise, similar to the reference answer. Despite this, the information provided is correct, accurate, and factual.
+[RESULT]: 4

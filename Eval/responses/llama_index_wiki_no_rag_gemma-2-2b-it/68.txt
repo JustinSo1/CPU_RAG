@@ -1,0 +1,21 @@
+[PROMPT]: Are beetles endopterygotes?
+[USER_ANSWER]: 
+
+Here's the breakdown:
+
+* **Endopterygotes:**  This is a term for insects that undergo metamorphosis, specifically the complete metamorphosis (holometabolous) where they go through four distinct stages: egg, larva, pupa, and adult.  
+* **Beetles:**  Beetles belong to the order Coleoptera, which is a large and diverse group of insects.  
+
+**Therefore, beetles are definitely endopterygotes.**
+
+Here's why:
+
+* **Complete Metamorphosis:**  Beetles, like all holometabolous insects, undergo complete metamorphosis.
+* **Larval Stage:**  Beetles have a larval stage (grub, larva, etc.) that is distinct from the adult stage.
+* **Pupa Stage:**  Beetles have a pupal stage where they undergo a dramatic transformation. 
+
+Let me know if you have any other insect-related questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is correct, accurate, and factual. It provides a detailed explanation of what endopterygotes are and confirms that beetles are endopterygotes by explaining their complete metamorphosis process. While the reference answer is very brief, the response to evaluate is thorough and informative, aligning with the reference answer's correctness.
+[RESULT]: 5

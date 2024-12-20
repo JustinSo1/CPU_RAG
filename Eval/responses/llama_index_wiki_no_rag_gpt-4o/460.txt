@@ -1,0 +1,5 @@
+[PROMPT]: Do kangaroos eat plants?
+[USER_ANSWER]: Yes, kangaroos are primarily herbivores, meaning they eat plants. Their diet mainly consists of grasses, leaves, shoots, and sometimes flowers and fruits. Different species of kangaroos have slightly varied diets based on their habitat and the availability of food sources. For instance, red kangaroos, which live in arid regions, primarily graze on grasses and other vegetation, while tree kangaroos, which live in forested areas, may also consume tree leaves and fruit.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the diet of kangaroos, explaining that they are herbivores and listing the types of plants they consume. The response also mentions the dietary variations among different species of kangaroos based on their habitats, which adds depth to the answer. This level of detail, while more extensive than the reference answer, does not detract from its correctness or accuracy.
+[RESULT]: 5

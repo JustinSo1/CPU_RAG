@@ -1,0 +1,15 @@
+[PROMPT]: What unrelated water birds are ducks sometimes confused with?
+[USER_ANSWER]: Ducks are sometimes confused with several other types of water birds that share similar habitats or physical characteristics. Some of these birds include:
+
+1. **Geese**: Geese are larger than ducks and have longer necks, but the two can be confused, especially from a distance.
+2. **Swans**: Swans are generally much larger and have longer necks, but their similar body shape and habitat can lead to confusion.
+3. **Coots**: Coots are smaller, darker, and have a distinctive white bill and frontal shield, but they share some similar behaviors and habitats with ducks.
+4. **Grebes**: Grebes have a more streamlined body and different diving behavior, but they can be mistaken for ducks when on the water.
+5. **Loons (or Divers)**: Loons have a distinct body shape and behavior, including diving for fish, but they can be confused with diving ducks.
+6. **Moorhens**: Moorhens are smaller, with a distinctive red frontal shield, but they occupy similar wetland habitats.
+7. **Cormorants**: Cormorants are larger, with longer necks and a more upright posture when on land, but they can be confused with ducks, especially when swimming.
+
+These birds might be confused with ducks due to overlapping habitats and some similar physical features, but each has distinct characteristics and behaviors that set them apart.
+[CORRECT_ANSWER]: loons or divers, grebes, gallinules, and coots
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It includes several types of water birds that ducks are sometimes confused with, such as geese, swans, coots, grebes, loons, moorhens, and cormorants. While the reference answer specifically mentions loons or divers, grebes, gallinules, and coots, the response expands on this list with additional birds that share similar habitats or physical characteristics with ducks. The additional birds mentioned (geese, swans, moorhens, and cormorants) are reasonable inclusions, though not explicitly listed in the reference answer. The response provides detailed descriptions that support the accuracy of the information.
+[RESULT]: 4

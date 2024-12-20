@@ -1,0 +1,16 @@
+[PROMPT]: What is "tobogganing"?
+[USER_ANSWER]: 
+
+Tobogganing is the act of sliding down a snow-covered slope on a sled or toboggan. 
+
+Here's a little more about it:
+
+* **It's a fun winter activity:** Tobogganing is a great way to enjoy the snow and get some exercise.
+* **It's safe when done properly:** As long as you're careful and wear appropriate safety gear, tobogganing can be a safe activity.
+* **It's popular in many parts of the world:** Tobogganing is a popular winter activity in many countries, including Canada, the United States, and Europe.
+
+Let me know if you have any other questions about tobogganing! 
+
+[CORRECT_ANSWER]: when penguins slide on their bellies across the snow
+[FEEDBACK]: The response provided describes tobogganing as the act of sliding down a snow-covered slope on a sled or toboggan, which is a common and widely accepted definition. However, the reference answer defines tobogganing in a very specific and unconventional way, as penguins sliding on their bellies across the snow. The response does not align with this specific definition and therefore does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[RESULT]: 1

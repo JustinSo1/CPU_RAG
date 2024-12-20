@@ -1,0 +1,12 @@
+[PROMPT]: What is Monroe Doctrine?
+[USER_ANSWER]: The Monroe Doctrine is a key U.S. foreign policy statement made by President James Monroe on December 2, 1823, during his annual message to Congress. The doctrine asserted that the Western Hemisphere was no longer open to European colonization and that any attempts by European nations to interfere or control any nation in the Americas would be viewed as acts of aggression, triggering U.S. intervention.
+
+The Monroe Doctrine had two main points:
+
+1. The Americas were declared off-limits to future colonization by any European powers.
+2. The United States would not interfere with existing European colonies nor engage in the internal affairs or wars of European nations.
+
+The doctrine was significant because it established a clear separation between the New World and the Old World, asserting U.S. influence and interest in the Western Hemisphere. Over time, it became a cornerstone of U.S. foreign policy in the Americas.
+[CORRECT_ANSWER]: A doctrine declaring U.S. opposition to European interference in the Americas.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of the Monroe Doctrine, including its historical context, main points, and significance. However, the reference answer is very concise and focuses solely on the U.S. opposition to European interference in the Americas. While the response goes beyond this by adding context and details, it remains accurate and factual in its description. Therefore, it aligns well with the reference answer but includes additional information that, while not incorrect, is not necessary for a perfect score based on the rubric.
+[RESULT]: 4

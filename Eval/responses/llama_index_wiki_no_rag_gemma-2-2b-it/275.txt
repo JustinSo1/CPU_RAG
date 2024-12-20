@@ -1,0 +1,21 @@
+[PROMPT]: Does Ghana have twice the per capita output of the poorer countries in West Africa?
+[USER_ANSWER]: 
+
+This question is tricky because it requires us to:
+
+1. **Define "poorer countries"**:  There's no single, universally agreed-upon definition. We'd need to consider factors like GDP per capita, poverty rates, and other economic indicators.
+2. **Compare per capita output**:  We need to know the specific per capita output figures for Ghana and the other West African countries.
+3. **Consider the context**:  Economic development is complex.  A country's per capita output might be high, but still have challenges like inequality or limited access to resources.
+
+**Here's a breakdown of why we can't definitively answer the question:**
+
+* **No single "poorer" group**:  West Africa has a range of countries with varying levels of development. Some are more economically advanced than others. 
+* **Per capita output varies**:  Even within a group of countries, per capita output can fluctuate significantly. 
+* **Complex factors**:  Economic performance is influenced by many factors beyond just GDP per capita, such as infrastructure, education, and political stability.
+
+**To get a more accurate answer, you would need to:**
+
+1. **Specify which countries you consider "poorer" in
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question. Instead, it provides an analysis of the complexities involved in answering the question, which, while informative, does not address the query directly. The reference answer is a simple "yes," indicating that the expected response should be straightforward and definitive. The response fails to provide a clear answer and instead discusses the difficulties in defining and comparing economic indicators, which makes it mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

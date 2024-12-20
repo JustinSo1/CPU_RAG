@@ -1,0 +1,9 @@
+[PROMPT]: How much is the average income of an African woman compared to a European man?
+[USER_ANSWER]: As of the data available up to 2023, there is a significant disparity in income between African women and European men. However, exact figures can vary widely depending on the specific countries and regions being compared.
+
+On average, European men tend to have higher incomes than African women due to various factors, including economic development, access to education, employment opportunities, and systemic inequalities.
+
+For a more precise comparison, it would be best to refer to specific and recent data from credible sources such as the World Bank, International Labour Organization (ILO), or other organizations that conduct detailed economic analyses. These sources provide comprehensive reports and statistics on income disparities across different demographics and regions.
+[CORRECT_ANSWER]: African women earns 0.65 * 0.718  = 46.67% of a European man earns in average
+[FEEDBACK]: The response provides a general overview of the income disparity between African women and European men, mentioning factors such as economic development, education, and employment opportunities. However, it does not provide specific figures or a direct comparison as the reference answer does. The reference answer gives a precise percentage (46.67%) of the average income of an African woman compared to a European man, which is missing in the evaluated response. Therefore, the response lacks the specific, factual detail required to be fully accurate.
+[RESULT]: 3

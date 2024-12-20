@@ -1,0 +1,5 @@
+[PROMPT]: Are beetles insects?
+[USER_ANSWER]: Yes, beetles are insects. They belong to the order Coleoptera, which is the largest order of insects, encompassing a vast diversity of species. Beetles are characterized by their hard exoskeleton and distinctive forewings (elytra) that cover and protect their hind wings and abdomen.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information about beetles, such as their classification under the order Coleoptera and their physical characteristics, which is accurate and relevant. However, the reference answer is very brief, and the response goes beyond the simplicity of the reference answer. Despite this, the response is factually correct and accurate.
+[RESULT]: 5

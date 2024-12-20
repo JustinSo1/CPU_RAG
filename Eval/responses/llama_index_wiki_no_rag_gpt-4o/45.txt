@@ -1,0 +1,13 @@
+[PROMPT]: Is it true that thermometer had 100 for the freezing point?
+[USER_ANSWER]: The statement that a thermometer had 100 for the freezing point is not accurate for the commonly used temperature scales. 
+
+- On the Celsius scale (also known as the centigrade scale), the freezing point of water is 0 degrees Celsius and the boiling point is 100 degrees Celsius at standard atmospheric pressure.
+- On the Fahrenheit scale, the freezing point of water is 32 degrees Fahrenheit and the boiling point is 212 degrees Fahrenheit.
+- On the Kelvin scale, which is an absolute temperature scale used in science, the freezing point of water is 273.15 K.
+
+However, there was a historical temperature scale called the Réaumur scale, where the freezing point of water was set at 0 degrees Réaumur and the boiling point at 80 degrees Réaumur. None of these scales use 100 as the freezing point of water. 
+
+It seems there may be some confusion or a mix-up in the scales in the statement.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provided is mostly correct, accurate, and factual. It correctly identifies that the statement about the thermometer having 100 for the freezing point is not accurate for the commonly used temperature scales (Celsius, Fahrenheit, and Kelvin). It also provides additional information about the Réaumur scale, which is informative but not directly necessary to answer the question. The reference answer is a simple "Yes," which implies a straightforward confirmation, but the evaluated response goes into detail to explain why the statement is incorrect. While the detailed explanation is accurate, it diverges from the simplicity of the reference answer. Therefore, it is mostly correct but not completely aligned with the reference answer's simplicity.
+[RESULT]: 4

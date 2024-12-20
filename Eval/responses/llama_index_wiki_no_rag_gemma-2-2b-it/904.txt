@@ -1,0 +1,14 @@
+[PROMPT]: Where was Woodrow Wilson born?
+[USER_ANSWER]: 
+
+The answer is **Virginia, USA**. 
+
+Here's a bit more about Woodrow Wilson:
+
+* **Woodrow Wilson** was the 28th President of the United States.
+* He was born in **Staunton, Virginia** on December 28, 1856.
+* He is known for his role in World War I and the creation of the League of Nations. 
+
+[CORRECT_ANSWER]: Woodrow Wilson was born in Staunton, Virginia
+[FEEDBACK]: The response correctly identifies that Woodrow Wilson was born in Virginia, USA, and even specifies Staunton, Virginia, which aligns with the reference answer. The additional information provided about Woodrow Wilson being the 28th President of the United States, his birth date, and his role in World War I and the creation of the League of Nations is accurate and factual. The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

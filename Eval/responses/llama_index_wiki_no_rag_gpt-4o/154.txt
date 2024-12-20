@@ -1,0 +1,5 @@
+[PROMPT]: Who is Daffy Duck?
+[USER_ANSWER]: Daffy Duck is a classic animated cartoon character created by Warner Bros. He first appeared in the cartoon "Porky's Duck Hunt" in 1937. Daffy is known for his zany personality, distinctive lisp, and his role in the Looney Tunes and Merrie Melodies series of animated shorts. He often finds himself in various comedic situations and is frequently paired with other iconic characters like Bugs Bunny, Porky Pig, and Elmer Fudd. Daffy Duck is one of the most beloved and enduring characters in the history of animation.
+[CORRECT_ANSWER]: A silly cartoon character
+[FEEDBACK]: The response provides a detailed and accurate description of Daffy Duck, including his creation by Warner Bros., his first appearance, his personality traits, and his role in the Looney Tunes and Merrie Melodies series. While the reference answer is very brief, the response is factually correct and aligns with the information about Daffy Duck. However, the response goes beyond the simplicity of the reference answer, which may not be necessary but does not detract from its accuracy.
+[RESULT]: 5

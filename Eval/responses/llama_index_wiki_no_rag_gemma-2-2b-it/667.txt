@@ -1,0 +1,16 @@
+[PROMPT]: How much weight do female polar bears gain during pregnancy?
+[USER_ANSWER]: 
+
+Female polar bears gain an average of **40-60 pounds** during pregnancy. 
+
+Here's a breakdown:
+
+* **Average:** 50 pounds
+* **Range:** 40-60 pounds
+* **Factors:** Weight gain can vary depending on the size of the mother bear, the age of the mother, and the health of the mother.
+
+It's important to note that this is just an average, and individual bears may gain more or less weight.
+
+[CORRECT_ANSWER]: They gain double their weight.
+[FEEDBACK]: The response provided is not accurate based on the reference answer. The reference answer states that female polar bears gain double their weight during pregnancy, while the response mentions a specific weight range of 40-60 pounds. This discrepancy indicates that the response is mostly incorrect and not factual according to the reference answer.
+[RESULT]: 2

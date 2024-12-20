@@ -1,0 +1,17 @@
+[PROMPT]: Did Webster write, "I can now sleep of nights"?
+[USER_ANSWER]: 
+
+No, that's not something Webster wrote.  That's a common misattribution. 
+
+**Here's why:**
+
+* **Webster's work:**  Noah Webster was a lexicographer, meaning he focused on creating dictionaries. He didn't write personal memoirs or quotes.
+* **The quote's origin:** The phrase "I can now sleep of nights" is often attributed to Webster, but there's no evidence he ever said it. It's likely a misremembered or fabricated quote.
+
+**Where did the quote come from?**
+
+The quote's origin is unclear, but it's been circulating online and in popular culture for a long time. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that Webster did write "I can now sleep of nights." The response provided not only denies this but also elaborates on why it believes the quote is a misattribution, which is factually incorrect according to the reference answer. Therefore, the response does not align with the correct information provided in the reference answer.
+[RESULT]: 1

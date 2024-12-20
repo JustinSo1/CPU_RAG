@@ -1,0 +1,5 @@
+[PROMPT]: Who assassinated Lincoln?
+[USER_ANSWER]: Abraham Lincoln, the 16th President of the United States, was assassinated by John Wilkes Booth. Booth was a well-known actor and a Confederate sympathizer who strongly opposed Lincoln's policies and the outcome of the Civil War. The assassination took place on April 14, 1865, at Ford's Theatre in Washington, D.C., and Lincoln died the following day on April 15.
+[CORRECT_ANSWER]: John Wilkes Booth
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the name of the assassin, John Wilkes Booth, and includes additional relevant details about Booth's background, motives, and the circumstances of the assassination. While the extra information is not necessary to answer the question, it does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,22 @@
+[PROMPT]: What did Cleveland's opponents say in 1884 to counter his innocent image?
+[USER_ANSWER]: 
+
+The question is a bit tricky because it requires us to understand the context of Cleveland's political career and the accusations against him. 
+
+Here's what we know:
+
+* **James Blaine** was the incumbent president and a strong opponent of Cleveland. Blaine was known for his political maneuvering and his ability to build a strong base of support.
+* **Cleveland was a reformer** who challenged the political establishment and was seen as a threat to the status quo.
+* **Cleveland was accused of corruption** by his opponents, particularly Blaine. These accusations were often based on speculation and hearsay, but they were powerful enough to damage his reputation.
+
+**To counter Cleveland's innocent image, Blaine and his supporters used a variety of tactics:**
+
+* **Attacking his character:** They portrayed him as a dishonest and untrustworthy individual, highlighting his past actions and associating him with negative figures.
+* **Spreading rumors and misinformation:** They used propaganda and smear campaigns to discredit Cleveland and his supporters.
+* **Focusing on his lack of experience:** They argued that he was inexperienced and unqualified to be president.
+* **Highlighting his political affiliations:** They emphasized his ties to radical groups and his association with controversial figures.
+
+**It's important to note
+[CORRECT_ANSWER]: That he had fathered an illegitimate child
+[FEEDBACK]: The response does not directly address the specific accusation made against Cleveland in 1884, which was that he had fathered an illegitimate child. Instead, it provides a general overview of the political tactics used by his opponents, which, while informative, does not accurately or factually answer the question. The response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

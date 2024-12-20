@@ -1,0 +1,16 @@
+[PROMPT]: Which property did James Monroe sell in 1817?
+[USER_ANSWER]: 
+
+The answer is **his plantation, Shadwell**.
+
+Here's why:
+
+* **James Monroe** was a prominent American statesman and the fifth President of the United States.
+* **Shadwell** was a large plantation in Virginia owned by Monroe.
+* In **1817**, Monroe sold Shadwell to **John Randolph**.
+
+This sale was a significant event in Monroe's life, as it allowed him to focus on his political career and to gain financial independence. 
+
+[CORRECT_ANSWER]: Monroe Hill on the grounds of the University of Virginia.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The property that James Monroe sold in 1817 was Monroe Hill on the grounds of the University of Virginia, not his plantation, Shadwell. The additional details provided about Monroe and Shadwell do not align with the factual information required by the question.
+[RESULT]: 1
