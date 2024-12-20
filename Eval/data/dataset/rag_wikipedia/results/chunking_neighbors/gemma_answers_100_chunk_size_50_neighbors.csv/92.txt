@@ -1,5 +1,0 @@
-[PROMPT]: Is it true that he became a professor in 1820?
-[USER_ANSWER]: Yes, the context says that Faraday became a professor of physics at the University of Turin in 1820.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer simply confirms the year without additional context, while the evaluated response introduces incorrect information about Faraday becoming a professor of physics at the University of Turin, which is not factual.
-[RESULT]: 2

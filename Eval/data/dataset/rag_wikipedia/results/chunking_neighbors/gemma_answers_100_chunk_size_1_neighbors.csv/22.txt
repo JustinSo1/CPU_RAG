@@ -1,5 +1,0 @@
-[PROMPT]: How old was Lincoln in 1816?
-[USER_ANSWER]: In 1816, Lincoln was 10 years old. The context does not provide any other information about his age in that year.
-[CORRECT_ANSWER]: seven
-[FEEDBACK]: The response is mostly incorrect and inaccurate. Lincoln was actually 7 years old in 1816, not 10 years old. The additional statement about the context not providing other information is irrelevant and does not contribute to the accuracy of the response.
-[RESULT]: 2

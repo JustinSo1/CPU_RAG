@@ -1,5 +1,0 @@
-[PROMPT]: How long was Lincoln's legal Career?
-[USER_ANSWER]: Lincoln's legal career lasted more than 5,100 cases.
-[CORRECT_ANSWER]: 23 years
-[FEEDBACK]: The response is mostly incorrect and inaccurate. The question asks for the duration of Lincoln's legal career in terms of years, but the response provides the number of cases he handled, which does not answer the question accurately.
-[RESULT]: 2

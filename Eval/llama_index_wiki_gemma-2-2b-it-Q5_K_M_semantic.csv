@@ -1,0 +1,2728 @@
+Q0,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q28,Q29,Q30,Q31,Q32,Q33,Q34,Q35,Q36,Q37,Q38,Q39,Q40,Q41,Q42,Q43,Q44,Q45,Q46,Q47,Q48,Q49,Q50,Q51,Q52,Q53,Q54,Q55,Q56,Q57,Q58,Q59,Q60,Q61,Q62,Q63,Q64,Q65,Q66,Q67,Q68,Q69,Q70,Q71,Q72,Q73,Q74,Q75,Q76,Q77,Q78,Q79,Q80,Q81,Q82,Q83,Q84,Q85,Q86,Q87,Q88,Q89,Q90,Q91,Q92,Q93,Q94,Q95,Q96,Q97,Q98,Q99,Q100,Q101,Q102,Q103,Q104,Q105,Q106,Q107,Q108,Q109,Q110,Q111,Q112,Q113,Q114,Q115,Q116,Q117,Q118,Q119,Q120,Q121,Q122,Q123,Q124,Q125,Q126,Q127,Q128,Q129,Q130,Q131,Q132,Q133,Q134,Q135,Q136,Q137,Q138,Q139,Q140,Q141,Q142,Q143,Q144,Q145,Q146,Q147,Q148,Q149,Q150,Q151,Q152,Q153,Q154,Q155,Q156,Q157,Q158,Q159,Q160,Q161,Q162,Q163,Q164,Q165,Q166,Q167,Q168,Q169,Q170,Q171,Q172,Q173,Q174,Q175,Q176,Q177,Q178,Q179,Q180,Q181,Q182,Q183,Q184,Q185,Q186,Q187,Q188,Q189,Q190,Q191,Q192,Q193,Q194,Q195,Q196,Q197,Q198,Q199,Q200,Q201,Q202,Q203,Q204,Q205,Q206,Q207,Q208,Q209,Q210,Q211,Q212,Q213,Q214,Q215,Q216,Q217,Q218,Q219,Q220,Q221,Q222,Q223,Q224,Q225,Q226,Q227,Q228,Q229,Q230,Q231,Q232,Q233,Q234,Q235,Q236,Q237,Q238,Q239,Q240,Q241,Q242,Q243,Q244,Q245,Q246,Q247,Q248,Q249,Q250,Q251,Q252,Q253,Q254,Q255,Q256,Q257,Q258,Q259,Q260,Q261,Q262,Q263,Q264,Q265,Q266,Q267,Q268,Q269,Q270,Q271,Q272,Q273,Q274,Q275,Q276,Q277,Q278,Q279,Q280,Q281,Q282,Q283,Q284,Q285,Q286,Q287,Q288,Q289,Q290,Q291,Q292,Q293,Q294,Q295,Q296,Q297,Q298,Q299,Q300,Q301,Q302,Q303,Q304,Q305,Q306,Q307,Q308,Q309,Q310,Q311,Q312,Q313,Q314,Q315,Q316,Q317,Q318,Q319,Q320,Q321,Q322,Q323,Q324,Q325,Q326,Q327,Q328,Q329,Q330,Q331,Q332,Q333,Q334,Q335,Q336,Q337,Q338,Q339,Q340,Q341,Q342,Q343,Q344,Q345,Q346,Q347,Q348,Q349,Q350,Q351,Q352,Q353,Q354,Q355,Q356,Q357,Q358,Q359,Q360,Q361,Q362,Q363,Q364,Q365,Q366,Q367,Q368,Q369,Q370,Q371,Q372,Q373,Q374,Q375,Q376,Q377,Q378,Q379,Q380,Q381,Q382,Q383,Q384,Q385,Q386,Q387,Q388,Q389,Q390,Q391,Q392,Q393,Q394,Q395,Q396,Q397,Q398,Q399,Q400,Q401,Q402,Q403,Q404,Q405,Q406,Q407,Q408,Q409,Q410,Q411,Q412,Q413,Q414,Q415,Q416,Q417,Q418,Q419,Q420,Q421,Q422,Q423,Q424,Q425,Q426,Q427,Q428,Q429,Q430,Q431,Q432,Q433,Q434,Q435,Q436,Q437,Q438,Q439,Q440,Q441,Q442,Q443,Q444,Q445,Q446,Q447,Q448,Q449,Q450,Q451,Q452,Q453,Q454,Q455,Q456,Q457,Q458,Q459,Q460,Q461,Q462,Q463,Q464,Q465,Q466,Q467,Q468,Q469,Q470,Q471,Q472,Q473,Q474,Q475,Q476,Q477,Q478,Q479,Q480,Q481,Q482,Q483,Q484,Q485,Q486,Q487,Q488,Q489,Q490,Q491,Q492,Q493,Q494,Q495,Q496,Q497,Q498,Q499,Q500,Q501,Q502,Q503,Q504,Q505,Q506,Q507,Q508,Q509,Q510,Q511,Q512,Q513,Q514,Q515,Q516,Q517,Q518,Q519,Q520,Q521,Q522,Q523,Q524,Q525,Q526,Q527,Q528,Q529,Q530,Q531,Q532,Q533,Q534,Q535,Q536,Q537,Q538,Q539,Q540,Q541,Q542,Q543,Q544,Q545,Q546,Q547,Q548,Q549,Q550,Q551,Q552,Q553,Q554,Q555,Q556,Q557,Q558,Q559,Q560,Q561,Q562,Q563,Q564,Q565,Q566,Q567,Q568,Q569,Q570,Q571,Q572,Q573,Q574,Q575,Q576,Q577,Q578,Q579,Q580,Q581,Q582,Q583,Q584,Q585,Q586,Q587,Q588,Q589,Q590,Q591,Q592,Q593,Q594,Q595,Q596,Q597,Q598,Q599,Q600,Q601,Q602,Q603,Q604,Q605,Q606,Q607,Q608,Q609,Q610,Q611,Q612,Q613,Q614,Q615,Q616,Q617,Q618,Q619,Q620,Q621,Q622,Q623,Q624,Q625,Q626,Q627,Q628,Q629,Q630,Q631,Q632,Q633,Q634,Q635,Q636,Q637,Q638,Q639,Q640,Q641,Q642,Q643,Q644,Q645,Q646,Q647,Q648,Q649,Q650,Q651,Q652,Q653,Q654,Q655,Q656,Q657,Q658,Q659,Q660,Q661,Q662,Q663,Q664,Q665,Q666,Q667,Q668,Q669,Q670,Q671,Q672,Q673,Q674,Q675,Q676,Q677,Q678,Q679,Q680,Q681,Q682,Q683,Q684,Q685,Q686,Q687,Q688,Q689,Q690,Q691,Q692,Q693,Q694,Q695,Q696,Q697,Q698,Q699,Q700,Q701,Q702,Q703,Q704,Q705,Q706,Q707,Q708,Q709,Q710,Q711,Q712,Q713,Q714,Q715,Q716,Q717,Q718,Q719,Q720,Q721,Q722,Q723,Q724,Q725,Q726,Q727,Q728,Q729,Q730,Q731,Q732,Q733,Q734,Q735,Q736,Q737,Q738,Q739,Q740,Q741,Q742,Q743,Q744,Q745,Q746,Q747,Q748,Q749,Q750,Q751,Q752,Q753,Q754,Q755,Q756,Q757,Q758,Q759,Q760,Q761,Q762,Q763,Q764,Q765,Q766,Q767,Q768,Q769,Q770,Q771,Q772,Q773,Q774,Q775,Q776,Q777,Q778,Q779,Q780,Q781,Q782,Q783,Q784,Q785,Q786,Q787,Q788,Q789,Q790,Q791,Q792,Q793,Q794,Q795,Q796,Q797,Q798,Q799,Q800,Q801,Q802,Q803,Q804,Q805,Q806,Q807,Q808,Q809,Q810,Q811,Q812,Q813,Q814,Q815,Q816,Q817,Q818,Q819,Q820,Q821,Q822,Q823,Q824,Q825,Q826,Q827,Q828,Q829,Q830,Q831,Q832,Q833,Q834,Q835,Q836,Q837,Q838,Q839,Q840,Q841,Q842,Q843,Q844,Q845,Q846,Q847,Q848,Q849,Q850,Q851,Q852,Q853,Q854,Q855,Q856,Q857,Q858,Q859,Q860,Q861,Q862,Q863,Q864,Q865,Q866,Q867,Q868,Q869,Q870,Q871,Q872,Q873,Q874,Q875,Q876,Q877,Q878,Q879,Q880,Q881,Q882,Q883,Q884,Q885,Q886,Q887,Q888,Q889,Q890,Q891,Q892,Q893,Q894,Q895,Q896,Q897,Q898,Q899,Q900,Q901,Q902,Q903,Q904,Q905,Q906,Q907,Q908,Q909,Q910,Q911,Q912,Q913,Q914,Q915,Q916,Q917
+"
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: ""Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination."" 
+","
+**No.** The provided text states that the National Banking Acts of 1863, 1864, and 1865 were created to allow the creation of a strong national financial system. It does not mention Lincoln signing any of these acts. 
+","
+No, the context does not state that his mother died of pneumonia. 
+","18 months. 
+","1832. 
+","
+The Legal Tender Act of 1862 established the United States Note, the first paper currency in United States history. 
+","11-year-old Grace Bedell. 
+","
+The Gettysburg Address argued that America was born in **1776**. 
+","
+Yes, Lincoln won the election. 
+---------------------
+","
+No. 
+---------------------
+Explanation: 
+The provided text states that Abraham Lincoln was the sixteenth president of the United States. 
+","
+Yes. 
+---------------------
+Explanation:
+The text states that Lincoln began his political career in 1832, at age 23, with an unsuccessful campaign for the Illinois General Assembly. 
+","
+Yes. 
+Explanation: The text states that Lincoln represented the Alton & Sangamon Railroad in a dispute with a shareholder, James A. Barret. 
+","
+ Hardin County, Kentucky. 
+","
+March 4, 1861 
+","
+John Wilkes Booth 
+","
+Yes, Lincoln won the election of 1860. 
+","
+Lee's invasion of Maryland prompted Lincoln to restore McClellan to command of all forces around Washington. 
+ 
+","
+Lincoln issued the Emancipation Proclamation for several reasons. First, it was a war measure to weaken the rebellion by destroying the economic base of its leadership class. Second, it showed that Lincoln had the support of Congress in liberating slaves owned by rebels. Third, it was a way to make the abolition of slavery an official war goal. 
+","
+Yes. The text states that ""Scholars now rank Lincoln among the top three U.S. Presidents, with the majority of those surveyed placing him first."" 
+","
+No, Lincoln had about 18 months of schooling. 
+","
+Yes. 
+---------------------
+","
+**7** 
+---------------------
+Explanation: 
+The text states that Lincoln was ""just seven years old when, in 1816, the family was forced to make a new start in Perry County (now in Spencer County), Indiana."" 
+","1846. 
+","
+Lincoln's legal career lasted for 23 years. 
+","
+The trial was the murder case of William ""Duff"" Armstrong. 
+","
+Yes. 
+The text states that the Sinking Spring Farm, where Lincoln was born, was located in the ""frontier."" 
+","
+Yes, the text states that Lincoln's wife's family were slave-owners. 
+","
+Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto. 
+","
+John Adams 
+","1811 
+","
+He was elected Lucasian Professor of Mathematics in 1669. 
+He became a professor of jurisprudence and political economy at Princeton in 1890. 
+He became a professor of physics at the MusÃ©um National d'Histoire Naturelle in 1892. 
+He became a professor of physics in the Como high school in 1774. 
+He became a professor of law in Atlanta in 1882. 
+He became a professor of history and political science at Johns Hopkins University in 1886. 
+
+
+","
+Yes, it is true that he became a professor of physics at the University of Turin in 1820. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that ""Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto was an Italian savant."" 
+","
+Yes. 
+---------------------
+","
+Yes. 
+Explanation: The text explicitly states that ""He is most noted for his contributions to the theory of molarity and molecular weight."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that King Victor Emmanuel III was present at the meeting in Turin to commemorate the 100th anniversary of Avogadro's publication. 
+","
+Yes. 
+Explanation: 
+The text states that ""Avogadro's number is commonly used to compute the results of chemical reactions."" 
+","
+Yes. The text states that ""The scientific community did not reserve great attention to his theory, so Avogadro's hypothesis was not immediately accepted when announced."" 
+","
+**Essay on Determining the Relative Masses of the Elementary Molecules of Bodies** 
+","
+Joseph Henry was elected to the 25th Congress. 
+","
+Anders Celsius 
+","
+Dozens of university and college buildings (chiefly of science and technology) are named after him.
+The SI unit of power, the watt, is named after him.
+Over 50 roads or streets in the UK are named after him.
+The largest power plant complex in Serbia, the TPP Nikola Tesla is named in his honour.
+On July 10, 2006 the biggest airport in Serbia (Belgrade) was renamed Belgrade Nikola Tesla Airport in honor of Teslaâs 150th birthday.
+An electric car company, Tesla Motors, named their company in tribute to Nikola Tesla.
+The ballistic missile submarine Abraham Lincoln (SSBN-602) and the aircraft carrier Abraham Lincoln (CVN-72) were named in his honor.
+The SI unit of charge, the coulomb, was named after him.
+Dupont Street, the main thoroughfare in San Francisco's Chinatown, was renamed Grant Avenue in his honor.
+The famous dragon gate at the entrance to the district is at the corner of Grant and Bush Street. 
+
+
+","
+**The provided text does not mention when John published a collection.** 
+","
+No, the provided text states that John's works were published posthumously in 1728. 
+","
+Yes, the text states that Anders Celsius's thermometer had 100 for the freezing point of water. 
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+","
+Yes. 
+","
+Anders Celsius 
+","
+The Celsius crater on the Moon is a **crater**. 
+","
+Yes. 
+","
+Yes, Anders Celsius did. 
+Explanation: The text states that ""His thermometer had 100 for the freezing point of water and 0 for the boiling point."" 
+","
+Yes. 
+---------------------
+","
+Yes. 
+Explanation: 
+The text states that ""He further gave a rule for the determination of the boiling point if the barometric pressure deviates from a certain standard pressure"" and that ""He determined the dependence of the boiling of water with atmospheric pressure (in excellent agreement with modern data)."" 
+","
+The provided text does not contain information about what happened from 1730 to 1744. 
+","
+Carolus Linnaeus reversed the scale of the thermometer. 
+","
+Yes, beetles are insects. 
+---------------------
+","
+No, according to the text, beetles are not known to occur in the sea or in the polar regions. 
+","
+Yes. 
+","
+The three sections of a beetle are the head, the thorax, and the abdomen. 
+","
+Mimicry 
+","
+The Colorado potato beetle (Leptinotarsa decemlineata) is a pest of potato plants. 
+","
+Beetle larvae can be differentiated from other insect larvae by their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body. 
+","
+Beetles have a diverse diet, and their food sources vary depending on the species. 
+Here are some examples:
+* **Plants:** Many beetles feed on plants, including leaf beetles, weevils, and some ground beetles.
+* **Fungi:** Some beetles feed on fungi.
+* **Animal and plant debris:**  Many beetles break down animal and plant debris.
+* **Invertebrates:** Some beetles eat other invertebrates, such as earthworms and snails.
+* **Other insects:** Some beetles are agricultural pests, while others are important controls of agricultural pests.
+* **Decaying organic matter:** Many beetles feed on decaying organic matter, such as dung and dead animals.
+* **Other:** Some beetles are generalists, eating both plants and animals. 
+
+
+","
+Beetles have mouthparts similar to those of grasshoppers. Of these parts, the most commonly known are probably the mandibles, which appear as large pincers on the front of some beetles. The mandibles are a pair of hard, often tooth-like structures that move horizontally to grasp, crush, or cut food or enemies (see defence, below). Two pairs of finger-like appendages are found around the mouth in most beetles, serving to move food into the mouth. 
+","
+Yes, the text states that certain species of beetles are agricultural pests, such as the Colorado potato beetle, boll weevil, red flour beetle, and mungbean or cowpea beetle. 
+","
+Yes, the general anatomy of beetles is quite uniform. 
+","
+Yes, the text states that ""Beetles are endopterygotes with complete metamorphosis."" 
+","
+There are about 350,000 species of beetles. 
+","
+During pairing, sperm cells are transferred to the female to fertilize the egg. 
+
+
+","
+Coleopterology 
+","
+Yes, the text states that ""Estimates put the total number of species, described and undescribed, at between 5 and 8 million."" 
+","
+Based on the provided text, we can't definitively say whether the Adephaga suborder is larger than the Polyphaga suborder. 
+
+Here's why:
+* **Number of Families:** The text states that Polyphaga has more than 300,000 described species in over 170 families, while Adephaga has about 10 families. 
+* **Focus on Species Count:** The text focuses on the number of species within each suborder, but doesn't explicitly compare their total family counts. 
+
+To determine which suborder is larger, we would need information about the total number of families within each suborder. 
+","
+No, the text states that carrion beetles eat dead animals, not dung. 
+","
+* **Leopards:**  They hunt about 90 different species of animals, including ungulates, monkeys, rodents, reptiles, amphibians, birds, and fish.
+* **Wolves:**  They prey on deer, caribou, moose, yak, and other large ungulates. They also eat rodents and other small animals.
+* **Otters:**  Their diet is primarily fish, supplemented by frogs, crayfish, and crabs. Some otters also eat small mammals and birds.
+* **Polar Bears:**  They feed mainly on seals, young walruses, and whales, although they will eat anything they can kill. 
+* **Elephants:**  They have few natural predators besides man and, occasionally, lions. 
+
+
+","
+The name ""Coleoptera"" was given by Aristotle for the hardened shield like forewings (coleo = shield + ptera = wing). 
+","
+Beetles whose larvae are somewhat flattened and are highly mobile are the ground beetles, some rove beetles, and others; their larvae are described as campodeiform. Some beetle larvae resemble hardened worms with dark head capsules and minute legs. 
+","
+Yes, many beetles are territorial and will fiercely defend their small patch of territory from intruding males. 
+","
+Yes, the text explicitly states that ""Beetles are endopterygotes with complete metamorphosis."" 
+","
+Oxygen is obtained via a tracheal system. 
+","
+Yes, there is a thriving industry in the collection of beetle specimens for amateur and professional collectors. 
+---------------------
+Explanation: 
+The text explicitly states that ""There is a thriving industry in the collection of beetle specimens for amateur and professional collectors."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: ""Coleopterists have formed organisations to facilitate the study of beetles."" 
+","
+Yes. 
+---------------------
+","
+Yes. 
+The text states: ""A single female may lay from several dozen to several thousand eggs during her lifetime."" 
+","
+Yes, the text states that ""Beetles can be found in almost all habitats"". 
+","
+* The spread of the fungus by the beetle has led to the devastation of elm trees in many parts of the Northern Hemisphere, notably in Europe and North America.
+* As larger patches of forest disappear, the ecosystem is affected in profound ways. The trees are responsible for anchoring soil and absorbing water runoff.
+* The death watch beetle, Xestobium rufovillosum, (family Anobiidae) is of considerable importance as a pest of older wooden buildings in Great Britain. It attacks hardwoods such as oak and chestnut, always where some fungal decay has taken or is taking place.
+* Many plant species, such as the Scots Pine, spruce, birch spread throughout Finland from Norway and only reached the western coast less than three millennia ago. Oak and maple grows in nature only in the southern part of Finland.
+* As well as potatoes, suitable hosts can be a number of plants from the potato family (Solanaceae), such as nightshade, tomato, aubergine and capsicum.
+* The Colorado potato beetle, Leptinotarsa decemlineata, is a notorious pest of potato plants. Crops are destroyed and the beetle can only be treated by employing expensive pesticides, many of which it has begun to develop resistance to.
+* Some","
+Yes. 
+---------------------
+Explanation: 
+The text states that Calvin Coolidge was elected as the twenty-ninth Vice President in 1920. 
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+Explanation:
+The text states: ""Coolidge graduated from Black River Academy, Vermont"". 
+","
+The provided text does not contain the answer to your query. 
+","1905. 
+","
+The United States experienced the period of rapid economic growth known as the ""Roaring Twenties"" during Coolidge's presidency. 
+","
+After graduating from Amherst, Coolidge moved to Northampton, Massachusetts to take up the practice of law. 
+He followed the more common practice at the time of apprenticing with a local firm, Hammond & Field. 
+He was admitted to the bar in 1897 and opened his own law office in Northampton in 1898. 
+","
+","
+ Coolidge appointed Harlan Fiske Stone to the Supreme Court in 1925. 
+","
+No. 
+Explanation: The text states that Millard Fillmore was the thirteenth President of the United States. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that Calvin Coolidge was a lawyer from Vermont who worked his way up the ladder of Massachusetts state politics, eventually becoming governor. It also mentions that he was unopposed for the Republican nomination for Governor of Massachusetts in 1918 and that he was a member of the Republican City Committee. 
+","
+Yes. 
+Explanation: 
+The text states that Coolidge was unopposed for the Republican nomination for Governor of Massachusetts in 1918. He also served as Lieutenant Governor of Massachusetts. 
+","
+July 4, 1872 
+","
+The text states that Coolidge's grandfather, Calvin Coolidge, held some local government offices in Plymouth. 
+","
+Vermont 
+","
+Based on the text provided, we can conclude that **Calvin Jr. was born after John Coolidge Sr.** 
+ 
+**Explanation:**
+
+* The text states that Calvin Jr. was born in 1908, while John Coolidge Sr. was born in 1872. 
+* This means that Calvin Jr. was born after his father. 
+* Therefore, Calvin Jr. is younger than John Coolidge. 
+","
+Yes, he was admitted to Amherst College. 
+He failed his initial entrance exam but was admitted after one term at St. Johnsbury Academy. 
+He graduated cum laude in 1895. 
+","
+The provided text states that Calvin Jr. developed a blister from playing tennis on the White House courts. The blister became infected, and Calvin Jr. died. 
+","
+No. 
+---------------------
+Explanation:
+The text clearly states that John Calvin Coolidge Jr. was born in Plymouth, Windsor County, Vermont, on July 4, 1872. 
+","
+No. 
+Explanation: The text states that Coolidge was ""unopposed for the Republican nomination for Governor of Massachusetts in 1918."" 
+","
+Yes. 
+---------------------
+","1898. 
+","
+The fraternity Coolidge was a member of was Phi Gamma Delta. 
+","
+Grace Anna Goodhue 
+","
+Coolidge dropped out of law school to pursue his new goal of entering public life. 
+","
+","
+John Calvin Coolidge Jr. was born in 1872 and his younger brother was born in 1906. 
+","
+No. The text states that France ceded nearly all of its colonies in **North America** in 1763. 
+","
+Yes. 
+","
+No, Zulu is not Canada's official language. 
+ 
+Explanation: 
+The provided text states that Canada's official languages are English and French. It does not mention Zulu as an official language. 
+","
+One significant non-official language is **Punjabi**. 
+","
+Port Royal, Quebec City 
+","
+The Constitution Act was formerly called the **Constitution Act, 1982**. 
+
+
+","
+* **France** established colonies in Canada.
+* **Great Britain** established colonies in Canada. 
+* **The United States** established colonies in Canada. 
+
+
+**Explanation:**
+
+The text explicitly states that:
+
+* **France** had a colony in Canada called New France along the Saint Lawrence River and the Great Lakes.
+* **Great Britain** took control of Canada after the Seven Years' War, splitting it into Upper and Lower Canada.
+* **The United States** did not establish colonies in Canada, but they were involved in the War of 1812, which was fought between the United States and the British Empire. 
+
+
+Let me know if you have any other questions. 
+","
+Canada has played a leading role in UN peacekeeping efforts.  It has served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989.  Canada's first contribution to UN peacekeeping was during the Suez Crisis of 1956, when Lester B. Pearson proposed the inception of the United Nations Peacekeeping Force. 
+","68.3% of Canadians speak English or French at home. 
+Therefore, 100% - 68.3% = 31.7% of the population don't speak English or French at home. 
+
+
+","
+Yes, Canada is bilingual. 
+","
+Yes. 
+","
+Based on the provided text, the answer is **yes**. 
+
+The text states that ""Some significant non-official first languages include German (438,080)"". 
+","13 
+","1.7 percent. 
+","
+The most densely populated part of Canada is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast. 
+","
+","
+The largest religious group in Canada is Christianity, with Catholics making up the largest group (43.6% of Canadians). 
+","
+Canada finished the Second World War with one of the largest armed forces in the world. 
+","
+The lands have been inhabited for millennia by aboriginal peoples. 
+Aboriginal and Inuit tradition holds that the First Peoples inhabited parts of Canada prehistorically. 
+Archaeological studies support a human presence in northern Yukon from 26,500 years ago, and in southern Ontario from 9,500 years ago. 
+","1545 
+","
+The fur trade was Canada's most important industry until the 1800s. 
+","
+Yes. 
+Explanation: 
+The text states that the Quebec Act of 1774 expanded Quebec's territory to the Great Lakes and Ohio Valley, and re-established the French language, Catholic faith, and French civil law in Quebec; it angered many residents of the Thirteen Colonies, helping to fuel the American Revolution. 
+
+
+","
+The provided text states that Coolidge withdrew American troops from the Dominican Republic in 1924. It also mentions that the United States occupied Nicaragua and Haiti under his administration. 
+ 
+","
+Yes. 
+Explanation: 
+The text states that provinces have a ""large degree of autonomy"" from the federal government. 
+","
+The Canada adopted its current Maple Leaf Flag in 1965. 
+","
+","
+Yes, Canada's two official languages are English and French. 
+","
+Yes, according to the text. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that Canada is ""geographically vast"" and ""ethnically diverse"". 
+","
+Yes. The Treaty of Utrecht (1713) brought Mainland Nova Scotia under British rule. 
+","
+Yes. 
+Explanation: 
+The text states that Cartier used the word 'Canada' to refer to not only that village, but the entire area subject to Donnacona, Chief at Stadacona. 
+","
+**No**, continental European immigrants did settle the prairies. 
+**Explanation:** The text states that under Liberal Prime Minister Wilfrid Laurier, continental European immigrants settled the prairies, and Alberta and Saskatchewan became provinces in 1905. 
+
+
+","
+Yes, Canada is the world's second largest country by total area. 
+","
+Canada assumed control of Rupert's Land and the North-Western Territory to form the Northwest Territories, where MÃ©tis' grievances ignited the Red River Rebellion and the creation of the province of Manitoba in July 1870. 
+","
+Yes, some duck species in the Arctic Northern Hemisphere are migratory. 
+","
+Yes. 
+Explanation: The text states that ""drakes"" are the adult males of the species. 
+","
+No, most ducks other than female Mallards and domestic ducks do not ""quack"". 
+","
+The specialized species of duck adapted to catch large fish are the smew, goosander, and the mergansers. 
+","
+The duck is the animal that attracts the most humor and silliness. 
+","
+* **Farming for their meat, eggs, feathers, particularly their down.**
+* **Keeping and breeding by aviculturists.**
+* **Displaying in zoos.** 
+* **Hunted for food or sport.** 
+","
+Daffy Duck is a silly cartoon character. 
+","
+Diving ducks are heavier than dabbling ducks, making it more difficult for them to take off to fly. 
+","
+Wild ducks are hunted for food or sport, by shooting, or formerly by decoys. 
+","
+Yes, diving ducks forage underwater. 
+","
+Yes, foie gras is often made using the liver of domestic ducks, rather than of geese. 
+","
+Ducks have many economic uses, being farmed for their meat, eggs, feathers, (particularly their down). They are also kept and bred by aviculturists and often displayed in zoos. 
+","
+Dabbling ducks feed on the surface of water or on land, or as deep as they can reach by up-ending without completely submerging. 
+","
+Loons, divers, grebes, gallinules, and coots. 
+","
+The word ""duck"" has several meanings. 
+It can refer to the bird, the animal, and the verb meaning ""to bend down low as if to get under something"" or ""to dive"". 
+It is also used as a common name for a number of species in the Anatidae family of birds. 
+The word ""duck"" is also used as a proverb to describe something that looks like a duck, quacks like a duck, swims like a duck, and therefore is a duck. 
+It can also be used to describe a target that is easy to hit. 
+The word ""duck"" is also associated with humor and silliness, and it is often used in jokes involving animals. 
+","
+Some common predators of ducks include:
+* **Avian predators:** Hawks, eagles, owls, and falcons.
+* **Aquatic predators:** Pike, crocodilians, herons, and large fish like muskies and pike.
+* **Land-based predators:** Mammals like foxes, raccoons, and weasels. 
+* **Humans:**  
+* **Peregrine Falcon:** 
+","
+The Mallard's tongue is a flat plate. At the back end of the tongue is a short liftable flap with about 18 short spikes. These spikes help push struggling prey and other food down its throat. 
+","
+Yes, diving ducks are heavier than dabbling ducks. 
+---------------------
+","
+Yes, adult ducks are fast fliers. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: ""Ducks have become an accepted presence in populated areas."" 
+","
+Loons, divers, grebes, gallinules, and coots. 
+","
+Ducklings are particularly vulnerable because their inability to fly makes them easy prey for both avian hunters and large fish. 
+","
+Ducks have many economic uses, being farmed for their meat, eggs, feathers, (particularly their down). They are also kept and bred by aviculturists and often displayed in zoos. 
+","
+The tiny rows of plates called lamellae along the inside of the beak allow a duck to filter water out of the side of their beaks and keep food inside. 
+","
+The expression is **Duck test**. 
+","
+The expression ""a sitting duck"" comes from the practice of hunting wild ducks for food or sport. 
+","
+Yes, Egypt is bordered by the Gaza Strip to the east. 
+","
+Yes, according to the text, Egypt is the most populated country in Africa. 
+","
+Yes, Egypt has political influence in the Middle East. 
+Here's why:
+* **Moderate foreign policy:** Egypt operates on moderate lines, suggesting a willingness to engage in diplomacy and maintain relationships.
+* **Strategic geographical position:**  Egypt's location as a transcontinental nation with a land bridge (Suez) and a navigable waterway (Suez Canal) gives it significant influence.
+* **Historical role as mediator:** Egypt has historically played a role in resolving disputes between Arab states and the Israeli-Palestinian conflict.
+* **Influence amongst Arab states:**  Most Arab states still recognize Egypt's role as a leader in the region.
+* **Military modernization:** Egypt's investment in its military, including the launch of spy satellites, demonstrates its commitment to regional security and influence. 
+
+
+","
+The Six Day War took place in **1967**. 
+","
+Egypt has outlawed all religions and belief except Islam, Christianity and Judaism. 
+","78 million people. 
+","
+Most of Egypt's population lives near the Nile because of the aridity of the climate, and the Nile River is the only arable agricultural land in the country. 
+","
+No, there are less than 500 Jews living in Egypt today. 
+","
+Akhenaten was a Pharaoh during the **New Kingdom** (c. 1550â1070 BC). 
+","
+No, Egypt is not in Asia. 
+ 
+**Explanation:**
+
+The text explicitly states that Egypt borders the Sinai Peninsula, a land bridge to Asia. 
+","
+Yes, according to the text, Egypt receives the least rainfall in the world. 
+","
+Yes, the text states that ""Egypt's foreign policy operates along moderate lines."" 
+","
+Egypt has been a republic since June 18 1953. 
+","
+The Great Sphinx and the Pyramids of Giza were built during the Old Kingdom, which lasted from approximately 2700 BC to 2200 BC. 
+","
+* Libya
+* Sudan
+* Gaza Strip
+* Israel 
+","78 million. 
+","
+Yes, snow falls in Egypt, specifically on Sinai's mountains and some of the north coastal cities such as Damietta, Baltim, Sidi Barrany, etc. and rarely in Alexandria. 
+","
+By about 6000 BC, organized agriculture and large building construction had appeared in the Nile Valley. 
+","
+Yes, the context states that elephants are the largest land animals alive today. 
+","
+Yes, the text states that ""Numerous cases of elephant goring and killing of rhinoceroses in national parks in Africa have been documented and attributed to musth in young male elephants, especially those growing in the absence of older males."" 
+","
+Yes, elephants are good swimmers. The text states that modern elephants can swim for up to 6 hours and 50 km. 
+","
+There are **three** living species of African elephants. 
+","
+Elephants can live as long as 70 years, sometimes longer. 
+","
+The phrase 'elephants never forget' has no metaphorical meaning because it refers literally to elephants having an excellent memory. 
+","
+There is **one** living species of Asian Elephant. 
+","90â115 kg (200â250 lb) 
+","
+Aristotle said that elephants were ""the beast which passeth all others in wit and mind."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""Elephant populations in West Africa, on the other hand, are generally small and fragmented, and only account for a small proportion of the continental total."" 
+","
+No, the African elephant is larger than the Asian elephant. 
+","
+Yes. The text states that an elephant's skin is extremely tough around most parts of its body and measures about 2.5 centimeters (1 in) thick. 
+","
+Elephants communicate over long distances by producing and receiving low-frequency sound (infrasound), a sub-sonic rumbling, which can travel through the ground farther than sound travels through the air. 
+","
+African elephants rarely lie down unless they are sick or wounded. 
+","22 months. 
+","
+Three. 
+","
+Elephant ears are important for several reasons:
+* **Temperature regulation:** They flap to create a breeze that cools the blood vessels in the ears, then circulates cooler blood to the rest of the body.
+* **Intimidation:** Spreading them wide makes the elephant look larger and more imposing.
+* **Sound communication:** Elephants use infrasound, a sub-sonic rumbling, to communicate over long distances.
+* **Smell:** The trunk's sensitive skin helps them detect food and other sources. 
+","
+Elephant 
+","
+Yes, elephants are mammals. 
+","
+Yes. 
+Explanation: 
+The text explicitly states that elephants have been used as working animals in various capacities by humans throughout history. 
+","
+Yes. 
+Explanation: 
+The text states that mainland Asian prefer forested areas and transitional zones between forests and grasslands where greater food variety is available. 
+","
+The world population of Asian elephants is estimated to be around 60,000. 
+","
+The elephant's ears are very important for temperature regulation. 
+---------------------
+This is the answer to the query. 
+","
+Angola 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that ""The Asian elephant is smaller than the African."" 
+","
+The provided text does not explicitly state which land animal is larger than an elephant. 
+","
+No, tusklessness has become a widespread hereditary trait. 
+","
+No, the provided text does not mention any treaties signed with Ukraine. 
+","
+Yes. 
+","
+No, the most read newspaper in Finland is Helsingin Sanomat. 
+","
+Alexander I of Russia 
+","75 years. 
+","1952 
+","
+The Gulf of Finland lies to the south of Finland. 
+","
+Golden Eagle
+Brown Bear
+Eurasian Lynx 
+","
+No. 
+Explanation: 
+The text states that by the end of June 2007 there were 5.78 million cellular phone subscriptions, or 109 percent of the population. 
+","
+Yes, Matti Vanhanen is the Prime Minister of Finland. 
+","
+","
+Yes, Finland has borders with Norway to the north. 
+","75 years. 
+","
+The biggest city in Finland is Helsinki. 
+","
+While the text doesn't explicitly state which rock group is the most popular, it does mention that CMX is one of Finland's most domestically popular rock groups. It also mentions that the band Dead Letters sold 1.5 million units worldwide and garnered them eight gold and five platinum album designations. 
+","
+Finland's economy is highly industrialised and free-market, with a per capita output comparable to other western economies. The largest sectors are services (65.7%) and manufacturing (31.4%).  It is a highly democratic welfare state with low levels of corruption.  The economy is heavily reliant on exports, with international trade being a key driver.  The country has a strong manufacturing base, particularly in electronics, machinery, vehicles, and chemicals.  Tourism is also a growing industry.  Despite a period of economic depression in the 1990s, Finland has experienced significant economic growth and development since the war. 
+
+
+","
+Finland is a Nordic country situated in Northern Europe. It has borders with Sweden to the west, Russia to the east, and Norway to the north, while Estonia lies to its south across the Gulf of Finland. 
+","
+Summer in Romania is generally very warm to hot, with average maximum temperatures in Bucharest around 28 Â°C. Summers are often accompanied by frequent thunderstorms. Temperatures can reach up to 40 Â°C (104 Â°F) in some lower-lying areas. 
+","
+Yes. 
+Explanation: 
+The text states that ""Salmon remains the favorite of fly rod enthusiasts."" 
+","
+Yes, there are churches and cathedrals scattered all across Finland. 
+","
+Yes, according to the Reader's Digest study released in October 2007, Finland was rated the best country to live in. 
+","
+The first verifiable written documents appeared in the **twelfth century**. 
+","
+* **Cairo** (Egypt)
+* **Bucharest** (Romania)
+* **Monrovia** (Liberia)
+* **Jakarta** (Indonesia)
+* **Montevideo** (Uruguay) 
+
+
+","
+Christmas is the most extensively celebrated holiday: usually at least 23rd to 26th of December are holidays. 
+","
+No, a small proportion of the population speaks Swedish as its mother tongue. 
+The text states that Swedish is the second official language spoken by 5.5 percent of the population. 
+","
+Yes, the provided text states that the life expectancy for women is 82 years and for men is 75 years. 
+","
+Finland has not been involved in any international conflicts since World War II. 
+","
+Yes. 
+---------------------
+","24 years. 
+","
+Yes, Gerald Ford was a member of Delta Kappa Epsilon at Michigan. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states that ""House membership voted Ford a special award as a ""Congressman's Congressman"" that praised his committee work on military budgets."" 
+","
+Yes. 
+---------------------
+","
+Ford played center and linebacker for the school football team. 
+","
+Ford said his biological father was abusive and had a history of hitting his mother. 
+","
+Nelson Rockefeller 
+","
+**No.** 
+**Explanation:** The text states that Ford did not intervene in Vietnamese affairs, but did help extract friends of the U.S. 
+","
+The answer is: 
+* **Beetles:**  ""The beetle's exoskeleton is made up of numerous plates called sclerites, separated by thin sutures. This design creates the armoured defences of the beetle while maintaining flexibility.""
+* **Elephants:** ""An elephant's skin is extremely tough around most parts of its body and measures about 2.5 centimetres (1 in) thick."" 
+
+
+**Explanation:**
+
+The query ""hard"" is looking for instances of something being hard.  Both the beetle and elephant descriptions contain information about their hard exoskeletons and skin. 
+","
+Yes, the text states that Betty Ford had been a John Robert Powers fashion model and a dancer in the auxiliary troupe of the Martha Graham Dance Company. 
+","
+Yes. 
+Explanation: 
+The provided text states that Gerald Ford was appointed to the Warren Commission, a special task force set up to investigate the assassination of President John F. Kennedy. 
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+Explanation:
+The text explicitly states that Gerald Ford served as the Republican Minority Leader of the United States House of Representatives for eight years, from 1965 to 1973. 
+","
+Yes. 
+","
+Ford was elected from the **Grand Rapids** congressional district. 
+","400 
+","
+Jay Berwanger 
+","
+Based on the provided context, the answer is **yes**. 
+ 
+Explanation: 
+The text states that Gerald Ford was the only US president who was an Eagle Scout. 
+","
+Yes. The text states that Ford ""washed dishes at his fraternity house to earn money for college expenses."" 
+","
+Yes, there have been more than five Presidents who lived past the age of 90. 
+ 
+**Explanation:**
+
+The text states that Ford was one of only four former Presidents to live to 90 or more years of age.  This means there have been at least four Presidents who lived past 90. 
+","
+The provided text states that the Monterey participated in landings at Kwajalein and Eniwetok in the spring of 1944. 
+","
+A commission as ensign in the U.S. Naval Reserve. 
+","
+Yes. 
+The text states that he was released from the hospital on August 28, 2006, and returned to his California home. 
+","
+Yes. 
+---------------------
+","
+Yes, according to the provided context, Ford is one of only four former Presidents to live to 90 or more years of age. 
+","
+Yes. 
+","
+No. 
+---------------------
+Explanation: 
+The text states that Grand Rapids supporters urged Ford to take on Bartel J. Jonkman. 
+","
+Yes. 
+---------------------
+Explanation:
+The text explicitly states that critics claimed Ford's pardon was a quid pro quo in exchange for Nixon's resignation. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""Well endowed with natural resources, Ghana has twice the per capita output of the poorer countries in West Africa."" 
+","
+Yes. 
+---------------------
+","
+No, the Portuguese built the Elmina Castle in 1482. 
+","1957 
+","10. 
+","
+The head of state of Ghana is President John Agyekum Kufuor. 
+","
+Christian 
+","
+The two subfamilies of the Native Ghanaian languages are the Kwa subfamily and the Gur subfamily. 
+","
+Lake Volta is located in Ghana, a country with a tropical climate. The weather at Lake Volta is generally warm and humid, with temperatures averaging between   and   in summer, and up to   on the Red Sea coast. Temperatures average between   and   in winter. 
+","
+No. 
+Explanation: 
+The text clearly states that Ghana is located in West Africa. 
+","
+Yes, in Canada, English and French are the official languages. 
+In Ghana, English is the official language. 
+In Romania, Romanian is the official language. 
+In Singapore, English is the official language. 
+In Indonesia, Indonesian is the official language. 
+
+
+","
+Yes. 
+---------------------
+","
+The word ""Ghana"" means ""Warrior King"". 
+","
+Kwame Nkrumah was an African anti-colonial leader and the first African head of state to espouse Pan-Africanism. He was the founder and first president of the modern Ghanaian state and played a key role in Ghana's independence in 1957. He was also a proponent of freedom and justice, equity and free education for all, irrespective of ethnic background, religion or creed. 
+","
+Old Ghana was 500 miles north of present Ghana. 
+","
+The members of Ghana's Parliament are elected by the people. 
+","
+The Portuguese were the first European country to establish a state in Ghana. 
+The British followed the Portuguese and established a colony in Ghana. 
+","
+Yes. The text clearly states that ""the gray wolf shares a common ancestry with the domestic dog (Canis lupus familiaris)."" 
+","
+Yes, wolf pups tend to have darker fur than adults. 
+Explanation: The text states that ""At birth, wolf pups tend to have darker fur"" and that ""When the pups are between 8 and 16 weeks old, their fur will change to a yellow-gold or orange color."" 
+","
+Yes, wolves do leave their pack. 
+---------------------
+Explanation: 
+The text explicitly states that ""young wolves usually instinctually leave their birth packs to seek out mates and territories of their own."" It also mentions that ""dispersals occur at all times during the year"" and that ""dispersing wolves from the same maternal pack tend not to mate."" 
+","
+Wolves have two-layered coats. The first layer is made up of tough guard hairs designed to repel water and dirt. The second layer is a dense, water-resistant undercoat that insulates. 
+","
+Wolves have scent glands all over their bodies, including at the base of the tail, between toes, and in the eyes, genitalia, and skin. 
+","
+Wolves typically weigh between 32 and 62 kilograms (70-135 pounds). 
+They can be heavier, with some reaching over 77 kg (170 lb) in Alaska and Canada. 
+The heaviest wild wolf on record was 80 kg (175 lb). 
+The smallest wolves come from the Arabian Wolf subspecies, with females weighing as little as 10 kg (22 lb) at maturity. 
+","
+Wolves howl for a variety of reasons, including:
+
+* **Communication:** Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. It also helps to call pack members to a specific location.
+* **Territorial defense:** Howling can serve as a declaration of territory, as shown in a dominant wolf's tendency to respond to a human imitation of a ""rival"" wolf in an area the wolf considers its own.
+* **Social bonding:** Howling may strengthen the wolves' social bonds and camaraderie similar to community singing among humans.
+* **Warning:** Howling can warn pack members of danger, and is used to threaten rivals.
+* **Attention seeking:** Wolves howl to cry for attention, care, or food, especially pups.
+* **Pack cohesion:** Howling can help maintain pack cohesion and unity.
+
+In addition to these reasons, wolves howl more frequently during the breeding season and subsequent rearing process. 
+","
+Surplus killing is the killing of several prey animals too numerous to eat at one sitting. During a surplus-kill, a predator's killing instinct is continually sparked off by the stimuli of so many prey animals unable to escape, so that the predator cannot stop killing. 
+","
+Yes, the text states that the gray wolf migrated into North America from Eurasia around 400,000 years ago. 
+","
+Yes, the gray wolf is a mammal. 
+The text explicitly states: ""The gray wolf (Canis lupus), also known as the timber wolf or, simply, wolf, is a mammal of the order Carnivora."" 
+","
+Yes. 
+Explanation: The text states that ""capable of delivering up to 10,000 kPa (1450 lbf/inÂ²) of pressure, a wolf's teeth are its main weapons as well as its primary tools."" 
+","
+Yes. 
+Explanation: 
+The text states that wolves are ""built for stamina, possessing features ideal for long-distance travel."" 
+","
+Kazakhstan is currently thought to have the largest wolf population of any nation in the world, with as many as 90,000, versus some 60,000 for Canada. 
+","
+The gray wolf belongs to the genus **Canis**. 
+","
+Wolves molt in late spring or early summer. 
+","
+It is beneficial for alpha males and females to forcefully prevent other wolves from mating because it helps to maintain the dominance hierarchy within the pack.  This ensures that only the alpha pair can rear a litter of pups successfully, and other wolves in the pack may breed, but resources will be prioritized for the alpha pair's litter. This helps to maintain the pack's reproductive success and ensures that the alpha pair's offspring have the best chance of survival. 
+
+
+","
+Biologists use darting and foot hold traps to capture wolves for research purposes. 
+","
+**Dominance** 
+","
+No, Grover Cleveland was born in Caldwell, New Jersey. 
+","
+Yes, Grover Cleveland won the 1884 election. 
+","
+No. 
+**Explanation:** 
+The provided text states that Grover Cleveland was a stout opponent of the women's suffrage movement. 
+","
+The Blue Room in the White House. 
+","
+","
+ 
+ 
+","
+They reported that Cleveland had fathered an illegitimate child while he was a lawyer in Buffalo. 
+","
+","
+Cleveland wanted to hide his cancer surgery from the public because of the financial depression of the country and to avoid further market panic. 
+","
+No. 
+---------------------
+Explanation: 
+The provided text states that Grover Cleveland was the twenty-second and twenty-fourth President of the United States. 
+","
+Based on the provided text, the answer is **yes**. 
+
+The text states that:
+* ""Running as a reformer, he was elected Mayor of Buffalo in 1881, with the slogan ""Public Office is a Public Trust"" as his trademark of office.""
+* ""One newspaper, in endorsing him, said it did so for three reasons: '1. He is honest.  2. He is honest.  3. He is honest.'"" 
+* ""Cleveland lived up to his reputation of running an efficient government.  He demanded his administration get rid of extravagances and abuses.""
+
+Therefore, the text suggests that Grover Cleveland was considered honest by many. 
+","
+Yes, Grover Cleveland was married in the White House. 
+","1870 
+","
+* **March 8, 1874**
+* **January 5, 1933**
+* **January 8, 1943**
+* **December 26, 2006**
+* **January 6, 1919**
+* **July 23, 1885**
+* **July 4, 1831**
+* **August 18, 1662** 
+
+
+**Explanation:**
+
+The provided text gives the dates of death for various individuals.  You've asked for the date of death for a specific person.  To answer your query, you need to identify the person you're asking about. 
+","
+Cleveland won the presidency in the following elections:
+* **1884**
+* **1892** 
+
+
+","
+Grover Cleveland's parents were the Reverend Richard Cleveland and Anne Neal. 
+","
+Grover Cleveland had **six** children. 
+","
+---------------------
+**Cleveland** lost control of his party to the agrarians and silverites in 1896. 
+--------------------- 
+","
+Yes, it is true that Grant refused to allow Eugene Debs to use the Pullman Strike to shut down most of the nation's passenger, freight and mail traffic in June 1894. He obtained an injunction in federal court, and when the strikers refused to obey it, he sent in federal troops to Chicago, Illinois and 20 other rail centers. 
+
+
+","
+Yes. 
+","
+Yes, Grover Cleveland was elected Sheriff of Erie County, New York. 
+","
+Yes. 
+","
+Yes. 
+---------------------
+","
+Yes. 
+The text states: ""The Department of the Interior charged that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements."" 
+","
+Yes, the team did remove his upper left jaw and portions of his hard palate. 
+The passage states: ""The team, sedating Cleveland with nitrous oxide (laughing gas), removed his upper left jaw and portions of his hard palate."" 
+","1894 
+","
+Becquerel's accidental discovery of radioactivity while investigating phosphorescence in uranium salts led him to investigate the spontaneous emission of nuclear radiation. 
+","
+**Yes**, the text states that he married Louise DÃ©sirÃ©e Lorieux in 1890. 
+
+
+","
+Yes, Nikola Tesla did share the Nobel Prize in Physics in 1903. 
+","1890 
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+Explanation:
+The text explicitly states: ""Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists."" 
+","
+Antoine Henri Becquerel 
+","
+No, the provided text states that Pascal died at the age of 55 in Le Croisic. 
+","
+Yes. 
+Explanation: 
+The text states: ""If one places between the phosphorescent substance and the paper a piece of money or a metal screen pierced with a cut-out design, one sees the image of these objects appear on the negative."" 
+","
+* Cleveland lost control of his party to the agrarians and silverites.
+* New York City Police Commissioner 1896.
+* Cleveland silently supported the National Democratic Party (United States) (or ""Gold Democratic"") third party ticket.
+* The Democratic party was repudiated by Cleveland's agrarian and silverite enemies.
+* William Jennings Bryan was nominated on a Silver Platform. 
+
+
+**Answer:** In 1896, Cleveland lost control of his party to the agrarians and silverites, and his administration and the gold standard were repudiated.  
+","
+When a bromide emulsion is wrapped with two sheets of very thick black paper, it does not become clouded upon being exposed to the sun for a day. 
+","
+Yes, there are becquerel craters on both the moon and mars. 
+","
+Yes, the text states that the Javanese are the largest ethnic group in Indonesia, and are politically and culturally dominant. 
+","
+No. 
+Explanation: 
+Indonesia is a republic with a presidential system.  The text states that the president is the head of state, commander-in-chief of the Indonesian Armed Forces, and the director of domestic governance, policy-making, and foreign affairs. 
+","
+Yes. The text states that ""The Japanese invasion and subsequent occupation during WWII ended Dutch rule"" 
+","1999 
+","
+Islam became the dominant religion in Java and Sumatra by the end of the 16th century. 
+","
+No. 
+Indonesia has the second highest level of biodiversity in the world. 
+","
+No. 
+The name Indonesia was first used in the 18th century, long before Indonesia became an independent country. 
+","
+Indonesia broke off relations with the People's Republic of China in the early years of the Suharto regime. 
+","
+Nutmeg 
+","
+Jakarta is the capital of Indonesia and its largest commercial center. 
+","
+Indonesia shares land borders with Papua New Guinea, East Timor and Malaysia. 
+","
+In Canada, the largest ethnic group is English (20.2%), followed by French (15.8%), Scottish (14.0%), Irish (12.9%), German (9.3%), Italian (4.3%), Chinese (3.7%), Ukrainian (3.6%), and First Nations (3.4%); 40% of respondents identified their ethnicity as ""Canadian."" 
+The largest ethnic group in Indonesia is the Javanese, who comprise 42% of the population, and are politically dominant. 
+
+
+Therefore, the largest and politically dominant ethnic group in Indonesia is the Javanese. 
+In Canada, the largest ethnic group is English (20.2%), followed by French (15.8%), Scottish (14.0%), Irish (12.9%), German (9.3%), Italian (4.3%), Chinese (3.7%), Ukrainian (3.6%), and First Nations (3.4%); 40% of respondents identified their ethnicity as ""Canadian."" 
+The largest ethnic group in Indonesia is the Javanese, who comprise 42% of the population, and are politically dominant. 
+","
+The Srivijaya kingdom formed trade links with China in the seventh century CE, and this led to the flourishing of the Indonesian archipelago as a trade region. 
+","
+Yes, the text states that ""Indonesia has vast areas of wilderness that support the world's second highest level of biodiversity."" 
+","
+Yes, Indonesia is a republic. 
+","
+Yes. 
+Explanation: 
+The text states that ""Sports in Indonesia are generally male-orientated"". 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: ""Comprising 17,508 islands, it is the world's largest archipelagic state."" 
+","
+Yes. The text states that ""Sports in Indonesia are generally male-orientated and spectator sports are often associated with illegal gambling."" 
+","
+Yes. 
+ 
+Explanation: 
+The text states: ""Pencak Silat is an Indonesian martial art."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states that ""Indonesia is the world's most populous Muslim-majority nation, although officially it is not an Islamic state."" 
+","
+Indonesia has 33 provinces, 5 of which have special status. Each province has its own political legislature and governor. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: ""The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia. Comprising 17,508 islands, it is the world's largest archipelagic state."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that Indonesia is the world's fourth most populous country and the most populous Muslim-majority nation. 
+","
+Yes, Indonesia is a republic. 
+","
+Yes, James Monroe was the fifth president of the United States. 
+","
+""It was to be the first of many."" 
+","62 
+","
+March 4, 1825. 
+","
+Spence Monroe 
+","
+Maria Hester Monroe Gouverneur 
+","
+The ""Era of Good Feelings"" refers to the period in American history from 1815 to 1825, when there was a sense of unity and harmony among the different political factions in the country. This period was characterized by a lack of major political conflicts and a general sense of optimism and goodwill. 
+","
+","
+The Monroe Doctrine is a policy that was proclaimed by President James Monroe in 1823, stating that the Americas should be free from future European colonization and free from European interference in sovereign countries' affairs. 
+","
+Yes. 
+---------------------
+","
+Yes. 
+Explanation: 
+The text states that James Monroe went to school at Campbelltown Academy and then the College of William and Mary, both in Virginia. 
+","
+Yes. The text states that ""After graduating from William and Mary in 1776, Monroe fought in the Continental Army, serving with distinction at the Battle of Trenton, where he was shot in his left shoulder."" 
+","
+James Monroe was born in Westmoreland County, Virginia. 
+","
+James Monroe was shot at the Battle of Trenton. 
+","
+James Monroe married Elizabeth Kortright on February 16, 1786. 
+","
+Before being elected governor, James Monroe practiced law in Fredericksburg, Virginia. 
+","
+The provided text states that James Monroe was elected President in the election of 1816 and re-elected in 1820. 
+ 
+It does not mention John Monroe being elected President. 
+ 
+Therefore, the answer is: **1816 and 1820**. 
+","
+The provided text does not mention who was standing behind John Monroe in the painting of Washington Crossing the Delaware. 
+","1814. 
+","
+July 4, 1831 
+","1776 
+","
+James Monroe was elected president in the election of 1816, and re-elected in 1820. 
+","
+Monroe sold his family farm, which was the grounds of the University of Virginia, in 1817. 
+","
+James Monroe introduced the Monroe Doctrine on **December 2, 1823**. 
+","
+James Monroe lived with his daughter Maria Hester Monroe Gouverneur who had married Samuel L. Gouverneur. 
+","
+James Monroe's letters did not contain any discussion of his religious beliefs. 
+","
+The rejection of the Jay Treaty led to the two nations moving closer toward the War of 1812. 
+","
+James Monroe 
+","
+The Federalist Party. 
+","
+Yes, the text states that Monroe practiced law in Fredericksburg, Virginia after graduating from William and Mary. 
+
+
+","
+James Monroe sent General Andrew Jackson to move against Spanish Florida in order to pursue hostile Seminoles and punish the Spanish for aiding them. 
+","
+No, Monroe was not anticlerical. 
+ 
+Explanation: 
+The text states that Monroe was raised in a family that belonged to the Church of England when it was the state church in Virginia, and he frequently attended Episcopalian churches. 
+","
+Yes. 
+","
+","
+Yes. The text states that Monroe ""had racked up many debts during his years of public life."" 
+","
+Lincoln's actions, particularly his appointment of political rivals to high positions and his focus on preserving the Union, were instrumental in dismantling partisan and sectional coalitions. 
+ 
+Explanation: 
+The passage states that Lincoln appointed political rivals to high positions to keep factions of his party in line and prevent them from combining against him. This action demonstrates his commitment to unity and his ability to navigate political divisions. 
+Furthermore, Lincoln's focus on preserving the Union, even in the face of secession, was a key factor in dismantling sectional coalitions. His unwavering commitment to the Union's integrity helped to solidify national unity and weaken the power of sectional interests. 
+ 
+The passage also mentions that Lincoln's actions were effective in keeping the factions of his party in line and preventing them from combining against him. This suggests that his actions were successful in dismantling partisan and sectional coalitions. 
+ 
+Therefore, based on the provided context, Lincoln's actions are the most likely answer to the query. 
+","
+* **Monroe was elected to another term as governor of Virginia.**
+* **He published an article with the title ""Essai d'une manière de déterminer les masses relatives des molécules élémentaires des corps, et les proportions selon lesquelles elles entrent dans ces combinaisons"" which contains the famous Avogadro's hypothesis.** 
+* **The Act of Union (1840) merged The Canadas  into a United Province of Canada.** 
+","
+James Monroe was elected president in the election of 1816. 
+","
+Margaret Miller, Watt's wife. 
+","
+The provided text does not contain the answer to the query. 
+","
+Yes. 
+---------------------
+","
+Yes. The text states that ""Watt was a gentleman, greatly respected by other prominent men of the Industrial Revolution."" 
+","
+Yes. 
+---------------------
+**Explanation:**
+
+The text explicitly states: ""Watt was a fellow of the Royal Society of Edinburgh and the Royal Society of London."" 
+","
+Watt began experimenting with steam. 
+","
+Yes. 
+The text states: ""Watt was ranked 22nd in Michael H. Hart's list of the most influential figures in history."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states that ""Adams represented the Continental Congress in Europe."" 
+","
+Yes, Adams was raised a Congregationalist. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text clearly states that Adams was ""first rose to prominence as an opponent of the Stamp Act of 1765"" and that he ""drafted the instructions which were sent by the inhabitants of Braintree to its representatives in the Massachusetts legislature, and which served as a model for other towns to draw up instructions to their representatives."" 
+","
+John Adams graduated from Harvard College in 1755. 
+","
+The committee with Adams to draft a Declaration of Independence included Thomas Jefferson, Benjamin Franklin, Robert R. Livingston, and Roger Sherman. 
+","
+Jefferson called John Adams the ""Colossus of Independence"". 
+","
+The Federalist Party. 
+","
+No. 
+Explanation: 
+The provided text states that Massachusetts was the first to feature a bicameral legislature. 
+","
+No, the context information states that Adams never got along with Hamilton. 
+","
+Yes, John Adams went to Harvard College at age sixteen (in 1751). 
+","
+No, John Adams was a strong opponent of the Stamp Act of 1765. 
+","
+Yes, the birthplace of John Adams is part of Adams National Historical Park. 
+","1789-1797. 
+","
+**Federalist Party** 
+","
+John Adams is buried in the crypt beneath the United First Parish Church in Quincy, Massachusetts. 
+","
+The Midnight Judges were a series of judges appointed by President Adams in the last days of his term. Most of them were formally appointed days before the presidential term expired. 
+","
+Hamilton tried his hardest to sabotage Adams's campaign in hopes of boosting Pinckney's chances of winning the presidency. 
+Hamilton's opposition to Adams stemmed from their differing political views and Hamilton's desire to see Pinckney elected. 
+---------------------
+","
+He recorded descriptions of events and impressions of men, and he put the skill to good use as a lawyer, often recording cases he observed so that he could study and reflect upon them. 
+","
+John Adams 
+","
+John Adams 
+","
+The birthplace of John Adams, Quincy, Massachusetts. 
+","
+Yes. 
+Explanation: 
+The text states that Adams spent time as the ambassador in the Netherlands and France. 
+","
+Yes, it is true that Massachusetts sent Adams to the first and second Continental Congresses in 1774. 
+","
+John Adams was sent to the first and second Continental Congresses in 1774. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states that ""Adams' last words are often quoted as 'Thomas Jefferson survives.'"" 
+","
+The John Adams Library, housed at the Boston Public Library, contains Adams's personal collection of more than 3,500 volumes in eight languages, many of which are extensively annotated by Adams. 
+","
+Thomas Jefferson and Aaron Burr. 
+","
+Yes. The text states that the election of 1800 became a bitter and volatile battle, with each side expressing extraordinary fear of the other party and its policies. 
+","
+In 1764, Coulomb was sent on mission to Martinique to take part in the construction of the Fort Bourbon under the orders of the lieutenant-colonel of Rochemore. 
+","
+No, a kangaroo is not a reptile. 
+The text explicitly states that kangaroos are marsupials, and that goannas and other carnivorous reptiles pose a danger to smaller kangaroo species. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states that ""The kangaroo is an Australian icon: it is featured on the Australian coat of arms"". 
+","
+No. 
+Explanation: 
+The text states that Lieutenant (later Captain) James Cook first recorded the name ""Kangooroo or Kanguru"" on August 4, 1770. 
+","
+A collective noun for kangaroos is a mob, troop, or court. 
+","
+In the pouch of the mother kangaroo. 
+","
+Kangaroos use their tail to form a tripod with their two forelimbs. 
+","
+Kangaroos have a wide bite because their lower jaw is not joined together on the two sides. 
+","
+The provided text states that the hydrogen byproduct of fermentation is converted into acetate by bacteria. 
+","
+Yes, wild kangaroos are shot for meat. 
+","
+Yes. The text states that ""Unlike many of the smaller macropods, kangaroos have fared well since European settlement."" 
+","
+No, kangaroos have few natural predators. 
+","4 6 years. 
+","1994. 
+","
+Vehicles that frequent isolated roads, where roadside assistance may be scarce, are often fitted with ""roo bars"" to minimise damage caused by collision. 
+
+
+","
+Yes. 
+Explanation: The text states that kangaroos are grazers and eat a wide variety of grasses. It also mentions that they consume hypogeal fungi. 
+
+
+","
+The extinct predators of the kangaroo include the Thylacine, Marsupial Lion, Megalania, and the Wonambi. 
+","
+Yes. 
+Explanation: 
+The text explicitly states that ""Kangaroos are marsupials from the family Macropodidae"". 
+","
+Yes, the kangaroo is an herbivore. 
+Explanation: 
+The text states that kangaroos have a herbivorous diet, similar to ruminants like cattle. 
+","
+Yes, Kangaroos are shy and retiring by nature. 
+","
+Kangaroos use hopping as a method of locomotion. 
+","
+A collective noun for a kangaroo is a mob, troop, or court. 
+","
+A roo is a colloquial term for a kangaroo. 
+","
+""Roo bars"" are used to protect vehicles from kangaroos. 
+","
+Kangaroos use hopping as a means of locomotion. 
+","
+Captain James Cook and naturalist Sir Joseph Banks. 
+","
+The four species commonly referred to as kangaroos are:
+* Red Kangaroo
+* Antilopine Kangaroo
+* Eastern Grey Kangaroo
+* Western Grey Kangaroo 
+","
+Yes, the text states that kangaroos and wallabies are ""adept swimmers"" and often flee into waterways if presented with the option. 
+","
+No, kangaroos are not farmed to any extent. 
+","
+Veterinarians 
+","
+Different species of kangaroos eat a variety of foods depending on the species. Some species, like Eastern grey kangaroos, are primarily grazers eating a wide variety of grasses. Other species, like red kangaroos and swamp wallabies, include significant amounts of shrubs in their diet. Smaller species also consume hypogeal fungi. 
+","
+Yes. 
+Explanation: 
+The text states that kangaroos ""dazzled by headlights or startled by engine noise have been known to leap in front of cars."" 
+","
+Yes, a collision with a vehicle is capable of killing a kangaroo. 
+---------------------
+Explanation: 
+The text explicitly states that ""A collision with a vehicle is capable of killing a kangaroo."" 
+","
+Yes, the game of Marn grook was played using a ball made from kangaroo by the Kurnai people. 
+","
+Yes. The text states that kangaroos have ""large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head."" 
+","
+Yes. 
+The text states: ""In common use the term is used to describe the largest species from this family, the Red Kangaroo, the Antilopine Kangaroo, and the Eastern and Western Grey Kangaroo of the Macropus genus. In addition, there are about 50 smaller macropods closely related to the kangaroo in the family Macropodidae."" 
+","
+Larger kangaroos have adapted much better to changes wrought to the Australian landscape by humans. 
+","
+Yes, the context states that larger kangaroos have adapted much better to changes wrought to the Australian landscape by humans. 
+","
+Yes, the leopard is the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""The leopard is larger and less lanky than the cheetah but smaller than the jaguar."" 
+","
+Yes, the text states that leopards have even been spotted killing and eating crocodiles. 
+ 
+ 
+","
+A leopard may be mistaken for a cheetah or a jaguar. 
+","
+A pumapard is a hybrid animal resulting from a union between a leopard and a puma. 
+","
+Leopards often hide their kills in dense vegetation or take them up trees. 
+","
+Early naturalists distinguished between leopards and panthers not by color, but by the length of the tail. 
+","
+Black panthers 
+","
+Circular. 
+","
+Yes. 
+","
+Yes. 
+---------------------
+","
+Yes. 
+Explanation: 
+The text states: ""The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar."" 
+","
+The leopard is distributed across a wide range of habitats, including:
+* **Sub-Saharan Africa:**  The species is still numerous and even thriving in marginal habitats.
+* **North Africa:**  Populations may be extinct.
+* **Southwest and Central Asia:**  Populations are small and fragmented.
+* **Northeast Asia:**  Populations are critically endangered.
+* **Indian, Southeast Asia, and China:**  The cat is still relatively abundant.
+* **Grasslands, woodlands, and riverside forests:**  Leopards prefer these habitats. 
+
+
+","60 to 110 cm. 
+","
+The weight of a leopard depends on its sex. Males weigh 37 to 90 kg compared to 28 to 60 kg for females. 
+","
+Yes, the text states that male leopards are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females. 
+","
+Leopards and cheetahs are both spotted cats, but they have different features. 
+* **Rosettes:** Leopards have black, irregular rosettes, while cheetahs have simple spots.
+* **Size:** Leopards are larger and less lanky than cheetahs, while cheetahs are known for their slender build.
+* **Color:** Leopards are typically black and tan, while cheetahs are typically spotted with a lighter coat.
+* **Habitat:** Leopards are found in Africa and parts of Asia, while cheetahs are found in Africa. 
+
+
+","
+The leopard has the largest distribution of any wild cat, although populations before and since have shown a declining trend and are fragmented outside of subsaharan Africa. 
+ 
+The text states that leopards are found in a variety of habitats, including grasslands, woodlands, and riverside forests. 
+ 
+The text also states that leopards are solitary and, aside from mating, interactions between individuals appear to be infrequent. 
+ 
+The text also states that the leopard is a least concern species. 
+ 
+The text also states that the leopard is an agile and graceful predator. 
+ 
+The text also states that the leopard is difficult to see in the wild. 
+ 
+The text also states that the leopard's rosettes serve as camouflage. 
+ 
+The text also states that the leopard's body is comparatively long for a cat and its legs are short. 
+ 
+The text also states that the leopard's head and body length is between 90 and 190 cm, the tail reaches 60 to 110cm. Shoulder height is 45 to 80 cm. 
+ 
+The text also states that males are considerably larger than females and weigh","
+The spotted cat most closely resembles the jaguar. 
+","
+* Felis pardus 
+* Gray wolf
+* Ursus maritimus 
+* Canis lupus 
+*  Wallacea 
+","
+Leopards are solitary. 
+---------------------
+Is this answer correct? 
+Yes. 
+","
+No, leopards have irregular black rosettes. 
+","
+Yes, the leopard is solitary. 
+---------------------
+Explanation: 
+The text explicitly states that leopards are solitary animals, aside from mating. 
+","
+The provided text does not contain information about Sierra. 
+","
+Felis pardus was a species described in Linnaeus's 18th-century work, Systema Naturae. 
+","
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""The black color is heritable and caused by only one recessive gene locus."" 
+","
+Yes. 
+---------------------
+Explanation:
+The text explicitly states that the leopard is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar. 
+","
+Yes. 
+Explanation: 
+The text states that ""A panther can be any of several species of large felid; in North America, the term refers to cougars, in South America, jaguars, and elsewhere, leopards."" 
+","
+Yes. 
+---------------------
+","
+Yes. 
+Explanation: 
+The text states that ""Liechtenstein is bordered by Switzerland to its west."" 
+","
+Yes, according to the text, Liechtenstein is the smallest German-speaking country in the world. 
+","
+Yes. 
+---------------------
+Explanation:
+The text states: ""At one time, the territory of Liechtenstein formed a part of the ancient Roman province of Raetia."" 
+","1836. 
+","11 
+","
+The national currency of Liechtenstein is the Swiss franc. 
+","
+Yes. 
+Explanation: 
+The text states that ""Liechtenstein has shown strong determination to prosecute any international money-laundering"" and ""worked to promote the country's image as a legitimate financing center."" 
+","
+The Austrian Federal Railways administer Liechtenstein's railways. 
+","
+","
+No, there is no airport in Liechtenstein. 
+","
+No, Liechtenstein is not heavily urbanized. 
+Explanation: 
+The text states that Liechtenstein is divided into 11 municipalities, mostly consisting of a single town. It also mentions that Liechtenstein is one of the few countries in the world with more registered companies than citizens. This suggests that the country is not heavily urbanized. 
+","
+Yes. 
+","
+No. 
+Explanation: 
+Liechtenstein has no army. Defense is the responsibility of Switzerland. 
+","
+October 1921 
+","
+The official language of Liechtenstein is German. 
+","
+Liechtenstein is bordered by Switzerland to its west and by Austria to its east. 
+","
+The Roman province that Liechtenstein was part of was Raetia. 
+","10. 
+","
+Liechtenstein 
+","1861 
+","
+The country's population of **Liechtenstein** enjoys one of the world's highest standards of living. 
+","
+Yes. 
+The State Court rules on the conformity of laws with the constitution. 
+","
+Most recognizable international company and largest employer in Liechtenstein are Hilti, a manufacturer of concrete fastening systems. 
+","
+No. 
+---------------------
+Explanation: 
+The provided text does not mention Liechtenstein being completed in November 2000. 
+","
+The morale of Union troops lifted. 
+","
+The State Court rules on the conformity of laws with the constitution. 
+","
+The Historical Society of the Principality of Liechtenstein plays a role in preserving the culture and history of the country. 
+","
+Yes. 
+Explanation: 
+The text states: ""The museum collection is also the national art collection of Liechtenstein."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: ""There is a small heliport at Balzers in Liechtenstein   available for charter helicopter flights."" 
+","
+No. 
+Explanation: 
+The text states that nationals are referred to by the plural: **Liechtensteiners**. 
+","
+Yes. 
+Explanation: 
+The text states that ""Mountainous, it is a winter sports resort, although it is perhaps best known as a tax haven."" 
+
+
+","
+**Yes**, Liechtenstein is a tiny, doubly landlocked alpine country in Western Europe, bordered by Switzerland to its west and by Austria to its east. Mountainous, it is a winter sports resort, although it is perhaps best known as a tax haven. 
+
+
+","
+","
+The territories of Moravia, Lower Austria, Silesia, and Styria were held in fief under other senior feudal lords. The Liechtenstein dynasty acquired these territories through the centuries, but they were held as fiefs under other lords, particularly the Habsburg family. 
+","
+Yes. 
+Explanation: 
+The passage states that Webster wrote, ""I can now sleep of nights."" 
+","
+Yes. 
+Explanation: 
+The text explicitly states that the arrival of Louis Kossuth was an issue that presented itself during Fillmore's presidency. 
+","
+No. 
+The provided text states that he died on January 5, 1933, at 12:45 p.m. 
+---------------------
+This is a good start, but it's important to be thorough and accurate.  Here's a more complete and nuanced answer:
+
+**Answer:** No, the provided text does not state that Woodrow Wilson died on March 8, 1874.  It states that he died on January 5, 1933, at 12:45 p.m. 
+
+**Explanation:**
+
+* **Focus on the Query:** The query asks about the date and cause of Wilson's death. 
+* **Context is Key:** The text provides details about Wilson's death, but it doesn't mention the date of his death in March 1874.
+* **Accuracy:** It's crucial to provide accurate information based on the provided context. 
+
+
+Let me know if you have any other questions. 
+","
+Fillmore's competition with Seward led to Seward's becoming a more vocal part of cabinet meetings and having more of a voice than Fillmore in advising the administration. 
+","
+Perry was sent to open Japan to Western trade, but he did not reach Japan until Franklin Pierce had replaced Fillmore as president. 
+","
+The Remarkable Millard Fillmore is a fake biography written by George Pendle in 2007. 
+","
+**Before** 
+**Explanation:** The text states that Fillmore formed a law partnership in 1834, and the University of Buffalo was founded in 1846. 
+
+
+","
+","
+On February 10, 1858, after the death of his first wife. 
+","
+Yes. 
+---------------------
+","
+No, Millard Fillmore was born on **March 8, 1800**. 
+","
+No. 
+Millard Fillmore died on March 8, 1874. 
+","
+Millard Fillmore was born in a log cabin in Summerhill, New York. 
+","
+Nathaniel and Phoebe Millard Fillmore. 
+","
+Abigail Powers 
+","
+Taylor and Fillmore disagreed on the slavery issue in the new western territories taken from Mexico. Taylor wanted the new states to be free states, while Fillmore supported slavery in those states. 
+","
+Fillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850. 
+","
+The passage states that some northern Whigs remained irreconcilable, refusing to forgive Fillmore for having signed the Fugitive Slave Act. They helped deprive him of the Presidential nomination in 1852. 
+Therefore, the supporters of Henry Clay felt **negative** about Fillmore in 1848. 
+
+
+","
+Fillmore 
+","1846 
+","
+He fell in love with Abigail Powers, whom he later married on February 26, 1826. 
+
+
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that ""In 1846, he founded the private University of Buffalo, which today is the public State University of New York at Buffalo (UB, University at Buffalo), the largest school in the New York state university system."" 
+","
+Yes. 
+Explanation: 
+The text explicitly states that ""Another primary objective of Fillmore was to preserve the Union from the intensifying slavery debate."" 
+","
+Yes. 
+Explanation: 
+The text states that ""Fillmore was the first Chancellor, a position he maintained while both Vice President and President."" 
+","
+Yes. 
+Explanation: 
+The text states that Fillmore was the first president to have been an indentured servant. 
+","
+Yes. 
+---------------------
+**Explanation:**
+
+The text explicitly states: ""The comic strip Mallard Fillmore is named after the president."" 
+","
+Yes. 
+**Explanation:**
+The text states that Fillmore was the first U.S. President born after the death of a former president, as he was born three weeks after George Washington's death on December 14, 1799. 
+","
+Yes, the text states that Fillmore turned down the honor, explaining that he ""lacked the benefit of a classical education"" and could not, therefore, understand the Latin text of the diploma. 
+","
+The provided text states that Fillmore was born in a log cabin in Summerhill, New York. 
+","
+Nikola Tesla 
+","
+Yes, there are at least two films describing Tesla's life. 
+","
+Yes. 
+---------------------
+Explanation: 
+The context explicitly states: ""A number of live theatrical plays based on Tesla's life have been produced and staged worldwide."" 
+","
+Yes, the text states that ""all but the sea otter have long muscular tails."" 
+","
+Yes, otters can survive in cold water. 
+Here's why:
+* They have high metabolic rates, meaning they burn energy quickly to stay warm.
+* They have a layer of air trapped in their fur, which helps insulate them. 
+* They eat a lot of fish, which provides them with energy. 
+
+
+","
+No, the giant otter does not inhabit South Africa. 
+The text states that the giant otter is found in the Amazon river basin of South America. 
+
+
+","13 
+","
+River otters eat a variety of fish and shellfish, as well as small land mammals and birds. 
+","30 kg (about 65 pounds). 
+","
+Sea otters insulate themselves by trapping a layer of air in their fur. They do this by blowing air into their fur from their mouths. 
+","
+Sea otters were nearly extinct due to overhunting for their fur, which was highly valued in the fur trade. 
+","
+One of the challenges of re-establishing a population of Eurasian otters in the UK is **roadkill deaths**. 
+","
+Yes, otters are mammals. 
+---------------------
+Explanation: 
+The text explicitly states: ""Otters are amphibious (or in one case aquatic) carnivorous mammals."" 
+","
+---------------------
+Otters have **13 species** in **7 genera**. 
+--------------------- 
+","
+Yes, otters live in water. 
+---------------------
+","
+Sea otters live along the Pacific coast of North America. 
+They also historically lived in shallow waters of the Bering Strait and Kamchatka, and as far south as Japan. 
+","
+The word ""otter"" derives from the Old English word otr, otor or oter. 
+","
+","
+The sea otter almost to extinction was driven by the fur trade. 
+","
+In some Native American cultures, otters are considered totem animals. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that ""Sea otters live along the Pacific coast of North America."" 
+","
+Yes, in some Native American cultures, otters are considered totem animals. 
+","
+No, otters are not herbivores. 
+They are carnivores. 
+---------------------
+","
+","
+A otter's den is called a holt. 
+","
+The giant otter is becoming increasingly rare due to poaching, habitat loss, and the use of mercury and other toxins in illegal alluvial gold mining. 
+","
+Otters keep themselves warm without blubber by trapping air in their fur. They blow air into their fur from their mouths to keep it topped up. They also have a high metabolic rate, which helps them generate heat. 
+","
+Otters are playful animals because they slide repeatedly down snowy slopes, apparently from sheer enjoyment. 
+---------------------
+This is a good answer, but it could be improved by adding more detail. 
+Here's a more detailed answer:
+
+Otters are playful animals, and they exhibit this playful nature in various ways. For example, they are known to slide repeatedly down snowy slopes, seemingly enjoying the sensation of gliding. This playful behavior is a common characteristic of otters, and it reflects their natural instincts and enjoyment of movement. 
+","
+Weasels, polecats, badgers, and other members of the Mustelidae family. 
+","
+Their very soft underfur is protected by their outer layer of long guard hair. This traps a layer of air, and keeps them dry and warm under water. 
+","
+A group of otters. 
+","
+Yes, the text states that ""Most otters have fish as the primary item in their diet, supplemented by frogs, crayfish and crabs."" 
+","
+Yes, the text states that otters are playful animals, giving examples like sliding down snowy slopes. 
+
+
+","
+Yes, the text states that otters are very active, chasing prey in the water or searching the beds of rivers, lakes or the sea. 
+","
+Yes, male otters are dog-otters. 
+","
+An otter's den is called a holt. 
+
+
+","
+Sea otters eat shellfish and other invertebrates, especially clams, abalone, and sea urchins. They also eat fish, frogs, crayfish, and crabs. 
+","
+Yes, the myth of Otter's Ransom is the starting point of the Volsunga saga. 
+","
+Yes. 
+","
+Yes, an otter's den is called a holt. 
+","
+Yes. 
+Explanation: 
+The text states that ""Most otters have fish as the primary item in their diet, supplemented by frogs, crayfish and crabs."" 
+","
+Yes, the text states that penguins feed on krill, fish, squid, and other forms of seafood caught while swimming underwater. 
+","
+The largest living species of penguin is the Emperor Penguin (Aptenodytes forsteri). 
+","
+Yes. 
+Explanation: 
+The text states: ""Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere."" 
+","
+Tobogganing is a movement that penguins use to move quickly across the snow. It is a way of waddling on their feet or sliding on their bellies. 
+","
+Penguins are countershaded because it helps them camouflage. A predator looking up from below has difficulty distinguishing between a white penguin belly and the reflective water surface. The dark plumage on their backs camouflages them from above. 
+
+
+","
+No, penguins are not afraid of humans. 
+Explanation: 
+The text states that penguins ""seem to have no special fear of humans"" and ""have approached groups of explorers without hesitation."" 
+","
+","
+The number of penguin species is debated. Depending on which authority is followed, penguin biodiversity varies between 17 and 20 living species, all in the subfamily Spheniscinae. 
+
+
+","
+Isabelline penguins are different from most penguins because they have brown rather than black plumage. 
+","
+Yes, penguins are birds. 
+---------------------
+Explanation: 
+The text explicitly states: ""Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere."" 
+","
+Yes. 
+Explanation: 
+The text states that ""Penguins have an average sense of hearing for birds (Wever et al 1969)"". 
+","
+Yes, the text states that penguins belong to a clade of Neoaves (living birds except paleognaths and fowl) which comprises what is sometimes called ""higher waterbirds"" to distinguish them from the more ancient waterfowl. 
+","
+Penguins belong to the order **Sphenisciformes**. 
+","5 feet tall. 
+","
+Penguins are agile in the water because their wings have become flippers, which are perfectly adapted for swimming.  They also have a layer of air preserved within their smooth plumage, which helps them to stay buoyant. 
+","
+Penguins ""tobaggan"" because it conserves energy while moving quickly. 
+","
+**Penguins** 
+","3 meters (9 ft) 
+","
+Penguins' wings have become flippers, useless for flight in the air. 
+","
+Mothers sometimes attempt to ""steal"" another mother's chick, usually unsuccessfully as other females in the vicinity assist the defending mother in keeping her chick. 
+","
+Yes, it is true that females in the Antarctic winter leave the males to brave the weather and huddle together to keep warm. They rotate positions to make sure that each penguin gets a turn in the center of the heat pack. 
+","
+Yes, all penguins are countershaded. 
+","
+Yes. The text states that ""Penguins are astonishingly agile in the water."" 
+","
+Yes, penguins are at risk. 
+Explanation: 
+The text states that penguins are at risk at sea from predators such as the leopard seal. 
+
+
+","
+Yes, it is possible that penguin comes from the Latin pinguis, âfatâ. 
+The text states that this is supported by the fact that the corresponding words in most other languages (e.g., French pingouin, German Pinguin) have i instead of e as the first vowel. 
+","
+Yes. 
+Explanation: 
+The text states: ""Penguins have an average sense of hearing for birds (Wever et al 1969)."" 
+","
+Yes. 
+Explanation: 
+The text states that ""Larger penguins can dive deep in case of need"" and provides examples of Emperor penguins diving to depths of 565 meters. 
+
+
+","
+Yes. 
+","
+Yes, the text states that it is not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage, or whether gigantism was evolved independently in a much restricted Palaeeudyptinae and the Anthropornithinae. 
+","
+Yes. 
+","
+Yes. 
+","
+At least one giant penguin occurred in a region not quite 2000 km south of the Equator 35 mya. 
+","
+The last word on the page is ""pride"". 
+","
+Yes, the text states that the polar bear is a **semi-aquatic marine mammal**. 
+","
+Yes, the polar bear is a carnivore. 
+---------------------
+","
+The largest polar bear on record was a huge male, allegedly weighing 1002 kg (2200 lb) shot at Kotzebue Sound in northwestern Alaska in 1960. 
+","
+The polar bear's skin is actually black in color. 
+","5-15 cm over most of the body of polar bears. 
+","
+The provided text states that bears sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites. 
+","
+Polar bears are special for several reasons:
+
+* **Unique adaptations:** They are semi-aquatic marine mammals, able to thrive on land, sea, and ice.
+* **Hybrids:** They can breed with brown bears, producing fertile grizzly-polar bear hybrids, indicating a recent divergence and not a fully distinct species.
+* **Vulnerability:** They are a vulnerable species at high risk of extinction due to climate change and habitat loss.
+* **Specialized diet:** They are specialized predators, relying almost entirely on seals and walrus calves for sustenance.
+* **Physical characteristics:** Their hollow, translucent fur provides effective camouflage in the Arctic environment.
+* **Large size:** They are the world's largest land carnivores, with adult males weighing 300-600 kg. 
+
+
+","
+Fossil evidence suggests that the elephant family, Sirenians, and hyraxes share a distant ancestor, possibly an amphibious hyracoid. 
+DNA evidence supports this by showing genetic similarities between these families. 
+It also suggests that modern classifications of these families should take into account the DNA, anatomy, distribution, and migration of various wolf colonies. 
+","
+Yes. 
+---------------------
+","
+Yes, the polar bear's fur is white or cream colored. 
+","
+Yes, the polar bear is at high risk of extinction. 
+---------------------
+Explanation: 
+The text explicitly states that the polar bear is a vulnerable species at high risk of extinction. 
+","
+A male polar bear can weigh 350 650 kg (770 1500+ lb). 
+","1002 kg (2200 lb) 
+","
+Polar bear's fur provides camouflage and insulation. 
+","
+Yes, the text states that ""Adult females are roughly half the size of males and normally weigh 150 250 kg (330 550 lb), measuring 2 2.5 m (6.6 8.2 ft), but double their weight during pregnancy."" 
+","
+Adult female polar bears normally weigh 150 250 kg (330 550 lb), but double their weight during pregnancy. 
+","
+Yes, polar bears can be seen under infrared photography. 
+Explanation: 
+The text states that ""only their breath and muzzles can be easily seen"" under infrared photography. 
+","
+The text states that a pseudo-melanistic leopard has a normal background color, but its excessive markings have coalesced so that its back seems to be an unbroken expanse of black. In some specimens, the area of solid black extends down the flanks and limbs; only a few lateral streaks of golden-brown indicate the presence of normal background color. 
+It also states that a melanistic morph of the leopard occurs particularly in mountainous areas and rain forests. The black color is heritable and caused by only one recessive gene locus. In some regions, for example on the Malayan Peninsula, up to half of all leopards are black. 
+It also states that black borders refer to municipalities, red to regions.
+
+
+","
+The thick blubber and fur insulate the bear against the cold. 
+The undercoat insulates the bear. 
+The stiff hairs on the pads of a bear's paws provide insulation and traction on the ice. 
+The pelt serves as a shield against the cold. 
+The air layer traps a layer of air, and keeps them dry and warm under water. 
+The 12 cm (5 in) layer of fat adds buoyancy in addition to insulating them from the cold. 
+The thick undercoat does, however, insulate the bears: they overheat at temperatures above 10 Â°C (50 Â°F), and are nearly invisible under infrared photography; only their breath and muzzles can be easily seen. 
+ 
+","
+The provided text states that ""Database entry includes a lengthy justification of why this species is listed as vulnerable."" 
+","
+Greenpeace and the Natural Resources Defense Council are both environmental and animal protection groups that filed a lawsuit in 2006 to have polar bears listed as endangered species. 
+","
+Yes, Mitchell Taylor, the Nunavut Government Manager of Wildlife Research, argues that local studies are insufficient evidence for global protection at this time. 
+","
+Yes. 
+Explanation: 
+The text states that polar bears are ""excellent swimmers"" and have been seen in open Arctic waters as far as ""from land."" 
+","
+The polar bear has **adapted for life on a combination of land, sea, and ice**. 
+
+
+Let me know if you'd like me to answer any other questions based on this information. 
+","
+Garbage is a source of food for polar bears. 
+","
+The bears sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites. 
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""Mitchell Taylor, the Nunavut Government Manager of Wildlife Research, wrote a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""Cubs are born in December without awakening the mother. She remains dormant while nursing her cubs until the family emerges from the den in March."" 
+","
+No. 
+The text states that Qatar ranks as the ninth richest country in the world per capita. 
+","
+Yes. Nearly all Qataris profess Islam. 
+","
+Yes. 
+","
+September 3, 1971 
+","
+Doha. 
+","
+The suicide-bombing that killed a British teacher in 2005 occurred at the Doha Players Theatre in Doha, Qatar. 
+","
+Yes, the native pronunciation of Qatar falls between the English words 'cutter' and 'gutter'. 
+","
+The Arabic word for municipalities is **baladiyah**. 
+","
+The text lists the following universities in Education City:
+* Qatar Academy
+* Carnegie Mellon University
+* Georgetown University School of Foreign Service
+* Texas A&M University
+* Virginia Commonwealth University
+* Cornell University's Weill Medical College
+* Northwestern University
+ 
+","
+The British request to negotiate with a representative from Qatar. 
+","1971 
+","
+The Qatari peninsula juts 100 miles (160 km) into the Persian Gulf from Saudi Arabia and is slightly smaller than Connecticut. Much of the country consists of a low, barren plain, covered with sand. 
+","
+Qatar is aiming to become a role model for economic and social transformation in the region. Large scale investment in all social and economic sectors will also lead to the development of a strong financial market. 
+
+Qatar's great wealth is most visible in its capital, Doha.
+
+The Qatari peninsula juts 100 miles (160 km) into the Persian Gulf from Saudi Arabia and is slightly smaller than Connecticut. Much of the country consists of a low, barren plain, covered with sand.
+
+When contrasted with other Arab states such as Saudi Arabia, for instance, Qatar has comparatively liberal laws, but is still not as liberal as some of its neighbours like UAE or Bahrain. Women can legally drive in Qatar, whereas they may not in Saudi Arabia.
+
+The q and the t have no direct counterparts, but are closest to the unaspirated allophones of English k and t. However, since these allophones cannot occur in these positions in English, in this context they will sound more like English g and d. So the closest pronunciation, according to English phonemics, to the original Arabic might be   or  . ), officially the State of Qatar (Arabic:  Ø¯ÙÙØ© ÙØ·Ø±","
+Yes. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""It is bordered by Saudi Arabia to the south."" 
+","
+The Qatari peninsula juts 100 miles  (160 km) into the Persian Gulf from Saudi Arabia and is slightly smaller than Connecticut. 
+Therefore, **Saudi Arabia** borders Qatar. 
+","
+Qatar 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: ""Qatar has a modern Telecommunication system centered in Doha."" 
+","
+Yes. 
+","
+No. 
+The text states that the Qataris chose Muhammed bin Thani as their negotiator. 
+","
+Yes. 
+Explanation: 
+The text states that ""oil and gas will probably remain the backbone of Qatar's economy for some time to come."" 
+","
+Yes. 
+**Explanation:**
+The text explicitly states that the QFC was created with a long-term perspective to support the development of Qatar and the wider region. It also mentions that the QFC aims to develop local and regional markets and strengthen the links between energy-based economies and global financial markets. 
+","
+The provided text does not contain information about what happened in the positions in English. 
+
+
+","
+Yes. 
+","
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that ""Romania is a secular state, thus having no national religion."" 
+","
+","41 
+","
+Moldoveanu Peak is the highest mountain in Romania, with a height of 2544 meters. 
+","
+The official language of Romania is Romanian. 
+","
+Yes, the Romanian economy is doing well.  Here's why:
+
+* **High GDP growth:** Romania experienced high GDP growth rates in recent years, reaching 7.7% in 2006.
+* **Low unemployment:** Unemployment in Romania is very low, at 3.9% in September 2007.
+* **Low inflation:** Inflation is declining, contributing to a stable economic environment.
+* **Attractive investment environment:** Foreign direct investment has been increasing, and Romania is ranked highly in ease of doing business.
+* **Strong tourism sector:** Tourism is a significant contributor to the economy, and Romania is attracting more tourists.
+* **EU membership:** Romania's membership in the EU has brought about reforms and access to a larger market.
+
+While there are challenges, such as corruption and infrastructure issues, the overall picture suggests that the Romanian economy is performing well. 
+
+
+","
+Yes, there are a significant number of Roma in Romania. The 2002 census recorded 535,250 Roma living in Romania. 
+","
+**At least 5** 
+**Explanation:** 
+The text states that Romania was formed by the merging of Moldavia and Wallachia in 1859. It then gained recognition of its independence in 1878.  The text also mentions that Romania gained territories from the Second Balkan War, WWI, and the Treaty of Paris. 
+ 
+ 
+","
+Yes, Romania shares a border with Ukraine to the northeast. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""In August 1914, when World War I broke out, Romania declared neutrality."" 
+","
+Yes. 
+Explanation: 
+The text states that ""the two countries practically share the same language"". 
+","
+Nadia Comăneci 
+","
+Bucharest is the largest city in Romania. 
+","
+The largest ethnic minority in Romania is the Hungarian minority. 
+","
+ 
+**Answer:**  The text states that Romania is the twelfth-largest country in Europe.  It does not give a list of all the countries in Europe. 
+","
+Romania is a secular state, meaning it does not have a national religion. 
+","
+Romania was pressured by both Moscow and Berlin to remain neutral. However, under pressure from these powers, the Romanian administration and army were forced to retreat from Bessarabia and Northern Bukovina to avoid war. This, in combination with other factors, prompted the government to join the Axis powers. 
+
+
+","2007 
+","
+The remains of the lower jaw of the oldest modern human (Homo sapiens sapiens) in Europe are approximately 42,000 years old and have been nicknamed ""John of Anina"". 
+","
+Yes, according to the 2002 census, Romania has a population of 21,698,181. 
+","
+Economy and law are closely linked in Canada and Singapore. In Canada, the economy is largely based on agriculture and state-sector, and relies heavily on world trade. The economy is badly affected by any downturn in global prices. In Singapore, the PAP has consistently rejected liberal democratic values, which it typifies as Western and states there should not be a 'one-size-fits-all' solution to a democracy. Laws restricting the freedom of speech are justified by claims that they are intended to prohibit speech that may breed ill will or cause disharmony within Singapore's multiracial, multi-religious society. For example, in September 2005, three bloggers were convicted of sedition for posting racist remarks targeting minorities. 
+
+
+","400 million euros in investments. 
+","
+Yes. 
+","
+Yes. 
+","
+Yes, Gellu Naum was the leader of the surrealist movement in Romania. 
+","
+No, the Bucharest Metro was built between 1937 and 1940. 
+","
+Yes, the text states that Romania is a country in Southeastern Europe. 
+","
+Yes, Romania is a semi-presidential unitary state. 
+","
+Yes, the text states that Singaporeans enjoy a wide variety of seafood including crabs, clams, squid, and oysters. 
+","
+No. 
+Explanation: 
+The text states that ""Singapore's standard of living has increased progressively since independence."" 
+","
+No. 
+The media industry contributed 1.56% to Singapore's GDP in 2001. 
+","2.78 million 
+","
+The Orang Laut people lived around the coast, rivers and smaller islands near Singapore. 
+","
+The MRT is the Mass Rapid Transit (MRT) metro system, one of three heavy rail passenger transport lines in Singapore. 
+
+
+","
+Singapore's climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall. 
+","
+The government is seeking to increase the media's contribution to GDP from 1.56% to 3% by 2012. 
+","6 days. 
+","
+No. 
+Singapore is located at the southern tip of the Malay Peninsula. 
+","
+Yes, the text explicitly states that Singapore is a city-state. 
+","
+No, the text states that Sang Nila Utama was a 14th century Sumatran prince who landed on the island after a thunderstorm. 
+","
+""Singa"" is derived from the Sanskrit words ""singa à®à®¿à®à¯à®     (""lion"") and   à®ªà¯à®°   (""city""). 
+","
+The first record of settlement in Singapore is from the second century AD. 
+","
+The Imperial Japanese Army invaded Singapore during World War II. 
+","
+The text states that Winston Churchill called the occupation of Singapore by Japan during WWII ""Britain's greatest defeat"" because the British were defeated in six days and surrendered the supposedly impregnable ""Bastion of the Empire"" to General Tomoyuki Yamashita on February 15, 1942. 
+","
+Based on the provided context, Lee Kuan Yew is considered a successful leader of Singapore. 
+
+Here's why:
+
+* **Economic Development:** He led Singapore through a period of rapid economic growth, tackling unemployment and raising the standard of living.
+* **Infrastructure Development:** He oversaw the development of Singapore's economic infrastructure, laying the groundwork for future prosperity.
+* **Public Housing:** He implemented a large-scale public housing program, addressing housing needs and improving living conditions for citizens.
+* **National Security:** He established a strong national defense system, including compulsory military service, to protect Singapore's interests.
+* **Political Stability:** He successfully curbed racial tensions and fostered a stable political environment.
+* **International Recognition:** Singapore gained international recognition and became a key player in the global economy.
+
+
+The context emphasizes his achievements and the positive impact of his leadership on Singapore's development. 
+","1990. 
+","
+Rainwater collected in reservoirs or water catchment areas. 
+","
+The national language of Singapore is Malay. 
+","
+The National Orchid Garden is located in the Singapore Botanic Gardens. 
+","
+Relations with Malaysia and Indonesia are important due to:
+
+* **Geographical proximity:** Both countries are located in Southeast Asia, sharing land borders and maritime borders.
+* **Historical ties:** Indonesia has a long history of trade and cultural exchange with Malaysia and China.
+* **Economic importance:** Indonesia is a major exporter of natural resources, while Malaysia is a significant trading partner.
+* **Regional influence:** Both countries are major players in the ASEAN and East Asia Summits, and their cooperation is crucial for regional stability.
+* **Political stability:** Indonesia and Malaysia have a history of cooperation in promoting regional stability and countering external threats. 
+
+
+**In addition to the above, Singapore's relations with Malaysia and Indonesia are particularly important due to:**
+
+* **Five Power Defence Arrangements (FPDA):** Singapore shares defense ties with Malaysia, Australia, New Zealand, and the United Kingdom.
+* **Trade disputes:** Singapore has several long-standing disputes with Malaysia over a number of issues. 
+
+
+","
+**Singapore** is the second-most densely populated independent country in the world after Monaco, excluding Macao and Hong Kong, which are special administrative regions of the People's Republic of China. 
+","
+Sir Thomas Stamford Raffles worked for the **British East India Company**. 
+","1959 to 1990. 
+","
+The provided text does not contain information about the punishment for first-degree murder. 
+","
+The British East India Company established a trading post on the island in 1819. 
+","
+The British East India Company used Singapore as a strategic trading post along the spice route. 
+","
+Singapore 
+","
+The island boasted a sizeable community of 100,000 by 1869. 
+","
+Reservoirs are used to collect and store rainwater, which is the primary domestic source of water in Singapore. They are also used to treat and purify water before it is distributed to homes and businesses. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that Singapore has ""several long-standing disputes with Malaysia"" over issues like water supply. 
+","
+Yes. 
+---------------------
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states: ""Singapore has a network of reservoirs and water catchment areas."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states that ""Urbanization has eliminated many areas of former primary rainforest, with the only remaining area of primary rainforest being Bukit Timah Nature Reserve."" 
+","
+**Yes**, the economy of both Finland and Singapore heavily relies on exports refining imported goods, especially in manufacturing. 
+
+**Explanation:**
+
+* **Finland:** The text explicitly states that ""the largest sector of the economy is services at 65.7 percent, followed by manufacturing and refining at 31.4 percent.""  It also mentions that ""Finland depends on imports for most raw materials, energy and some components for manufactured goods."" This indicates a reliance on imports for manufacturing.
+* **Singapore:** The text clearly states that ""Singapore's economy depends heavily on exports refining imported goods, especially in manufacturing."" It further highlights that ""Singapore is the busiest port in the world in terms of tonnage shipped"" and ""Singapore is the world's fourth largest foreign exchange trading centre after London, New York City and Tokyo."" This points to a strong focus on international trade and refining imported goods. 
+
+
+Therefore, both countries heavily rely on exports refining imported goods, especially in manufacturing. 
+","
+Yes, the text states that ""Singapore is an island nation located at the southern tip of the Malay Peninsula."" 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that ""Singapore is the 17th wealthiest country in the world in terms of GDP per capita."" 
+","
+Yes, the text states that Theodore Roosevelt was the fifth Vice President to succeed to the office of President, but the first to win election in his own right.  He was also elected governor of New York in 1898 on the Republican ticket. 
+","
+Yes, Theodore Roosevelt has a brother named Theodore Roosevelt Jr. 
+","
+Yes, Theodore Roosevelt graduated from Harvard College. 
+","28 East 20th Street, in the modern-day Gramercy section of New York City. 
+","
+Roosevelt took up exercise, boxing lessons, and other activities to improve his physical condition. He also had a lifelong interest in pursuing a ""strenuous life"" and embraced strenuous activities like boxing, tennis, hiking, rowing, polo, and horseback riding. 
+","
+To deal with bullies, Roosevelt started boxing lessons. 
+","
+The nickname of Theodore Roosevelt's sister Anna was ""Bamie"" as a child and ""Bye"" as an adult. 
+","
+Roosevelt's justification for supporting desegregation of schools in New York was that his children had been educated with other races and there was nothing wrong with it. 
+","
+The provided text does not contain information about newspapers' response to Roosevelt inviting Booker T. Washington to dinner at the White House. 
+","
+Yes, the text states that after his left retina was detached, he practiced jujutsu. 
+","
+Yes, Theodore Roosevelt received a Medal of Honor. 
+","
+Yes, the context states that he studied biology with great interest and was an accomplished naturalist and published ornithologist. 
+","
+Theodore Roosevelt was born in New York City. 
+","
+Lincoln was Roosevelt's presidential hero. 
+","
+January 6, 1919. 
+","
+Andrew Carnegie 
+","
+Yes. 
+Explanation: 
+The text states that Roosevelt ""openly supporting a bill in the New York State Assembly which allowed desegregation of schools in the state, personally noting that his children had been educated with other races and there was nothing wrong with it."" 
+","
+Yes, the Roosevelt family was wealthy. The text states that they had grown in wealth, power, and influence from the profits of several businesses including hardware and plate-glass importing. They were also strongly Democratic in their political affiliation until the mid-1850s, then joined the new Republican Party. 
+
+
+","
+Yes, turtles are ectothermic. 
+---------------------
+","
+Yes, the mother cares for the young. 
+**Explanation:** 
+The text states that ""a new calf is usually the centre of attention for all herd members"" and that ""the mother will usually select several full-time baby-sitters, or ""allomothers"", from her group"". This clearly indicates that the mother plays a significant role in the care and protection of the young. 
+
+
+","
+Yes, turtles are commonly kept as pets. 
+","
+The eggs of the largest species of turtle are spherical. 
+","
+Turtles only breed every few years or more. 
+","
+All turtles and tortoises breathe air. 
+","
+Turtles lay eggs, like other reptiles. They deposit large numbers of eggs in holes dug into mud or sand. The eggs are slightly soft and leathery, and their albumen is white and contains a different protein than bird eggs. 
+The temperature of the egg determines whether it develops into a male or a female. 
+They are then covered and left to incubate by themselves. When the turtles hatch they squirm their way to the surface and make for the water. 
+There are no known species wherein the mother cares for the young. 
+","
+Researchers have discovered that the liver, lungs and kidneys of a centenarian turtle are virtually indistinguishable from those of its immature counterpart. This has inspired genetic researchers to begin examining the turtle genome for longevity genes. 
+","
+The Pleurodira suborder of turtle. 
+","
+Yes. 
+---------------------
+","
+Yes, the text states that Pleurodira are sometimes known as the side-necked turtles. 
+","
+No, turtles are not a part of the Flying Spaghetti Monster. 
+ 
+**Explanation:**
+
+The provided text focuses on the biological classification, characteristics, and care of turtles. It does not mention anything about the Flying Spaghetti Monster, a fictional deity created as a satirical response to the teaching of intelligent design in schools. 
+","
+Turtles are divided into three suborders. 
+","
+* Russian Tortoises
+* Greek spur-thighed tortoises
+* Red-ear sliders (or terrapin) 
+","
+1.  Turtles of the World: Extensive information on all known turtles, tortoises and terrapins, including key and quiz.
+2.  Pritchard, Pether C H (1979). Encyclopedia of Turtles. 
+3.  A website on all pet turtle species including a guide on caring for your turtles.
+4.  Turtles and Crocodiles of Insular Southeast Asia and New Guinea. 
+","
+A female turtle. 
+","
+**Aquatic turtles use their cloacal cavities lined with papillae to take up dissolved oxygen from the water.** 
+
+
+","
+Side-necked turtles are called side-necked turtles because they withdraw their heads into their shells. 
+","
+No, turtles do not lay eggs underwater. 
+---------------------
+","
+Yes, turtle eggs are slightly soft and leathery. 
+","
+Yes, researchers are examining the turtle genome for longevity genes. 
+","
+The extinct suborder of turtles is the Paracryptodira. 
+","
+The answer is **yolk**. 
+","
+Sea turtles lay their eggs on dry sandy beaches. 
+","
+The smallest suborder of turtles is the Pleurodira. 
+","
+The provided text states that turtle eggs are deposited in holes dug into mud or sand and then covered. 
+","
+* Turtles and tortoises 
+* Aquatic beetles
+* Sea turtles
+* All amniotes 
+* Aquatic beetles and sea turtles 
+* All creatures that breathe air 
+* None of the above 
+","
+Turtle eggs 
+","
+The context states that turtles are ectothermic, meaning they are ""cold-blooded"". 
+ 
+It also states that ""Like other reptiles, turtles are ectothermic (or ""cold-blooded"" Reptile blood isn't necessarily cold, as reptiles sun themselves and take other measures to stay warm. )"" 
+ 
+Therefore, all turtles are ectothermic. 
+","
+Yes, the largest turtles are aquatic. 
+","
+Yes. 
+---------------------
+","
+A rich blood supply. 
+","
+The eggs of the largest species are spherical. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states that ""This has inspired genetic researchers to begin examining the turtle genome for longevity genes."" 
+","
+Yes, the text states that turtles often only breed every few years or more. 
+","
+Yes, the text states that ""Immature sea turtles are not cared for by the adults."" 
+","
+Yes. 
+**Explanation:**
+The text states: ""The Pleurodira are sometimes known as the side-necked turtles, a reference to the way they withdraw their heads into their shells."" 
+","
+Yes, the Order Testudines includes both extant and extinct species. The earliest known turtles are from around 215 million years ago. 
+","
+Yes. 
+---------------------
+**Explanation:**
+
+The text explicitly states: ""Grant first reached national prominence by taking Forts Henry and Donelson in 1862 in the first Union victories of the war.  The following year, his brilliant campaign ending in the surrender of Vicksburg secured Union control of the Mississippi andâwith the simultaneous Union victory at Gettysburgâturned the tide of the war in the North's favor."" 
+
+This indicates that Grant was a prominent figure in the American Civil War. 
+","
+Yes. 
+---------------------
+Explanation:
+The text states: ""Although Grant was essentially apolitical, his father-in-law was a prominent Democrat in St. Louis (a fact that lost Grant the good job of county engineer in 1859)."" 
+","
+Yes, the text states that Grant turned west and won the Battle of Champion Hill. 
+","
+Fred Dent 
+","
+Grant was born in a log cabin in Point Pleasant, Clermont County, Ohio. 
+","
+Grant was a Republican. 
+","
+According to Hooker, Grant reportedly said afterward, ""Damn, I had nothing to do with this battle,"" according to Hooker. 
+
+
+","
+No, the provided text does not mention Horace Greenley or his participation in any presidential elections. 
+","
+Grant believed the war was unjust because he accepted the theory that it was designed to gain land open to slavery. 
+","
+Ulysses S. Grant 
+","1868 
+","
+**Ulysses S. Grant** 
+","1856. 
+","
+Ulysses S. Grant 
+","
+Yes. 
+","
+* **Jesse Root Grant:** His father was from Pennsylvania.
+* **Hannah Simpson Grant:** Her mother was born in Horsham Township, Pennsylvania.
+* **Abraham Lincoln:** Lincoln was born in a one-room log cabin on the Sinking Spring Farm, in southeast Hardin County, Kentucky (now part of LaRue County). This area was at the time considered the ""frontier.""
+* **Cleveland:** Cleveland admitted to paying child support in 1874 to Maria Crofts Halpin, the woman who claimed he fathered her child named Oscar Folsom Cleveland. Halpin was involved with several men at the time, including Cleveland's law partner and mentor, Oscar Folsom, for whom the child was named. (Cleveland may not have been the father and is believed to have assumed responsibility because he was the only bachelor among them.) 
+
+
+**Therefore, the answer is:**
+* **Jesse Root Grant:** His father was from Pennsylvania.
+* **Hannah Simpson Grant:** Her mother was born in Horsham Township, Pennsylvania. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that the two-sentence description ""completely caught the essence of Ulysses S. Grant."" 
+","
+Yes. 
+","
+Yes, he had smoked only sporadically before the Civil War. 
+Explanation: The text states that before the Civil War, Grant had smoked only sporadically. 
+","
+No. 
+The text states that Grant & Perkins sold harnesses, saddles, and other leather goods and purchased hides from farmers in the prosperous Galena area. 
+","
+Yes. 
+","
+* Lincoln delivered his second inaugural address.
+* Lee surrendered at Appomattox Court House.
+* The Thirteenth Amendment to the Constitution was passed.
+* Lincoln was assassinated. 
+
+
+","
+The recent years are 2005, 2006. 
+The Reformasi era following Suharto's resignation, has led to a strengthening of democratic processes, including a regional autonomy program, and the first direct presidential election in 2004. Political and economic instability, social unrest, corruption, and terrorism have slowed progress. 
+","
+No. 
+---------------------
+Explanation:
+The text clearly states that Uruguay is located in the southeastern part of South America. 
+","
+Yes, the context explicitly states that Montevideo is the capital of Uruguay. 
+","
+","
+The Spanish founded Montevideo in the early 18th century as a military stronghold. 
+","
+The oldest church in Uruguay is located in San Carlos, Maldonado. 
+","
+European immigrants. 
+","
+Informal names for poor neighborhoods in Uruguay are ""Cantegriles"" or ""Asentamientos"". 
+","
+The provided text states that Uruguay's landscape features mostly rolling plains and low hill ranges (cuchillas). 
+Therefore, the answer is **no**. 
+","
+Most Uruguayans profess the Roman Catholic faith. 
+","
+Yes. 
+","
+Yes, citizens can propose changes to the Constitution in several countries. 
+Specifically, the text mentions that in Uruguay, citizens can propose changes to the Constitution by a Plebiscite. 
+It also mentions that in Finland, citizens can propose changes to the Constitution by a Plebiscite. 
+It also mentions that in Romania, citizens can propose changes to the Constitution by a public referendum. 
+It also mentions that in Liechtenstein, citizens voted in support of a renewed constitution. 
+It also mentions that in Egypt, citizens are gathering to discuss new governing documents. 
+It also mentions that in the United States, citizens gathered to discuss new governing documents. 
+
+
+","
+Yes. 
+---------------------
+","176,214 square kilometres. 
+","83% of the population is of white European descent. 
+","
+The capital of Uruguay, Montevideo, was founded by the Spanish in the early 18th century as a military stronghold. 
+","
+Uruguay has won the World Cup **twice**. 
+","
+The provided text does not contain the answer to this question. 
+","
+Yes. 
+---------------------
+","
+No, Uruguay does not border French Guiana. 
+","
+No, the warmest month in Uruguay is January. 
+","
+A citizen can propose changes to the Constitution by using a **Plebiscite**. 
+","
+The main religion in Uruguay is Roman Catholicism, with about 62% of the population identifying as such. Other religions found in Uruguay include Protestantism (4%), Judaism (3%), and a large non-religious group (31%). 
+","
+Uruguay has taken several steps to be competitive in agriculture. 
+First, it has positioned itself as a producer of ""natural"" or ""ecological"" products, capitalizing on the low labor, technology, and capital inputs in its agriculture. 
+Second, it has actively promoted its agricultural products as premium brands, using campaigns like ""Uruguayan grass-fed beef"" and ""Uruguay Natural."" 
+Third, Uruguay has leveraged its strong reputation among investors and its investment-grade sovereign bond rating to attract foreign investment and maintain financial stability. 
+Finally, Uruguay has been diversifying its economy beyond agriculture, with a focus on developing IT technologies and becoming a software exporter. 
+
+
+","
+The political parties in Uruguay are the Partido Colorado and the Partido Blanco. 
+","
+No. 
+Explanation: 
+The text states that Uruguay is the second smallest sovereign nation in South America, after Suriname. 
+","
+Montevideo 
+","
+The name ""Uruguay"" comes from GuaranÃ­. 
+","
+Uruguay is the first exporter of software in Latin America and has been exporting architectural services to India. 
+","
+Uruguay won its independence in 1828. 
+","
+No, Uruguay is not very common. 
+Explanation: 
+The text states that Uruguay is a country located in the southeastern part of South America. 
+
+
+","
+Yes, the climate in Uruguay is temperate. 
+","
+Yes. 
+","
+Yes. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text states: ""Uruguay is a member of the Cairns Group of exporters of agricultural products."" 
+","
+Yes. 
+","
+Yes. 
+","
+ 
+**Yes.** 
+
+**Explanation:**
+
+The provided context information clearly states that Uruguay is a presidential representative democratic republic, where the President of Uruguay is both head of state and head of government. 
+
+Therefore, based on the information given, the answer is yes. 
+","
+No. 
+---------------------
+Explanation: 
+The text states that Calvin Coolidge was the thirtieth President of the United States. 
+","
+Yes. 
+Explanation: 
+The text states that Wilson worked tirelessly to promote his plan for a League of Nations and that the charter of the proposed League of Nations was incorporated into the conference's Treaty of Versailles. 
+","
+No. 
+**Explanation:**
+The text states that the U.S. never joined the World Court, and that the Senate failed to act on the League of Nations. 
+
+
+","
+The League of Nations was created in Paris in 1919. 
+","
+December 28, 1856 
+","
+ Grover Cleveland 
+","
+History and political science. 
+","
+Wilson asked Congress to declare war on the Central Powers when Germany resumed unrestricted submarine warfare in early 1917 and made a clumsy attempt to enlist Mexico as an ally (see Zimmermann Telegram). 
+","
+The confrontation with Andrew Fleming West, Dean of the graduate school, and West's ally, former President Grover Cleveland, a trustee, was more damaging than moving students into colleges. 
+","
+Yes. 
+---------------------
+","
+**No.** 
+
+**Explanation:** The provided text does not mention anything about Wilson's interest in automobiles. 
+","
+Yes, according to the text, Wilson's father owned slaves and set up a Sunday school for them. 
+","
+Wilson is buried at the Washington National Cathedral. 
+","
+Wilson attended law school at the University of Virginia. 
+","
+Staunton, Virginia 
+","
+**No, Wilson did not support desegregation.** 
+
+**Explanation:**
+
+The provided text states that Wilson ""allowed many of his cabinet officials to establish official segregation in most federal government offices"" and ""his administration imposed full racial segregation in Washington.""  It also mentions that he fired black Republican office holders and appointed a few black Democrats. 
+
+The text also mentions that Wilson was president of the American Political Science Association in 1910 and that he discouraged blacks from even applying for admission to Princeton University. 
+
+The text does not mention any instances where Wilson explicitly supported desegregation. 
+
+
+","
+No, Wilson was critical of the committee system. 
+Explanation: 
+The provided text states that Wilson ""poured out scorn for the committee system"" and that he believed it was a cause of problems in American governance. 
+","
+The provided text does not mention anything about Wilson having siblings. 
+","
+The text states that Fillmore was descended from Scottish Presbyterians on his father's side and English dissenters on his mother's. 
+ 
+ 
+","
+The provided text does not contain information about anyone defending slavery, owning slaves, or setting up a Sunday school for them. 
+
+
+**Explanation:**
+
+The text focuses on Abraham Lincoln's views and actions regarding slavery. It highlights:
+
+* **Lincoln's opposition to slavery:** He saw the Declaration of Independence as a moral document that opposed further expansion of slavery.
+* **Lincoln's stance on emancipation:** He supported the Second Confiscation Act to weaken the rebellion and believed the war was fought to preserve the Union.
+* **Lincoln's personal views:** He never bought a slave and opposed the use of black soldiers in the Revolution.
+
+The text does not mention any individuals who defended slavery, owned slaves, or set up Sunday schools for them. 
+","
+Wilson won World War I. 
+","
+Yes. 
+---------------------
+","
+Yes, the context explicitly states that Wilson was a ""remarkably effective writer and thinker"" and that his diplomatic policies had a ""profound influence on shaping the world."" 
+","
+The text provides information about the following inhabitants of Columbia:
+* **The Moche people of ancient Peru:** They worshipped nature and often depicted ducks in their art.
+* **Early British settlers:** They founded towns like Conchillas and Barker.
+* **The inhabitants of Uruguay before European colonization:**  The CharrÃºa Indians were the most well-known tribe.
+* **The Colombian negotiating team:** They signed the treaty for an agreed-upon sum to build a canal.
+* **The inhabitants of Panama:** The text states that Panama was a province of Colombia at the time.
+
+
+","
+Yes. 
+---------------------
+**Explanation:**
+
+The text explicitly states: ""Wilson was president of the American Political Science Association in 1910."" 
+","
+Yes, the passage states that Wilson ""refused to stand by the ticket"" and cast his ballot for John M. Palmer. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that Wilson spent 1914 through the beginning of 1917 trying to keep America out of the war in Europe. 
+","
+Yes. 
+---------------------
+Explanation: 
+The text explicitly states that Wilson was ""a staunch opponent of antisemitism"" and ""sympathetic to the plight of Jews, especially in Poland and in France."" 
+","
+1. Finland declared its independence.
+2. The Bolshevik Revolution took place in Russia.
+3. The United States declared war on Germany.
+4. The United States experienced a brief but bitter Civil War.
+5. The United States passed the first effective draft.
+6. The United States raised billions through Liberty loans.
+7. The United States imposed an income tax.
+8. The United States took over control of the railroads.
+9. The United States suppressed anti-war movements.
+10. The United States promoted labor union growth.
+11. The United States supervised agriculture and food production through the Lever Act.
+12. The United States paid surprisingly little attention to military affairs.
+13. The United States provided the funding and food supplies that helped the Americans in the war.
+14. The United States paid little attention to demobilization after the war.
+15. The United States experienced a brief but bitter Civil War.
+16. The United States experienced a brief but bitter Civil War.
+17. The United States experienced a brief but bitter Civil War.
+
+
+**Explanation:**
+
+The provided text lists several significant events that occurred in 1917.  Here"
+2.5182583946734667,2.4684420390985906,2.7009467966854572,2.449694029055536,2.4579576337710023,2.313240029849112,2.6645671920850873,2.655656671151519,2.4554372713901103,2.5245110620744526,2.3159983470104635,2.340705916751176,2.7769888378679752,2.6151403998956084,2.262401529122144,2.691835935693234,2.624191340059042,2.512905058916658,2.696912545710802,2.3322134711779654,2.739365931134671,2.435423331335187,2.3836157508194447,2.3120874161832035,2.375016084872186,2.5053453627042472,2.4574182429350913,2.6501702717505395,2.461586007848382,2.4594535510987043,2.694415916223079,2.5244272919371724,2.9697289410978556,2.5427687210030854,2.601793748792261,2.443966196849942,2.60414913110435,2.32292872807011,2.57899601617828,2.22992128925398,2.543536936864257,2.311321349814534,2.4981574965640903,2.4323715548962355,2.3394039878621697,2.223455253057182,2.470809387974441,2.337330493144691,2.4158966252580285,2.7672254629433155,2.406079159118235,2.4583942079916596,2.2820462197996676,2.702524637337774,2.440268588718027,2.2921567736193538,2.2021526088938117,2.4327928628772497,2.296681371051818,2.5558218942023814,2.373043227940798,2.491467376239598,2.3851078799925745,2.402642343658954,2.493447892833501,2.705715731251985,2.312379288021475,2.4732253081165254,2.3808150091208518,2.5357253598049283,2.4439292079769075,2.525187039282173,2.522016721777618,2.272264886647463,2.3334606112912297,2.420592036098242,2.45300481794402,2.0393537636846304,2.3387664910405874,2.11994498828426,2.5664822421967983,2.5667241592891514,2.5894975918345153,2.3056289330124855,2.5510246427729726,2.3663354562595487,2.5328906727954745,2.4778799950145185,2.7322832960635424,2.695449402090162,2.4746963041834533,2.599405399058014,2.656160897575319,2.596287031657994,2.441566442605108,2.360830028075725,2.1039898837916553,2.568936149124056,2.3457454717718065,2.370168184861541,2.523515230976045,2.741678203921765,2.506313775666058,2.715019723866135,2.7749535581097007,2.4488317095674574,2.72822884330526,2.568649370688945,2.524258395191282,2.491975893266499,2.5649266079999506,2.520618161652237,2.3825852451846004,2.602506945375353,2.558622187934816,2.4876076891086996,2.70741726225242,2.4453038219362497,2.4822697998024523,2.6766445571556687,2.449155786074698,2.406795100774616,2.2735130325891078,2.6227795919403434,2.498798776883632,2.379576552659273,2.3989721736870706,2.3627528022043407,2.3187619792297482,2.3706982522271574,2.397783865686506,2.651019373908639,2.5242734169587493,2.371215830091387,2.5143862990662456,2.6395268808119,2.362447685096413,2.5189729840494692,2.2288370551541448,2.7214620229788125,2.2818643860518932,2.4000868760049343,2.8952422039583325,5.057074591051787,2.499390797223896,2.5080598457716405,2.43373736506328,2.2867083018645644,2.251201489008963,2.482060327194631,2.653187283780426,2.605364741757512,2.444695427082479,2.2986035221256316,2.4620819189585745,2.311566502787173,2.369561139959842,2.2953757676295936,2.6865784390829504,2.463567519094795,2.2878825459629297,2.401467123068869,2.3141478076577187,2.5251940325833857,2.519476146902889,2.4830284332856536,2.2505210577510297,2.5231550387106836,2.414624684024602,2.5487361731939018,2.469775255769491,2.2727715987712145,2.191846604924649,2.3130451450124383,2.3344500977545977,2.49766606092453,2.604277862701565,2.194349833764136,2.7624938669614494,2.5960342749021947,2.440869404003024,2.2781008360907435,2.2198406658135355,2.4819167922250926,2.5426213312894106,2.4242152459919453,2.3199014929123223,2.144005768932402,2.3874678877182305,2.2150525082834065,2.57067017396912,2.452851628884673,2.617386802099645,2.5106511479243636,2.5370111311785877,2.145646400284022,2.6322529688477516,2.3746786611154675,2.4937572409398854,2.5042822686955333,2.4645244642160833,2.3425814821384847,2.549883251078427,2.5787452827207744,2.418915759306401,2.493680373765528,2.4120456241071224,2.586458654142916,2.359642679337412,2.3679758850485086,2.6663743159733713,2.2743179430253804,2.8154564411379397,2.4058539560064673,2.3042020038701594,2.3493125112727284,2.490702817682177,2.3781237369403243,2.4984502061270177,2.8372194007970393,2.514224353712052,2.5138219129294157,2.5875933803617954,2.4743630378507078,2.6711864336393774,2.48996790824458,2.3881468451581895,2.4563728282228112,2.2935618851333857,2.4090191810391843,2.90073560224846,2.552720032632351,2.474265234079212,2.478579011745751,2.1460970672778785,2.3438485991209745,2.7256125500425696,2.4973483802750707,2.750389805994928,2.3947133170440793,2.274045940954238,2.425775332376361,2.1868224050849676,2.558522175066173,2.303738181013614,2.287933475803584,2.3628387502394617,2.5006025447510183,2.394399058073759,2.4354701288975775,2.4886434166692197,2.5856652911752462,2.80460111098364,2.422869695816189,1.8999494491145015,2.668428241740912,2.5118084852583706,2.435435859952122,2.47367740329355,2.085452708415687,2.696940602734685,2.586494131013751,2.461991943884641,2.5635811891406775,2.543450552970171,2.4491232372820377,2.5693197553046048,2.4500921270810068,2.508347730152309,2.907719474285841,2.6021342212334275,2.676236568018794,2.511686285957694,2.6862553101964295,2.5266618449240923,2.4440202708356082,2.7318615736439824,2.4234427618794143,2.590288402978331,2.5305107943713665,2.649604321923107,2.358081391081214,2.3829761892557144,2.1618472547270358,2.139552961103618,2.714867343660444,2.481275354977697,2.338885169941932,2.314720625989139,2.2209198237396777,2.478903381153941,2.4852694319561124,2.7504880344495177,2.118998097255826,2.4894914710894227,2.5884658340364695,2.2084047007374465,2.185701189097017,2.333775089122355,2.310713551938534,2.597721944563091,2.349072676151991,2.7151211728341877,2.8720870572142303,2.459296187851578,2.092167830094695,2.6508788387291133,2.975468144286424,2.7373435078188777,2.582370904739946,2.3920640530996025,2.549912474118173,2.2286362117156386,2.190889152698219,2.55084464000538,2.519686439074576,2.234203222207725,2.5971854981034994,2.40583824692294,2.22154136095196,2.4828503588214517,2.6091676601208746,2.2266984921880066,2.4997104350477457,2.6751732639968395,2.902362517081201,2.5635743881575763,2.4320149808190763,2.5474074468947947,2.3555287988856435,2.4572129850275815,2.3825054792687297,4.222009823191911,4.993568414822221,2.5042932690121233,2.5275523187592626,2.4710279051214457,2.30964070931077,2.386505130212754,2.6956914020702243,2.448303676210344,2.250226599164307,2.514919043984264,4.308471215888858,2.1900962069630623,2.651221961248666,2.4932542936876416,2.586185630876571,2.3858163873665035,2.4858962283469737,2.4394605210982263,2.4740407671779394,2.6078382092528045,2.4682199670933187,2.4497686340473592,2.515552480239421,2.2072909120470285,2.2887051631696522,2.606910723261535,2.3333236989565194,2.4125917740166187,2.305399753153324,2.4276831978932023,2.500632573850453,2.5443068146705627,2.5893036108464003,2.5727487951517105,2.496374510228634,2.4862650451250374,2.5138622326776385,2.226113290991634,2.501133542973548,2.5413480196148157,2.8358993167057633,2.444000996183604,2.386660564225167,2.3815567730925977,2.3978340537287295,2.5661895340308547,2.197027471847832,2.356639659963548,2.4758937396109104,2.5009247181005776,2.3040748815983534,2.263613399118185,2.088127869181335,2.7372584361582994,2.56730952905491,2.297444191761315,2.343531302176416,2.148976102937013,2.450022963806987,2.2624604017473757,2.4169198791496456,2.320535056758672,2.402141127269715,2.540951965842396,2.582540923729539,2.411340858787298,2.584261944051832,2.3389343358576298,2.7340633273124695,2.413924085907638,2.5298937167972326,2.406919676810503,2.4507632460445166,2.4573885458521545,2.198141386266798,2.7531077107414603,2.3956288709305227,2.2521209912374616,2.4986496618948877,2.424686945974827,2.4576213690452278,2.4257077910006046,2.4120916770771146,2.5885182269848883,2.089935929980129,2.3104428271763027,2.343205751851201,2.473094896879047,2.499459798913449,2.3861043038778007,2.4380544060841203,2.420878845732659,2.3555454881861806,2.5422880789265037,2.4857501019723713,2.4270239169709384,2.332077885977924,2.071705647278577,2.2296334579586983,2.42570589389652,2.57277309615165,2.6253340081311762,2.632092430256307,2.4808521228842437,2.7620153590105474,2.2671588589437306,2.369000139646232,2.657261935994029,2.4421351049095392,2.21878419816494,2.6361677390523255,2.318019379861653,2.7357018627226353,2.565322218928486,2.438143188599497,2.4796674912795424,2.6492020981386304,2.2887643869034946,2.5321077429689467,2.387433827854693,2.3768930323421955,2.5311583690345287,2.4905838067643344,2.45009884564206,2.4270044779405,2.675870564300567,2.250601328909397,2.432663564104587,2.6083080847747624,2.596985678188503,2.3006665450520813,2.5390141759999096,2.5743981450796127,2.3584400000981987,2.3270251732319593,2.371717480942607,2.4062663023360074,2.5282155559398234,2.4516107817180455,2.549057644791901,2.4637957592494786,2.6338807307183743,2.6882936651818454,2.2763270530849695,2.702074651606381,2.5840091528370976,4.729273477103561,2.387489799875766,2.314472101163119,2.6439232332631946,2.5689588468521833,2.4969926150515676,2.38882976770401,2.3878048872575164,2.4909933977760375,2.47410226194188,2.57802431890741,2.5075387521646917,2.438906303141266,2.59726885240525,2.398208091966808,2.2132371747866273,2.751964448019862,2.5148249976336956,2.4504603552632034,2.392375700175762,2.654410664923489,2.4725222578272223,2.4557082527317107,2.5220092474482954,2.2386797931976616,2.0426395991817117,2.1450872467830777,2.309014064259827,2.8941038716584444,2.4882567967288196,2.382720154710114,2.439886124804616,5.45544115267694,2.7673486713320017,2.4198614391498268,2.2825784445740283,2.4631432578898966,2.4831326249986887,2.5664540361613035,2.545923079829663,2.4391053752042353,2.590684800874442,2.6380755556747317,2.4907716549932957,2.9344115401618183,2.4672862719744444,2.5513073657639325,2.2663672789931297,2.7867532460950315,2.5069701592437923,2.27567141270265,2.380043883807957,2.2673911419697106,2.4247300904244184,2.4777255509980023,2.599559110123664,2.503844227641821,2.5213548066094518,2.2770452951081097,2.113694718107581,2.394270199816674,2.5635368078947067,2.6055821692571044,2.5383404288440943,2.6831540130078793,2.6108589000068605,2.5600398988462985,2.4306520959362388,4.6858108402229846,2.500143109355122,2.572891753166914,2.871512334328145,2.3046489097177982,2.2863565441221,2.441951469052583,2.4907455793581903,2.7101848828606308,2.7253655600361526,2.2906225747428834,2.366108652204275,2.337655154056847,2.5707734497264028,2.329314674716443,2.486926617100835,2.4676370788365602,2.4325924878939986,2.4027935159392655,2.420509774237871,2.5234524738043547,2.6051634130999446,2.512260888237506,2.4748945562168956,2.4592931866645813,2.3389984806999564,2.538833075668663,2.4311618031933904,2.2764205639250576,2.5241897623054683,4.652187038213015,2.6252816026099026,2.7902410314418375,2.4428893784061074,2.4995572245679796,2.7889949050731957,2.7015174878761172,2.441522780805826,2.499013968743384,2.6578176179900765,2.3257980379275978,2.5978654217906296,2.485214350745082,2.445325819775462,2.6052380241453648,2.630934141110629,2.39109894214198,2.2685971329919994,2.7033186927437782,2.5905243000015616,2.6770287891849875,2.45964646525681,2.8202826511114836,2.7075059302151203,2.7434805310331285,2.4806878389790654,2.508816343266517,2.1890238039195538,2.434244199190289,2.4159643752500415,2.312475257087499,2.4135140259750187,2.2376146549358964,2.1783620272763073,2.516443071421236,2.422545223031193,2.042311471886933,2.4031802299432456,2.440841529984027,2.275822455994785,2.4789893883280456,2.6468659448437393,2.44354951614514,2.5015701688826084,2.5264080143533647,2.685934691224247,2.172477276995778,2.657291821204126,2.5937684099189937,2.5350014101713896,2.2542283572256565,2.4542354298755527,2.3402021978981793,2.7879030127078295,2.4962333380244672,2.590958259999752,2.452173266094178,2.5841069552116096,2.497173196170479,2.4286571573466063,2.409020063932985,2.6768171009607613,2.650249923579395,2.3928929627873003,2.37370710587129,2.6837593531236053,2.5094428779557347,2.645973719190806,4.807196028064936,5.07038982026279,2.3237245166674256,4.222444865852594,2.771886980161071,2.6398724718019366,2.270631803199649,2.5564485071226954,2.5238049756735563,2.46083989366889,2.451186987105757,2.4249432859942317,2.6411229758523405,2.5337752630002797,2.5514547107741237,2.4477409054525197,2.4599070008844137,2.214120819699019,2.421838826034218,2.3649183390662074,2.4392127711325884,2.3690301361493766,2.6296113301068544,2.460862153209746,2.4928663102909923,2.5781842172145844,2.4750012778677046,2.4205586765892804,2.2201311928220093,2.5563885048031807,2.275676755234599,2.1104884981177747,2.5918706539086998,2.5341650010086596,4.717105763033032,2.4622465730644763,2.463495976291597,2.4069135962054133,2.2621828741393983,2.7876555249094963,2.677782822865993,2.3582726842723787,2.680299200117588,2.6272444957867265,2.4888478331267834,2.6563518522307277,2.497281438205391,2.481110434047878,2.706509242299944,2.408613406121731,2.472160297911614,2.3094915207475424,2.4128072089515626,2.5254066600464284,2.3407629122957587,2.473506077658385,2.2631415841169655,4.388154594693333,2.4896525368094444,2.4372841687873006,4.616511723957956,2.2415810669772327,2.21773797320202,2.565723889041692,2.4692439259961247,2.5351281887851655,2.53856134833768,2.417426588013768,2.426033228635788,2.7097193361259997,2.669406518340111,2.486570707987994,2.705697455909103,2.306143715046346,2.306549464352429,2.478103762026876,2.443440491799265,2.43264127522707,2.4634156078100204,2.41274737380445,2.5625488706864417,2.5005202242173254,2.51947085512802,2.398642787244171,2.6316833179444075,2.4165011141449213,2.4555222312919796,2.515896530356258,2.2605597861111164,2.50050748931244,2.2787502259016037,2.5374625409021974,2.554359119851142,2.4487436250783503,2.487872775644064,2.0427482021041214,2.3842458589933813,2.498960804194212,2.5916738705709577,2.691210717894137,2.4277703310362995,2.661384159233421,2.4523371001705527,2.5083265719003975,2.544614152982831,2.5255594518966973,2.4154937439598143,2.4137846678495407,2.395832329057157,2.530203741043806,2.3334522410295904,2.3611109610646963,2.5016784300096333,2.39249933604151,2.552398835774511,2.299324090126902,2.370773162227124,2.7323434157297015,2.645848310086876,2.7004729476757348,2.429751832038164,2.456490649841726,2.439669230952859,2.57369093131274,2.553585486020893,2.520898380316794,4.670359569601715,2.4243046860210598,2.6589251942932606,2.3881790400482714,2.393251907080412,2.2416311325505376,2.54343542503193,2.2906441409140825,2.761364129371941,2.3937434228137136,2.5887926830910146,2.286955944262445,2.24368883529678,2.2257909369654953,2.0486113387160003,2.2942697019316256,2.532128892838955,2.594211421906948,2.54862750088796,2.5014374288730323,2.6904842550866306,2.437976981047541,2.4450866719707847,2.4906239989213645,2.0436979550868273,2.636265920009464,2.2101940289139748,2.4532848689705133,2.3906806586310267,2.4714162456803024,2.381391112692654,2.3894047462381423,2.5694540138356388,2.5411547143012285,2.5356311411596835,2.6349940737709403,2.3289023931138217,2.4741556691005826,2.160356297157705,2.477768511045724,2.527220212854445,2.4028645786456764,2.541248362045735,2.623554546851665,2.4750802549533546,2.8845969531685114,2.5048895832151175,2.698540302924812,2.35017709992826,2.2344116549938917,2.3012955682352185,2.346988522913307,2.787817331030965,2.2547910269349813,2.3208093610592186,2.5513689662329853,2.5138977989554405,4.483785900752991,2.546784929931164,2.3290080837905407,2.5188745339401066,2.378386684693396,2.2883825288154185,2.384735543746501,2.348575253970921,2.618826669175178,2.6144037460908294,2.5787160960026085,2.279960155952722,2.331061259843409,2.430444390978664,2.462306847795844,2.541306104976684,2.2486914936453104,2.441172317136079,2.321716460864991,2.714121531229466,2.634484611917287,2.5214769109152257,2.1674150079488754,2.4756543659605086,2.397508501075208,2.3220476009882987,2.2543125371448696,2.1075588669627905,2.3943902631290257,2.511171560268849,2.4483258738182485,2.293891692068428,2.3665671558119357,2.2673698770813644,2.3975111497566104,2.5896512726321816,2.636345077306032,2.6182113657705486,2.355955069884658,2.633861866313964,2.5025854404084384,2.409491883125156,2.197262695990503,2.4938316978514194,2.3704769667237997,2.639594386331737,2.474252201616764,2.5216047866269946,2.4273034050129354,2.6255686478689313,2.228855852968991,2.6867381082847714,2.5805801590904593,2.298599793110043,2.5339853609912097,2.650830122176558,2.591685820836574,2.466383964754641,2.4499335582368076,2.554470752365887,2.7140356353484094,2.3824431439861655,2.27776392782107,2.612775471061468,2.9416744308546185,2.167131091002375,2.472939570900053,2.5404120120219886,2.721493440680206,2.578956476878375,2.6293816110119224,2.2242221129126847,2.439196415245533,2.234074903652072,2.364642192143947,2.4451534561812878,2.359926769975573,2.398508347105235,2.4203067193739116,2.5056959851644933,2.503241138998419,2.513356882147491,2.5286827902309597,2.407198738772422,2.2376751019619405,2.391379585955292,4.915130336303264,2.6006982726976275,2.5721252132207155,2.0918769859708846
+12.876087577082217,18.937882519327104,11.825238466262817,8.801900018937886,7.524430272169411,15.644368696026504,6.565481580793858,13.056434985250235,17.18719473015517,10.36376780224964,11.959122849162668,17.14163784077391,12.29665979463607,8.64244720665738,11.22201965469867,14.057741650380194,11.026729153934866,15.218233395833522,11.920344046782702,8.290433487854898,14.379390181973577,15.460273114964366,3.6850856002420187,12.37075522588566,12.524268149863929,15.431679609697312,12.863420134875923,11.318517060019076,10.30523668974638,6.010065583046526,19.38846604898572,9.577421159017831,9.736905318219215,6.847951481118798,13.115874432958663,9.644728547893465,12.140778662171215,10.646932560950518,6.8688710648566484,5.543077129870653,7.0815032962709665,24.440821739379317,4.716574651189148,10.545374419074506,7.926121435128152,5.370394696015865,6.345162004698068,4.7179852463305,6.12168013304472,4.999716061167419,4.598453998565674,15.204570347908884,5.388153695035726,16.500601769890636,8.77278686221689,6.769927461631596,6.673931824974716,7.1982582551427186,6.422787923365831,11.15715851681307,5.849249382968992,8.51345566380769,8.992145288269967,22.329535221681,16.273013262078166,10.269676790107042,9.583535520825535,9.162896938156337,7.236434172838926,9.515945010818541,5.75639529991895,8.347981018945575,21.03743301704526,7.910360048990697,23.428448070771992,11.068569014314562,11.55922317598015,7.3977836719714105,11.44309845007956,4.261245221365243,9.545238867867738,7.27437029639259,5.47329064598307,10.027508341241628,8.020770109724253,28.97369299363345,12.990012598223984,9.51647266605869,11.028767278883606,5.0120122651569545,9.64245921280235,16.530402973294258,18.00677103502676,7.69011822110042,4.252901535946876,9.492932583205402,18.175774096976966,16.78234725398943,7.31932575488463,12.55132504971698,8.944248046725988,14.692690761759877,15.351566163823009,11.600115480367094,12.425016746856272,21.73247235873714,8.587314352858812,11.830351228825748,13.450042023789138,10.61878708563745,14.535188311245292,5.34706599637866,10.067736356053501,9.901722247712314,8.940020718146116,13.317771431989968,11.733108005020767,9.848567904904485,7.120187994092703,20.34159037610516,12.620827906299382,16.930957575328648,10.889268714934587,6.237126946914941,12.810491962824017,5.634802687913179,8.651013996917754,9.82327005872503,9.137025712057948,9.597088131122291,8.371740996837616,13.529632959980518,8.800553375855088,7.866630155593157,19.333069178275764,11.462508558295667,7.593844196759164,10.582062154076993,8.479183070361614,10.088273109868169,8.723687382880598,10.440391563810408,10.649564112070948,10.539059724193066,10.14183783903718,10.908126566093415,10.068807179108262,5.903686330653727,10.16160149499774,6.1005497998557985,7.306790937669575,7.869155240245163,9.139248652849346,6.066570024937391,8.211358267813921,7.819171599112451,6.256286214105785,5.763128424063325,7.396579273976386,7.195914335083216,6.009299788624048,20.84986863285303,12.292654017917812,8.960353577975184,7.053499848116189,5.438617811072618,7.819426023866981,6.7932741940021515,7.924812730867416,7.841425822582096,7.3408544370904565,4.48924954701215,8.04347857600078,10.882398835849017,9.584194746799767,26.532674425281584,13.026352409273386,17.365424285642803,8.463107160758227,11.545638439711183,13.382618487812579,10.57548394240439,9.015557537786663,9.091257912106812,9.642659061122686,11.741801520809531,12.36897351546213,7.449314410798252,9.351854142267257,10.016949483193457,9.851149237714708,16.364298280794173,15.802217619027942,10.724732661154121,11.746476093772799,12.341376230120659,9.457068719901145,11.420791691169143,15.768521799705923,9.614271901082247,15.873308895621449,10.969547051936388,11.23028241796419,11.410792698152363,7.535048229619861,9.856626149266958,11.0713562797755,17.43786337506026,9.744874489028007,9.39057113789022,9.65446390165016,9.179497498087585,13.903208029922098,10.120659395121038,16.66009080922231,10.262334261089563,15.70148210413754,7.813563641626388,9.092472961638123,12.914517239201814,8.044875591993332,7.288014011923224,7.837682469282299,5.2824414717033505,7.018930900841951,7.905008391942829,13.133992491755635,6.830373273231089,4.180892049334943,6.0201177299022675,7.304969733115286,7.5709762359037995,14.569983038119972,20.759869176894426,9.411902621854097,12.008275939151645,8.03348330873996,7.808473915793002,7.924410687759519,8.175638245884329,8.50772067066282,10.137092072051018,13.466579421889037,8.680980698671192,7.957145071122795,7.520828953944147,9.745137325953692,7.851383097004145,11.609226792585105,8.572395286988467,11.060992897022516,11.526401442009956,9.653146893251687,9.081859922036529,13.184517653193325,12.489972208160907,10.130499524995685,4.915995749179274,14.487392596900463,6.469644658267498,11.439298923127353,8.307007169350982,10.419208376202732,17.872311930172145,10.042742788791656,12.610274048056453,11.6230268352665,6.3734026360325515,16.876143054571003,12.769623798783869,13.882560079917312,12.62515346892178,12.920633271336555,14.033251253888011,9.735086227301508,8.161929113324732,11.414276916068047,9.736703030299395,7.892330525908619,10.243059577886015,5.653671499807388,6.820861539803445,9.667862139176577,9.76611023908481,17.16305944789201,9.823645120952278,8.9627006938681,16.289377326145768,11.0797438621521,4.315679335966706,12.76797302486375,12.453949589282274,11.088027044199407,13.829531277995557,9.453251201659441,8.048371597193182,17.170921604149044,26.837294010911137,12.935001066885889,10.556918465066701,10.235710171982646,12.244596241042018,8.175695337355137,11.115782046224922,6.215794051997364,6.7146709631197155,18.591680804733187,8.55149410571903,4.263518463820219,6.419749061111361,9.688754866831005,8.437235700897872,4.294901630841196,5.975674907211214,7.215234463103116,9.128599836025387,7.206015525851399,9.927847122773528,7.89042823202908,17.189737791195512,5.259902615100145,11.950141679961234,22.95089473668486,9.699614911340177,7.495514342095703,9.621301800943911,13.774974990170449,17.49832647992298,8.073508247733116,7.23138148104772,3.7683641337789595,6.49360866099596,13.635976916179061,13.32266560709104,7.267350034788251,10.613048213068396,10.374123967718333,7.948484119027853,7.19720521569252,6.516517820768058,10.084266994148493,7.805211500264704,9.828835664782673,12.297733650077134,13.274306465871632,13.356615721713752,6.86175201786682,22.883120444137603,20.04890037421137,12.752423363737762,11.649793078191578,16.5018645580858,11.29973822971806,11.739047021139413,18.184170947875828,10.505532965995371,9.257384973112494,9.528715062886477,29.447475742083043,12.388217265717685,12.35941660311073,14.381081487983465,16.172844937071204,12.73690518271178,16.547336644027382,19.170138814952224,19.3741386346519,6.7465776996687055,14.769019627943635,15.060833558440208,13.286783332936466,10.43453693203628,2.8718459978699684,1.327882835175842,10.568047760985792,8.303394632413983,9.248037687968463,12.30536951776594,7.137708950787783,14.083526536822319,12.136796989943832,11.129015563987195,16.654731069225818,8.102231338154525,4.980726861860603,7.030899148900062,15.34326145099476,17.970188823062927,13.0180992372334,10.438904042821378,9.350240189116448,8.28635398298502,12.059932074975222,11.315164445899427,10.905508751049638,8.958108617924154,12.913202093914151,13.75855379877612,4.397406147327274,9.440093931742013,12.45358585100621,13.62589103076607,17.091172731947154,14.197756211739033,1.0791191076859832,13.571322196163237,28.889760714955628,15.391878322232515,10.439954088069499,7.830745266750455,8.348533395677805,7.968202198855579,11.056826659943908,9.96803266601637,9.21229658415541,8.934346989262849,8.518642790615559,16.777278244961053,15.378505817148834,7.905051469337195,12.658236932940781,9.873912205919623,8.615877859760076,18.368682282976806,15.281227136962116,7.954522940795869,7.243029365781695,6.793975914828479,8.399687035009265,10.691085022874177,7.4863361129537225,10.835043211933225,19.800212748814374,10.486515229102224,10.177842247765511,11.012085861992091,6.062691404949874,12.415694535244256,13.049560437910259,12.764410021249205,12.396682681050152,6.423014942090958,10.859787767287344,20.36575874593109,10.506830170750618,9.27766795316711,7.464915062766522,11.64706616383046,8.098820617888123,10.640658514108509,9.926820092834532,8.88943292805925,6.791769748087972,7.886698215734214,9.188059787265956,7.869141249917448,8.312660065013915,7.052889506332576,7.191360160242766,10.832995160017163,9.281373055186123,7.087155434768647,9.96109694801271,9.865663454402238,8.249423237983137,7.333044582977891,5.814666484948248,6.907013998832554,7.608498810790479,7.447950537782162,8.211910447105765,11.535081604029983,7.549619528930634,6.99922707490623,12.428355372976512,8.199769242201,8.204780858941376,7.779791940934956,10.939191120211035,11.48862273991108,9.999355145264417,7.247928568627685,10.081252760719508,12.659420758951455,12.532129317056388,13.180934520903975,10.317710411734879,12.760545108933002,10.362178694922477,7.03235668875277,9.365646630059928,5.293414369225502,5.485351023729891,8.743764897808433,17.044658647850156,10.483177597168833,7.25413729576394,14.84973931312561,22.995260204654187,36.07204366475344,10.250347510911524,6.971523992251605,10.737526055891067,9.379826894961298,10.865935833193362,3.776894269976765,8.143404648639262,7.434604305308312,10.025034788064659,9.904058217070997,10.484169540926814,12.876600852701813,10.506946140900254,9.947497161105275,8.820701983291656,8.431395113933831,11.061569178011268,8.082659101113677,6.971909522078931,8.595825516618788,10.1718768668361,10.527067301794887,8.25632305489853,6.316329405177385,12.79139096988365,7.418492667842656,7.550845741759986,8.099786350037903,6.747819714713842,9.239622813649476,9.042570841964334,5.053864016197622,7.746109849307686,5.584443881176412,8.758647308684886,7.173766851890832,8.849642067216337,8.866368107963353,1.967331605963409,7.608331760857254,9.19390081288293,10.861670518759638,9.424721886403859,8.908105544745922,10.436495447065681,10.178156352136284,8.368563977070153,16.08400920080021,5.128122050315142,8.875210809987038,26.262231807690114,18.991240022704005,9.644057810306549,6.922863929066807,10.06668082298711,6.617453040089458,7.687178615946323,6.631677620112896,7.705851665232331,6.360388027038425,7.6173018999397755,6.245797940995544,7.182241395115852,10.59928731014952,9.599076487123966,11.722206328995526,6.214447288773954,7.5395814729854465,9.038675606716424,11.542638062033802,8.956766292918473,8.859825530089438,6.892016065772623,6.4127136929892,11.170441538095474,10.649252810981125,10.529459529556334,14.774888933170587,6.339378469157964,6.888024888932705,6.536009284667671,11.376283545978367,8.164093349594623,4.742245381232351,8.993872761260718,9.06407523760572,8.822107640095055,7.65558384405449,8.19666442880407,8.054470594972372,6.138771096710116,7.155803581699729,7.984773486852646,6.280104350298643,4.682812090963125,6.129960088059306,6.6501845507882535,7.219142806250602,5.873549776151776,7.92198079964146,4.901197480969131,5.006173933856189,8.421842155978084,10.038806661963463,14.037675525061786,6.807700291275978,9.214611411094666,4.9032098557800055,8.081018844153732,6.098757768049836,8.058118941262364,5.271479449234903,4.96559764072299,9.108688642736524,10.152662739157677,5.348360836040229,4.6677032969892025,9.61368307704106,8.60227412218228,11.490655346307904,14.299454567953944,9.282596257980913,12.851675536017865,10.611324765719473,6.866124177817255,14.945904292166233,10.061498543713242,12.81088634999469,10.06065980810672,13.717785037122667,10.222691653762013,10.677566340658814,10.767804843839258,8.896588005125523,5.66286306316033,8.616303030401468,7.410653977189213,10.473839445970953,10.940955174155533,10.255797416903079,9.169005365110934,11.145070082042366,14.49428579211235,11.520953163970262,11.92829434061423,10.94030416989699,16.75354738626629,10.263998912181705,10.298893420957029,10.89235709188506,2.8100333590991795,9.668102130759507,10.501228785142303,12.845745690632612,5.825712028890848,8.397231746930629,10.673471071757376,25.08936446486041,12.45008951285854,5.888228722847998,6.287128125783056,13.004667694680393,10.021757096983492,9.591201454866678,6.826593432109803,14.135795268695801,8.787959760054946,8.099891297053546,18.275352584198117,20.493435668759048,12.430870274081826,9.342598643153906,12.34453962603584,10.759087034966797,11.370984724722803,4.133401983883232,8.64871351281181,6.224160073790699,7.84626398421824,16.784758009947836,11.472422487102449,8.036911545321345,10.290890683885664,7.040277098305523,9.890713102184236,7.733926794026047,9.711301689967513,7.488365458790213,7.683423029258847,16.278009850997478,9.97315536532551,8.342625171877444,9.667400272097439,27.528192122932523,8.715445595327765,8.830570803023875,11.375816205050796,9.886514933779836,12.318082009907812,8.713786869775504,11.641321406699717,10.359299811068922,15.271754811052233,3.3714246740564704,5.466009462252259,6.918550692964345,7.429991846438497,12.898104322142899,7.267524930182844,6.073675177060068,10.855150246992707,14.033595263957977,41.3013318083249,20.08939932892099,14.039390271063894,8.677336852066219,12.929841861128807,13.712766361888498,5.452054877299815,8.388467543758452,17.188335463404655,13.17726167384535,9.402634058147669,20.098204474896193,8.073858601041138,8.658433922100812,18.957493882160634,18.736318295355886,26.317945948801935,10.66433088388294,10.707380146253854,13.773874865844846,6.701135792769492,7.699562815949321,11.556635468732566,10.683418724220246,12.507522579282522,11.264951324090362,9.086868579033762,15.59697289019823,9.266321070957929,9.690846044104546,12.728918442036957,11.48486891714856,6.4569169180467725,9.131566546857357,9.201192231848836,8.298832306172699,11.328018391039222,11.689244857989252,17.97014803485945,24.616827725898474,8.215955417603254,6.759630298707634,10.308341789059341,7.782692437060177,29.261461943853647,13.24729143222794,11.846201343927532,9.272552590817213,9.343266854993999,9.66730474261567,10.102125342935324,9.907000603154302,9.315328052733094,10.465043385047466,10.253155655227602,7.434178091119975,9.752614269964397,10.550744689069688,25.40610091201961,10.994932004250586,11.61177542526275,14.230744504835457,12.84368521394208,7.224991017021239,10.62555606616661,20.676316959317774,14.896257041953504,14.4981773016043,13.570163529831916,9.20458901906386,11.200462098233402,10.651780765969306,18.04625756200403,8.678539800923318,9.739657271653414,14.155836659949273,17.384253746829927,10.431680785026401,13.792141951154917,8.111803625710309,15.229717573150992,5.895222433842719,7.3629165748134255,6.304811412002891,7.600445956923068,16.557406016159803,11.480459499172866,8.662238110788167,5.349280255846679,8.827604366000742,11.179297965019941,7.666710884775966,6.792225459590554,12.261013134848326,6.592961406800896,6.888001665007323,7.22396922390908,8.523232336621732,7.3577107158489525,6.957032164093107,6.780217074323446,6.118201440665871,7.752712934277952,6.945365779101849,8.3166334759444,10.332599822897464,7.932508183177561,13.560465333983302,7.451364456210285,6.4358619609847665,4.393000668846071,9.31091215601191,9.282992516178638,8.180530324112624,5.622042098082602,11.03472399059683,8.314826105255634,16.196776463184506,12.231062658596784,8.897141490131617,10.867797364946455,5.031829965300858,10.616616176906973,17.398918775841594,10.699419812764972,11.895098144188523,11.726851657032967,10.849709160625935,13.363088892307132,9.534458262845874,8.842737297993153,10.432776757981628,27.803020028863102,14.849676169920713,6.964912686962634,11.420486036222428,11.524394849780947,7.589394649956375,13.606133567169309,10.348230465780944,7.877895942889154,5.335318922065198,4.54219176992774,6.769561504013836,6.9393957760185,5.028334648814052,6.0521591692231596,7.847142395563424,5.791625765152276,5.842108695302159,22.374988100957125,6.276593136135489,6.348337405826896,11.568438304122537,7.702570348978043,6.8064919537864625,7.669951059855521,5.37352958926931,6.245147266890854,5.622482793871313,11.431223437190056,8.240401365794241,19.315584836993366,7.582140085287392,8.944335899315774,7.6966301067732275,6.732093753758818,6.3855361538007855,8.097018062137067,6.475915213115513,5.2620760477148,5.670997519046068,6.007749411743134,9.671982124913484,8.553514345083386,8.884479434229434,15.58763409871608,7.089098487049341,16.44910496287048,14.61324380012229,13.208440835122019,11.16474074497819,6.392431837972254,9.987332290038466,13.005764216184616,9.579591184854507,5.188627952244133,5.543429228942841,13.373809549026191,4.282166144810617,8.518752089701593,10.061002880800515,20.340028231032193,10.408635011408478,5.315092496108264,8.255568181630224,21.984544014092535,8.27311143418774,6.917905889917165,6.803120299708098,17.075140099041164,9.968524250667542,12.020592860877514,12.676701232790947,16.48404421331361,31.24454284226522

@@ -123,9 +123,9 @@ def visualize_chunk_size_experiment_stats(fname, model_name):
     plt.show()
 
 
-def visualize_rag_pipeline_tokens():
-    fname = 'llamaIndex_experiments/llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv'
-    df = pd.read_csv(fname, index_col=0)
+def visualize_rag_pipeline_tokens_and_timings(input_fname, output_time_fname, output_token_fname):
+    # fname = 'llamaIndex_experiments/llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv'
+    df = pd.read_csv(input_fname, index_col=0)
     # print(df)
     df = df.transpose()
     # df = df.drop('Answer', axis=1)
@@ -134,13 +134,14 @@ def visualize_rag_pipeline_tokens():
     # print(time_df)
     time_df.plot(title="Wiki RAG Pipeline times", xlabel='Questions', ylabel='Time (s)')
     plt.tight_layout()
-    plt.savefig("wiki_rag_times.png")
+    plt.savefig(f"{output_time_fname}.png", dpi=300)
     # plt.show()
     token_df = df[['embedding_tokens', 'llm_prompt_tokens', 'llm_completion_tokens', 'total_llm_token_count']]
     token_df = token_df.astype(float)
+    # print(token_df)
     token_df.plot(title="Wiki RAG Pipeline tokens", xlabel='Questions', ylabel='# of tokens')
     plt.tight_layout()
-    plt.savefig("wiki_rag_tokens.png")
+    plt.savefig(f"{output_token_fname}.png", dpi=300)
 
 
 if __name__ == '__main__':
@@ -172,20 +173,9 @@ if __name__ == '__main__':
     # plt.ylabel("Avg %")
     # plt.savefig("gemma_avg_util_rate.png")
     # plt.show()
-    # visualize_rag_pipeline_tokens()
-    # plt.show()
-
-    fname = 'gemma_wiki_chunking_accuracy_stats.csv'
-    df = pd.read_csv(fname, index_col=0)
-    # print(df)
-    df = df.transpose()
-    # df = df.drop('Answer', axis=1)
-    time_df = df[['retrieval_time', 'llm_response_time']]
-    time_df = time_df.astype(float)
-    # print(time_df)
-    time_df.plot(title="Wiki RAG Pipeline times", xlabel='Questions', ylabel='Time (s)')
-    plt.tight_layout()
-    plt.savefig("wiki_rag_times.png")
-    # plt.show()
-
-
+    # visualize_rag_pipeline_tokens_and_timings("llamaIndex_experiments/llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv",
+    #                               "data/dataset/rag_wikipedia/results/full_wiki/gemma2-2b-it-Q5_K_M_wiki_time",
+    #                               "data/dataset/rag_wikipedia/results/full_wiki/gemma2-2b-it-Q5_K_M_wiki_tokens")
+    visualize_rag_pipeline_tokens_and_timings("llamaIndex_experiments/llama_index_wiki_gpt-4o.csv",
+                                              "data/dataset/rag_wikipedia/results/full_wiki/gpt4o_wiki_time",
+                                              "data/dataset/rag_wikipedia/results/full_wiki/gpt4o_wiki_tokens")

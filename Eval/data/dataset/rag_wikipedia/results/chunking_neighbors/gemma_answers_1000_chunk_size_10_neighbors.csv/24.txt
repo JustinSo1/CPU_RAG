@@ -1,5 +1,0 @@
-[PROMPT]: How long was Lincoln's legal Career?
-[USER_ANSWER]: The context provides that Abraham Lincoln appeared before the Illinois State Supreme Court more than 400 times and was involved in more than 5,100 cases during his 23-year legal career.
-[CORRECT_ANSWER]: 23 years
-[FEEDBACK]: The response provides additional context about Lincoln's legal career, mentioning his appearances before the Illinois State Supreme Court and the number of cases he was involved in. However, it does not directly answer the question of how long his legal career was. The reference answer clearly states "23 years," which is the specific information requested. While the response includes the correct duration within the additional context, it is not as direct and concise as the reference answer. Therefore, it is mostly correct, accurate, and factual but not completely aligned with the reference answer's directness.
-[RESULT]: 4

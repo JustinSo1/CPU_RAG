@@ -1,7 +1,0 @@
-[PROMPT]: What did The Legal Tender Act of 1862 establish?
-[USER_ANSWER]: Sure, here's the answer to your question:
-
-The Legal Tender Act of 1862 established a federal agency called the United States Customs Service, which was tasked with enforcing customs laws and tariffs on imported goods.
-[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
-[FEEDBACK]: The response is completely incorrect and inaccurate. The Legal Tender Act of 1862 did not establish the United States Customs Service. Instead, it established the United States Note, the first paper currency in United States history. The response does not align with the reference answer and provides incorrect information about the act.
-[RESULT]: 1

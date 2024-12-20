@@ -1,5 +1,0 @@
-[PROMPT]: The Celsius crater on the Moon is what?
-[USER_ANSWER]: The context does not provide any information about the Celsius crater on the Moon, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: named after him
-[FEEDBACK]: The response does not provide any factual information about the Celsius crater on the Moon. Instead, it states that the context does not provide information, which is not relevant to the instruction. The reference answer indicates that the crater is named after Celsius, which the response fails to mention. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1

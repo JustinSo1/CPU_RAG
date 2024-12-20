@@ -1,5 +1,0 @@
-[PROMPT]: Is it true that he became a professor in 1820?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not provide a clear answer to the question. Instead, it states that the knowledge base does not have the information and relies on the responder's own knowledge without confirming or denying the statement. This makes the response not factual or accurate based on the reference answer, which is a clear "yes."
-[RESULT]: 1

@@ -1,5 +1,0 @@
-[PROMPT]: How old was Lincoln in 1816?
-[USER_ANSWER]: The context does not provide any information about Lincoln's age in 1816, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: seven
-[FEEDBACK]: The response does not provide the correct, accurate, and factual information regarding Lincoln's age in 1816. The reference answer clearly states that Lincoln was seven years old in 1816, but the response fails to address this and instead mentions the lack of context, which is not relevant to the question. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1

@@ -1,5 +1,0 @@
-[PROMPT]: When did he become a professor?
-[USER_ANSWER]: The context does not provide any information about when John H. Wilson became a professor, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 1820
-[FEEDBACK]: The response does not provide the correct, accurate, and factual information based on the reference answer. The reference answer states that John H. Wilson became a professor in 1820, but the response indicates that the context does not provide this information. Therefore, the response is completely incorrect and inaccurate.
-[RESULT]: 1

@@ -1,5 +1,0 @@
-[PROMPT]: Was Celsius born in Uppsala in Sweden?
-[USER_ANSWER]: Sure, Celsius was born in Uppsala, Sweden. The context explicitly states that he was a professor of astronomy at Uppsala University from 1730 to 1744.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Celsius was born in Uppsala, Sweden, which aligns with the reference answer. However, the additional information about Celsius being a professor of astronomy at Uppsala University from 1730 to 1744, while accurate, is not necessary to answer the question directly. This extra detail does not detract from the correctness of the response but makes it more verbose than required.
-[RESULT]: 4

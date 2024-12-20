@@ -1,5 +1,0 @@
-[PROMPT]: What is named after him?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: The Celsius crater on the Moon
-[FEEDBACK]: The response does not provide any factual information related to the question "What is named after him?" and does not mention the Celsius crater on the Moon. It is completely incorrect and does not address the question accurately or factually.
-[RESULT]: 1

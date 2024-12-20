@@ -1,5 +1,0 @@
-[PROMPT]: When did he become a professor?
-[USER_ANSWER]: Wilson became a professor in 1890 when he joined the Princeton faculty as professor of jurisprudence and political economy.
-[CORRECT_ANSWER]: 1820
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that he became a professor in 1820, while the response incorrectly states 1890. Additionally, the response includes extra information about joining the Princeton faculty, which is not relevant to the specific question asked.
-[RESULT]: 1
