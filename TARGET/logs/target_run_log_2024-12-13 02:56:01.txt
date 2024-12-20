@@ -1,0 +1,31 @@
+2024-12-13 02:56:01,896 - target_benchmark.evaluators.TARGET - INFO - Logger for TARGET is set up!
+2024-12-13 02:56:01,896 - target_benchmark.evaluators.TARGET - INFO - Starting to load the specified tasks...
+2024-12-13 02:56:01,897 - target_benchmark.evaluators.TARGET - INFO - Finished loading tasks! Tasks loaded: ['Table Question Answering Task']
+2024-12-13 02:56:01,897 - target_benchmark.evaluators.TARGET - INFO - Started creating dataset information...
+2024-12-13 02:56:01,897 - target_benchmark.evaluators.TARGET - INFO - Finished creating dataset config information. Finished setting up.
+2024-12-13 02:56:01,897 - target_benchmark.evaluators.TARGET - INFO - Started creating data loader objects...
+2024-12-13 02:56:01,898 - target_benchmark.evaluators.TARGET - INFO - Start running Table Question Answering Task...
+2024-12-13 02:56:01,898 - target_benchmark.evaluators.TARGET - INFO - Start checking for new corpus to embed...
+2024-12-13 03:03:46,112 - target_benchmark.evaluators.TARGET - INFO - Finished embedding all new corpus!
+2024-12-13 03:03:46,112 - target_benchmark.evaluators.TARGET - INFO - start task Table Question Answering Task
+2024-12-13 03:03:46,113 - target_benchmark.evaluators.TARGET - INFO - running task on dataset fetaqa
+2024-12-13 03:09:32,689 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 200
+2024-12-13 03:15:50,455 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 400
+2024-12-13 03:21:57,876 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 600
+2024-12-13 03:28:48,514 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 800
+2024-12-13 03:34:55,433 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1000
+2024-12-13 03:34:58,215 - target_benchmark.evaluators.TARGET - INFO - finished running task Table Question Answering Task
+2024-12-13 03:34:58,215 - target_benchmark.evaluators.TARGET - INFO - running task on dataset ottqa
+2024-12-13 03:40:59,986 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 200
+2024-12-13 03:46:59,360 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 400
+2024-12-13 03:53:04,850 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 600
+2024-12-13 03:59:07,559 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 800
+2024-12-13 04:05:11,945 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1000
+2024-12-13 04:11:15,398 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1200
+2024-12-13 04:17:09,518 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1400
+2024-12-13 04:23:15,772 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1600
+2024-12-13 04:29:23,736 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 1800
+2024-12-13 04:35:29,496 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 2000
+2024-12-13 04:41:29,826 - target_benchmark.evaluators.TARGET - INFO - number of queries processed: 2200
+2024-12-13 04:41:51,417 - target_benchmark.evaluators.TARGET - INFO - finished running task Table Question Answering Task
+2024-12-13 04:41:51,419 - target_benchmark.evaluators.TARGET - INFO - Finished running all tasks!
