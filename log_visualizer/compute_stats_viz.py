@@ -143,7 +143,6 @@ def visualize_rag_pipeline_tokens_and_timings(input_fname, output_time_fname, ou
     plt.tight_layout()
     plt.savefig(f"{output_token_fname}.png", dpi=300)
 
-
 def visualize_rag_pipeline_timings(input_fname, output_time_fname):
     df = pd.read_csv(input_fname, index_col=0)
     # print(df)
@@ -196,3 +195,6 @@ if __name__ == '__main__':
     #                                "data/dataset/rag_wikipedia/results/full_wiki/gemma-2-2b-it_wiki_llm_only_time")
     # visualize_rag_pipeline_timings("llamaIndex_experiments/llama_index_wiki_no_rag_gpt-4o.csv",
     #                                "data/dataset/rag_wikipedia/results/full_wiki/gemma-2-2b-it_wiki_llm_only_time")
+    visualize_rag_pipeline_tokens_and_timings("llamaIndex_experiments/llama_index_wiki_gpt-4o.csv",
+                                              "data/dataset/rag_wikipedia/results/full_wiki/gpt4o_wiki_time",
+                                              "data/dataset/rag_wikipedia/results/full_wiki/gpt4o_wiki_tokens")
