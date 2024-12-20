@@ -1,0 +1,25 @@
+[PROMPT]: Does Uruguay recognize same-sex civil unions?
+[USER_ANSWER]: 
+
+Uruguay is a progressive country and has a strong history of LGBTQ+ rights. 
+
+**Yes, Uruguay recognizes same-sex civil unions.**
+
+**Here's what you need to know:**
+
+* **Civil Unions:** Uruguay allows same-sex couples to enter into civil unions, which provide legal recognition and benefits similar to marriage.
+* **Legal Recognition:** These unions are legally recognized and offer the same rights and responsibilities as heterosexual couples.
+* **Benefits:** Civil unions provide access to benefits such as inheritance rights, tax benefits, and healthcare coverage.
+* **Recognition:** These unions are recognized by the Uruguayan government and are considered legally binding.
+
+**For more information:**
+
+* **Uruguay's Ministry of Justice:** https://www.justicia.gub.uy/
+* **LGBTQ+ Uruguay:** https://lgbtq.org.uy/
+
+
+Let me know if you have any other questions. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Uruguay recognizes same-sex civil unions and provides additional relevant details about the legal recognition, benefits, and rights associated with these unions. The response also includes useful resources for further information. This aligns well with the reference answer and meets the criteria for a score of 5.
+[RESULT]: 5

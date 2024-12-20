@@ -1,0 +1,8 @@
+[PROMPT]: Who won the 1903 Nobel Prize in Physics for discovering radioactivity ?
+[USER_ANSWER]: 
+
+**Answer:** Henri Becquerel 
+
+[CORRECT_ANSWER]: Henri Becquerel
+[FEEDBACK]: The response "Henri Becquerel" is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

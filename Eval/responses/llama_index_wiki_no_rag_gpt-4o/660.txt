@@ -1,0 +1,5 @@
+[PROMPT]: Does a polar bear live in the Arctic?
+[USER_ANSWER]: Yes, polar bears live in the Arctic. They are primarily found in the circumpolar Arctic regions, which include areas around the North Pole. This habitat provides them with the cold environment and access to sea ice, which they rely on for hunting their primary prey, seals.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information about the habitat and behavior of polar bears, which is accurate and relevant to the question. However, the reference answer is very brief, and the rubric emphasizes correctness and factual accuracy, which the response meets fully.
+[RESULT]: 5

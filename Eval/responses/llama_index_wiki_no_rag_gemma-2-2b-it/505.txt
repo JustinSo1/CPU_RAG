@@ -1,0 +1,22 @@
+[PROMPT]: Is the leopard solitary?
+[USER_ANSWER]: 
+
+The leopard is a **solitary** animal, meaning it prefers to live alone. 
+
+Here's why:
+
+* **Territorial:** Leopards are territorial and will defend their space fiercely. 
+* **Hunting:** They are solitary hunters, meaning they prefer to hunt alone.
+* **Socialization:** While they may interact with other leopards, they are not social animals in the same way as, for example, primates.
+
+However, there are exceptions to this rule:
+
+* **Breeding:** Leopards may form temporary social groups during mating season.
+* **Food Scarcity:** In times of food scarcity, leopards may temporarily form coalitions to hunt larger prey.
+
+
+Overall, while leopards are generally solitary animals, they can exhibit some social behavior under specific circumstances. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately states that leopards are solitary animals and provides additional context about their behavior, such as their territorial nature and solitary hunting habits. However, the reference answer is a simple "Yes," which implies a straightforward confirmation without additional details. The response adds extra information that, while accurate, goes beyond the simplicity of the reference answer. This additional information does not detract from the correctness but does make the response more complex than necessary.
+[RESULT]: 4

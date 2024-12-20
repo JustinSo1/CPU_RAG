@@ -1,0 +1,13 @@
+[PROMPT]: What may a leopard be mistaken for?
+[USER_ANSWER]: A leopard can be mistaken for several other big cats due to its spotted coat and general appearance. Common animals that are often confused with leopards include:
+
+1. **Cheetahs**: Though cheetahs have a more slender build and distinctive black "tear marks" running from the inner corners of their eyes down to the sides of their mouths.
+2. **Jaguars**: Jaguars have a more robust build and their spots are larger and often have a central dot, forming rosette patterns.
+3. **Clouded Leopards**: These are smaller and have larger, cloud-like blotches on their bodies instead of small spots.
+4. **Leopard Cats**: These are much smaller and have a more domestic cat-like appearance.
+5. **Servals**: These are also smaller and have longer legs and larger ears in proportion to their bodies.
+
+In some cases, leopards can also be mistaken for young lions or tigers, especially if seen from a distance or in poor lighting. The key distinguishing feature of a leopard is its unique rosette-shaped spots and its generally more agile and stealthy build compared to other big cats.
+[CORRECT_ANSWER]: A cheetah or a jaguar
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed list of animals that a leopard can be mistaken for, including cheetahs, jaguars, clouded leopards, leopard cats, and servals. The additional information about young lions or tigers is also relevant. However, the reference answer is much simpler and only mentions cheetahs and jaguars. While the response goes beyond the reference answer, it remains accurate and factual.
+[RESULT]: 4

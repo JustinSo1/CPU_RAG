@@ -1,0 +1,8 @@
+[PROMPT]: Where is Finland located?
+[USER_ANSWER]: 
+
+Finland is located in **Northern Europe**, bordering the **Baltic Sea** to the east, **Norway** to the west, and **Sweden** to the south. 
+
+[CORRECT_ANSWER]: Northern Europe
+[FEEDBACK]: The response correctly identifies Finland as being located in Northern Europe, which aligns with the reference answer. However, the additional details provided about Finland bordering the Baltic Sea to the east, Norway to the west, and Sweden to the south are inaccurate. Finland actually borders the Baltic Sea to the south, Norway to the north, and Sweden to the west. These inaccuracies affect the overall correctness and factual accuracy of the response.
+[RESULT]: 3

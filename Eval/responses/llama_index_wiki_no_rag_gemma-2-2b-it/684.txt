@@ -1,0 +1,16 @@
+[PROMPT]: Can women legally drive in Qatar?
+[USER_ANSWER]: 
+
+Yes, women are legally allowed to drive in Qatar. 
+
+Here's some additional information:
+
+* **Driving licenses:** Women can obtain a driving license in Qatar, just like men.
+* **Restrictions:** While women can drive, there are some restrictions in place, such as the requirement to have a male guardian present for certain types of driving.
+* **Social attitudes:** Despite legal rights, women in Qatar still face social and cultural barriers to driving freely. 
+
+It's important to note that driving laws and social norms can vary significantly across different countries. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly correct and accurate in stating that women are legally allowed to drive in Qatar. However, the additional information provided contains inaccuracies. Specifically, the claim that women need a male guardian present for certain types of driving is not accurate. There are no such legal restrictions in Qatar. The mention of social and cultural barriers is more subjective and not directly related to the legal aspect of the question. Therefore, while the main point is correct, the additional details reduce the overall accuracy of the response.
+[RESULT]: 4

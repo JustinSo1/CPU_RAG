@@ -1,0 +1,5 @@
+[PROMPT]: Where was Grover Cleveland married?
+[USER_ANSWER]: Grover Cleveland was married in the Blue Room of the White House in Washington, D.C. He married Frances Folsom on June 2, 1886, during his first term as President of the United States. This was the first and only wedding of a sitting president to take place in the White House.
+[CORRECT_ANSWER]: In the White House
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional details about the wedding, such as the specific location within the White House (the Blue Room), the date of the wedding, and the name of the bride. However, the instruction only asked for the location of the marriage, and the reference answer is simply "In the White House." The additional details, while accurate, are not necessary to answer the question directly. Therefore, the response is mostly correct but includes more information than required.
+[RESULT]: 4

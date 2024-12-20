@@ -1,0 +1,17 @@
+[PROMPT]: What method of locomotion do Kangaroos Use?
+[USER_ANSWER]: 
+
+Kangaroos use a method of locomotion called **hopping**. 
+
+Here's how it works:
+
+* **Powerful hind legs:** Kangaroos have incredibly strong hind legs, which they use to propel themselves forward.
+* **Large feet:** Their large feet act as springs, storing energy and allowing them to launch into the air.
+* **Flexible ankles:** Their ankles are highly flexible, allowing them to rotate and adjust their body position during the hop.
+* **Efficient movement:** This combination of features allows kangaroos to cover long distances quickly and efficiently.
+
+They can hop up to 40 miles per hour! 
+
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "hopping" as the method of locomotion used by kangaroos, which aligns with the reference answer. Additionally, the response provides detailed and accurate information about the mechanics of kangaroo hopping, including the role of their powerful hind legs, large feet, flexible ankles, and the efficiency of their movement. However, the extra details, while informative, are not necessary to meet the criteria of the reference answer, which is simply "hopping." Therefore, the response goes beyond what is required but remains accurate and factual.
+[RESULT]: 4

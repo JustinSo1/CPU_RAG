@@ -1,0 +1,16 @@
+[PROMPT]: Is a polar bear white in color?
+[USER_ANSWER]: 
+
+Polar bears are white in color. This is due to a pigment called **melanin**, which is absent in their fur. 
+
+Here's why:
+
+* **Blending in:** Their white fur helps them camouflage in the snowy Arctic environment, making it easier to hunt seals.
+* **Sunlight reflection:** The white fur reflects sunlight, keeping them cool in the cold.
+* **Natural adaptation:** This adaptation is a result of natural selection, as polar bears with white fur were more likely to survive and reproduce in the Arctic.
+
+So, yes, polar bears are indeed white! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response correctly states that polar bears are white in color, which aligns with the reference answer. However, the explanation provided contains an inaccuracy. The response mentions that the absence of melanin in their fur is the reason for their white color, which is not entirely accurate. Polar bear fur is actually transparent and appears white due to the reflection and scattering of light. Despite this, the response is mostly correct and factual in its main assertion that polar bears are white.
+[RESULT]: 4

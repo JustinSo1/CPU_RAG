@@ -1,0 +1,18 @@
+[PROMPT]: What is a roo?
+[USER_ANSWER]: 
+
+A roo is a slang term for a **kangaroo**. 
+
+Here's some additional information:
+
+* **Kangaroos** are marsupials native to Australia and Papua New Guinea.
+* They are known for their powerful legs, large feet, and pouch where they carry their young.
+* They are herbivores, meaning they eat plants.
+* They are often seen hopping around in the Australian outback. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: a kangaroo
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "roo" as a slang term for "kangaroo" and provides additional accurate information about kangaroos. However, the additional information, while accurate, is not necessary for the instruction, which simply asked for the definition of "roo." The reference answer is more concise and directly to the point.
+[RESULT]: 4

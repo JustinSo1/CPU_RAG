@@ -1,0 +1,8 @@
+[PROMPT]: How old was Lincoln in 1816?
+[USER_ANSWER]: 
+
+Abraham Lincoln was born in 1809.  So in 1816 he was **17 years old**. 
+
+[CORRECT_ANSWER]: seven
+[FEEDBACK]: The response is mostly incorrect and inaccurate. Abraham Lincoln was born in 1809, so in 1816 he would have been 7 years old, not 17. The response contains a significant error in the calculation of Lincoln's age.
+[RESULT]: 2

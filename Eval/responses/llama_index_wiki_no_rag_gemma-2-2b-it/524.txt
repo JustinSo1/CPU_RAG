@@ -1,0 +1,8 @@
+[PROMPT]: Is there an airport in Liechtenstein?
+[USER_ANSWER]: 
+
+Liechtenstein has no airport of its own. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Liechtenstein does not have an airport of its own, which aligns with the reference answer. However, the response is slightly more detailed than the reference answer, which simply states "No." While the additional detail does not make the response incorrect, it does deviate from the simplicity of the reference answer.
+[RESULT]: 4

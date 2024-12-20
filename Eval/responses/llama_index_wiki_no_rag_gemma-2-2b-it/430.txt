@@ -1,0 +1,9 @@
+[PROMPT]: With what party did Adams run for presidency?
+[USER_ANSWER]: 
+
+Answer: 
+**Federalist Party** 
+
+[CORRECT_ANSWER]: The Federalist Party
+[FEEDBACK]: The response "Federalist Party" is completely correct, accurate, and factual based on the reference answer "The Federalist Party." The slight difference in wording does not affect the accuracy or correctness of the response.
+[RESULT]: 5

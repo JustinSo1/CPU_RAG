@@ -1,0 +1,5 @@
+[PROMPT]: The collective noun romp is sometimes used for a group of what?
+[USER_ANSWER]: The collective noun "romp" is sometimes used for a group of otters.
+[CORRECT_ANSWER]: Otters
+[FEEDBACK]: The response "The collective noun 'romp' is sometimes used for a group of otters." is completely correct, accurate, and factual based on the reference answer "Otters." The response provides the correct collective noun usage and matches the reference answer in content.
+[RESULT]: 5

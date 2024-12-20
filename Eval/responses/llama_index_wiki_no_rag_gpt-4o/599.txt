@@ -1,0 +1,9 @@
+[PROMPT]: Are otters totem animals?
+[USER_ANSWER]: Yes, otters can be considered totem animals in various cultures and spiritual belief systems. Totem animals, or spirit animals, are believed to be guides, symbols, or protectors that embody certain qualities or characteristics one can draw inspiration from. 
+
+In many Native American traditions, the otter is seen as a symbol of playfulness, curiosity, and creativity. The otter's behavior in the wild—playful, social, and adept at navigating both water and land—can represent a balance between work and play, adaptability, and a strong sense of community. As a totem animal, the otter may encourage individuals to embrace joy, be resourceful, and maintain strong social connections. 
+
+Different cultures may attribute various meanings to the otter as a totem animal, but generally, it is associated with positive traits and qualities that one can aspire to or find guidance from.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation about otters being considered totem animals in various cultures and spiritual belief systems, which aligns with the reference answer. However, the reference answer is very brief and simply states "Yes," while the response goes into much more detail. This additional information is accurate and relevant, but it goes beyond the simplicity of the reference answer. Therefore, while the response is informative and correct, it is not completely aligned with the brevity of the reference answer.
+[RESULT]: 4

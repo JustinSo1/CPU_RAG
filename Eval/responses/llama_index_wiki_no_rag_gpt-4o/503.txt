@@ -1,0 +1,14 @@
+[PROMPT]: What sort of cats are solitary?
+[USER_ANSWER]: Most domestic cats (Felis catus) are generally solitary hunters, though they can be social animals when it comes to their interactions with humans and other cats, especially if they are raised in a social environment from a young age. However, in the wild, several types of wild cats tend to be quite solitary. These include:
+
+1. **Leopards**: Leopards are known for their solitary nature, typically only coming together for mating or when a mother is raising her cubs.
+2. **Snow leopards**: These elusive cats are also solitary, living in the vast mountain ranges of Central and South Asia.
+3. **Tigers**: Tigers are predominantly solitary animals, with each individual maintaining a large territory that they mark and defend.
+4. **Cougars (Mountain Lions)**: These large cats are solitary hunters, with the exception of mothers raising their young.
+5. **Lynxes**: Species like the Eurasian lynx and the Canada lynx are solitary, generally only interacting during the mating season.
+6. **Jaguars**: Jaguars are typically solitary, with individuals occupying and defending their own territories.
+
+These solitary behaviors are primarily driven by their hunting and territorial needs, ensuring they have enough resources to sustain themselves.
+[CORRECT_ANSWER]: Leopards
+[FEEDBACK]: The response provides a detailed list of solitary wild cats, including leopards, snow leopards, tigers, cougars, lynxes, and jaguars. While the reference answer only mentions leopards, the response is accurate and factual in its broader context. However, the instruction specifically asked for "what sort of cats are solitary," and the reference answer focuses on leopards alone. The response, while informative, goes beyond the scope of the reference answer. Therefore, it is mostly correct and factual but not completely aligned with the reference answer's simplicity and specificity.
+[RESULT]: 4

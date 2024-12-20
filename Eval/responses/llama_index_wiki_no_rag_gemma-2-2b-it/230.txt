@@ -1,0 +1,10 @@
+[PROMPT]: Does it have a border with Norway?
+[USER_ANSWER]: 
+
+The answer is **no**. 
+
+Finland does not share a border with Norway. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is "yes," as Finland does share a border with Norway. The response provided states "no" and incorrectly claims that Finland does not share a border with Norway. This directly contradicts the factual information required by the instruction.
+[RESULT]: 1

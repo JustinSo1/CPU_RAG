@@ -1,0 +1,5 @@
+[PROMPT]: Which property did James Monroe sell in 1817?
+[USER_ANSWER]: In 1817, James Monroe sold his Highland plantation, also known as Ash Lawn-Highland, which is located near Charlottesville, Virginia. This property was originally acquired by Monroe in 1793 and served as his residence for many years. Monroe sold the plantation in 1817 as he was preparing to assume the presidency of the United States.
+[CORRECT_ANSWER]: Monroe Hill on the grounds of the University of Virginia.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that James Monroe sold Monroe Hill on the grounds of the University of Virginia in 1817. However, the response incorrectly states that Monroe sold his Highland plantation, also known as Ash Lawn-Highland, near Charlottesville, Virginia. This discrepancy shows that the response does not align with the factual information provided in the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: What is the average life expectancy of a kangaroo?
+[USER_ANSWER]: The average life expectancy of a kangaroo in the wild is typically around 6 to 8 years, although some can live up to 12 years or more under the right conditions. In captivity, with protection from predators and regular access to food and medical care, kangaroos can live longer, often reaching 16 to 20 years of age.
+[CORRECT_ANSWER]: 4.6 years
+[FEEDBACK]: The response provides a detailed explanation of the life expectancy of kangaroos in both the wild and captivity, which is factually accurate. However, it does not directly address the specific average life expectancy of a kangaroo as requested in the instruction. The reference answer indicates an average life expectancy of 4.6 years, which is not mentioned in the response. Therefore, while the information provided is accurate, it does not align with the specific detail required by the instruction.
+[RESULT]: 3

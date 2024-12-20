@@ -1,0 +1,21 @@
+[PROMPT]: What kind of ducks feed on land?
+[USER_ANSWER]: 
+
+Ducks that feed primarily on land are called **"dabbling ducks"**. 
+
+Here's why:
+
+* **Dabbling:**  They use their webbed feet to wade into shallow water and then use their bills to graze on vegetation, insects, and other land-based food sources.
+* **Examples:** Mallards, Muscovy ducks, Teal ducks, and Wood ducks are all dabbling ducks.
+
+**Other types of ducks:**
+
+* **"Diving ducks"** like Mallards, are known for diving into deep water to catch fish and other aquatic creatures.
+* **"Floating ducks"** like Canvasbacks, are known for their ability to stay afloat on the water's surface and feed on seeds and insects.
+
+
+Let me know if you have any other questions about ducks! 
+
+[CORRECT_ANSWER]: Dabbling ducks
+[FEEDBACK]: The response correctly identifies "dabbling ducks" as the type of ducks that feed primarily on land, which aligns with the reference answer. However, the additional information provided contains inaccuracies. For example, Mallards are incorrectly categorized as both dabbling and diving ducks, and the term "floating ducks" is not a recognized category in ornithology. These inaccuracies detract from the overall correctness and factual accuracy of the response.
+[RESULT]: 3

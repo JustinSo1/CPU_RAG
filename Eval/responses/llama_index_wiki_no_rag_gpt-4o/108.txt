@@ -1,0 +1,5 @@
+[PROMPT]: What year did Coolidge open his own law office?
+[USER_ANSWER]: Calvin Coolidge opened his own law office in 1898.
+[CORRECT_ANSWER]: 1898
+[FEEDBACK]: The response "Calvin Coolidge opened his own law office in 1898." is completely correct, accurate, and factual based on the reference answer "1898." The additional context provided does not detract from the accuracy of the year mentioned.
+[RESULT]: 5

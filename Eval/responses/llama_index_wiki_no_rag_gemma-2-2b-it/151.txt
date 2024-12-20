@@ -1,0 +1,15 @@
+[PROMPT]: What is the name of a specialized species of duck adapted to catch large fish?
+[USER_ANSWER]: 
+
+**Answer:**  
+**Northern Shoveler**
+
+**Explanation:**
+
+While the Northern Shoveler is known for its distinctive shovel-shaped bill, it's not specifically adapted for catching large fish.  The term "fish-eating duck" is often used to describe ducks like the **Mallard** or **Canvasback**, which have a more pronounced bill shape for catching fish. 
+
+The **Northern Shoveler** is primarily a **waterfowl** species, known for its **feeding habits** on aquatic plants and invertebrates. 
+
+[CORRECT_ANSWER]: the smew
+[FEEDBACK]: The response provided is incorrect and inaccurate based on the reference answer. The Northern Shoveler is not a specialized species of duck adapted to catch large fish. The correct answer is the smew. The explanation given in the response also does not align with the correct information, as it incorrectly suggests that the Northern Shoveler is adapted for catching fish, which it is not. The response fails to provide the correct species and does not demonstrate an understanding of the specialized adaptation for catching large fish.
+[RESULT]: 1

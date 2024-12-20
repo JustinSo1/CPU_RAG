@@ -1,0 +1,8 @@
+[PROMPT]: When did organized agriculture appear in the Nile Valley?
+[USER_ANSWER]: 
+
+Organized agriculture in the Nile Valley appeared around **3500 BCE**. 
+
+[CORRECT_ANSWER]: 6000 BC.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that organized agriculture appeared in the Nile Valley around 6000 BC, while the response states 3500 BCE, which is significantly later. This discrepancy shows that the response does not align well with the factual information provided in the reference answer.
+[RESULT]: 2

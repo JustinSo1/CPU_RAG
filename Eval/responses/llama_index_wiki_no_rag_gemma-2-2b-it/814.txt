@@ -1,0 +1,18 @@
+[PROMPT]: What do turtle eggs preared to eat consist mainly of?
+[USER_ANSWER]: 
+
+Turtle eggs are primarily made up of **protein, fat, and carbohydrates**. 
+
+Here's a more detailed breakdown:
+
+* **Protein:**  Essential for growth and development.
+* **Fat:** Provides energy and insulation.
+* **Carbohydrates:**  A source of energy.
+
+**Other nutrients:** Turtle eggs also contain vitamins, minerals, and other essential nutrients.
+
+**Important note:** The exact composition of turtle eggs can vary depending on the species of turtle and the environment in which they are laid. 
+
+[CORRECT_ANSWER]: Yolk
+[FEEDBACK]: The response provided is not accurate based on the reference answer. The reference answer indicates that turtle eggs prepared to eat consist mainly of yolk. The response, however, lists protein, fat, and carbohydrates, which are components of the yolk but not the direct answer. Additionally, the response includes extra information about other nutrients and the variability of composition, which is not required by the question. Therefore, the response is mostly incorrect and does not align with the reference answer.
+[RESULT]: 2

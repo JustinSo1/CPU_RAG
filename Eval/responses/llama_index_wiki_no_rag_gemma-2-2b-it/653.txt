@@ -1,0 +1,16 @@
+[PROMPT]: Is polar bear a carnivore?
+[USER_ANSWER]: 
+
+Polar bears are **carnivores**, meaning they primarily eat meat. 
+
+Here's why:
+
+* **Diet:** Their diet consists mainly of seals, which they hunt by stalking and ambushing them on the ice.
+* **Teeth and Jaws:** Polar bears have sharp, powerful teeth and jaws designed for tearing flesh.
+* **Digestive System:** Their digestive system is adapted to break down meat efficiently.
+
+While polar bears may occasionally eat other animals like fish or birds, their primary food source is seals. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies polar bears as carnivores and provides detailed explanations about their diet, teeth, jaws, and digestive system. However, the reference answer is a simple "Yes," which implies that a concise response is sufficient. The detailed explanation, while accurate, goes beyond the simplicity of the reference answer.
+[RESULT]: 4

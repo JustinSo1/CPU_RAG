@@ -1,0 +1,18 @@
+[PROMPT]: What did Tourism in Romania attract in 2005?
+[USER_ANSWER]: 
+
+Tourism in Romania attracted a significant number of visitors in 2005.  Here's a breakdown of some key figures:
+
+* **Total Tourist Arrivals:**  Around 2.5 million visitors.
+* **Major Source Markets:**  The main source markets for tourists were the UK, Germany, and France.
+* **Popular Destinations:**  Popular destinations included Bucharest, Transylvania, and the Danube Delta.
+* **Economic Impact:**  Tourism contributed significantly to the Romanian economy, generating revenue and employment.
+
+**It's important to note:**  This information is based on general trends and may not be entirely accurate for a specific year. 
+
+
+Let me know if you'd like more details on any specific aspect of tourism in Romania in 2005. 
+
+[CORRECT_ANSWER]: investments worth 400 million euros
+[FEEDBACK]: The response provided does not address the specific question of what tourism in Romania attracted in 2005. Instead, it gives a general overview of tourism statistics and trends for that year. The reference answer indicates that tourism attracted investments worth 400 million euros, which is not mentioned in the response. Therefore, the response is not accurate or factual based on the reference answer.
+[RESULT]: 1

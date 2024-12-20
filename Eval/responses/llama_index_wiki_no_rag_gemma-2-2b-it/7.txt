@@ -1,0 +1,18 @@
+[PROMPT]: Who suggested Lincoln grow a beard?
+[USER_ANSWER]: 
+
+**Answer:**  Abraham Lincoln's wife, Mary Todd Lincoln, is often credited with suggesting he grow a beard. 
+
+**Explanation:**
+
+While there's no definitive proof, the idea that Mary Todd Lincoln encouraged Lincoln to grow a beard is a popular historical anecdote. 
+
+* **Appearance and Image:**  Lincoln's clean-shaven appearance was a common image during his time.  A beard could have been seen as a sign of maturity, strength, and even a touch of rebellion.
+* **Political Strategy:**  Some historians believe that a beard could have helped Lincoln project a more authoritative and masculine image, especially during his political campaigns.
+* **Personal Preference:**  It's also possible that Lincoln simply liked the way a beard looked on him.
+
+Regardless of the reason, the story of Mary Todd Lincoln's suggestion is a fascinating piece of Lincoln history. 
+
+[CORRECT_ANSWER]: 11-year-old Grace Bedell
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states that 11-year-old Grace Bedell suggested Lincoln grow a beard, while the response incorrectly attributes this suggestion to Mary Todd Lincoln. The explanation provided in the response does not align with the factual information given in the reference answer.
+[RESULT]: 1

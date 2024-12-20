@@ -1,0 +1,8 @@
+[PROMPT]: Who assassinated Lincoln?
+[USER_ANSWER]: 
+
+John Wilkes Booth, a famous actor and Confederate sympathizer, assassinated President Abraham Lincoln on April 14, 1865. 
+
+[CORRECT_ANSWER]: John Wilkes Booth
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies John Wilkes Booth as the assassin of President Abraham Lincoln and provides additional context about Booth's background and the date of the assassination. However, the additional details, while accurate, are not necessary to answer the question directly. The reference answer is more concise and directly addresses the question without extra information.
+[RESULT]: 4

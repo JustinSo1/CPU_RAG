@@ -1,0 +1,16 @@
+[PROMPT]: Is polar bear a mammal?
+[USER_ANSWER]: 
+
+Polar bears are **not** mammals. They are **carnivorous mammals**. 
+
+Here's why:
+
+* **Mammals give birth to live young.** Polar bears do this.
+* **Mammals have fur or hair.** Polar bears have thick fur.
+* **Mammals produce milk to feed their young.** Polar bears do not.
+
+Polar bears are classified as **carnivorous mammals** because they are meat-eaters. They are apex predators in the Arctic and rely on hunting seals for food. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The statement "Polar bears are not mammals" is factually incorrect. Polar bears are indeed mammals, as they give birth to live young, have fur, and produce milk to feed their young. The response contradicts itself by stating that polar bears are "carnivorous mammals" after initially claiming they are not mammals. This inconsistency and the incorrect assertion about milk production significantly reduce the accuracy of the response.
+[RESULT]: 2

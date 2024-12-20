@@ -1,0 +1,17 @@
+[PROMPT]: Who boasted a sizeable community of 100,000 by 1869?
+[USER_ANSWER]: 
+
+A.  The Church of Jesus Christ of Latter-day Saints
+B.  The United States
+C.  The Roman Catholic Church
+D.  The Presbyterian Church
+
+**Answer:** A. The Church of Jesus Christ of Latter-day Saints
+
+**Explanation:**
+
+The Church of Jesus Christ of Latter-day Saints (LDS Church) experienced rapid growth in the mid-19th century, reaching a community of 100,000 by 1869. This was largely due to the efforts of Brigham Young, who led the Mormons westward to Utah. 
+
+[CORRECT_ANSWER]: British India office
+[FEEDBACK]: The response provided is completely incorrect and does not match the reference answer. The reference answer indicates that the British India office boasted a sizeable community of 100,000 by 1869, whereas the response incorrectly identifies The Church of Jesus Christ of Latter-day Saints. The explanation given, while detailed, does not align with the correct answer and is therefore not factual in this context.
+[RESULT]: 1

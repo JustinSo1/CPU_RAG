@@ -1,0 +1,8 @@
+[PROMPT]: Is uruguay's landscape mountainous?
+[USER_ANSWER]: 
+
+Uruguay's landscape is not mountainous. It is mostly flat and rolling plains. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Uruguay's landscape is not mountainous and provides additional information about the landscape being mostly flat and consisting of rolling plains. However, the reference answer is very concise, and the response could have been more aligned with the reference by being more succinct.
+[RESULT]: 4

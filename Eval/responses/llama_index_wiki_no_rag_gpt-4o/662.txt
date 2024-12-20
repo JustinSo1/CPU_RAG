@@ -1,0 +1,7 @@
+[PROMPT]: Is a polar bear at high risk of extinction?
+[USER_ANSWER]: Polar bears are currently classified as "Vulnerable" on the International Union for Conservation of Nature (IUCN) Red List. This status indicates that they are at high risk of facing extinction in the wild. The primary threat to polar bears is the loss of their sea ice habitat due to climate change. As the Arctic ice continues to melt, polar bears are losing the platform they rely on for hunting seals, their primary food source, as well as for breeding and resting.
+
+Other threats include pollution, oil and gas development, and human-bear conflicts. Conservation efforts are ongoing, but the long-term survival of polar bears is closely linked to addressing climate change and protecting their natural habitat.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the status of polar bears, their threats, and conservation efforts. However, the reference answer is a simple "yes," indicating that a concise confirmation was expected. While the response is informative and accurate, it goes beyond the simplicity of the reference answer.
+[RESULT]: 4

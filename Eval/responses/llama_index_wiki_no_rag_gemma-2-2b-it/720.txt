@@ -1,0 +1,8 @@
+[PROMPT]: What is the largest city in Romania?
+[USER_ANSWER]: 
+
+The largest city in Romania is **Bucharest**. 
+
+[CORRECT_ANSWER]: Bucharest
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Bucharest as the largest city in Romania, matching the reference answer.
+[RESULT]: 5

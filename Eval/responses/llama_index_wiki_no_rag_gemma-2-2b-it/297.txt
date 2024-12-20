@@ -1,0 +1,27 @@
+[PROMPT]: How much do wolves weigh?
+[USER_ANSWER]: 
+
+Wolves are powerful predators with a wide range of weights depending on their sex and age. Here's a general guide:
+
+**Male Wolves:**
+* **Average:** 80-150 pounds (36-68 kg)
+* **Large:** 150-200 pounds (68-90 kg)
+* **Giant:** Over 200 pounds (90 kg)
+
+**Female Wolves:**
+* **Average:** 50-100 pounds (23-45 kg)
+* **Large:** 100-150 pounds (45-68 kg)
+
+**Important Notes:**
+
+* **Age:**  Wolves can vary in weight depending on their age.  Young wolves are smaller than adults.
+* **Location:**  Wolves in different regions may have slightly different average weights.
+* **Diet:**  Wolves with access to a more abundant food supply tend to be larger.
+* **Individual Variation:**  There is a wide range of individual variation within each sex and age group.
+
+
+Let me know if you have any other questions about wolves! 
+
+[CORRECT_ANSWER]: typically varies between 32 and 62 kilograms
+[FEEDBACK]: The response provides a detailed and accurate range of weights for wolves, including distinctions between male and female wolves, as well as factors that can influence their weight. However, the reference answer indicates a more general range of 32 to 62 kilograms, which is somewhat narrower than the ranges provided in the response. While the response is mostly correct and factual, it includes additional details that are not strictly necessary and slightly deviate from the reference range.
+[RESULT]: 4

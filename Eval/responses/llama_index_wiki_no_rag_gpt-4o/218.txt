@@ -1,0 +1,7 @@
+[PROMPT]: Has tusklessness become a rare abnormality?
+[USER_ANSWER]: Tusklessness in elephants, particularly in African elephants, was historically considered a rare abnormality. However, in recent years, there has been a notable increase in the frequency of tusklessness in some elephant populations. This change is largely attributed to selective pressure from poaching. Poachers target elephants with large tusks for their ivory, and over time, this has led to a higher survival rate for tuskless elephants, who are less likely to be killed for their tusks.
+
+As a result, in areas with intense poaching pressure, the proportion of tuskless elephants has increased significantly. This evolutionary response demonstrates how human activities can rapidly influence the traits of wildlife populations.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response provides a detailed explanation about the increase in tusklessness among elephants due to poaching, which is accurate and factual. However, the reference answer is a simple "No," indicating that the expected response should be a direct and concise answer to the question. While the response is factually correct, it does not align with the simplicity and directness of the reference answer. Therefore, it does not fully meet the criteria for complete correctness based on the reference answer.
+[RESULT]: 3

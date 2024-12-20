@@ -1,0 +1,18 @@
+[PROMPT]: The Historical Society of the Principality of Liechtenstein plays what?
+[USER_ANSWER]: 
+
+The Historical Society of the Principality of Liechtenstein plays **a vital role in preserving and promoting the history of Liechtenstein**. 
+
+Here's a breakdown of their activities:
+
+* **Research and Documentation:** They conduct research on historical topics, collect and preserve historical documents, and create digital archives.
+* **Exhibitions and Events:** They organize exhibitions, lectures, and other events to educate the public about Liechtenstein's history.
+* **Publications:** They publish books, articles, and other materials about Liechtenstein's history.
+* **Education:** They offer educational programs for students and the public.
+* **Public Outreach:** They engage with the public through various channels, including their website and social media.
+
+Essentially, the Historical Society of the Principality of Liechtenstein acts as a custodian of Liechtenstein's past, ensuring its legacy is preserved for future generations. 
+
+[CORRECT_ANSWER]: a role in preserving the culture and history of the country.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes the role of the Historical Society of the Principality of Liechtenstein in preserving and promoting the history of Liechtenstein. The detailed breakdown of their activities, such as research, documentation, exhibitions, events, publications, education, and public outreach, aligns well with the reference answer. However, the response could be more concise and directly aligned with the reference answer's simplicity. The additional details, while informative, are not necessary to meet the criteria of the reference answer.
+[RESULT]: 4

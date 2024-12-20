@@ -1,0 +1,8 @@
+[PROMPT]: Did James Monroe attend the College of William and Mary?
+[USER_ANSWER]: 
+
+Yes, James Monroe attended the College of William and Mary. He graduated in 1759.
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. While it correctly states that James Monroe attended the College of William and Mary, it incorrectly claims that he graduated in 1759. James Monroe was born in 1758, making it impossible for him to have graduated in 1759. The reference answer simply confirms attendance without additional incorrect details.
+[RESULT]: 2

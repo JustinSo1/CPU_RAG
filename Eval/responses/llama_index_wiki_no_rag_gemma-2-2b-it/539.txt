@@ -1,0 +1,18 @@
+[PROMPT]: What completed in November?
+[USER_ANSWER]: 
+
+Please provide more context. What kind of completed tasks are you referring to? 
+
+For example, are you asking about:
+
+* **Personal tasks:** Did you finish any projects or goals in November?
+* **Work tasks:** Did your team complete any major projects or deadlines in November?
+* **News events:** Did any significant events happen in November that you're interested in?
+* **Something else:** Please be as specific as possible. 
+
+
+The more information you give me, the better I can understand your request and provide a helpful response. 
+
+[CORRECT_ANSWER]: the Kunstmuseum Liechtenstein
+[FEEDBACK]: The response does not provide a factual answer to the question "What completed in November?" Instead, it asks for more context and provides examples of different types of tasks that could be completed in November. This does not align with the reference answer, which is a specific factual response. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

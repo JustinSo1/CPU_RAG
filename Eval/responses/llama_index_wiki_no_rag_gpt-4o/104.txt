@@ -1,0 +1,5 @@
+[PROMPT]: What caused Calvin Jr.'s death?
+[USER_ANSWER]: As of my last update in October 2023, Calvin Coolidge Jr., the son of President Calvin Coolidge, died from blood poisoning (septicemia) in 1924. The infection developed after he got a blister from playing tennis without wearing socks. Modern antibiotics were not available at that time, and the infection quickly became fatal.
+[CORRECT_ANSWER]: heart attack
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that Calvin Jr. died of a heart attack, while the response claims he died from blood poisoning (septicemia) due to an infection from a blister. This discrepancy indicates that the response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

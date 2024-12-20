@@ -1,0 +1,5 @@
+[PROMPT]: Where do leopards often hide their kills?
+[USER_ANSWER]: Leopards often hide their kills in trees. This behavior is known as "tree caching" or "tree hoisting." By dragging their prey up into the branches, leopards can keep their food safe from scavengers and other predators, such as lions and hyenas. The elevated position also helps to preserve the kill from spoilage and allows the leopard to feed at its leisure. This strategic behavior showcases the leopard's strength and adaptability in its natural habitat.
+[CORRECT_ANSWER]: in dense vegetation
+[FEEDBACK]: The response is mostly correct, accurate, and factual. While the reference answer specifies "dense vegetation," the response mentions "trees" and provides additional context about leopards' behavior of hiding their kills in trees to protect them from scavengers and spoilage. Although the response does not match the reference answer exactly, it is still a valid and accurate description of leopard behavior.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: When was he elected sheriff of Erire County, New York?
+[USER_ANSWER]: Please provide the name of the individual you are referring to, as there have been multiple people who have served as Sheriff of Erie County, New York.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not directly answer the question "When was he elected sheriff of Erie County, New York?" Instead, it asks for clarification about the individual being referred to. While this might be a reasonable request for more information, it does not provide a factual answer to the question as the reference answer does. Therefore, it is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

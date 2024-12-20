@@ -1,0 +1,17 @@
+[PROMPT]: Are otters very active?
+[USER_ANSWER]: 
+
+Otters are known for their playful and energetic nature. They are **very active** animals, spending a significant portion of their day exploring, foraging, and playing. 
+
+Here's a breakdown of their activity levels:
+
+* **Playful:** Otters are playful animals, often engaging in games and activities with each other.
+* **Foraging:** They spend a lot of time hunting for food, which requires them to be active and agile.
+* **Exploring:** Otters are curious creatures and enjoy exploring their surroundings.
+* **Social:** They are social animals and often interact with each other, which also requires movement and activity.
+
+Overall, otters are highly active animals with a lot of energy to burn. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about otters' activity levels, which aligns with the reference answer indicating that otters are very active. However, the response goes beyond the simplicity of the reference answer by providing additional context and details. While this extra information is accurate, it is not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,7 @@
+[PROMPT]: What percentage of the population don't speak English or French at home?
+[USER_ANSWER]: The percentage of the population that does not speak English or French at home varies significantly by country and region. For instance, in Canada, according to the 2021 Canadian Census, about 26% of the population reported speaking a language other than English or French at home. In the United States, the Census Bureau's American Community Survey (ACS) data from 2019 showed that about 22% of the population spoke a language other than English at home.
+
+The specific percentage can differ widely based on the demographics and immigration patterns of each country or region. It's important to refer to the latest census or official surveys for the most accurate and up-to-date information for any specific area.
+[CORRECT_ANSWER]: 28%
+[FEEDBACK]: The response provides a detailed explanation about the percentage of the population that does not speak English or French at home, including specific data for Canada and the United States. However, the instruction asks for a general percentage without specifying a country or region. The reference answer is a straightforward 28%, which suggests a more general or average figure. The response, while informative, does not directly answer the question with a single percentage figure and instead provides varying data points for different regions. This makes the response somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

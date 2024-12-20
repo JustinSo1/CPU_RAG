@@ -1,0 +1,23 @@
+[PROMPT]: Do all ducks "quack"?
+[USER_ANSWER]: 
+
+No, not all ducks quack.  Here's why:
+
+* **Different species:**  There are many different types of ducks, and each has its own unique vocalizations. Some ducks don't quack at all!
+* **Individual differences:** Even within the same species, some ducks may be more vocal than others.
+* **Context:** Ducks may quack to communicate with each other, but they may also quack to attract mates, defend territory, or express other emotions.
+
+**So, what do ducks sound like?**
+
+Here are some examples of duck sounds:
+
+* **Quack:** The most common sound, used for various purposes.
+* **Whistle:** A high-pitched sound often used by ducks to communicate with each other.
+* **Gobble:** A loud, harsh sound used by ducks to express alarm or aggression.
+* **Chirp:** A short, high-pitched sound used for various purposes, including attracting mates.
+* **Honk:** A loud, deep sound used by some ducks to warn off predators.
+
+It's important to remember that each duck species has its own unique soundscape, so you'll need to learn about the specific species you're interested in to understand their vocalizations
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly correct and factual. It accurately states that not all ducks quack and provides additional context about different species, individual differences, and the context in which ducks make sounds. However, the reference answer is simply "No," which is a very concise and direct response. The evaluated response, while informative, goes beyond the simplicity of the reference answer. Therefore, it is mostly correct but not completely aligned with the reference answer's brevity.
+[RESULT]: 4

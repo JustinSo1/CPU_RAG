@@ -1,0 +1,5 @@
+[PROMPT]: Who was President when Wilson finished Congressional Government?
+[USER_ANSWER]: Woodrow Wilson finished writing "Congressional Government: A Study in American Politics" in 1885. At that time, Grover Cleveland was the President of the United States, having begun his first term on March 4, 1885.
+[CORRECT_ANSWER]: Grover Cleveland
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Grover Cleveland as the President when Wilson finished "Congressional Government" in 1885. However, the additional information about the book's title and Cleveland's term start date, while accurate, is not necessary for the answer and slightly deviates from the concise nature of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,20 @@
+[PROMPT]: Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Yes, Avogadro's number is commonly used to compute the results of chemical reactions. 
+
+**Explanation:**
+
+Here's why:
+
+* **Stoichiometry:** Chemical reactions are governed by balanced chemical equations, which express the relative amounts of reactants and products involved. Avogadro's number allows us to convert between the number of moles of a substance and the number of particles (atoms, molecules, ions, etc.). This is crucial for stoichiometry, the calculation of amounts of reactants and products in a reaction.
+* **Molar Mass:** Avogadro's number is directly related to the molar mass of a substance.  The molar mass is the mass of one mole of a substance, and it's a fundamental concept in chemistry.  
+* **Limiting Reactants:** Avogadro's number helps determine the limiting reactant in a reaction. The limiting reactant is the reactant that is completely consumed first, and it determines the maximum amount of product that can be formed.
+* **Percent Yield:** Avogadro's number is used in calculating the percent yield of a reaction, which is the ratio of the actual amount of product obtained to the theoretical amount calculated based on the stoichiometry.
+
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It not only confirms that Avogadro's number is commonly used to compute the results of chemical reactions but also provides a detailed explanation of its importance in stoichiometry, molar mass, limiting reactants, and percent yield. This additional information, while not necessary, enhances the understanding of the concept and aligns with the reference answer.
+[RESULT]: 5

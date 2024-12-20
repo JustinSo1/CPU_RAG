@@ -1,0 +1,11 @@
+[PROMPT]: Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?
+[USER_ANSWER]: Liechtenstein has indeed taken steps to improve its image and combat international money laundering. Historically, the country has been known for its strict banking secrecy laws, which attracted individuals and entities looking to launder money. However, under pressure from international organizations and other countries, Liechtenstein has made significant reforms to address these concerns.
+
+In recent years, Liechtenstein has strengthened its anti-money laundering (AML) regulations and increased cooperation with international bodies such as the Financial Action Task Force (FATF) and the European Union. The country has implemented measures to enhance transparency, such as adopting the Common Reporting Standard (CRS) for automatic exchange of financial account information, and has increased regulatory oversight of its financial institutions.
+
+Additionally, Liechtenstein has participated in international efforts to combat money laundering and terrorist financing. The country has worked to prosecute those involved in money laundering and has taken steps to ensure that its financial system is not used for illicit activities. These efforts have helped to improve Liechtenstein's reputation as a responsible financial center.
+
+Overall, Liechtenstein's commitment to strengthening its AML framework and cooperating with international standards reflects its efforts to promote a positive image and demonstrate its dedication to combating financial crimes.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of Liechtenstein's efforts to combat money laundering and improve its image, which aligns with the reference answer. However, the reference answer is very brief and simply states "Yes," while the response goes into much more detail. Despite this, the information provided in the response is accurate and relevant to the question asked.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Is otter a kind of mammal?
+[USER_ANSWER]: Yes, otters are mammals. They belong to the family Mustelidae, which also includes weasels, badgers, and wolverines. Otters are known for their playful behavior, aquatic adaptations, and dense fur that keeps them warm in cold water.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that otters are mammals and provides additional relevant information about their family, behavior, and adaptations. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,13 @@
+[PROMPT]: Which future Heisman Trophy winner did Ford tackle?
+[USER_ANSWER]: 
+
+This question is a bit tricky because it requires knowledge of a specific event or game.  To help you out, here's what we need:
+
+* **Who is "Ford"?**  Is it a specific player, coach, or someone else?
+* **What year or time period are we talking about?**  This will help narrow down the possibilities.
+
+Once you provide more information, I can help you find the answer! 
+
+[CORRECT_ANSWER]: Jay Berwanger
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it asks for more information and does not address the specific event or individual mentioned in the question. The reference answer is "Jay Berwanger," but the response does not mention this name or provide any factual information related to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

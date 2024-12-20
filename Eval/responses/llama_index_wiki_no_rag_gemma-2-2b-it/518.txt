@@ -1,0 +1,16 @@
+[PROMPT]: When was the first factory opened?
+[USER_ANSWER]: 
+
+The first factory was opened in **17th century England**. 
+
+Here's a bit more context:
+
+* **Early Factories:**  The concept of a factory emerged gradually in the 17th century.  It wasn't a sudden invention but a series of developments.
+* **Textile Industry:** The textile industry was a key driver of early factories.  The invention of the spinning jenny and other machines in the 1760s led to the concentration of production in factories.
+* **Industrial Revolution:** The 18th and 19th centuries saw the Industrial Revolution, which saw a massive expansion of factories and the rise of mass production. 
+
+Let me know if you'd like to know more about the history of factories! 
+
+[CORRECT_ANSWER]: 1836
+[FEEDBACK]: The response provided is not accurate based on the reference answer. The reference answer states that the first factory was opened in 1836, while the response mentions the 17th century and provides additional context about the development of factories and the Industrial Revolution. This information is not aligned with the specific date given in the reference answer. Therefore, the response is mostly incorrect and not factual according to the provided rubric.
+[RESULT]: 2

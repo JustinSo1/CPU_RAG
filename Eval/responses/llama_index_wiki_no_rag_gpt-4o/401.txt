@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he practiced law in fredericksburg?
+[USER_ANSWER]: I'm sorry, but I would need more context to provide an accurate answer. Could you please clarify who you are referring to?
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not provide a direct answer to the question asked. Instead, it requests additional context, which means it does not address the factual accuracy of whether the person practiced law in Fredericksburg. Therefore, it does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,15 @@
+[PROMPT]: Who died in 1832?
+[USER_ANSWER]: 
+
+This is a bit of a trick question!  There were many famous people who died in 1832.  To help you, I'll give you some clues:
+
+* **Think about famous historical figures.**
+* **Consider what kind of impact they had on the world.**
+* **Do some research!**
+
+
+Let me know if you want to try and guess! 
+
+[CORRECT_ANSWER]: Margaret Miller.
+[FEEDBACK]: The response does not provide a direct answer to the question "Who died in 1832?" Instead, it offers a general statement about the difficulty of the question and suggests ways to find the answer. This does not meet the criteria of being correct, accurate, and factual based on the reference answer, which is "Margaret Miller." The response is completely incorrect and does not address the specific question asked.
+[RESULT]: 1

@@ -1,0 +1,25 @@
+[PROMPT]: Are diving ducks heavier tha dabbling ducks?
+[USER_ANSWER]: 
+
+Here's why this is a tricky question:
+
+* **Diving ducks** are known for their ability to dive deep into water to catch fish. They have a streamlined body and webbed feet for efficient swimming.
+* **Dabbling ducks** are known for their ability to forage on the surface of water, using their bills to scoop up food. They have shorter legs and a more rounded body.
+
+**The weight difference:**
+
+* **Diving ducks** are generally heavier than dabbling ducks. This is because they need to be strong enough to support their body weight while diving and swimming. 
+* **Dabbling ducks** are lighter because they spend less time in the water and have a more streamlined body for surface foraging.
+
+**However, there are exceptions:**
+
+* **Species variation:** There are many different species of ducks, and their weights can vary significantly. Some dabbling ducks might be heavier than some diving ducks.
+* **Individual differences:** Even within a species, individual ducks can have different weights depending on factors like age, sex, and diet.
+
+
+**In conclusion:**
+
+While diving ducks are generally heavier than dabbling ducks, it's not a universal rule. There are exceptions, and individual differences can
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation about the differences between diving ducks and dabbling ducks, including their physical characteristics and behaviors. However, the reference answer is a simple "Yes," indicating that the correct response should be straightforward and directly address the question. The evaluated response, while informative, does not align with the simplicity and directness of the reference answer. It also introduces exceptions and individual differences, which complicates the answer and deviates from the reference answer's clear and factual "Yes." Therefore, the response is somewhat correct and factual but not completely aligned with the reference answer.
+[RESULT]: 3

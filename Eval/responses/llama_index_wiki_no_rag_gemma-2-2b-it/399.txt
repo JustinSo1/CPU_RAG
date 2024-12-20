@@ -1,0 +1,8 @@
+[PROMPT]: Who is depicted holding the flag in the famous painting of Washington Crossing the Delaware?
+[USER_ANSWER]: 
+
+The painting depicts Washington crossing the Delaware River with his troops.  The flag is held by **George Washington**. 
+
+[CORRECT_ANSWER]: Monroe
+[FEEDBACK]: The response is completely incorrect and inaccurate. The flag in the painting "Washington Crossing the Delaware" is held by James Monroe, not George Washington. The response does not align with the reference answer and fails to provide the correct information.
+[RESULT]: 1

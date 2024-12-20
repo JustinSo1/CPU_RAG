@@ -1,0 +1,5 @@
+[PROMPT]: When did James Monroe introduce the Monroe Doctrine?
+[USER_ANSWER]: James Monroe introduced the Monroe Doctrine on December 2, 1823. This was during his annual message to Congress, which is now known as the State of the Union Address. The doctrine warned European nations against further colonization and interference in the Americas, asserting that any such actions would be viewed as acts of aggression requiring U.S. intervention.
+[CORRECT_ANSWER]: December 2, 1823
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the date when James Monroe introduced the Monroe Doctrine as December 2, 1823. However, it includes additional information about the context and content of the doctrine, which, while accurate, goes beyond the scope of the question. The reference answer is concise and to the point, whereas the response provides extra details that were not required.
+[RESULT]: 4

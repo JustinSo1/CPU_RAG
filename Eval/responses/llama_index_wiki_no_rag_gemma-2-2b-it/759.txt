@@ -1,0 +1,8 @@
+[PROMPT]: Who did Sir Thomas Stamford Raffles work for?
+[USER_ANSWER]: 
+
+Sir Thomas Stamford Raffles worked for the **British East India Company**. 
+
+[CORRECT_ANSWER]: British East India Company
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that Sir Thomas Stamford Raffles worked for the British East India Company, matching the reference answer. The additional formatting does not detract from the accuracy of the information provided.
+[RESULT]: 5

@@ -1,0 +1,10 @@
+[PROMPT]: Is Egypt the most populated country in Africa?
+[USER_ANSWER]: 
+
+No, Egypt is not the most populated country in Africa. 
+
+**Nigeria** is the most populated country in Africa. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is correct in stating that Egypt is not the most populated country in Africa and accurately identifies Nigeria as the most populated country. However, the reference answer is very brief and only states "no," which is a minimalistic response. The evaluated response provides additional information that is accurate and factual, but it goes beyond the simplicity of the reference answer. Based on the rubric, the response is mostly correct, accurate, and factual, but it is not completely aligned with the minimalistic nature of the reference answer.
+[RESULT]: 4

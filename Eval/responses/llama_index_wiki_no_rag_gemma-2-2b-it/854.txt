@@ -1,0 +1,8 @@
+[PROMPT]: Is Uruguay's capital Montevideo?
+[USER_ANSWER]: 
+
+**Answer:** Yes, Montevideo is the capital of Uruguay. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Montevideo is the capital of Uruguay, which aligns with the reference answer. The additional information provided does not detract from the accuracy of the response.
+[RESULT]: 5

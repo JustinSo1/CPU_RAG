@@ -1,0 +1,22 @@
+[PROMPT]: Is it true that indonesia has vast areas of wilderness?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Yes, Indonesia is known for having vast areas of wilderness. 
+
+Here's why:
+
+* **Diverse Geography:** Indonesia is a sprawling archipelago with a wide range of landscapes, from lush rainforests to volcanic mountains, pristine beaches, and coral reefs. This diversity creates numerous protected areas and wilderness spaces.
+* **Protected Areas:** Indonesia has a significant number of national parks, wildlife sanctuaries, and marine reserves. These areas are designated to preserve biodiversity and protect natural ecosystems.
+* **Endemic Species:** The country is home to a vast array of endemic species, many of which are found nowhere else in the world. This highlights the importance of preserving its wilderness for the survival of these unique creatures.
+* **Cultural Significance:** Many indigenous communities in Indonesia have deep spiritual connections to their natural surroundings. Their traditional practices and knowledge contribute to the conservation of wilderness areas.
+
+**Examples of Wilderness Areas in Indonesia:**
+
+* **Borneo:** Home to the world's largest rainforest, the island of Borneo is a haven for biodiversity and offers opportunities for trekking, wildlife viewing, and cultural immersion.
+* **Papua:** This mountainous region is known for its dense rainforests, active volcanoes, and diverse wildlife.
+* **Sumatra
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is correct and accurate in stating that Indonesia has vast areas of wilderness. It provides detailed explanations and examples to support the claim, which are factual and relevant. The response goes beyond the simplicity of the reference answer by offering additional context and information, but it remains entirely accurate and factual.
+[RESULT]: 5

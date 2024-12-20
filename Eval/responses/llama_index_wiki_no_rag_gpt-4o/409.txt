@@ -1,0 +1,9 @@
+[PROMPT]: What happened in the election of 1816?
+[USER_ANSWER]: The United States presidential election of 1816 was the eighth quadrennial presidential election and took place from November 1 to December 4, 1816. The Democratic-Republican candidate James Monroe, who was the Secretary of State under President James Madison, faced off against Federalist candidate Rufus King, a Senator from New York.
+
+Monroe won the election in a landslide, capturing 183 electoral votes to King's 34. This election marked the continued decline of the Federalist Party and the beginning of the "Era of Good Feelings," a period characterized by a sense of national purpose and a desire for unity among Americans in the aftermath of the War of 1812.
+
+Monroe's victory was significant as it continued the Virginia dynasty of presidents, and his administration would be noted for the acquisition of Florida, the Missouri Compromise, and the Monroe Doctrine, which asserted opposition to European colonialism in the Americas.
+[CORRECT_ANSWER]: Monroe was elected president
+[FEEDBACK]: The response provides a detailed and accurate account of the 1816 presidential election, including the candidates, the outcome, and the significance of Monroe's victory. It is factually correct and aligns with the reference answer, which simply states that Monroe was elected president. The response goes beyond the reference answer by providing additional context and details, but it remains completely correct and factual.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Did his mother die of pneumonia?
+[USER_ANSWER]: I'm sorry, but I need more context to provide a meaningful answer. There are many individuals and historical figures whose mothers may have died from pneumonia. Can you please specify who you are referring to?
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question "Did his mother die of pneumonia?" Instead, it asks for more context and does not provide a definitive answer. The reference answer is a simple "no," which is clear and direct. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

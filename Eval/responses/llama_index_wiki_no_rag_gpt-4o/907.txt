@@ -1,0 +1,5 @@
+[PROMPT]: Did Wilson have any siblings?
+[USER_ANSWER]: You'll need to specify which Wilson you are referring to in order to provide accurate information. There are many notable individuals with the surname Wilson, including historical figures, athletes, politicians, and entertainers. Could you please provide more context or clarify which Wilson you are asking about?
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question "Did Wilson have any siblings?" Instead, it asks for clarification on which Wilson is being referred to. While this is a reasonable request for more information, it does not provide the factual answer "yes" as indicated in the reference answer. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

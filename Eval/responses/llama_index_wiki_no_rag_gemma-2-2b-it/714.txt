@@ -1,0 +1,17 @@
+[PROMPT]: Are there many Roma in Romania?
+[USER_ANSWER]: 
+
+Romania has a significant Roma population, estimated to be around **1.5 million** people. This represents about **10% of the country's total population**.
+
+It's important to note that:
+
+* **Roma are a diverse group** with a rich cultural heritage and history.
+* **They face significant challenges** including discrimination, poverty, and lack of access to education and healthcare.
+* **Efforts are being made to improve their lives** through government programs and community initiatives.
+
+
+You can find more information about the Roma population in Romania on the website of the **Romanian National Roma Council**.
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response provides detailed information about the Roma population in Romania, including their estimated numbers, percentage of the total population, and the challenges they face. However, the reference answer is simply "No," which suggests that the correct response should be a straightforward denial of the premise of the question. The detailed response, while informative, does not align with the reference answer and is therefore not correct based on the given rubric.
+[RESULT]: 1

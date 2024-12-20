@@ -1,0 +1,5 @@
+[PROMPT]: When did Ghana achieve independence from the United Kingdom?
+[USER_ANSWER]: Ghana achieved independence from the United Kingdom on March 6, 1957. It was the first sub-Saharan African country to gain independence from colonial rule.
+[CORRECT_ANSWER]: 1957
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact date of Ghana's independence, which is March 6, 1957, and adds additional relevant information about Ghana being the first sub-Saharan African country to gain independence from colonial rule. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

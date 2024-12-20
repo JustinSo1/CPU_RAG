@@ -1,0 +1,25 @@
+[PROMPT]: Where did a suicide-bombing kill a teacher in 2005?
+[USER_ANSWER]: 
+
+This question is tricky because it requires a bit of detective work. Here's how to approach it:
+
+* **Think about recent events:**  2005 was a significant year in terms of global conflicts and terrorism. 
+* **Consider major events:**  Think about major terrorist attacks that occurred in 2005.
+* **Focus on locations:**  Where were there significant terrorist attacks in 2005?
+
+**To help you further, here are some potential locations and events:**
+
+* **Iraq:**  The Iraq War was ongoing in 2005, and there were numerous suicide bombings.
+* **Afghanistan:**  The Taliban was still in control of much of Afghanistan, and there were frequent attacks.
+* **Pakistan:**  Pakistan was a target of terrorist attacks, including suicide bombings.
+
+**To find the specific answer:**
+
+* **Search online:** Use search engines like Google to look for news articles or reports about suicide bombings in 2005.
+* **Consult historical databases:**  There are online databases that track terrorist attacks. 
+
+**Remember:**  It's important to be sensitive to the victims of these tragedies. 
+
+[CORRECT_ANSWER]: At the Doha Players Theatre.
+[FEEDBACK]: The response does not provide the specific location where the suicide-bombing killed a teacher in 2005, which is the Doha Players Theatre. Instead, it offers a general approach to finding the answer and lists potential locations without pinpointing the exact event. This makes the response mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

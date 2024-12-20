@@ -1,0 +1,10 @@
+[PROMPT]: When is the first record of S08_settlement in Singapore?
+[USER_ANSWER]: 
+
+I need to find the first record of S08_settlement in Singapore. I'm looking for the earliest possible date or time that this record appears in Singapore. 
+
+Please provide any information you have on this. 
+
+[CORRECT_ANSWER]: second century AD
+[FEEDBACK]: The response does not provide any factual information or a specific date related to the first record of S08_settlement in Singapore. Instead, it repeats the question and asks for information, which does not align with the reference answer that specifies "second century AD." Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factuality.
+[RESULT]: 1

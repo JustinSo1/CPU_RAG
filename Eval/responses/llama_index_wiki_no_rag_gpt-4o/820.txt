@@ -1,0 +1,5 @@
+[PROMPT]: What sort of turtles are ectothermic?
+[USER_ANSWER]: All turtles are ectothermic, meaning they rely on external sources of heat to regulate their body temperature. This includes both aquatic turtles, such as sea turtles and freshwater turtles, as well as terrestrial turtles, like tortoises. Ectothermy is a common characteristic among reptiles, including lizards, snakes, and crocodiles.
+[CORRECT_ANSWER]: all of them
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that all turtles are ectothermic and provides additional information about different types of turtles and other reptiles that share this characteristic. However, the reference answer is more concise and directly answers the question without additional details. While the extra information is accurate, it is not necessary for the response to be considered completely correct based on the reference answer.
+[RESULT]: 4

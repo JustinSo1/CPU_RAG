@@ -1,0 +1,19 @@
+[PROMPT]: What is the weather like in summer?
+[USER_ANSWER]: 
+
+The weather in summer is typically warm and sunny. ☀️ 
+
+Here are some more details:
+
+* **Temperatures:**  Summer temperatures vary depending on location, but generally range from 70°F to 90°F (21°C to 32°C).
+* **Sunshine:**  Summer days are often sunny and bright, with long hours of daylight.
+* **Humidity:**  Humidity levels can be high in some areas, making it feel muggy.
+* **Precipitation:**  Summer is typically a wet season in many places, with frequent rainfall.
+* **Activities:**  Summer is a great time for outdoor activities such as swimming, hiking, and camping.
+
+
+Let me know if you'd like to know more about a specific location's summer weather! 
+
+[CORRECT_ANSWER]: relatively warm
+[FEEDBACK]: The response provides a detailed and accurate description of summer weather, including information on temperatures, sunshine, humidity, precipitation, and activities. While the reference answer is very brief, the response expands on the concept of "relatively warm" by providing additional relevant details. The information given is correct and factual, aligning well with the reference answer's indication of warm weather. However, the response goes beyond the simplicity of the reference answer, which might be seen as unnecessary for the given task.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Where was Commodore Matthew C. Perry sent to open Japan to Western trade?
+[USER_ANSWER]: Commodore Matthew C. Perry was sent by the United States to Japan to open it to Western trade. He arrived in Edo Bay (modern Tokyo Bay) in 1853 with a squadron of ships, and his mission culminated in the signing of the Treaty of Kanagawa in 1854, which effectively opened Japan to trade with the United States and marked the end of Japan's period of national isolation (sakoku).
+[CORRECT_ANSWER]: Japan
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about Commodore Matthew C. Perry's mission to Japan, including his arrival in Edo Bay and the signing of the Treaty of Kanagawa. However, the reference answer is simply "Japan," which is a more concise response to the question. The additional details, while accurate, are not necessary to answer the question directly.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Is a polar bear white in color?
+[USER_ANSWER]: A polar bear's fur appears white, but it is actually translucent. Each hair shaft is hollow and reflects light, which gives the bear its white appearance and helps it blend into its snowy and icy environment. Beneath the fur, a polar bear's skin is black, which helps to absorb and retain heat from the sun.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed and accurate explanation about the color of a polar bear's fur and skin. However, the instruction asks for a simple confirmation of whether a polar bear is white in color. While the response is factually correct, it goes beyond the simplicity of the reference answer. Therefore, it is mostly correct and factual but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

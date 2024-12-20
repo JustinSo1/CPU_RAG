@@ -1,0 +1,5 @@
+[PROMPT]: Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?
+[USER_ANSWER]: No, the largest living species is not the emperor penguin (Aptenodytes forsteri). The blue whale (Balaenoptera musculus) holds the title of the largest living species. Blue whales can reach lengths of up to 100 feet (30 meters) and can weigh as much as 200 tons (approximately 181 metric tonnes). The emperor penguin is the largest of the penguin species, but it does not come close to the size of a blue whale.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect based on the reference answer. The reference answer simply states "Yes," indicating that the largest living species is the emperor penguin. However, the response provided argues that the blue whale is the largest living species, which contradicts the reference answer. Therefore, the response is not correct, accurate, or factual according to the given reference answer.
+[RESULT]: 1

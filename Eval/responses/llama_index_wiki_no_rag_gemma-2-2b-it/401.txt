@@ -1,0 +1,10 @@
+[PROMPT]: Is it true that he practiced law in fredericksburg?
+[USER_ANSWER]: 
+
+**Please provide the name of the person you are referring to.**
+
+Once you provide the name, I can help you find out if they practiced law in Fredericksburg. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question "Is it true that he practiced law in Fredericksburg?" Instead, it asks for more information, which is not necessary based on the reference answer. The reference answer is a simple "yes," indicating that the question can be answered without additional details. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,23 @@
+[PROMPT]: What is Finland's economy like?
+[USER_ANSWER]: 
+
+Finland's economy is a mixed economy with a high level of social welfare and a strong focus on innovation and technology. 
+
+Here's a breakdown of key aspects:
+
+**Strengths:**
+
+* **High-income economy:** Finland has one of the highest per capita incomes in the world, reflecting its strong economic performance and high living standards.
+* **Strong export sector:** Finland is a major exporter of goods and services, particularly in the areas of technology, machinery, and wood products.
+* **Highly skilled workforce:** Finland has a highly educated and skilled workforce, which is a key driver of its economic success.
+* **Innovation and technology:** Finland is a global leader in innovation and technology, with a strong focus on research and development.
+* **Low unemployment:** Finland has a low unemployment rate, which is a sign of a strong and healthy economy.
+* **High level of social welfare:** Finland has a comprehensive social welfare system that provides a high level of support for its citizens, including healthcare, education, and unemployment benefits.
+
+**Challenges:**
+
+* **High cost of living:** Finland has a high cost of living, particularly in housing and other essential goods and services.
+* **Limited natural resources:** Finland has limited natural resources,
+[CORRECT_ANSWER]: a highly industrialised, free-market economy
+[FEEDBACK]: The response provides a detailed and accurate description of Finland's economy, highlighting its mixed economy nature, high level of social welfare, and focus on innovation and technology. It also correctly identifies key strengths such as high-income economy, strong export sector, highly skilled workforce, and low unemployment. The challenges mentioned, such as high cost of living and limited natural resources, are also accurate. However, the response is more detailed than the reference answer, which is concise. Despite this, the information provided is correct and factual based on the reference answer.
+[RESULT]: 5

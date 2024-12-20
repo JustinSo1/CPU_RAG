@@ -1,0 +1,5 @@
+[PROMPT]: When did Coolidge meet and marry Grace Anna Goodhue?
+[USER_ANSWER]: Calvin Coolidge met Grace Anna Goodhue in 1903. They married on October 4, 1905.
+[CORRECT_ANSWER]: 1905
+[FEEDBACK]: The response provides additional details about when Calvin Coolidge met Grace Anna Goodhue (1903) and their marriage date (October 4, 1905). While the marriage date is accurate and matches the reference answer, the meeting date is additional information not required by the question. The response is mostly correct, accurate, and factual, but the extra detail about the meeting date is not necessary for a perfect score based on the reference answer.
+[RESULT]: 4

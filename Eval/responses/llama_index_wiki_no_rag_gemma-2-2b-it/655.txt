@@ -1,0 +1,10 @@
+[PROMPT]: What is polar bear's skin color?
+[USER_ANSWER]: 
+
+Polar bear's skin is **white**. 
+
+This is because their fur is actually a very dark brown color, but it's so thick and dense that it reflects the sunlight. 
+
+[CORRECT_ANSWER]: white or cream
+[FEEDBACK]: The response is mostly incorrect and inaccurate. Polar bear's skin is actually black, not white. The explanation provided about the fur being dark brown and reflecting sunlight is also incorrect. The fur is translucent and appears white due to the reflection and scattering of light. The reference answer indicates that the correct skin color is white or cream, which is also not accurate. Therefore, the response does not align well with the factual information provided in the reference answer.
+[RESULT]: 2

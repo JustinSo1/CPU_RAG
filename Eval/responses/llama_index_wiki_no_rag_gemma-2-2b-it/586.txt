@@ -1,0 +1,15 @@
+[PROMPT]: How much do sea otters weigh?
+[USER_ANSWER]: 
+
+Sea otters are known for their fluffy, adorable appearance, but they are also surprisingly strong and agile creatures. 
+
+**Here's a breakdown of their weight:**
+
+* **Adult male sea otters:** Typically weigh between **88 and 154 pounds (40-70 kilograms)**.
+* **Adult female sea otters:** Typically weigh between **66 and 110 pounds (30-50 kilograms)**.
+
+Keep in mind that these are just average weights, and individual sea otters can vary in size depending on factors like age, sex, and diet. 
+
+[CORRECT_ANSWER]: 30 kg (about 65 pounds)
+[FEEDBACK]: The response provides a detailed and accurate breakdown of the weight ranges for adult male and female sea otters. The information is factual and aligns well with the reference answer, which states that sea otters weigh around 30 kg (about 65 pounds). The response expands on this by giving a range for both males and females, which is helpful and accurate.
+[RESULT]: 5

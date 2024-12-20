@@ -1,0 +1,15 @@
+[PROMPT]: Are male otters dog-otters?
+[USER_ANSWER]: 
+
+This is a funny question! 
+
+Here's why it's funny:
+
+* **It plays on the idea of "dog-like" behavior.**  Otters are playful and social animals, but they're not dogs.
+* **It's a bit silly to think of otters as dogs.** Otters have different physical characteristics and behaviors.
+
+So, no, male otters are not dog-otters. They're just otters! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer is a simple "yes," indicating that male otters are indeed referred to as dog-otters. The response provided, while humorous and engaging, ultimately denies this fact by stating, "no, male otters are not dog-otters." This contradicts the reference answer and does not align with the factual information required by the rubric.
+[RESULT]: 2

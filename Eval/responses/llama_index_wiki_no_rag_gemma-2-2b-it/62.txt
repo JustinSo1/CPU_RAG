@@ -1,0 +1,23 @@
+[PROMPT]: Which type of beetle is a pest of potato plants?
+[USER_ANSWER]: 
+
+A. Ladybird beetle
+B. Dung beetle
+C. Colorado potato beetle
+D. Fire ant
+
+**Answer:** C. Colorado potato beetle
+
+**Explanation:**
+
+The Colorado potato beetle (Leptinotarsa decemlineata) is a notorious pest of potato plants. It's a large, brightly colored beetle with distinctive black and yellow markings. 
+
+Here's why the other options are incorrect:
+
+* **Ladybird beetle:** These beetles are beneficial predators of other insects, including aphids.
+* **Dung beetle:** These beetles are known for their role in burying and aerating dung.
+* **Fire ant:** These ants are known for their painful stings and are not related to beetles. 
+
+[CORRECT_ANSWER]: Colorado potato beetle
+[FEEDBACK]: The response correctly identifies the Colorado potato beetle as the pest of potato plants, which aligns with the reference answer. The explanation provided is accurate and factual, detailing why the Colorado potato beetle is a pest and why the other options are incorrect. This demonstrates a thorough understanding of the topic.
+[RESULT]: 5

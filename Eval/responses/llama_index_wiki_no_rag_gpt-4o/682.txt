@@ -1,0 +1,7 @@
+[PROMPT]: Does Qatar rank as the eighth richest country in the world per capita?
+[USER_ANSWER]: As of the most recent data available up to October 2023, Qatar is often cited among the wealthiest countries in the world on a per capita basis. The exact ranking can vary depending on the source and the specific metrics used (such as GDP per capita, purchasing power parity, etc.). While Qatar is typically in the top tier, it may not always rank exactly eighth; it could be slightly higher or lower.
+
+For the most accurate and up-to-date ranking, it's best to refer to the latest reports from reputable financial institutions or international organizations such as the International Monetary Fund (IMF) or the World Bank.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response provides a detailed explanation about Qatar's wealth ranking, mentioning that it is often cited among the wealthiest countries on a per capita basis and that the exact ranking can vary. However, the instruction specifically asks if Qatar ranks as the eighth richest country in the world per capita, to which the reference answer is a simple "No." The response does not directly address the question with a clear "No" and instead offers a more general discussion, which makes it somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

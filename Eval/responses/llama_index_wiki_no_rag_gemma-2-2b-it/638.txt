@@ -1,0 +1,16 @@
+[PROMPT]: What happens when mothers lose a chick?
+[USER_ANSWER]: 
+
+When a mother hen loses a chick, she will usually try to find a new one to replace it. This is because hens are very protective of their chicks and will do anything to keep them safe. 
+
+Here's what happens:
+
+* **The hen will search for a new chick.** She will look for a healthy chick that is about the same age as her lost one.
+* **The hen will try to raise the new chick.** She will take care of the new chick just like she would her own.
+* **The hen may even try to replace the lost chick.** She may try to find a chick that is even more similar to the lost one.
+
+It's important to remember that hens are very protective of their chicks and will do anything to keep them safe. 
+
+[CORRECT_ANSWER]: They sometimes attempt to "steal" another chick.
+[FEEDBACK]: The response provides a detailed explanation of what a mother hen might do when she loses a chick, including searching for a new chick and trying to raise it. However, the reference answer specifically mentions that hens sometimes attempt to "steal" another chick, which is not explicitly stated in the response. While the response is somewhat related and provides accurate information about the protective nature of hens, it does not directly address the specific behavior mentioned in the reference answer. Therefore, the response is somewhat correct and factual but not fully aligned with the reference answer.
+[RESULT]: 3

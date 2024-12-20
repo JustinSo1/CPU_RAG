@@ -1,0 +1,7 @@
+[PROMPT]: Are all penguins countershaded?
+[USER_ANSWER]: Most penguin species are countershaded, meaning they have a darker coloration on their dorsal (upper) side and a lighter coloration on their ventral (under) side. This type of coloring is a form of camouflage that helps protect them from predators. When viewed from above, their dark backs blend in with the dark ocean waters, and when viewed from below, their light bellies blend in with the lighter surface of the sea.
+
+However, while countershading is common among penguins, it is not universal. Some penguin species or individual penguins may exhibit variations in their coloration due to factors like age, molting, or genetic differences. But generally, countershading is a prevalent adaptation among penguins.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation about the countershading of penguins, which is mostly accurate. However, the instruction asks if all penguins are countershaded, and the reference answer is a simple "Yes." The response correctly states that most penguins are countershaded but also mentions exceptions, which introduces some inaccuracy compared to the reference answer. Therefore, while the response is informative and mostly correct, it is not completely aligned with the reference answer.
+[RESULT]: 4

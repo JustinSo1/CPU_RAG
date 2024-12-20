@@ -1,0 +1,5 @@
+[PROMPT]: What body of water lies to the south of Finland?
+[USER_ANSWER]: The body of water that lies to the south of Finland is the Gulf of Finland. It is an arm of the Baltic Sea situated between Finland to the north and Estonia to the south.
+[CORRECT_ANSWER]: the Gulf of Finland
+[FEEDBACK]: The response correctly identifies the Gulf of Finland as the body of water that lies to the south of Finland. The additional information provided about the Gulf of Finland being an arm of the Baltic Sea and its location between Finland and Estonia is accurate and factual. This response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

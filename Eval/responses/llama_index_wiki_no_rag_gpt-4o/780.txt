@@ -1,0 +1,5 @@
+[PROMPT]: What was the nickname of Theodore Roosevelt's sister Anna?
+[USER_ANSWER]: Theodore Roosevelt's sister Anna was commonly known by the nickname "Bamie."
+[CORRECT_ANSWER]: Bamie as a child and Bye as an adult
+[FEEDBACK]: The response is mostly correct, accurate, and factual as it correctly identifies one of the nicknames of Theodore Roosevelt's sister Anna, which is "Bamie." However, it does not mention the other nickname "Bye" that she was known by as an adult, which is included in the reference answer.
+[RESULT]: 4

@@ -1,0 +1,17 @@
+[PROMPT]: How many species and genera does otter have?
+[USER_ANSWER]: 
+
+Otters are a diverse group of mammals, and there are **over 13 different species** of otters. 
+
+Here's a breakdown of the genera:
+
+* **Aonyx** -  This genus includes the **Asian small-clawed otter** and the **African clawless otter**.
+* **Lontra** - This genus includes the **sea otter**, **giant otter**, and **river otter**.
+* **Neocyon** - This genus includes the **giant otter**.
+* **Enhydra** - This genus includes the **sea otter**.
+
+It's important to note that the exact number of otter species and genera can vary depending on the taxonomic classification used. 
+
+[CORRECT_ANSWER]: 13 species and 7 genera
+[FEEDBACK]: The response provides an accurate count of over 13 different species of otters, which aligns with the reference answer stating 13 species. However, the breakdown of genera is not entirely accurate. The genera listed include some inaccuracies and redundancies. For example, the sea otter is listed under both Lontra and Enhydra, which is incorrect. Additionally, the genus Neocyon is not a recognized genus for otters. The reference answer states there are 7 genera, but the response only lists 4, with some inaccuracies. Therefore, while the response is somewhat correct, it is not mostly correct or completely accurate.
+[RESULT]: 3

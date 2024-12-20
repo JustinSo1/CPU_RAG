@@ -1,0 +1,17 @@
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
+[USER_ANSWER]: President Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, during the American Civil War, for several key reasons:
+
+1. **Moral and Ethical Stance**: Lincoln personally believed that slavery was morally wrong. Although he initially focused on preserving the Union, the issue of slavery was deeply intertwined with the conflict.
+
+2. **War Strategy**: The proclamation was a strategic move to weaken the Confederacy. By declaring the freedom of all slaves in Confederate-held territory, Lincoln aimed to disrupt the South's economy and war effort, which relied heavily on slave labor.
+
+3. **Encouraging Enlistment**: The proclamation allowed for the recruitment of African American soldiers into the Union Army. This bolstered the Union's numbers and added a moral cause to the Union’s fight, further inspiring soldiers and supporters.
+
+4. **Diplomatic Reasons**: The proclamation helped prevent European powers, particularly Britain and France, from recognizing or supporting the Confederacy. Both nations had abolished slavery and were less likely to support a government fighting to maintain it.
+
+5. **Political Considerations**: Issuing the proclamation shifted the war goals of the Union and rallied abolitionist support behind the war effort. It also laid the groundwork for the eventual abolition of slavery throughout the United States.
+
+Overall, Lincoln’s decision to issue the Emancipation Proclamation was a multifaceted one, aimed at strengthening the Union’s position both militarily and morally.
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response provides a detailed and accurate explanation of the reasons behind Lincoln's issuance of the Emancipation Proclamation. It covers multiple aspects such as moral and ethical stance, war strategy, encouraging enlistment, diplomatic reasons, and political considerations. However, the reference answer is very brief and focuses solely on the primary reason: to free slaves. While the response is factually correct and provides a comprehensive understanding, it does not align perfectly with the simplicity and directness of the reference answer.
+[RESULT]: 4

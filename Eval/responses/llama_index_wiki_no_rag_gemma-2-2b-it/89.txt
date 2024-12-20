@@ -1,0 +1,23 @@
+[PROMPT]: Did Coolidge graduate from Black River Academy?
+[USER_ANSWER]: 
+
+This is a tricky question because there's no readily available information about Coolidge's education. 
+
+Here's why it's difficult to answer:
+
+* **Limited Historical Records:**  Detailed records about private schools like Black River Academy from that era might not be readily accessible or digitized.
+* **Privacy Concerns:**  Even if records exist, they might not be publicly available due to privacy concerns.
+* **Multiple Schools:**  There might have been multiple schools with similar names or locations over time, making it difficult to pinpoint the exact institution.
+
+**What you can do:**
+
+* **Contact Historical Societies:**  Reach out to historical societies in the area where Black River Academy was located. They might have more information or lead you to relevant resources.
+* **Explore Local Libraries:**  Local libraries might have archives or historical documents that could shed light on Coolidge's education.
+* **Search Online Databases:**  Try searching online databases like Ancestry.com or FamilySearch.org for records related to Coolidge's family.
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question of whether Coolidge graduated from Black River Academy. Instead, it provides a detailed explanation of why it might be difficult to find this information and suggests ways to research it. This makes the response mostly incorrect and not factual, as it does not provide the simple factual answer "yes" as indicated by the reference answer.
+[RESULT]: 2

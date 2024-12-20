@@ -1,0 +1,8 @@
+[PROMPT]: Is it true that he married louise désirée lorieux in 1890?
+[USER_ANSWER]: 
+
+Please provide more context about who "he" refers to. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question and instead asks for more context. This makes the response not factual or accurate based on the reference answer, which directly confirms the marriage. The response fails to provide the correct information and does not align with the reference answer.
+[RESULT]: 1

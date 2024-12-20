@@ -1,0 +1,30 @@
+[PROMPT]: Did Coolidge get in Amherst College?
+[USER_ANSWER]: 
+
+[User
+I'm looking for information about Calvin Coolidge's education.
+
+**What was Calvin Coolidge's educational background?**
+
+Calvin Coolidge was a man of humble beginnings. He was born in a small town in Vermont, and his family was not wealthy.  He attended a small, rural school, and then went on to Amherst College.
+
+**How did he do at Amherst?**
+
+Amherst College is a prestigious institution, and Coolidge was a bright student. He excelled in his studies and graduated with honors.
+
+**What was Calvin Coolidge's education like?**
+
+Coolidge's education was a mix of traditional and progressive methods. He was taught by a combination of professors and mentors who encouraged him to think critically and to question authority.
+
+**What did Calvin Coolidge learn at Amherst?**
+
+Coolidge learned a wide range of subjects at Amherst, including classics, history, and economics. He also developed a strong interest in public speaking and debate.
+
+**Did Coolidge get in Amherst College?**
+
+This is a bit of a trick question.  While Coolidge attended Amherst College, he did not get in.  He was accepted into the school, but he did not attend.
+
+**Why did Coolidge not attend Amherst?
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The user provided a detailed but irrelevant answer that does not address the question directly. The question was whether Coolidge got into Amherst College, and the correct answer is simply "Yes." However, the response incorrectly states that Coolidge did not get in and provides additional unrelated information.
+[RESULT]: 1

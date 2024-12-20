@@ -1,0 +1,24 @@
+[PROMPT]: What animals are related to otters?
+[USER_ANSWER]: 
+
+Otters are semi-aquatic mammals belonging to the family Mustelidae, which also includes weasels, badgers, and wolverines. 
+
+Here's a breakdown of their relationship to other animals:
+
+* **Family:** Mustelidae - This family is known for its diverse members, including weasels, badgers, wolverines, ferrets, and otters.
+* **Genus:** *Lontra* - This genus specifically includes the sea otter, the most well-known otter species.
+* **Species:** There are several species of otters, including the North American river otter, the Eurasian otter, and the giant otter.
+
+**Other Animals in the Mustelidae Family:**
+
+* **Weasels:** Small, slender carnivores known for their agility and speed.
+* **Badgers:** Stocky, burrowing mammals with strong claws and a distinctive black and white coat.
+* **Wolverines:** Large, powerful predators with thick fur and a strong bite.
+* **Ferrets:** Small, domesticated carnivores with long, slender bodies and short legs.
+
+**Relationship to Other Mammals:**
+
+Otters are mammals, meaning they are warm-blooded, have fur, and give birth to live
+[CORRECT_ANSWER]: weasels, polecats, and badgers
+[FEEDBACK]: The response provides a detailed and accurate explanation of the relationship between otters and other animals within the Mustelidae family. It correctly identifies weasels, badgers, and wolverines as related animals, which aligns with the reference answer. However, the response includes additional information about the genus and species of otters, which, while informative, is not directly relevant to the instruction. The response is mostly correct, accurate, and factual, but the extra details slightly detract from the focus on the specific animals related to otters.
+[RESULT]: 4

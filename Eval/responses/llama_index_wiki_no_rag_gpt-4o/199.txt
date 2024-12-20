@@ -1,0 +1,5 @@
+[PROMPT]: How much do elephants weight at birth?
+[USER_ANSWER]: Newborn elephants typically weigh between 200 to 300 pounds (about 90 to 136 kilograms). The exact weight can vary depending on the species, with African elephants generally being on the heavier side compared to Asian elephants.
+[CORRECT_ANSWER]: 120 kilograms
+[FEEDBACK]: The response provides a range for the weight of newborn elephants, stating that they typically weigh between 200 to 300 pounds (about 90 to 136 kilograms). While this information is generally accurate and factual, it does not match the specific weight given in the reference answer (120 kilograms). The response also adds additional context about the weight variation between African and Asian elephants, which is accurate but not directly requested in the instruction. Overall, the response is mostly correct and factual but not completely aligned with the reference answer.
+[RESULT]: 4

@@ -1,0 +1,10 @@
+[PROMPT]: Where was Grover Cleveland married?
+[USER_ANSWER]: 
+
+The answer is **New York City**. 
+
+Grover Cleveland was married to Frances Folsom Cleveland in New York City. 
+
+[CORRECT_ANSWER]: In the White House
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. Grover Cleveland was married in the White House, not in New York City.
+[RESULT]: 1

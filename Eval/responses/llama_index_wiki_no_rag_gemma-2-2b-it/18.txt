@@ -1,0 +1,16 @@
+[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
+[USER_ANSWER]: 
+
+The Emancipation Proclamation was issued by President Abraham Lincoln on January 1, 1863, during the American Civil War. It declared that all enslaved people in Confederate-held territory were to be freed. 
+
+Here's why Lincoln issued the proclamation:
+
+* **To weaken the Confederacy:** The primary goal of the Emancipation Proclamation was to weaken the Confederacy by depriving it of its labor force.  Slavery was a vital economic engine for the South, and freeing slaves would disrupt this system.
+* **To gain international support:** Lincoln hoped that the proclamation would garner international support for the Union cause. Many European nations were hesitant to support the war against slavery, but the Emancipation Proclamation presented a moral argument for intervention.
+* **To shift the focus of the war:** By declaring slaves free, Lincoln aimed to shift the focus of the war from preserving the Union to also fighting for the abolition of slavery. This was a crucial step in the long struggle for racial equality.
+* **To bolster morale:** The proclamation also served to boost morale among Union soldiers and the abolitionist movement. It provided a powerful symbol of hope and progress in the fight against slavery.
+
+**It's important to note:** The Emancipation Proclamation was not a complete
+[CORRECT_ANSWER]: To free slaves 
+[FEEDBACK]: The response provides a detailed and accurate explanation of why Lincoln issued the Emancipation Proclamation. It correctly identifies the primary goal of weakening the Confederacy by depriving it of its labor force, gaining international support, shifting the focus of the war to the abolition of slavery, and bolstering morale among Union soldiers and the abolitionist movement. However, the reference answer is very concise and focuses solely on the goal of freeing slaves. While the response is mostly correct and factual, it includes additional context that is not present in the reference answer. Therefore, it does not fully align with the simplicity and directness of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,9 @@
+[PROMPT]: Is a leopard larger and less lanky than a cheetah?
+[USER_ANSWER]: Yes, a leopard is generally larger and more robust than a cheetah. Leopards have a more muscular build with a stocky body, powerful limbs, and a broader head. They are well-adapted for climbing and have the strength to haul their prey into trees.
+
+Cheetahs, on the other hand, are built for speed. They have a leaner, more elongated body with long legs, a deep chest, and a small, rounded head. Their lightweight frame and specialized limb structure allow them to reach high speeds, making them the fastest land animals.
+
+So, in comparison, leopards are more robust and less lanky than cheetahs.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the physical differences between leopards and cheetahs, which supports the assertion that leopards are larger and less lanky than cheetahs. However, the reference answer is very brief and simply states "yes," which is a complete and factual response to the question. The evaluated response, while informative, goes beyond the simplicity of the reference answer. Therefore, it is mostly correct but not completely aligned with the reference answer's brevity.
+[RESULT]: 4

@@ -1,0 +1,16 @@
+[PROMPT]: Was Liechtenstein part of the ancient Roman province of Raetia?
+[USER_ANSWER]: 
+
+Liechtenstein was never part of the ancient Roman province of Raetia. 
+
+Here's why:
+
+* **Liechtenstein's location:**  Liechtenstein is a small principality in Central Europe, nestled between Switzerland and Austria. 
+* **Raetia's location:** Raetia was a Roman province located in the central Alps, encompassing modern-day Switzerland, parts of Austria, and Italy. 
+* **Time period:** Raetia was established by the Romans in the 1st century BC and lasted until the 5th century AD.  Liechtenstein was not established until the 13th century AD.
+
+Therefore, there was no historical connection between the two. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that Liechtenstein was part of the ancient Roman province of Raetia. The response provided argues the opposite, stating that Liechtenstein was never part of Raetia and provides reasons that are factually incorrect. Therefore, the response does not align with the reference answer and fails to provide accurate information.
+[RESULT]: 1

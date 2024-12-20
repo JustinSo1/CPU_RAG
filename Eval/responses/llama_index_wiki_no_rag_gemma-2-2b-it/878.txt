@@ -1,0 +1,15 @@
+[PROMPT]: What was founded by the Spanish in the early 18th century as a military stronghold?
+[USER_ANSWER]: 
+
+**Answer:**  Fort San Juan de la Cruz
+
+**Explanation:**
+
+* **Fort San Juan de la Cruz** was a Spanish military fortress built in the early 18th century in what is now the city of **San Juan, Puerto Rico**. 
+* It served as a strategic point for the Spanish to control the island and protect their interests. 
+
+Let me know if you have any other history questions! 
+
+[CORRECT_ANSWER]: Montevideo
+[FEEDBACK]: The response "Fort San Juan de la Cruz" is completely incorrect based on the reference answer "Montevideo." The explanation provided does not align with the correct answer and contains inaccuracies regarding the location and significance of the fortress mentioned. Therefore, the response does not meet the criteria for correctness, accuracy, or factuality as per the score rubric.
+[RESULT]: 1

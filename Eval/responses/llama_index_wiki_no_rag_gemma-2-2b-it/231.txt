@@ -1,0 +1,17 @@
+[PROMPT]: What is the life expectancy for men?
+[USER_ANSWER]: 
+
+The average life expectancy for men in the United States is **73 years**. 
+
+However, it's important to note that this is just an average. Life expectancy can vary significantly based on factors such as:
+
+* **Race and ethnicity:**  Black men have a lower life expectancy than white men.
+* **Socioeconomic status:** Men from lower socioeconomic backgrounds tend to have shorter lifespans.
+* **Health conditions:**  Men with certain health conditions, such as heart disease or cancer, may have a shorter life expectancy.
+* **Lifestyle choices:**  Smoking, unhealthy diet, and lack of physical activity can all contribute to a shorter lifespan.
+
+It's important to remember that life expectancy is just a statistic. It doesn't tell the whole story about individual health and well-being. 
+
+[CORRECT_ANSWER]: 75 years
+[FEEDBACK]: The response provides an average life expectancy for men in the United States as 73 years, which is not completely accurate based on the reference answer of 75 years. While the response includes additional relevant information about factors affecting life expectancy, the primary figure given is not correct. Therefore, the response is somewhat correct and factual but not mostly or completely accurate.
+[RESULT]: 3

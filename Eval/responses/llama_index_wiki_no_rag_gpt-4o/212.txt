@@ -1,0 +1,5 @@
+[PROMPT]: Do they prefer forested areas?
+[USER_ANSWER]: Your question is quite broad, so I'll need more context to provide an accurate answer. Are you asking about a specific animal, plant, or group of organisms? Many species prefer forested areas due to the availability of shelter, food resources, and suitable living conditions, but the preference can vary greatly depending on the organism in question.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation and asks for more context, which is not necessary based on the simplicity of the question. The reference answer is a straightforward "Yes," indicating that the question does not require additional context or elaboration. While the response is not incorrect, it overcomplicates the answer and does not directly address the question as simply as the reference answer does. Therefore, it is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

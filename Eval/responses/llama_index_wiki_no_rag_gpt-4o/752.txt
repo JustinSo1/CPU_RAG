@@ -1,0 +1,19 @@
+[PROMPT]: Was Lee Kuan Yew a successful leader of Singapore?
+[USER_ANSWER]: Yes, Lee Kuan Yew is widely regarded as a highly successful leader of Singapore. He served as the country's first Prime Minister from 1959 to 1990 and played a pivotal role in transforming Singapore from a small, underdeveloped port city into a prosperous, global financial hub.
+
+Several key achievements during his leadership include:
+
+1. **Economic Development**: Under Lee Kuan Yew's leadership, Singapore experienced rapid industrialization and economic growth. His government implemented policies that attracted foreign investment, developed infrastructure, and created a business-friendly environment.
+
+2. **Political Stability and Governance**: Lee emphasized the importance of good governance, meritocracy, and a strong, efficient public service. His leadership style, sometimes described as pragmatic and authoritarian, helped maintain political stability and public order.
+
+3. **Social Policies**: Lee's administration focused on building a cohesive society through policies on housing, education, and healthcare. The Housing Development Board (HDB) built affordable public housing, while the education system was reformed to emphasize bilingualism and skills development.
+
+4. **Anti-Corruption Measures**: Lee Kuan Yew took a strong stance against corruption, establishing strict laws and an independent anti-corruption agency, the Corrupt Practices Investigation Bureau (CPIB), to ensure clean governance.
+
+5. **Racial and Religious Harmony**: Recognizing Singapore's diverse population, Lee promoted policies that fostered racial and religious harmony, ensuring that different communities lived and worked together peacefully.
+
+While his leadership style was sometimes criticized for being overly authoritarian and limiting political freedoms, the overall consensus is that Lee Kuan Yew's policies were instrumental in shaping modern Singapore and setting it on a path of sustained economic success and social stability.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed and comprehensive overview of Lee Kuan Yew's achievements and leadership style, which aligns with the reference answer's indication that he was a successful leader. The response covers various aspects of his leadership, including economic development, political stability, social policies, anti-corruption measures, and efforts to maintain racial and religious harmony. These points are all factual and contribute to the understanding of why Lee Kuan Yew is regarded as a successful leader.
+[RESULT]: 5

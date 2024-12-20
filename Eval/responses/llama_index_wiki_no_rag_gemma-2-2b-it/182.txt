@@ -1,0 +1,15 @@
+[PROMPT]: During what period was Akhenaten a Pharaoh?
+[USER_ANSWER]: 
+
+Akhenaten was a Pharaoh during the **18th Dynasty of Egypt**, specifically during the **New Kingdom period**. 
+
+Here's a breakdown:
+
+* **18th Dynasty:** This was a period of significant change and upheaval in Egyptian history. It's known for its powerful pharaohs like Akhenaten.
+* **New Kingdom:** This period is considered the "golden age" of ancient Egypt. It was a time of expansion, prosperity, and cultural flourishing. 
+
+Akhenaten's reign was a pivotal moment in this period, marked by his radical religious reforms and his attempt to establish a monotheistic religion centered on the sun disk Aten. 
+
+[CORRECT_ANSWER]: The New Kingdom (c.1550&#8722;1070 BC) 
+[FEEDBACK]: The response correctly identifies that Akhenaten was a Pharaoh during the 18th Dynasty of Egypt and the New Kingdom period. It provides additional context about the significance of the 18th Dynasty and the New Kingdom, which is accurate and factual. However, it does not provide the specific time frame (c.1550–1070 BC) mentioned in the reference answer. While the response is mostly correct and factual, the lack of specific dates means it is not completely aligned with the reference answer.
+[RESULT]: 4

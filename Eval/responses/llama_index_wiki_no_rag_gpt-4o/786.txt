@@ -1,0 +1,5 @@
+[PROMPT]: Where was Theodore Roosevelt from?
+[USER_ANSWER]: Theodore Roosevelt was from New York City, New York. He was born there on October 27, 1858. Roosevelt later became the 26th President of the United States, serving from 1901 to 1909.
+[CORRECT_ANSWER]: Gramercy section of New York City
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Theodore Roosevelt was from New York City, New York, and provides additional accurate information about his birth date and presidency. However, it does not specify the Gramercy section of New York City, which is a detail included in the reference answer.
+[RESULT]: 4

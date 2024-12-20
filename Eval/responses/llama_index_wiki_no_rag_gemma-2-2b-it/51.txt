@@ -1,0 +1,10 @@
+[PROMPT]: Is the Celsius crater on the Moon named after him ?
+[USER_ANSWER]: 
+
+The Celsius crater on the Moon is named after the **Swedish astronomer Anders Celsius**. 
+
+He is famous for his Celsius scale, which is used to measure temperature. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides additional information about Anders Celsius and his contributions, which is accurate. However, the response does not directly answer the question with a simple "Yes" or "No," which is what the reference answer does. The response is mostly correct and factual but lacks the directness and simplicity of the reference answer.
+[RESULT]: 4

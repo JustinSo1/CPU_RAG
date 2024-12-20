@@ -1,0 +1,21 @@
+[PROMPT]: What is an economic use of a duck?
+[USER_ANSWER]: Ducks have several economic uses that can benefit both small-scale and commercial enterprises. Some of the primary economic uses of ducks include:
+
+1. **Meat Production:** Ducks are raised for their meat, which is considered a delicacy in many cultures. Duck meat is flavorful and can be sold in local markets, restaurants, or exported to other countries.
+
+2. **Egg Production:** Certain breeds of ducks are prolific egg layers. Duck eggs are slightly larger than chicken eggs and are valued for their rich flavor and higher nutritional content. They can be sold directly to consumers, used in baking, or processed into products like salted duck eggs.
+
+3. **Feathers and Down:** Duck feathers and down are highly valued for their insulating properties. They are used in the production of high-quality bedding, such as pillows, comforters, and jackets.
+
+4. **Pest Control:** Ducks can be used in integrated pest management systems, particularly in rice paddies and other agricultural settings. They help control pests by eating insects, snails, and weeds, thereby reducing the need for chemical pesticides and herbicides.
+
+5. **Fertilizer Production:** Duck droppings are rich in nutrients and can be used as organic fertilizer. This can help improve soil fertility and reduce the reliance on synthetic fertilizers.
+
+6. **Ornamental and Show Purposes:** Some people raise ducks for ornamental purposes or for showing in competitions. Certain breeds of ducks are valued for their unique appearance and can be bred for sale to other enthusiasts.
+
+7. **Tourism and Recreation:** Ducks can also be part of agro-tourism ventures, where visitors come to farms to learn about duck farming, participate in feeding activities, or simply enjoy watching the ducks.
+
+Overall, ducks provide multiple streams of income and can be an integral part of sustainable farming practices.
+[CORRECT_ANSWER]: Meat
+[FEEDBACK]: The response provides a comprehensive list of economic uses of ducks, including meat production, egg production, feathers and down, pest control, fertilizer production, ornamental and show purposes, and tourism and recreation. While the reference answer only mentions "meat," the response accurately expands on various other economic uses, all of which are correct and factual. However, the reference answer is very specific and minimalistic, focusing solely on meat production. Given the rubric, the response is mostly correct and factual but includes more information than the reference answer.
+[RESULT]: 4

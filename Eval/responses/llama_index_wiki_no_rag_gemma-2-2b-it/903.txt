@@ -1,0 +1,17 @@
+[PROMPT]: Where did Wilson attend law school?
+[USER_ANSWER]: 
+
+This is a trick question! 
+
+The question is designed to make you think about the character of Woodrow Wilson, the 28th President of the United States.  
+
+**However, there is no mention of Woodrow Wilson's law school in the question.** 
+
+Woodrow Wilson attended **Princeton University**, where he received his bachelor's degree. He then went on to study at **Princeton Law School**. 
+
+
+Let me know if you'd like to know more about Woodrow Wilson! 
+
+[CORRECT_ANSWER]: Wilson attended law school at University of Virginia
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The question is straightforward and asks where Wilson attended law school. The response incorrectly states that Wilson attended Princeton Law School, which is not accurate. The correct answer is the University of Virginia. The additional information about Princeton University and the suggestion that the question is a trick question are irrelevant and do not address the instruction directly. Therefore, the response does not meet the criteria for accuracy and correctness based on the reference answer.
+[RESULT]: 2

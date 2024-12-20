@@ -1,0 +1,15 @@
+[PROMPT]: How does a Mallard's tongue work?
+[USER_ANSWER]: A Mallard's tongue, like that of other ducks, is specialized for their feeding habits. Here’s how it works:
+
+1. **Structure**: The Mallard's tongue is relatively flat and broad, with a rough surface and several adaptations that aid in feeding. It has a series of fine, comb-like structures called lamellae along the edges.
+
+2. **Feeding Mechanism**: Mallards are dabbling ducks, meaning they feed primarily at the surface of the water or just below it. When a Mallard takes in water through its bill, it uses its tongue to help filter out food particles from the water. The lamellae act like a sieve, trapping small plants, seeds, and invertebrates.
+
+3. **Movement**: The tongue moves back and forth in a pumping motion, helping to push water out of the sides of the bill while retaining food. This motion is coordinated with the movement of the bill and the rest of the mouthparts to efficiently separate food from water.
+
+4. **Swallowing**: Once the food particles are trapped by the lamellae and collected, the tongue helps to manipulate the food towards the back of the mouth where it can be swallowed.
+
+Overall, the Mallard's tongue is a highly specialized organ that works in conjunction with the bill to enable the bird to efficiently filter and consume a wide variety of food items from the water.
+[CORRECT_ANSWER]: It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat
+[FEEDBACK]: The response provides a detailed and accurate description of how a Mallard's tongue works, including its structure, feeding mechanism, movement, and swallowing process. However, it does not mention the specific detail about the short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat, which is a key point in the reference answer. While the response is mostly correct and factual, it lacks this specific detail that is crucial for a perfect score.
+[RESULT]: 4

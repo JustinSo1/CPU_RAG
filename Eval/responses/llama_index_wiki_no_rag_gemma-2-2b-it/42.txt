@@ -1,0 +1,12 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: 
+
+**Answer:**  **Albert Einstein** 
+
+**Explanation:**
+
+Albert Einstein is a renowned theoretical physicist who developed the theory of relativity. His name is associated with numerous scientific concepts, discoveries, and institutions. 
+
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response is completely incorrect and does not address the question accurately. The question asks for something named after a person, and the reference answer specifies the "Celsius crater on the Moon." The response mentions Albert Einstein, which is unrelated to the specific naming context provided in the reference answer. Therefore, the response is not factual or accurate based on the reference answer.
+[RESULT]: 1

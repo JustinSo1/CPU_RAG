@@ -1,0 +1,9 @@
+[PROMPT]: Have penguins an average sense of hearing for birds ?
+[USER_ANSWER]: Penguins are generally considered to have a good sense of hearing, which is well-adapted to their environment and lifestyle. Like many birds, penguins rely on vocalizations for communication, especially in their noisy colony environments where visual cues might be less effective. They use their hearing to recognize mates, chicks, and other individuals through specific calls.
+
+While comprehensive studies comparing penguin hearing to that of all other bird species are limited, it can be said that penguins have specialized hearing adapted to both air and underwater acoustics. In the water, their hearing is crucial for detecting prey and avoiding predators. 
+
+Overall, penguins' hearing abilities are well-developed for their ecological needs, but calling it "average" would depend on the specific comparison group within the diverse range of bird species.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation about penguins' sense of hearing, emphasizing their adaptation to their environment and lifestyle. However, it does not directly answer the question of whether penguins have an average sense of hearing compared to other birds. The reference answer is a simple "Yes," indicating that the expected response should be straightforward and directly address the comparison to other birds. The evaluated response, while informative, does not clearly state whether penguins' hearing is average among birds, making it somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

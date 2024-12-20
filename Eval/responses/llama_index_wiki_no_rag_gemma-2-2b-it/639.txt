@@ -1,0 +1,15 @@
+[PROMPT]: Is it true that each penguin gets a turn in the center?
+[USER_ANSWER]: 
+
+This is a fun question! It's a bit of a trick question. 
+
+Here's why:
+
+* **Penguins don't have a "center" in the way we think of it.**  They don't have a designated spot in a line or a circle. 
+* **Penguins are wild animals.** They don't follow rules or have a set schedule like a game. 
+
+So, while it's a cute idea to imagine penguins in a line or circle, it's not something that actually happens in nature. 🐧 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer is a simple "Yes," indicating that each penguin does get a turn in the center. However, the response provided goes into an explanation that suggests penguins do not have a center or follow a set schedule, which contradicts the reference answer. The response does not align with the factual accuracy required by the reference answer.
+[RESULT]: 2

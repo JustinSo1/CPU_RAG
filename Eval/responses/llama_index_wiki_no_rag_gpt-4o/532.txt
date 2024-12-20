@@ -1,0 +1,5 @@
+[PROMPT]: How many municipalities are within Oberland?
+[USER_ANSWER]: Oberland is a region in several different countries, so I need more specific information to give an accurate answer. For instance, "Berner Oberland" refers to the Bernese Highlands in Switzerland, and "Tiroler Oberland" refers to the Tyrolean Highlands in Austria. Could you please specify which Oberland you're referring to?
+[CORRECT_ANSWER]: 6.
+[FEEDBACK]: The response does not provide the specific number of municipalities within Oberland, which is 6, as indicated by the reference answer. Instead, it asks for clarification on which Oberland is being referred to, suggesting that there are multiple regions with the name Oberland. While this information is accurate, it does not directly answer the question. Therefore, the response is somewhat correct and factual but does not meet the criteria for a higher score due to the lack of a direct answer.
+[RESULT]: 3

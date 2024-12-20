@@ -1,0 +1,8 @@
+[PROMPT]: When did he drop John from his name?
+[USER_ANSWER]: 
+
+Please provide the context for your question. Who is "he"? 
+
+[CORRECT_ANSWER]: upon graduating from college
+[FEEDBACK]: The response does not provide an answer to the question "When did he drop John from his name?" Instead, it asks for additional context, which is not relevant to the accuracy of the answer. The response is completely incorrect and does not address the question at all.
+[RESULT]: 1

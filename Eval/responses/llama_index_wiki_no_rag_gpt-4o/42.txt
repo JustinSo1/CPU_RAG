@@ -1,0 +1,5 @@
+[PROMPT]: What is named after him?
+[USER_ANSWER]: Could you please provide more context or specify who "him" refers to? This will help me provide a more accurate and relevant answer.
+[CORRECT_ANSWER]: The Celsius crater on the Moon
+[FEEDBACK]: The response does not provide the correct answer to the question "What is named after him?" Instead, it asks for more context or clarification. While it is a reasonable request for more information, it does not address the question directly or provide any factual information related to the reference answer, which is "The Celsius crater on the Moon." Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

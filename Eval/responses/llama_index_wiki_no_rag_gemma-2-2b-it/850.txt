@@ -1,0 +1,8 @@
+[PROMPT]: Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?
+[USER_ANSWER]: 
+
+I'm looking for a place to eat in the area. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question about the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street. Instead, it talks about looking for a place to eat in the area, which is completely unrelated to the question. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

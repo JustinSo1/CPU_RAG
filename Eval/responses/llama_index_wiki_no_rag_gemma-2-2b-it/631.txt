@@ -1,0 +1,10 @@
+[PROMPT]: What order do penguins belong to?
+[USER_ANSWER]: 
+
+Penguins belong to the order **Sphenisciformes**. 
+
+This order is a group of flightless birds that are adapted to living in cold, aquatic environments. 
+
+[CORRECT_ANSWER]: Sphenisciformes
+[FEEDBACK]: The response correctly identifies the order to which penguins belong as "Sphenisciformes," which matches the reference answer. Additionally, the response provides extra information about the characteristics of this order, which is accurate and factual. However, the additional information, while correct, is not necessary for the answer to the specific question asked. The primary criterion is the correctness of the order name, which is fully met.
+[RESULT]: 5

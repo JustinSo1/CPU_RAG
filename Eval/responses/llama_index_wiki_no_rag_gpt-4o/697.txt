@@ -1,0 +1,5 @@
+[PROMPT]: What bordered by Saudi?
+[USER_ANSWER]: Saudi Arabia shares its borders with several countries. To the north, it is bordered by Jordan and Iraq. To the northeast, it shares a border with Kuwait. On the eastern side, it is bordered by Bahrain via a causeway, and Qatar and the United Arab Emirates (UAE). To the southeast, it is bordered by Oman, and to the south, it shares a long border with Yemen. Additionally, Saudi Arabia has extensive coastlines along the Red Sea to the west and the Arabian Gulf to the east.
+[CORRECT_ANSWER]: Qatar
+[FEEDBACK]: The response provides a detailed and accurate list of the countries that border Saudi Arabia, including Jordan, Iraq, Kuwait, Bahrain, Qatar, UAE, Oman, and Yemen. It also mentions the coastlines along the Red Sea and the Arabian Gulf. However, the reference answer only mentions Qatar, which suggests a more concise response was expected. Despite this, the response is factually correct and accurate in listing all the bordering countries.
+[RESULT]: 4

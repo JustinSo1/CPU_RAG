@@ -1,0 +1,5 @@
+[PROMPT]: Who was first apprenticed to a fuller to learn the cloth-making trade?
+[USER_ANSWER]: Geoffrey Chaucer, the famous English poet and author of "The Canterbury Tales," was apprenticed to a fuller to learn the cloth-making trade. His father, John Chaucer, was a prosperous wine merchant, and young Geoffrey was initially intended to follow in the cloth-making business, which was a significant industry in medieval England. However, Chaucer eventually found his path in the royal court and literary pursuits, becoming one of the most important figures in English literature.
+[CORRECT_ANSWER]: millard fillmore
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Millard Fillmore was the person apprenticed to a fuller to learn the cloth-making trade, while the response incorrectly identifies Geoffrey Chaucer. The additional information about Chaucer's life and career is irrelevant to the question and does not align with the reference answer.
+[RESULT]: 1

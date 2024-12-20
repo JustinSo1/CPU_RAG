@@ -1,0 +1,8 @@
+[PROMPT]: How many regions is Ghana divided into?
+[USER_ANSWER]: 
+
+Ghana is divided into **10** regions. 
+
+[CORRECT_ANSWER]: 10
+[FEEDBACK]: The response states that Ghana is divided into 10 regions, which matches the reference answer. However, the use of bold formatting is unnecessary and does not affect the factual accuracy of the response. The response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

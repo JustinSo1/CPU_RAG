@@ -1,0 +1,10 @@
+[PROMPT]: Why are side-necked turtles called side-necked turtles?
+[USER_ANSWER]: 
+
+Side-necked turtles get their name from the **shape of their necks**. They have a **distinctly curved neck** that curves to the side, giving them a "side-necked" appearance. 
+
+This unique neck shape is a result of their **evolutionary adaptation**. It allows them to **easily reach food sources** in the water and on land. 
+
+[CORRECT_ANSWER]: Because of the way they withdraw their heads into their shells.
+[FEEDBACK]: The response is somewhat correct in that it mentions the neck of the turtles, but it inaccurately describes the reason for their name. Side-necked turtles are called so because of the way they withdraw their heads into their shells, not because of the shape of their necks or their evolutionary adaptation for reaching food. The response includes some factual information about the turtles' necks but does not accurately address the specific reason for their name as indicated in the reference answer.
+[RESULT]: 3

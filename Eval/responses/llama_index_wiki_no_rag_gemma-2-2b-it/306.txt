@@ -1,0 +1,17 @@
+[PROMPT]: When do wolves molt?
+[USER_ANSWER]: 
+
+Wolves, like most other canids, go through a seasonal molt. This means they shed their winter coat and replace it with a lighter, summer coat. 
+
+Here's a breakdown of when wolves molt:
+
+* **Timing:** The molt typically occurs in **spring**, starting around **March or April** and continuing through **May**.
+* **Trigger:** The change in weather is the primary trigger for the molt. As temperatures rise and daylight hours increase, wolves start to shed their thick winter coat.
+* **Appearance:** During the molt, wolves will have a **lighter, more patchy coat** with a mix of white, gray, and brown fur. 
+* **Duration:** The molt can last for several weeks, depending on the individual wolf and the severity of the weather.
+
+It's important to note that the exact timing and duration of the molt can vary depending on the wolf's location, age, and individual genetics. 
+
+[CORRECT_ANSWER]: Late Spring or Early Summer
+[FEEDBACK]: The response provides a detailed and accurate explanation of when wolves molt, specifying that it typically occurs in spring, starting around March or April and continuing through May. This aligns well with the reference answer of "Late Spring or Early Summer." The response also includes additional relevant information about the triggers, appearance, and duration of the molt, which enhances the overall accuracy and completeness of the answer. Therefore, the response is mostly correct, accurate, and factual based on the reference answer.
+[RESULT]: 4

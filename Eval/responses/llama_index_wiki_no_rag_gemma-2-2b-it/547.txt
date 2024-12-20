@@ -1,0 +1,8 @@
+[PROMPT]: Is it the smallest german-speaking country in the world?
+[USER_ANSWER]: 
+
+The answer is **Liechtenstein**. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "The answer is **Liechtenstein**." is factually correct as Liechtenstein is indeed the smallest German-speaking country in the world. However, the response does not directly answer the yes/no question posed in the instruction. The reference answer "Yes" is a direct and concise response to the question. Therefore, while the response is accurate, it does not fully align with the format of the reference answer.
+[RESULT]: 4

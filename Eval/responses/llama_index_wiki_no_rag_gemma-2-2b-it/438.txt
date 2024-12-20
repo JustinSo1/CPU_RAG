@@ -1,0 +1,10 @@
+[PROMPT]: Is it true that adams had spent some time as the ambassador?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Yes, it is true.  John Adams served as the first U.S. Ambassador to Great Britain. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that John Adams served as an ambassador, which aligns with the reference answer. However, the additional detail about him being the first U.S. Ambassador to Great Britain, while accurate, is not necessary to answer the question. The reference answer is more concise and directly addresses the question without extra information.
+[RESULT]: 4

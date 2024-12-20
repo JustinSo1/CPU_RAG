@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard -LRB- panthera pardus -RRB- an old world mammal of the felidae family and the smallest of the four (`` ` big cats ('' ' of the genus panthera , along with the tiger , lion , and jaguar?
+[USER_ANSWER]: Yes, the leopard (Panthera pardus) is indeed an Old World mammal of the Felidae family. It is one of the four "big cats" in the genus Panthera, which also includes the tiger, lion, and jaguar. Among these four big cats, the leopard is the smallest in terms of average body size.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the leopard as an Old World mammal of the Felidae family and one of the four big cats in the genus Panthera. However, the reference answer is simply "Yes," which suggests that a brief confirmation is sufficient. The additional details provided, while accurate, are not necessary to meet the criteria of the reference answer. Therefore, the response goes beyond what is required but does not detract from the accuracy of the information provided.
+[RESULT]: 4

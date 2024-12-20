@@ -1,0 +1,13 @@
+[PROMPT]: How many children did Grover Cleveland have?
+[USER_ANSWER]: Grover Cleveland, the 22nd and 24th President of the United States, had five children with his wife, Frances Folsom Cleveland. Their names were:
+
+1. Ruth Cleveland
+2. Esther Cleveland
+3. Marion Cleveland
+4. Richard Folsom Cleveland
+5. Francis Grover Cleveland
+
+Additionally, Grover Cleveland had a child named Oscar Folsom Cleveland who was born prior to his marriage to Frances, with Maria Halpin. The paternity of Oscar was a subject of controversy and has been a matter of historical debate.
+[CORRECT_ANSWER]: 5
+[FEEDBACK]: The response provides detailed information about Grover Cleveland's children, including their names and the controversy surrounding Oscar Folsom Cleveland. However, the instruction specifically asked for the number of children, and the reference answer is simply "5." The additional information, while accurate, complicates the response and deviates from the straightforward answer required. Therefore, the response is mostly correct but not completely aligned with the reference answer.
+[RESULT]: 4

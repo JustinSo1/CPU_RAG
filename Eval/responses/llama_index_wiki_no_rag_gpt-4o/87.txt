@@ -1,0 +1,5 @@
+[PROMPT]: Was Calvin Coolidge the twenty-ninth vice president?
+[USER_ANSWER]: No, Calvin Coolidge was not the twenty-ninth vice president; he was the thirtieth president of the United States. He served as vice president from March 4, 1921, to August 2, 1923, under President Warren G. Harding. When President Harding died in office, Coolidge succeeded him and served as president from 1923 to 1929. The twenty-ninth vice president was actually Charles G. Dawes, who served under President Calvin Coolidge from 1925 to 1929.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Calvin Coolidge was not the twenty-ninth vice president and provides additional context about his presidency and vice presidency. However, it incorrectly states that Charles G. Dawes was the twenty-ninth vice president, when in fact, he was the thirtieth vice president. This inaccuracy prevents the response from being completely correct.
+[RESULT]: 4

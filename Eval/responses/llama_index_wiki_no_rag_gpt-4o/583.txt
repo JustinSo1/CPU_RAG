@@ -1,0 +1,5 @@
+[PROMPT]: Does the giant otter inhabit South Africa?
+[USER_ANSWER]: No, the giant otter does not inhabit South Africa. The giant otter (Pteronura brasiliensis) is native to South America, specifically in the Amazon, Orinoco, and La Plata river systems. They are found in countries such as Brazil, Peru, Colombia, and Venezuela. South Africa does not have a native population of giant otters.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information about the giant otter's habitat, specifying that it is native to South America and listing the river systems and countries where it can be found. This additional detail, while not necessary, does not detract from the accuracy of the response. The main point, that the giant otter does not inhabit South Africa, is clearly and correctly stated.
+[RESULT]: 5

@@ -1,0 +1,8 @@
+[PROMPT]: Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?
+[USER_ANSWER]: 
+
+Please clarify. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Please clarify." does not provide an answer to the question asked. It does not address the factual content of the question, nor does it confirm or deny the information provided. Therefore, it is completely incorrect and inaccurate based on the reference answer, which is a simple confirmation "Yes".
+[RESULT]: 1

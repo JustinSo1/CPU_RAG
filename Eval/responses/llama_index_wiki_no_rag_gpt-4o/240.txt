@@ -1,0 +1,5 @@
+[PROMPT]: When did the first verifiable written documents appear?
+[USER_ANSWER]: The first verifiable written documents appeared in ancient Mesopotamia around 3400 to 3000 BCE. These early forms of writing were developed by the Sumerians and are known as cuneiform script. The earliest examples of cuneiform writing were primarily used for record-keeping and administrative purposes. Another early writing system, Egyptian hieroglyphs, emerged slightly later, around 3200 BCE. These early writing systems marked the beginning of recorded history and the ability to document human activities, culture, and knowledge.
+[CORRECT_ANSWER]: Twelfth Century
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the first verifiable written documents appeared in the twelfth century, while the response discusses ancient Mesopotamia and Egyptian hieroglyphs, which are much earlier. This discrepancy shows that the response does not align with the reference answer at all.
+[RESULT]: 1

@@ -1,0 +1,13 @@
+[PROMPT]: Does a large proportion of the population speak Swedish as its mother tongue?
+[USER_ANSWER]: To determine whether a large proportion of the population speaks Swedish as its mother tongue, it's important to specify which population you are referring to. 
+
+In Sweden, the vast majority of the population speaks Swedish as their mother tongue. Swedish is the official language and is spoken by most residents.
+
+In Finland, Swedish is also an official language and is the mother tongue of about 5-6% of the population, primarily in the coastal regions and the Åland Islands.
+
+Globally, the proportion of people who speak Swedish as their mother tongue is relatively small, as the language is predominantly spoken in Sweden and parts of Finland.
+
+So, in the context of Sweden, a large proportion of the population speaks Swedish as their mother tongue. In the global context, however, Swedish speakers constitute a much smaller percentage of the world's population.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response provides a detailed and accurate explanation regarding the proportion of the population that speaks Swedish as their mother tongue in different contexts (Sweden, Finland, and globally). However, the reference answer is a simple "No," which suggests a more straightforward interpretation of the question. While the response is factually correct and provides valuable context, it does not align with the simplicity and directness of the reference answer. Therefore, it is mostly correct and accurate but not completely aligned with the reference answer's simplicity.
+[RESULT]: 4

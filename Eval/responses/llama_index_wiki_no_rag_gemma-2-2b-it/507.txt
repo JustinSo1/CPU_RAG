@@ -1,0 +1,15 @@
+[PROMPT]: Felis pardus was what?
+[USER_ANSWER]: 
+
+The answer is **domestic cat**. 
+
+Here's why:
+
+* **Felis pardus** is the scientific name for the domestic cat. 
+* **Domestic cat** is the common name for the animal. 
+
+Let me know if you have any other animal trivia questions! 
+
+[CORRECT_ANSWER]: One of the many species described in Linnaeus's 18th-century work, Systema Naturae
+[FEEDBACK]: The response is completely incorrect and inaccurate. "Felis pardus" is not the scientific name for the domestic cat; it is actually the scientific name for the leopard. The reference answer indicates that "Felis pardus" was one of the species described in Linnaeus's 18th-century work, Systema Naturae, which is accurate. The response provided does not align with this information and is factually incorrect.
+[RESULT]: 1

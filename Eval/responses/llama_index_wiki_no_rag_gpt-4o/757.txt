@@ -1,0 +1,21 @@
+[PROMPT]: Why are relations with Malaysia and Indonesia important?
+[USER_ANSWER]: Relations with Malaysia and Indonesia are important for several key reasons:
+
+1. **Economic Ties**: Both Malaysia and Indonesia are significant economic players in Southeast Asia and are members of the Association of Southeast Asian Nations (ASEAN). Strong economic ties with these countries can facilitate trade, investment, and economic growth. They have rich natural resources and large markets that are attractive to businesses and investors.
+
+2. **Geopolitical Stability**: Malaysia and Indonesia are crucial for regional stability in Southeast Asia. Positive relations can help in maintaining peace and security in the region, which is vital for international shipping routes and global trade.
+
+3. **Cultural and Historical Connections**: There are deep cultural, historical, and social connections between Malaysia, Indonesia, and their neighboring countries. These relationships can foster better mutual understanding, cooperation, and people-to-people ties.
+
+4. **Environmental Cooperation**: Both countries have significant natural resources, including vast rainforests and marine biodiversity. Cooperation on environmental issues such as deforestation, wildlife conservation, and climate change is essential to address global environmental challenges.
+
+5. **Strategic Partnerships**: Strong bilateral relations can lead to strategic partnerships in various fields such as defense, education, healthcare, and technology. Collaboration in these areas can enhance mutual capabilities and address common challenges.
+
+6. **Labor and Migration**: There is considerable labor migration between these countries. Managing this migration effectively is important for ensuring the rights and welfare of migrant workers and addressing any socio-economic impacts.
+
+7. **Tourism**: Malaysia and Indonesia are popular tourist destinations. Good relations can promote tourism, which is an important sector for economic development and cultural exchange.
+
+Overall, maintaining strong relations with Malaysia and Indonesia is beneficial for economic prosperity, regional stability, cultural exchange, and addressing shared challenges.
+[CORRECT_ANSWER]: Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.
+[FEEDBACK]: The response provides a detailed and accurate explanation of why relations with Malaysia and Indonesia are important. It covers various aspects such as economic ties, geopolitical stability, cultural connections, environmental cooperation, strategic partnerships, labor and migration, and tourism. These points are factual and align with the general understanding of the importance of relations with these countries. However, the reference answer is very brief and only mentions geographical reasons, which the response does not explicitly address. Despite this, the response is comprehensive and factually correct in its own right.
+[RESULT]: 4

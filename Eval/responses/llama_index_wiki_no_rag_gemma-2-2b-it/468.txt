@@ -1,0 +1,23 @@
+[PROMPT]: What is used to protect a vehicale from a Kangaroo?
+[USER_ANSWER]: 
+
+**Answer:**  A **kangaroo-proof fence**
+
+**Explanation:**
+
+Kangaroos are powerful animals that can cause significant damage to vehicles. To protect vehicles from kangaroo attacks, a specialized fence is used. This fence is designed to be high enough to deter kangaroos from jumping over it and strong enough to withstand their powerful kicks. 
+
+Here are some additional points to consider:
+
+* **Location:** Kangaroos are more likely to be found in areas with open grasslands and scrubland. 
+* **Fence materials:**  The fence material should be durable and resistant to damage from kangaroo kicks. 
+* **Height:** The height of the fence should be at least 1.8 meters (6 feet) to deter kangaroos from jumping over it. 
+* **Spacing:** The spacing between fence posts should be wide enough to prevent kangaroos from climbing over it. 
+* **Maintenance:** The fence should be regularly inspected and maintained to ensure its effectiveness. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response provided is not correct based on the reference answer. The reference answer indicates that "roo bars" are used to protect a vehicle from a kangaroo, whereas the response mentions a "kangaroo-proof fence," which is not the same thing. The explanation provided is detailed and informative, but it does not align with the correct answer. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
+[RESULT]: 1

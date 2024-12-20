@@ -1,0 +1,13 @@
+[PROMPT]: Who represented the Continental Congress in Europe?
+[USER_ANSWER]: During the American Revolutionary War, the Continental Congress sent several representatives to Europe to seek support and build alliances. The most notable representatives were:
+
+1. **Benjamin Franklin**: He was the most prominent diplomat and served as the ambassador to France, where he played a crucial role in securing French support for the American cause.
+  
+2. **John Adams**: He served as a diplomat in multiple European countries, including France, the Netherlands, and Great Britain. Adams was instrumental in securing loans and negotiating peace treaties.
+
+3. **John Jay**: He served as the ambassador to Spain and was also a key negotiator of the Treaty of Paris, which ended the Revolutionary War.
+
+These representatives were pivotal in gaining military and financial support for the American Revolution, ultimately contributing to the success of the United States in achieving independence.
+[CORRECT_ANSWER]: John Adams
+[FEEDBACK]: The response provides accurate and factual information about the representatives of the Continental Congress in Europe during the American Revolutionary War. It correctly identifies Benjamin Franklin, John Adams, and John Jay, who were indeed key figures in securing support and negotiating treaties. However, the reference answer specifically mentions John Adams, and while the response includes him, it also adds additional context and names that were not required by the instruction. This makes the response more detailed than necessary but does not detract from its accuracy.
+[RESULT]: 4

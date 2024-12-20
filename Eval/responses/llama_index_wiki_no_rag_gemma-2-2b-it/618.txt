@@ -1,0 +1,26 @@
+[PROMPT]: Have most otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?
+[USER_ANSWER]: 
+
+This is a question about the diet of otters. 
+
+Here's a breakdown of the information:
+
+* **Otters:**  These are semi-aquatic mammals known for their playful nature and love of water.
+* **Diet:**  Otters are carnivores, meaning they eat meat. Their diet is primarily based on fish, but they also eat other animals like frogs, crayfish, and crabs.
+
+**Answer:**
+
+Yes, most otters primarily fish as the main item in their diet. They are known to be highly skilled fishers and rely on their hunting skills to catch their prey. 
+
+**Additional Information:**
+
+* The specific types of fish an otter eats can vary depending on the species and their geographic location.
+* Otters are known to be opportunistic feeders, meaning they will eat whatever is available to them. 
+* While fish is the primary food source, they also supplement their diet with other animals like frogs, crayfish, and crabs. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation about the diet of otters, stating that fish is the primary item in their diet and that they also eat frogs, crayfish, and crabs. However, the reference answer is very concise and simply states "yes," which directly answers the question without additional information. The response could be considered overly detailed for the simplicity of the question, but it does not contain any inaccuracies.
+[RESULT]: 4

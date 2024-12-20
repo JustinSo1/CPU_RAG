@@ -1,0 +1,5 @@
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: Abraham Lincoln's legal career spanned approximately 25 years. He began practicing law in 1836 after obtaining his law license and continued until he became President of the United States in 1861. During this period, Lincoln handled a wide variety of cases and became a well-respected lawyer in Illinois.
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It states that Lincoln's legal career spanned approximately 25 years, which is close to the reference answer of 23 years. The additional details about when he began practicing law and when he became President are accurate and provide useful context, but the exact duration is slightly off.
+[RESULT]: 4

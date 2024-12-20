@@ -1,0 +1,17 @@
+[PROMPT]: What is one significant non-official language?
+[USER_ANSWER]: 
+
+One significant non-official language is **Esperanto**. 
+
+Here's why:
+
+* **Designed for global communication:** Esperanto was created in the late 19th century with the goal of being a universal language for all people. 
+* **Simple grammar and vocabulary:** It has a relatively simple grammar and vocabulary, making it easier to learn than many other languages.
+* **Active community:** Esperanto has a large and active community of speakers and learners worldwide.
+* **Cultural impact:** Esperanto has influenced literature, art, and even politics in some circles.
+
+While not as widely spoken as English or Mandarin, Esperanto's unique history and potential for global communication make it a significant non-official language. 
+
+[CORRECT_ANSWER]: Chinese.
+[FEEDBACK]: The response identifies Esperanto as a significant non-official language and provides several reasons to support this claim. However, the reference answer indicates "Chinese" as the correct response. Given that the response does not align with the reference answer, it is not correct according to the provided rubric. The response is well-argued and factual about Esperanto, but it does not meet the criteria of being correct based on the reference answer.
+[RESULT]: 1

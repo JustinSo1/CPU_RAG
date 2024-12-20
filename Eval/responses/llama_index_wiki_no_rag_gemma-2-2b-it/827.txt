@@ -1,0 +1,19 @@
+[PROMPT]: Are Immature sea turtles not cared for by the adults ?
+[USER_ANSWER]: 
+
+**Answer:**
+
+No, immature sea turtles are not not cared for by the adults.  
+
+Here's why:
+
+* **Parental Care:** Sea turtles, like many other reptiles, are known for their parental care.  Adult sea turtles will protect their nests and hatchlings from predators.
+* **Nesting:**  The female sea turtle will lay her eggs in a nest on the beach. She will then return to the ocean.
+* **Hatchlings:**  The hatchlings will emerge from the nest and make their way to the ocean.  They are vulnerable to predators and the elements. 
+* **Immature Stage:**  Sea turtles are not "immature" in the sense of being cared for by their parents. They are still developing and need to learn to navigate the ocean and find food.
+
+**Important Note:**  While adult sea turtles do provide some protection for their offspring, they are not responsible for their care throughout their entire lives.  The young sea turtles are entirely dependent on their own instincts and abilities to survive. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer is a simple "yes," indicating that immature sea turtles are not cared for by adults. However, the response provided contradicts this by stating that adult sea turtles do provide some protection for their offspring, which is not aligned with the reference answer. Additionally, the response contains factual inaccuracies about sea turtle behavior, such as the claim that adult sea turtles protect their nests and hatchlings from predators, which is not true. Adult sea turtles do not exhibit parental care after laying their eggs. The response also includes unnecessary details that do not directly address the question.
+[RESULT]: 2

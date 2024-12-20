@@ -1,0 +1,19 @@
+[PROMPT]: What is the smallest suborder of turtles?
+[USER_ANSWER]: 
+
+The smallest suborder of turtles is the **Cryptodira**. 
+
+Here's why:
+
+* **Cryptodira** turtles have a distinctive "backward-facing" shell, meaning their shells curve backward. This is a key feature that distinguishes them from the other suborder, **Pleurodira**.
+* **Pleurodira** turtles have a "forward-facing" shell, meaning their shells curve forward. 
+
+The suborder Cryptodira includes species like:
+* **Tortoises**
+* **Sea turtles**
+
+Let me know if you have any other questions about turtles! 🐢 
+
+[CORRECT_ANSWER]: Pleurodira
+[FEEDBACK]: The response incorrectly identifies Cryptodira as the smallest suborder of turtles, while the reference answer states that Pleurodira is the smallest suborder. Additionally, the explanation provided about the shell orientation is inaccurate and does not align with the factual characteristics of these suborders. Therefore, the response is mostly incorrect and inaccurate.
+[RESULT]: 2

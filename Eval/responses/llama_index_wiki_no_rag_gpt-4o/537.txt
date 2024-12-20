@@ -1,0 +1,21 @@
+[PROMPT]: What do most recognizable international company and largest employer have in common?
+[USER_ANSWER]: The most recognizable international company and the largest employer in the world share several common attributes:
+
+1. **Global Presence**: Both typically have a strong international presence, operating in multiple countries and regions around the world.
+
+2. **Brand Recognition**: They usually have highly recognizable brands, with their logos, products, or services being well-known to people in many different countries.
+
+3. **Economic Impact**: These companies often have significant economic impact, not only through their direct operations and employment but also through their supply chains and the wider economy.
+
+4. **Innovation and Adaptability**: To maintain their positions, these companies are often leaders in innovation and adapt to changing market conditions, consumer preferences, and technological advancements.
+
+5. **Scale of Operations**: They usually operate on a large scale, with extensive infrastructure, resources, and capabilities to manage their vast operations and workforce.
+
+6. **Employee Base**: They employ a large number of people, providing diverse job opportunities across various functions and levels.
+
+7. **Corporate Responsibility**: They often have comprehensive corporate social responsibility (CSR) strategies, focusing on sustainability, ethical practices, and community engagement to maintain their reputation and comply with global standards.
+
+An example of such a company is Walmart. It is one of the most recognized retail brands globally and also holds the title of the largest employer in the world.
+[CORRECT_ANSWER]: They are Hilti.
+[FEEDBACK]: The response provides a detailed and accurate analysis of the common attributes shared by the most recognizable international company and the largest employer in the world. However, it does not directly answer the question with the specific company name "Hilti" as given in the reference answer. The response is factually correct and provides relevant information, but it does not align with the reference answer's simplicity and directness. Therefore, it is not completely correct based on the reference answer.
+[RESULT]: 3

@@ -1,0 +1,10 @@
+[PROMPT]: Are Male otters dog-otters , females are bitches and babies are cubs or pups ?
+[USER_ANSWER]: 
+
+I'm trying to learn about otters and I'm having a hard time with the terminology. 
+
+Thanks!
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question about the terminology for male, female, and baby otters. It instead talks about the difficulty in learning the terminology, which does not provide any factual information or answer the question. Therefore, it is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

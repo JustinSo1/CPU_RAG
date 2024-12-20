@@ -1,0 +1,19 @@
+[PROMPT]: What economic uses to ducks have?
+[USER_ANSWER]: 
+
+Ducks are not just cute and cuddly, they can also be quite useful in the economy! Here are some ways ducks can be economically valuable:
+
+**1. Food Production:**
+* **Eggs:** Ducks are prolific egg layers, producing a high volume of eggs compared to other poultry. This makes them a valuable source of protein and nutrients.
+* **Meat:** Duck meat is considered a delicacy in many cultures and is becoming increasingly popular in the Western world. It's leaner and more flavorful than chicken, and can be used in a variety of dishes.
+
+**2. Environmental Benefits:**
+* **Pest Control:** Ducks are natural pest control agents, helping to keep gardens and farms free of insects and rodents. They can also help control algae growth in ponds and lakes.
+* **Water Quality Improvement:** Ducks can help improve water quality by filtering out debris and organic matter. They also help aerate water bodies, which is beneficial for aquatic life.
+
+**3. Tourism and Recreation:**
+* **Wildlife Viewing:** Ducks are popular attractions for birdwatchers and nature enthusiasts. They can be seen in parks, gardens, and wetlands, providing opportunities for observation and photography.
+* **Farm Tourism:** Duck farms can be attractive tourist destinations, offering visitors a chance
+[CORRECT_ANSWER]: They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.
+[FEEDBACK]: The response provides a detailed and accurate account of the economic uses of ducks, including food production (eggs and meat), environmental benefits (pest control and water quality improvement), and tourism and recreation (wildlife viewing and farm tourism). These points align well with the reference answer, which mentions farming ducks for meat, eggs, and feathers, as well as their role in aviculture and zoos. The response expands on these points with additional details, but all the information provided is correct and factual.
+[RESULT]: 5

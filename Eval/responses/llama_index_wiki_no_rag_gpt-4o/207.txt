@@ -1,0 +1,5 @@
+[PROMPT]: How many species of African elephants have been proposed?
+[USER_ANSWER]: There are two recognized species of African elephants: the African bush elephant (Loxodonta africana) and the African forest elephant (Loxodonta cyclotis). These species differ in several aspects, including their size, habitat, and physical characteristics.
+[CORRECT_ANSWER]: three
+[FEEDBACK]: The response is mostly incorrect based on the reference answer. The reference answer states that there are three proposed species of African elephants, while the response mentions only two recognized species. Although the response provides accurate information about the two recognized species, it does not align with the reference answer regarding the number of proposed species.
+[RESULT]: 2

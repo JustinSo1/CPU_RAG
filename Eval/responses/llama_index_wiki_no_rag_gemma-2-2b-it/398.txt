@@ -1,0 +1,15 @@
+[PROMPT]: What was the result of the rejection of the Jay Treaty?
+[USER_ANSWER]: 
+
+The Jay Treaty was a controversial agreement between the United States and Great Britain that was rejected by the United States Senate in 1794. The rejection of the treaty had several significant consequences:
+
+**1. Heightened Tensions with Great Britain:** The rejection of the treaty further strained relations between the United States and Great Britain. The treaty had aimed to resolve outstanding issues from the Revolutionary War, but the Senate's rejection fueled British resentment and led to increased tensions.
+
+**2. Rise of Anti-Federalist Sentiment:** The rejection of the treaty was a major victory for the Anti-Federalist movement, which opposed the Federalist Party's policies. The treaty was seen as a betrayal of American sovereignty and a sign of weakness. This led to a rise in anti-Federalist sentiment and a push for greater American independence.
+
+**3. Weakening of the Federalist Party:** The rejection of the treaty dealt a significant blow to the Federalist Party. The party's support was already waning due to other issues, and the treaty's rejection further eroded their credibility and weakened their political power.
+
+**4. Increased American Isolationism:** The rejection of the treaty led to a period of increased American isolationism. The United States was reluctant to
+[CORRECT_ANSWER]: As a result, the two nations moved closer toward the War of 1812. 
+[FEEDBACK]: The response provides a detailed account of the consequences of the rejection of the Jay Treaty, including heightened tensions with Great Britain, the rise of Anti-Federalist sentiment, the weakening of the Federalist Party, and increased American isolationism. However, it does not directly address the key outcome mentioned in the reference answer, which is the movement toward the War of 1812. While the response is mostly correct and factual, it misses the primary consequence highlighted in the reference answer.
+[RESULT]: 4

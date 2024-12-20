@@ -1,0 +1,5 @@
+[PROMPT]: Do sea otters have long muscular tails?
+[USER_ANSWER]: No, sea otters do not have long muscular tails. Instead, they have relatively short, flattened, and somewhat muscular tails that help them steer while swimming. Their tails are not as prominent as those of some other aquatic mammals, but they play a role in their agility and movement in the water. The primary adaptations that aid sea otters in swimming are their webbed hind feet and their streamlined bodies.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that sea otters do not have long muscular tails and provides additional information about the characteristics and functions of their tails. However, the reference answer is very brief and only requires a simple "no," making the detailed explanation somewhat unnecessary. The response goes beyond what was asked, but it does not contain any incorrect information.
+[RESULT]: 4

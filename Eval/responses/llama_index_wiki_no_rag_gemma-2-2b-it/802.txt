@@ -1,0 +1,15 @@
+[PROMPT]: Are Pleurodira known as side-necked turtles?
+[USER_ANSWER]: 
+
+Pleurodira are a group of amphibians known as **caecilians** or **side-necked turtles**. 
+
+Here's why:
+
+* **Caecilians:**  These are legless amphibians that resemble worms or snakes. They are closely related to salamanders.
+* **Side-necked turtles:**  This is a common name for a group of amphibians that belong to the order Pleurodira. 
+
+**Important Note:**  While Pleurodira are sometimes called "side-necked turtles," this is a bit of a misnomer.  They are not turtles at all, but rather a distinct group of amphibians. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. Pleurodira are not amphibians; they are indeed a group of turtles known as side-necked turtles. The response incorrectly identifies Pleurodira as caecilians, which are a different group of legless amphibians. The explanation provided is misleading and factually incorrect.
+[RESULT]: 1

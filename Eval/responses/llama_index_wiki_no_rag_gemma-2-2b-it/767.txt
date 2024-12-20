@@ -1,0 +1,30 @@
+[PROMPT]: Is it true that singapore has several long - standing disputes with malaysia?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Yes, Singapore and Malaysia have several long-standing disputes. 
+
+Here are some of the key issues:
+
+**1. Territorial Disputes:**
+
+* **Singapore's maritime boundaries:**  Singapore claims sovereignty over certain areas of the Straits of Johor and the South China Sea, which Malaysia disputes.
+* **Rulers' claims:**  Malaysia's rulers have historically claimed sovereignty over certain areas of Singapore, which Singapore rejects.
+
+**2. Historical Issues:**
+
+* **The Malayan Emergency:**  This period of conflict between British forces and communist insurgents in Malaya (now Malaysia) involved Singapore and had lasting impacts on the relationship between the two countries.
+* **The formation of Malaysia:**  The creation of Malaysia in 1963 led to tensions and disagreements over the division of resources and power.
+
+**3. Economic Disputes:**
+
+* **Trade and investment:**  There have been disagreements over trade policies and investment opportunities between the two countries.
+* **Competition for resources:**  Both countries compete for resources like water and energy, leading to occasional tensions.
+
+**4. Political Disputes:**
+
+* **Political alliances:**  Singapore's close ties with the United States and other Western countries have sometimes been seen as a
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation of the disputes between Singapore and Malaysia, including territorial, historical, economic, and political issues. However, the reference answer is simply "Yes," indicating that a brief confirmation is sufficient. The detailed response, while informative, goes beyond what is required and introduces some inaccuracies, such as the claim about Malaysia's rulers historically claiming sovereignty over certain areas of Singapore, which is not a widely recognized issue. Therefore, the response is not completely accurate and factual based on the reference answer.
+[RESULT]: 3

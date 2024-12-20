@@ -1,0 +1,5 @@
+[PROMPT]: Does Romania share the same language with Moldova?
+[USER_ANSWER]: Yes, Romania and Moldova share the same official language, which is Romanian. The Romanian language is used in both countries for government, education, media, and daily communication. While there are some regional differences and variations in accent and vocabulary, the standard written language is the same in both Romania and Moldova.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Romania and Moldova share the same official language, which is Romanian. The additional details about the use of the Romanian language in government, education, media, and daily communication, as well as the mention of regional differences, are accurate and provide a comprehensive understanding of the language situation in both countries. This aligns well with the reference answer and meets the criteria for a score of 5.
+[RESULT]: 5

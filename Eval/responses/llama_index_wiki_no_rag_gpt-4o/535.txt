@@ -1,0 +1,18 @@
+[PROMPT]: What enjoys one of the world's highest standards of living?
+[USER_ANSWER]: Countries that enjoy one of the world's highest standards of living typically have strong economies, high levels of income, excellent healthcare systems, high-quality education, and robust social services. Examples of such countries often include:
+
+1. Norway
+2. Switzerland
+3. Denmark
+4. Sweden
+5. Finland
+6. Iceland
+7. Australia
+8. Canada
+9. Netherlands
+10. Germany
+
+These countries are frequently ranked at the top in global indices measuring quality of life, human development, and overall well-being.
+[CORRECT_ANSWER]: Liechtenstein's population
+[FEEDBACK]: The response provides a list of countries that are known for having high standards of living, which is generally accurate and factual. However, the reference answer specifically mentions "Liechtenstein's population," which is a more precise and direct answer to the question. The response does not mention Liechtenstein and instead lists multiple countries, making it somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

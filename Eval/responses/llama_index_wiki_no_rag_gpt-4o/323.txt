@@ -1,0 +1,5 @@
+[PROMPT]: When did he die?
+[USER_ANSWER]: Could you please specify who you are referring to? There are many notable individuals who have passed away, and I would need more context or a name to provide accurate information.
+[CORRECT_ANSWER]: June 24 1908
+[FEEDBACK]: The response does not provide the specific date of death as requested in the instruction. Instead, it asks for clarification on who is being referred to, which means it does not address the question directly. Therefore, it is not correct, accurate, or factual based on the reference answer provided.
+[RESULT]: 1

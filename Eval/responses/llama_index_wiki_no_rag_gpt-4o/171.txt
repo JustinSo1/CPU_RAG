@@ -1,0 +1,5 @@
+[PROMPT]: What allows a duck to filter water out of the side of their beaks and keep food inside?
+[USER_ANSWER]: Ducks have a specialized structure in their beaks called lamellae, which are comb-like or sieve-like structures along the edges of their bills. These lamellae function similarly to a strainer or filter. When a duck takes in water, it closes its bill and uses its tongue to push the water out through the lamellae, trapping food particles inside while expelling the water. This adaptation allows ducks to efficiently filter out small plants, insects, and other food items from the water.
+[CORRECT_ANSWER]: Tiny rows of plates called lamellae
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes the function of lamellae in a duck's beak and how they help in filtering water and trapping food. However, it provides more detail than the reference answer, which is concise and to the point. The additional information about the tongue and the types of food filtered is accurate but not necessary for a perfect score based on the reference answer.
+[RESULT]: 4

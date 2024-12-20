@@ -1,0 +1,26 @@
+[PROMPT]: Is a polar bear at high risk of extinction?
+[USER_ANSWER]: 
+
+The answer is **yes**. 
+
+Here's why:
+
+* **Climate Change:**  The primary threat to polar bears is climate change.  As sea ice melts, their primary hunting ground shrinks, making it harder to find seals.
+* **Population Decline:**  The decline in sea ice has already led to a significant drop in polar bear populations. 
+* **Conservation Efforts:**  While there are conservation efforts in place, they are not enough to prevent extinction. 
+* **International Agreements:**  International agreements like the Convention on International Trade in Endangered Species (CITES) are in place to protect polar bears, but enforcement is a challenge.
+
+**It's important to note:**
+
+* The International Union for Conservation of Nature (IUCN) has classified polar bears as "Vulnerable" to extinction.
+* The situation is dire, and urgent action is needed to protect these magnificent animals.
+
+
+You can learn more about polar bear conservation efforts and how you can help by visiting the websites of organizations like:
+
+* **World Wildlife Fund (WWF):** https://www.worldwildlife.org/
+* **Polar Bears International:** https://polarbearsinternational.org/
+* **The IUCN Red List:** https://www.i
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation of why polar bears are at high risk of extinction, citing climate change, population decline, conservation efforts, and international agreements. The response also references the IUCN classification and provides additional resources for further information. This level of detail and accuracy aligns well with the reference answer and the score rubric criteria for a score of 5.
+[RESULT]: 5

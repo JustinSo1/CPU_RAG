@@ -1,0 +1,5 @@
+[PROMPT]: Forward, erect ears and slightly bristle hackles are a sign of what in wolves?
+[USER_ANSWER]: Forward, erect ears and slightly bristled hackles in wolves typically indicate a state of alertness or aggression. This body language suggests that the wolf is highly attentive to its surroundings and may be feeling threatened or ready to assert dominance. It is a signal to other wolves or potential threats that the wolf is prepared to defend itself or its territory.
+[CORRECT_ANSWER]: Dominance
+[FEEDBACK]: The response is mostly correct and accurate, as it mentions that forward, erect ears and slightly bristled hackles in wolves indicate a state of alertness or aggression, which can be associated with dominance. However, the reference answer is more concise and directly states "dominance" without additional context. The response provides a broader explanation, which is not entirely incorrect but deviates slightly from the specific reference answer.
+[RESULT]: 4

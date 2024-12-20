@@ -1,0 +1,18 @@
+[PROMPT]: Did Roosevelt receive a Medal of Honor?
+[USER_ANSWER]: 
+
+The answer is **no**. 
+
+Theodore Roosevelt, the 26th President of the United States, was a decorated military officer, but he did not receive the Medal of Honor. 
+
+Here's why:
+
+* **The Medal of Honor is awarded for acts of valor in combat.** Roosevelt's military service was primarily in the Rough Riders, a volunteer cavalry unit during the Spanish-American War. While he was involved in several actions, none were considered to be particularly heroic or life-threatening.
+* **Roosevelt's military service was more about leadership and initiative.** He was known for his bravery and leadership, but his actions were often more strategic and tactical than those that would warrant the Medal of Honor.
+* **Roosevelt's focus was on diplomacy and public service.** After his military service, he became a prominent figure in American politics and foreign policy. He was known for his progressive policies and his commitment to social justice.
+
+While Roosevelt did not receive the Medal of Honor, he was awarded numerous other decorations for his service, including the Distinguished Service Medal and the Navy Cross. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that Roosevelt did receive a Medal of Honor, while the response claims he did not and provides detailed reasoning for this incorrect assertion. This directly contradicts the factual information provided in the reference answer.
+[RESULT]: 1

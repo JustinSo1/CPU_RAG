@@ -1,0 +1,5 @@
+[PROMPT]: Are leopards circular?
+[USER_ANSWER]: Leopards are not circular in shape. They are large, powerful cats with a sleek, muscular body designed for stealth and agility. Leopards have a relatively long body, a broad head, and a long tail that helps them balance while climbing trees. Their bodies are covered in a coat of fur with a distinctive pattern of rosettes or spots, which helps them camouflage in their natural habitats.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly correct, accurate, and factual in describing the physical characteristics of leopards. However, it does not directly address the question of whether leopards are circular, which the reference answer does succinctly. The response provides relevant information about leopards but fails to directly answer the question in a straightforward manner.
+[RESULT]: 4

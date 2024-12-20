@@ -1,0 +1,13 @@
+[PROMPT]: Are there at least two films describing Tesla 's life ?
+[USER_ANSWER]: 
+
+Yes, there are at least two films describing Tesla's life. 
+
+* **Tesla (2008)**: This film tells the story of Nikola Tesla's life and his struggles to bring his inventions to the world. It is a biographical drama that explores Tesla's genius, his rivalry with Thomas Edison, and his contributions to the development of alternating current (AC) electricity.
+* **The Current War (2017)**: This film focuses on the rivalry between Thomas Edison and Nikola Tesla for control of the electrical industry. It portrays the intense competition between the two inventors and their respective visions for the future of electricity.
+
+Both films offer different perspectives on Tesla's life and legacy, but they both highlight his brilliance and his struggles to overcome adversity. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that there are at least two films describing Tesla's life and provides specific examples with brief descriptions. However, the reference answer is very concise and does not include additional details, which suggests that the extra information provided in the response, while accurate, is not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct but includes more information than required.
+[RESULT]: 4

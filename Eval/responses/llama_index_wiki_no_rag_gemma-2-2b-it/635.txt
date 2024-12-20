@@ -1,0 +1,17 @@
+[PROMPT]: Who spend half of their life on land and half in the oceans?
+[USER_ANSWER]: 
+
+Answer:  **Sea Turtles** 
+
+Here's why:
+
+* **Sea turtles** have a unique life cycle that involves both land and water. They spend their early years on land, hatching from eggs and then crawling to the sea. They then spend most of their lives in the ocean, feeding and growing.  
+* **Migration:**  They often undertake long migrations between their nesting beaches and feeding grounds. 
+* **Aquatic Adaptations:**  Sea turtles have flippers for swimming and a streamlined body for efficient movement in the water. 
+
+
+Let me know if you have any other animal trivia questions! 
+
+[CORRECT_ANSWER]: Penguins
+[FEEDBACK]: The response provided is not correct based on the reference answer. The reference answer indicates that penguins are the correct answer, while the response states sea turtles. Although the explanation about sea turtles is detailed and accurate, it does not align with the reference answer. Therefore, the response is completely incorrect according to the given rubric.
+[RESULT]: 1

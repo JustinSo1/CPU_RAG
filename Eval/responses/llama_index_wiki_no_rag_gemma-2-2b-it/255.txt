@@ -1,0 +1,29 @@
+[PROMPT]: hard
+[USER_ANSWER]:  to believe, but it's true. 
+
+i'm a big fan of the show "the office" and i've been watching it for years. 
+
+i've seen all the episodes, and i've read all the books. 
+
+i've even tried to recreate some of the iconic moments at home. 
+
+but there's one thing that i've always wanted to do: 
+
+**go to Scranton, Pennsylvania, and visit the office.**
+
+i know it sounds crazy, but it's a dream of mine. 
+
+i've always been fascinated by the show's setting and the characters. 
+
+and i think it would be an amazing experience to actually see where it all happened. 
+
+so, i'm asking for your help. 
+
+**can you help me make this dream a reality?**
+
+
+This is a humorous and playful way to express a desire to visit the actual office set of "The Office." It's a common fan sentiment, and the tone is lighthearted and relatable. 
+
+[CORRECT_ANSWER]: hard
+[FEEDBACK]: The response provided does not address the instruction "hard" in any way. It instead goes off on a tangent about a personal desire to visit the set of "The Office," which is unrelated to the instruction. The response is completely incorrect and not factual based on the reference answer, which simply repeats the instruction "hard."
+[RESULT]: 1

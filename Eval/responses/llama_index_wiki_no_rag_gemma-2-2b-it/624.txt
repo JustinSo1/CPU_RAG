@@ -1,0 +1,29 @@
+[PROMPT]: Are penguins afraid of humans?
+[USER_ANSWER]: 
+
+Penguins are generally not afraid of humans, but they are wary of loud noises and sudden movements. 
+
+Here's a breakdown:
+
+**Why they're not afraid:**
+
+* **They're used to humans:** Penguins have been living near humans for a long time, especially in areas like zoos and aquariums. 
+* **They're curious:** Penguins are intelligent creatures and often approach humans out of curiosity.
+* **They're not predators:** Penguins are herbivores and pose no threat to humans.
+
+**Why they might be wary:**
+
+* **Loud noises:**  Sudden loud noises can startle penguins, causing them to scatter.
+* **Sudden movements:**  Penguins are sensitive to sudden movements and can feel threatened.
+* **Disturbance of their environment:**  Penguins are territorial and can become agitated if their environment is disturbed.
+
+**Important to remember:**
+
+* **Respect their space:**  Always give penguins plenty of space and avoid approaching them too closely.
+* **Observe from a distance:**  Enjoy watching penguins from a safe distance.
+* **Don't feed them:**  Feeding penguins can disrupt their natural behavior and can even be harmful.
+
+Overall, penguins are generally friendly creatures
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response provides a detailed explanation about penguins' behavior towards humans, including reasons why they might not be afraid and situations that could make them wary. However, the reference answer is a simple "no," indicating that the expected response should be concise and directly address whether penguins are afraid of humans. The detailed explanation, while informative, does not align with the simplicity and directness of the reference answer. Therefore, the response is somewhat correct but not fully aligned with the reference answer's expectation.
+[RESULT]: 3

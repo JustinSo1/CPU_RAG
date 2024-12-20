@@ -1,0 +1,27 @@
+[PROMPT]: What kinds of changes have larger kangaroos adapted much better to?
+[USER_ANSWER]: 
+
+Larger kangaroos have adapted to changes in their environment that favor their size and strength. Here's a breakdown:
+
+**1. Food Availability:**
+
+* **Grazing:** Larger kangaroos can consume more vegetation, allowing them to access more food resources, especially during periods of drought or when food is scarce.
+* **Competition:** They are less vulnerable to competition from smaller kangaroos for food, giving them an advantage in areas with limited resources.
+
+**2. Predation:**
+
+* **Defense:** Larger size provides a significant advantage in defense against predators like dingoes and humans. Their size and strength make them less susceptible to attacks.
+* **Mobility:**  Their size allows them to move quickly and efficiently, making them harder to catch.
+
+**3. Habitat:**
+
+* **Terrain:** Larger kangaroos are better suited to traversing rough terrain, allowing them to access areas with limited vegetation or challenging terrain.
+* **Competition:** They can compete more effectively for resources in areas with limited space, such as rocky outcrops or dense vegetation.
+
+**4. Reproduction:**
+
+* **Mate Selection:** Larger size can be advantageous in attracting mates, as it signals strength and health.
+* **Offspring:** Larger kangaroos tend to have larger lit
+[CORRECT_ANSWER]: Changes wrought to the Australian landscape by humans.
+[FEEDBACK]: The response provided is detailed and informative about the adaptations of larger kangaroos to various environmental changes. However, it does not directly address the specific change mentioned in the reference answer, which is the changes wrought to the Australian landscape by humans. The response focuses on general environmental adaptations rather than the specific human-induced changes. Therefore, it does not align well with the reference answer and lacks the required specificity.
+[RESULT]: 2

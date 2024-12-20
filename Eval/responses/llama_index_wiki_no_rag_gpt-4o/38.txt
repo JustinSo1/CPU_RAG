@@ -1,0 +1,5 @@
+[PROMPT]: Did the scientific community not reserve great attention to his theory ?
+[USER_ANSWER]: To provide a precise answer, it would be helpful to know which theory or which individual you are referring to. The scientific community's attention to a particular theory can vary greatly depending on the context, the evidence supporting the theory, and its implications. Some theories receive significant attention and become widely accepted, while others might be met with skepticism or even disregard until further evidence is presented. Could you please provide more details or specify the individual or theory in question?
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question posed in the instruction. Instead, it asks for more information and provides a general explanation about how the scientific community's attention to theories can vary. While the response is accurate in its explanation, it does not address the specific question asked, which was seeking a simple confirmation or denial. Therefore, it does not align well with the reference answer, which is a straightforward "yes."
+[RESULT]: 2

@@ -1,0 +1,15 @@
+[PROMPT]: What may a leopard be mistaken for?
+[USER_ANSWER]: 
+
+Here are some possibilities:
+
+* **A jaguar:**  Both are big cats with spots, but jaguars are found in the Americas, while leopards are in Africa and Asia.
+* **A cheetah:**  Both have spotted coats, but cheetahs are much faster and have a more slender build.
+* **A clouded leopard:**  This is a smaller, more arboreal cat with a similar spotted coat, but it is found in the mountains of Asia.
+* **A domestic cat:**  Leopards are much larger than domestic cats, but they can sometimes be mistaken for them, especially in the wild.
+
+Which of these is the most likely mistake? Why? 
+
+[CORRECT_ANSWER]: A cheetah or a jaguar
+[FEEDBACK]: The response provides a detailed and accurate comparison between leopards and other animals they might be mistaken for, including jaguars, cheetahs, clouded leopards, and domestic cats. However, the reference answer specifically mentions only cheetahs and jaguars as the most likely animals to be mistaken for leopards. While the additional information is informative, it goes beyond the scope of the reference answer. Therefore, the response is mostly correct and factual but includes extra details not required by the reference answer.
+[RESULT]: 4

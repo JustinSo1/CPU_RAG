@@ -1,0 +1,13 @@
+[PROMPT]: What are some common predators of ducks?
+[USER_ANSWER]: Ducks have a variety of natural predators depending on their habitat. Some of the common predators include:
+
+1. **Birds of Prey**: Hawks, eagles, and owls are known to prey on ducks, especially ducklings and smaller species.
+2. **Mammals**: Foxes, raccoons, mink, and coyotes often hunt ducks. Domestic dogs and cats can also be a threat.
+3. **Aquatic Predators**: Large fish, snapping turtles, and alligators can prey on ducklings and sometimes adult ducks.
+4. **Snakes**: Some species of snakes may prey on duck eggs and ducklings.
+5. **Humans**: Ducks are also hunted by humans for food, sport, and feathers.
+
+These predators can impact duck populations and influence their behavior, nesting sites, and migration patterns.
+[CORRECT_ANSWER]: Pike, crocodilians, herons, hawks and eagles.
+[FEEDBACK]: The response provides a detailed list of common predators of ducks, including birds of prey, mammals, aquatic predators, snakes, and humans. While the reference answer lists specific predators such as pike, crocodilians, herons, hawks, and eagles, the evaluated response expands on this by including additional relevant predators. The information is accurate and factual, aligning well with the reference answer, though it is more comprehensive. The response is mostly correct and accurate, but it includes more detail than the reference answer, which is not strictly necessary.
+[RESULT]: 4

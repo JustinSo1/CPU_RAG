@@ -1,0 +1,5 @@
+[PROMPT]: What did Ford receive on April 13, 1942?
+[USER_ANSWER]: On April 13, 1942, Henry Ford received the Grand Cross of the German Eagle, which was the highest honor Nazi Germany could bestow on a foreigner. This award was given to Ford in recognition of his contributions to the automotive industry and his business interactions with Germany. However, it's also notable that Ford was known for his controversial views and writings, including anti-Semitic sentiments, which aligned with some of the ideologies of the Nazi regime. This award was a symbol of the relationship between Ford and Nazi Germany during that period.
+[CORRECT_ANSWER]: Ford received a commission as ensign in the US Naval Reserve.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that Ford received a commission as ensign in the US Naval Reserve on April 13, 1942, while the response incorrectly states that Henry Ford received the Grand Cross of the German Eagle. The information provided in the response does not align with the factual event described in the reference answer.
+[RESULT]: 1

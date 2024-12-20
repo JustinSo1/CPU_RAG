@@ -1,0 +1,15 @@
+[PROMPT]: What does the word duck mean?
+[USER_ANSWER]: 
+
+The word "duck" can have several meanings depending on the context. Here are some of the most common:
+
+**1. Bird:** This is the most common meaning of "duck." It refers to a waterfowl with a flat bill and webbed feet, often found in ponds and lakes. Examples: "The duck waddled across the pond." "The ducklings were playing in the shallow water."
+
+**2. To avoid something:** This meaning is often used in a playful or humorous way. It means to avoid a situation or challenge, often by being evasive or cowardly. Examples: "He tried to duck the question." "She was trying to duck out of the party."
+
+**3. To make a sound like a duck:** This meaning is used to describe a sound that resembles the quacking of a duck. Examples: "The baby was making a funny duck sound." "The dog barked like a duck."
+
+**4. To be a person who is clumsy or awkward:** This meaning is often used in a derogatory way. It means to be clumsy or awkward in a way that is considered embarrassing or unappealing. Examples: "He was a real duck, always tripping over his own feet." "She was a duck in the
+[CORRECT_ANSWER]: It is the common name for a number of species in the Anatidae family of birds.
+[FEEDBACK]: The response provides multiple meanings of the word "duck," which are generally accurate and factual. However, the reference answer specifically focuses on the definition of "duck" as a bird in the Anatidae family. While the response includes this definition, it also includes additional meanings that are not directly related to the reference answer. Therefore, the response is mostly correct and factual but not completely aligned with the reference answer's focus.
+[RESULT]: 4

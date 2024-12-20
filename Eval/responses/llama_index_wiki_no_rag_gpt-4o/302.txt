@@ -1,0 +1,5 @@
+[PROMPT]: Are a wolf's teeth its main weapons?
+[USER_ANSWER]: Yes, a wolf's teeth are considered its main weapons. Wolves have strong jaws and sharp teeth that are well-adapted for hunting and consuming prey. Their teeth are crucial for grasping, biting, and tearing flesh. In addition to their teeth, wolves also utilize their physical strength, speed, and strategic pack hunting tactics to capture and bring down prey. However, their teeth play a primary role in the actual process of killing and eating their prey.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately states that a wolf's teeth are its main weapons and provides additional relevant information about the role of their teeth in hunting and consuming prey. However, the reference answer is very concise, and the response includes extra details that, while accurate, are not necessary to answer the question directly. This additional information does not detract from the correctness but makes the response more elaborate than required.
+[RESULT]: 4

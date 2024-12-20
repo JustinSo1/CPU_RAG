@@ -1,0 +1,10 @@
+[PROMPT]: Is it true that he became a professor in 1820?
+[USER_ANSWER]: 
+
+Please provide more context. Who is "he"? 
+
+Once you provide the context, I can help you with your question. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question and instead asks for more context. While it is important to have context, the instruction was clear enough to be answered directly. The response is not correct, accurate, or factual based on the reference answer, which is a simple "yes." Therefore, the response does not meet the criteria for correctness, accuracy, or factuality as outlined in the rubric.
+[RESULT]: 1

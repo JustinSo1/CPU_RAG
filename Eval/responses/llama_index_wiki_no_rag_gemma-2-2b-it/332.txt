@@ -1,0 +1,12 @@
+[PROMPT]: Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?
+[USER_ANSWER]: 
+
+I'm trying to find information about a man named John Henry.  I believe he was a professor at Princeton University.
+
+I'm having trouble finding any information about him online. 
+
+Any help would be appreciated.
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not address the question about whether the person is buried in the Princeton Cemetery of the Nassau Presbyterian Church. Instead, it provides unrelated information about a man named John Henry and his association with Princeton University. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

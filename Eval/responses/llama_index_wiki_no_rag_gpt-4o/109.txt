@@ -1,0 +1,5 @@
+[PROMPT]: What fraternity was Coolidge a member of?
+[USER_ANSWER]: Calvin Coolidge, the 30th President of the United States, was a member of the Phi Gamma Delta fraternity.
+[CORRECT_ANSWER]: Phi Gamma Delta
+[FEEDBACK]: The response correctly identifies the fraternity that Calvin Coolidge was a member of, which is Phi Gamma Delta. However, the additional information about Coolidge being the 30th President of the United States, while accurate, is not necessary for answering the question. The response is mostly correct, accurate, and factual, but the extra information slightly deviates from the direct answer required.
+[RESULT]: 4

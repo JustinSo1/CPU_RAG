@@ -1,0 +1,8 @@
+[PROMPT]: Was Coolidge the thirteenth President of the United States?
+[USER_ANSWER]: 
+
+No, Calvin Coolidge was the **30th** President of the United States. 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is mostly correct and factual. It accurately states that Calvin Coolidge was not the thirteenth President of the United States. However, the additional information that Coolidge was the 30th President, while accurate, is not necessary based on the reference answer. The reference answer is concise and directly addresses the question without additional details.
+[RESULT]: 4

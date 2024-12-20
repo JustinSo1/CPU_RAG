@@ -1,0 +1,5 @@
+[PROMPT]: Do sea turtles lay eggs on dry sandy beaches?
+[USER_ANSWER]: Yes, sea turtles do lay their eggs on dry sandy beaches. Female sea turtles come ashore, typically at night, to dig nests in the sand where they deposit their eggs. After laying the eggs, they cover the nest with sand to protect it from predators and temperature extremes before returning to the sea. The eggs will incubate in the sand for several weeks to a couple of months, depending on the species and environmental conditions, before the hatchlings emerge and make their way to the ocean.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the nesting behavior of sea turtles, including the process of laying eggs, covering the nest, and the incubation period. While the reference answer is very brief, the response expands on the topic with accurate and relevant details.
+[RESULT]: 5

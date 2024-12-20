@@ -1,0 +1,20 @@
+[PROMPT]: Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?
+[USER_ANSWER]: 
+
+**Answer:**
+
+The first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds was **Lord Kelvin**. 
+
+**Explanation:**
+
+* **Lord Kelvin** (William Thomson) was a prominent British physicist in the 19th century. 
+* He proposed the **Absolute Temperature Scale** (also known as the Kelvin Scale) in 1848. 
+* This scale was based on the concept of absolute zero, the lowest possible temperature, which is defined as -273.15 °C or 0 K.
+* Kelvin's work was crucial in establishing a consistent and reliable system for measuring temperature on a scientific basis. 
+* His scale was adopted as the standard for scientific measurements and became the foundation for the modern International Temperature Scale (ITS).
+
+Therefore, Lord Kelvin is considered the pioneer in defining an international temperature scale based on scientific principles. 
+
+[CORRECT_ANSWER]: Anders Celsius
+[FEEDBACK]: The response incorrectly identifies Lord Kelvin as the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds. The reference answer indicates that Anders Celsius was the correct individual. While the explanation about Lord Kelvin and his contributions to the temperature scale is accurate, it does not align with the reference answer. Therefore, the response is mostly incorrect and inaccurate based on the given criteria.
+[RESULT]: 2

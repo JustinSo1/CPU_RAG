@@ -1,0 +1,5 @@
+[PROMPT]: Who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?
+[USER_ANSWER]: The discovery that less than three percent of kangaroos exposed to a virus developed blindness was made by scientists from the University of Sydney. This finding was part of a broader study on the impact of viral diseases on the health of kangaroo populations.
+[CORRECT_ANSWER]: Veterinarians
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer specifies that veterinarians made the discovery, while the response incorrectly attributes the discovery to scientists from the University of Sydney. Although the response provides additional context about the study, it does not accurately identify the discoverers as veterinarians.
+[RESULT]: 2

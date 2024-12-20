@@ -1,0 +1,18 @@
+[PROMPT]: How many territories joined to form Romania?
+[USER_ANSWER]: Romania was formed through the unification of several territories. The principal ones are:
+
+1. Wallachia: One of the two principalities that initially formed the basis of modern Romania.
+2. Moldavia: The other principal principality that united with Wallachia.
+
+The official union of Wallachia and Moldavia occurred in 1859, and the new state was initially known as the United Principalities. 
+
+Later, other significant territories joined:
+
+3. Transylvania: This region was part of the Austro-Hungarian Empire and joined Romania after World War I, through the Treaty of Trianon in 1920.
+4. Bukovina: This territory was also part of the Austro-Hungarian Empire and united with Romania in 1918.
+5. Bessarabia: This region, which was part of the Russian Empire, united with Romania in 1918.
+
+These principal regions are considered the main territories that formed modern Romania.
+[CORRECT_ANSWER]: 2.
+[FEEDBACK]: The response provides a detailed historical account of the territories that joined to form modern Romania, listing Wallachia, Moldavia, Transylvania, Bukovina, and Bessarabia. However, the instruction specifically asks for the number of territories, and the reference answer indicates that the correct response is "2," referring to the initial unification of Wallachia and Moldavia. The response, while informative, does not directly answer the question as required by the rubric. Therefore, it is mostly incorrect in the context of the specific question asked.
+[RESULT]: 2

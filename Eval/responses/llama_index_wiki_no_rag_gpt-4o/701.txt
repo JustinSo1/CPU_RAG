@@ -1,0 +1,5 @@
+[PROMPT]: Did the Qataris not choose as their negotiator the respected entrepreneur and long-time resident of Doha , Muhammed bin Thani ?
+[USER_ANSWER]: I don't have specific information about whether the Qataris chose Muhammed bin Thani as their negotiator. The selection of negotiators can be a sensitive and confidential process, and details about such decisions are often not made public. If you have more context or specifics about the situation you're referring to, I might be able to provide additional insights based on general knowledge.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question and instead provides a general statement about the confidentiality of negotiator selections. It does not confirm or deny whether Muhammed bin Thani was chosen as the negotiator, which is the specific information requested. Therefore, it is not accurate or factual based on the reference answer.
+[RESULT]: 1

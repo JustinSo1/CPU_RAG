@@ -1,0 +1,5 @@
+[PROMPT]: What is the estimated population of Egypt?
+[USER_ANSWER]: As of 2023, Egypt's estimated population is approximately 109 million people. However, population numbers can change, so it's always a good idea to check the latest statistics from reliable sources such as the United Nations or the World Bank for the most current data.
+[CORRECT_ANSWER]: More than 78 million.
+[FEEDBACK]: The response provides an estimated population of Egypt as approximately 109 million people as of 2023, which is a more recent and specific figure compared to the reference answer of "more than 78 million." The response is accurate and factual, offering additional context about the variability of population numbers and suggesting reliable sources for the most current data. This level of detail and accuracy aligns well with the criteria for a high score.
+[RESULT]: 5

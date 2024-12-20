@@ -1,0 +1,7 @@
+[PROMPT]: How much increase in the media's contribution to GDP is the government seeking?
+[USER_ANSWER]: As of my latest update in October 2023, I don't have access to real-time data or specific government policy changes occurring after that period. However, if the government has recently announced a target for increasing the media industry's contribution to GDP, such details would be available in recent government releases, economic plans, or official statements.
+
+To get the most accurate and current information, I recommend checking the latest reports from the relevant government department, official announcements, or trusted news sources.
+[CORRECT_ANSWER]: The government seeks to increase its GDP contribution to 3% by 2012. 
+[FEEDBACK]: The response does not provide the specific information requested in the instruction. It does not mention the target of increasing the media industry's contribution to GDP to 3% by 2012, which is the key detail in the reference answer. Instead, the response gives a general suggestion on where to find the information, which does not address the question directly. Therefore, it is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: What consists of a low, barren plain, covered with sand?
+[USER_ANSWER]: A low, barren plain covered with sand is typically referred to as a desert. Deserts are characterized by their harsh, arid environment, minimal vegetation, and extreme temperature fluctuations between day and night. Examples include the Sahara Desert in Africa, the Arabian Desert in the Middle East, and the Gobi Desert in Asia. Deserts can vary in their specific features, but the common elements are the lack of substantial plant life and the prevalence of sand or rocky terrain.
+[CORRECT_ANSWER]: Much of the country.
+[FEEDBACK]: The response provided is not aligned with the reference answer. The reference answer "Much of the country" suggests a specific context that the response does not address. Instead, the response gives a general description of what a desert is, which is not what the instruction asked for. Therefore, the response is mostly incorrect and does not match the reference answer in terms of context or content.
+[RESULT]: 2

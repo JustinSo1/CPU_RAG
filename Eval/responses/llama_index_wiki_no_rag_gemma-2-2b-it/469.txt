@@ -1,0 +1,8 @@
+[PROMPT]: What method is used by Kangaroos to travel?
+[USER_ANSWER]: 
+
+Kangaroos travel using their powerful hind legs. They are known for their hopping ability, which allows them to cover long distances quickly and efficiently. 
+
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes the method kangaroos use to travel, which is hopping using their powerful hind legs. However, the response includes additional information that, while accurate, is not necessary to answer the question directly. The reference answer is more concise and directly addresses the question with a single word, "hopping."
+[RESULT]: 4

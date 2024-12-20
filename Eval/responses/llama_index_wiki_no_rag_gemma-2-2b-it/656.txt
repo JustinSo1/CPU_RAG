@@ -1,0 +1,10 @@
+[PROMPT]: How long is polar bear's guard hair?
+[USER_ANSWER]: 
+
+Polar bear guard hairs are typically **1 to 2 inches (2.5 to 5 cm) long**. 
+
+However, the length can vary depending on the bear's age, sex, and location. 
+
+[CORRECT_ANSWER]: 5-15 cm
+[FEEDBACK]: The response provides a length range of 2.5 to 5 cm for polar bear guard hairs, which is significantly shorter than the reference answer's range of 5-15 cm. This discrepancy indicates that the response is not accurate or factual based on the reference answer. Additionally, the response introduces variability factors such as age, sex, and location, which are not mentioned in the reference answer and do not compensate for the incorrect length range provided. Therefore, the response is mostly incorrect and inaccurate.
+[RESULT]: 2

@@ -1,0 +1,5 @@
+[PROMPT]: Does a male leopard weigh more than a female leopard?
+[USER_ANSWER]: Yes, male leopards generally weigh more than female leopards. On average, male leopards can weigh between 80 to 200 pounds (36 to 91 kilograms), while female leopards typically weigh between 60 to 130 pounds (27 to 59 kilograms). However, these weights can vary depending on the specific subspecies and the environment in which the leopards live.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional details about the weight ranges of male and female leopards, which are accurate and relevant to the question. The information about the variation in weights depending on subspecies and environment is also correct and adds valuable context.
+[RESULT]: 5

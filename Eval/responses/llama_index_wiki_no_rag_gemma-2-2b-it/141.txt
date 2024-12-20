@@ -1,0 +1,10 @@
+[PROMPT]: Are Canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?
+[USER_ANSWER]: 
+
+That's correct. 
+
+**Ice hockey** is considered Canada's national winter sport, while **lacrosse** is its national summer sport. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that ice hockey is Canada's national winter sport and lacrosse is its national summer sport, which aligns with the reference answer.
+[RESULT]: 5

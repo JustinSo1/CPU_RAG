@@ -1,0 +1,15 @@
+[PROMPT]: How much do elephants weight at birth?
+[USER_ANSWER]: 
+
+Elephants are the largest land mammals on Earth, and their babies are no exception. Elephant calves are born with a surprising amount of weight! 
+
+Here's a breakdown:
+
+* **Average weight:** A baby elephant typically weighs between **200 and 300 pounds (90-136 kilograms)** at birth.
+* **Size:**  They are also quite large, measuring around **4 to 5 feet (1.2 to 1.5 meters) tall** at birth.
+
+It's important to note that these are just averages, and individual elephant calves can vary in weight and size.
+
+[CORRECT_ANSWER]: 120 kilograms
+[FEEDBACK]: The response provides a range for the weight of baby elephants at birth, stating that they typically weigh between 200 and 300 pounds (90-136 kilograms). This range includes the reference answer of 120 kilograms, making the response mostly accurate. However, the reference answer is more specific, while the response gives a broader range. Additionally, the response includes extra information about the size of baby elephants, which is not directly relevant to the question about weight. Overall, the response is mostly correct and factual but not as precise as the reference answer.
+[RESULT]: 4

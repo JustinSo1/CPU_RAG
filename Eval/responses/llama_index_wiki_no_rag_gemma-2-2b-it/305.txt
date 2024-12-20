@@ -1,0 +1,8 @@
+[PROMPT]: To what genus does the gray wolf belong?
+[USER_ANSWER]: 
+
+The gray wolf ( *Canis lupus*) belongs to the genus **_Canis_**. 
+
+[CORRECT_ANSWER]: Canis
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies the genus of the gray wolf as "Canis" and provides the scientific name for additional context. This aligns perfectly with the reference answer.
+[RESULT]: 5

@@ -1,0 +1,24 @@
+[PROMPT]: Where is the leopard distributed?
+[USER_ANSWER]: 
+
+The leopard is found in a variety of habitats across **Africa and Asia**. 
+
+Here's a more detailed breakdown:
+
+**Africa:**
+* **Eastern and Southern Africa:**  Includes countries like Kenya, Tanzania, South Africa, and Mozambique.
+* **Western and Central Africa:**  Includes countries like Senegal, Cameroon, and Gabon.
+
+**Asia:**
+* **India:**  The largest population of leopards in Asia.
+* **Nepal:**  Home to a significant population of leopards.
+* **Sri Lanka:**  A small population of leopards.
+* **Pakistan:**  A small population of leopards.
+* **China:**  A small population of leopards.
+* **Southeast Asia:**  Includes countries like Thailand, Laos, and Vietnam.
+
+It's important to note that leopard populations are declining due to habitat loss, poaching, and human-wildlife conflict. 
+
+[CORRECT_ANSWER]: southern Eurasia and Africa
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed breakdown of the leopard's distribution in Africa and Asia, which aligns with the reference answer indicating southern Eurasia and Africa. However, the response could be more concise and directly mention "southern Eurasia" to fully match the reference answer. Despite this, the detailed information about specific countries and regions within Africa and Asia is accurate and informative.
+[RESULT]: 4

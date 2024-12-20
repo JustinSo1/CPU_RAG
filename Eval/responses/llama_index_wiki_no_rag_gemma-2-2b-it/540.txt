@@ -1,0 +1,21 @@
+[PROMPT]: The State Court rules what?
+[USER_ANSWER]: 
+
+The State Court rules **what is lawful and what is unlawful** within the state. 
+
+Here's a breakdown:
+
+* **State Courts:** These courts handle cases within a specific state's legal system.
+* **Lawful and Unlawful:**  They determine what actions are permitted and what are considered crimes or violations of state laws.
+* **State Laws:** These are the rules and regulations created by the state legislature.
+
+**Examples:**
+
+* A state court might rule that a certain type of business is legal in the state, or that a particular activity is illegal.
+* They might also rule on issues like child custody, divorce, property disputes, and traffic violations.
+
+**Important Note:** State court rulings are specific to the state where they are made. They do not apply in other states. 
+
+[CORRECT_ANSWER]: on the conformity of laws with the constitution
+[FEEDBACK]: The response provides a detailed explanation of the role of State Courts in determining what is lawful and unlawful within the state, which is accurate in a general sense. However, it does not directly address the specific function of State Courts in ruling on the conformity of laws with the constitution, as highlighted in the reference answer. Therefore, while the response is factually correct about the broader role of State Courts, it misses the specific focus on constitutional conformity.
+[RESULT]: 3

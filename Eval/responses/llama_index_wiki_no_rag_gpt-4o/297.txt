@@ -1,0 +1,11 @@
+[PROMPT]: How much do wolves weigh?
+[USER_ANSWER]: Wolves (Canis lupus) vary in size depending on their subspecies and geographic location. Generally, adult wolves can weigh anywhere from 40 to 175 pounds (18 to 79 kilograms). 
+
+- Male wolves are typically larger than females.
+- In North America, the average weight of a male wolf ranges from 70 to 110 pounds (32 to 50 kilograms), while females typically weigh between 60 to 80 pounds (27 to 36 kilograms).
+- Wolves in Eurasia can be larger, with some males weighing up to 175 pounds (79 kilograms).
+
+The heaviest wolf ever recorded in North America weighed 175 pounds (79 kilograms), while the heaviest wolf recorded in Eurasia weighed around 190 pounds (86 kilograms). These weights can vary based on factors such as age, health, and the availability of prey in their habitat.
+[CORRECT_ANSWER]: typically varies between 32 and 62 kilograms
+[FEEDBACK]: The response provides a detailed and accurate range of wolf weights, including variations based on subspecies and geographic location. It mentions that adult wolves generally weigh between 40 to 175 pounds (18 to 79 kilograms), which aligns with the reference answer's range of 32 to 62 kilograms. The additional details about male and female weights in North America and Eurasia, as well as the record weights, are factual and enhance the response's accuracy. However, the reference answer is more concise, and the response could be seen as overly detailed for the given task. Nonetheless, the information provided is correct and factual.
+[RESULT]: 5

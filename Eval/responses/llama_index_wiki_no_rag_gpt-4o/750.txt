@@ -1,0 +1,5 @@
+[PROMPT]: Which nation invaded Singapore during World War II?
+[USER_ANSWER]: During World War II, Japan invaded Singapore. The Japanese forces launched an attack on the British stronghold in Singapore on February 8, 1942, and after a week of intense fighting, British forces surrendered on February 15, 1942. This event marked the beginning of the Japanese occupation of Singapore, which lasted until the end of the war in 1945.
+[CORRECT_ANSWER]: Japan
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about Japan's invasion of Singapore during World War II, including specific dates and the outcome of the invasion. This additional context, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

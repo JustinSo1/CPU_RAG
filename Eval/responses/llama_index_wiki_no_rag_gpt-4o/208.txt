@@ -1,0 +1,15 @@
+[PROMPT]: What are the elephant's ears important for?
+[USER_ANSWER]: Elephant ears are crucial for several reasons:
+
+1. **Thermoregulation**: One of the primary functions of an elephant's ears is to help regulate their body temperature. The large surface area of the ears contains many blood vessels, and by flapping their ears, elephants can cool the blood running through them before it circulates back into the body. This helps to dissipate body heat and keep the elephant cool, which is especially important in their typically hot habitats.
+
+2. **Hearing**: Elephants have excellent hearing, and their large ears help them to detect sounds over long distances. The ears can be used to funnel sound waves, improving their ability to locate the source of a sound. This is essential for communication with other elephants and for detecting potential threats.
+
+3. **Communication**: Elephants use their ears to communicate with one another. The position and movement of the ears can indicate various behaviors and emotions, such as aggression, submission, or alertness.
+
+4. **Protection**: In some situations, elephants may use their ears to appear larger and more intimidating to potential predators or rivals, making them an important part of their defense mechanism.
+
+Overall, elephant ears are multifunctional and play a vital role in their survival and well-being.
+[CORRECT_ANSWER]: temperature regulation
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed and accurate information about the functions of elephant ears, including thermoregulation, hearing, communication, and protection. However, the reference answer focuses solely on temperature regulation, which is the primary function mentioned. While the response includes this, it also adds additional functions that are not mentioned in the reference answer. This makes the response more comprehensive but slightly deviates from the specific focus of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,10 @@
+[PROMPT]: Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?
+[USER_ANSWER]: 
+
+I am looking for a small heliport for a private charter flight. 
+
+Please let me know if you have any information about this.
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question about the availability of a small heliport at Balzers in Liechtenstein for charter helicopter flights. Instead, it redirects the query and asks for information, which does not provide any factual or accurate information regarding the original question. Therefore, it is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Are turtle eggs leathery and soft?
+[USER_ANSWER]: Yes, turtle eggs are typically leathery and soft when they are first laid. Unlike bird eggs, which have hard, calcified shells, most turtle eggs have a flexible, leathery texture. This allows them to absorb water from their surroundings, which is crucial for the developing embryo inside. Over time, the eggs can harden slightly, but they generally remain more pliable compared to the eggs of birds.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional information about the texture and function of turtle eggs, which is accurate. However, the reference answer is very concise, and the response goes beyond what was asked. While the extra details are correct, they are not necessary to answer the question directly.
+[RESULT]: 4

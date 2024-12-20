@@ -1,0 +1,15 @@
+[PROMPT]: What are four species that are commonly referred to as kangaroos?
+[USER_ANSWER]: The term "kangaroo" commonly refers to several species within the macropod family. The four most well-known species are:
+
+1. **Red Kangaroo (Macropus rufus)**: The largest of all kangaroos, the red kangaroo is native to Australia's arid and semi-arid regions.
+
+2. **Eastern Grey Kangaroo (Macropus giganteus)**: Found in the fertile eastern and southern parts of Australia, these kangaroos are slightly smaller than the red kangaroos.
+
+3. **Western Grey Kangaroo (Macropus fuliginosus)**: These kangaroos inhabit the southern part of Western Australia, South Australia, and western Victoria.
+
+4. **Antilopine Kangaroo (Macropus antilopinus)**: Also known as the antilopine wallaroo, this species is found in northern Australia and is more similar in appearance to wallaroos than the other kangaroos.
+
+These species are all members of the Macropodidae family and share many characteristics, such as powerful hind legs adapted for jumping and large tails for balance.
+[CORRECT_ANSWER]: The Red Kangaroo, The Eastern Grey Kangaroo, The Western Grey Kangaroo, and The Antilopine Kangaroo
+[FEEDBACK]: The response is completely correct, accurate, and factual. It identifies the four species commonly referred to as kangaroos: the Red Kangaroo, the Eastern Grey Kangaroo, the Western Grey Kangaroo, and the Antilopine Kangaroo. Additionally, the response provides detailed descriptions of each species, including their scientific names and habitats, which enhances the accuracy and completeness of the information. This level of detail aligns well with the reference answer and meets the criteria for a perfect score.
+[RESULT]: 5

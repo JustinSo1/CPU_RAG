@@ -1,0 +1,5 @@
+[PROMPT]: How many years after Cleveland left office did the U.S. win the Spanish-American War?
+[USER_ANSWER]: Grover Cleveland left office at the end of his second non-consecutive term on March 4, 1897. The Spanish-American War took place in 1898. Therefore, the U.S. won the Spanish-American War 1 year after Cleveland left office.
+[CORRECT_ANSWER]: One Year
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the years Cleveland left office and the Spanish-American War took place. However, the response includes unnecessary details about the exact date Cleveland left office, which is not required to answer the question. The essential information that the U.S. won the Spanish-American War 1 year after Cleveland left office is accurate.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Is a kangaroo on the Australian coat of arms?
+[USER_ANSWER]: Yes, a kangaroo is featured on the Australian coat of arms. The coat of arms depicts a shield with symbols representing the six states of Australia, supported by a kangaroo on one side and an emu on the other. These two animals were chosen because they are native to Australia and are often seen as symbols of the country.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that a kangaroo is featured on the Australian coat of arms and provides additional relevant details about the coat of arms, including the presence of an emu and the representation of the six states of Australia. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

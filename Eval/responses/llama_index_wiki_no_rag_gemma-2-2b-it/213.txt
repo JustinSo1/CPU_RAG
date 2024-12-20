@@ -1,0 +1,15 @@
+[PROMPT]: What is the world population of Asian elephants?
+[USER_ANSWER]: 
+
+The world population of Asian elephants is estimated to be around **40,000**. 
+
+However, it's important to note that this number is constantly changing. 
+* **Habitat loss and fragmentation** are the biggest threats to their survival.
+* **Poaching** for ivory is also a major concern.
+* **Human-elephant conflict** can lead to further population decline.
+
+Conservation efforts are underway to protect Asian elephants, but they remain critically endangered. 
+
+[CORRECT_ANSWER]: 60000
+[FEEDBACK]: The response provides an estimate of the world population of Asian elephants as 40,000, which is significantly different from the reference answer of 60,000. This discrepancy indicates that the response is not accurate or factual based on the reference answer. Additionally, while the response includes relevant information about threats to Asian elephants and conservation efforts, this information does not compensate for the inaccuracy of the population estimate.
+[RESULT]: 2

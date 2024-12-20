@@ -1,0 +1,13 @@
+[PROMPT]: What does a citizen use to propose changes to the Constitution?
+[USER_ANSWER]: In the United States, a citizen cannot directly propose changes to the Constitution. However, citizens can participate in the process through their elected representatives or through state initiatives. Here are the main ways changes can be proposed:
+
+1. **Congressional Proposal**: This is the most common method. An amendment can be proposed by a two-thirds majority vote in both the House of Representatives and the Senate.
+
+2. **Constitutional Convention**: Alternatively, two-thirds of state legislatures (34 out of 50) can call for a Constitutional Convention to propose amendments. This method has never been used to amend the U.S. Constitution.
+
+Once an amendment is proposed by either method, it must be ratified by three-fourths (38 out of 50) of the state legislatures or by conventions within the states, depending on which method of ratification Congress chooses.
+
+Citizens can influence these processes by advocating for change, lobbying their representatives, participating in elections, and through various forms of civic engagement and activism.
+[CORRECT_ANSWER]: Referendum
+[FEEDBACK]: The response provides a detailed explanation of how changes to the U.S. Constitution can be proposed, focusing on the roles of Congress and state legislatures. However, it does not directly address the specific mechanism a citizen uses to propose changes, which is the referendum. While the information given is accurate and factual, it does not align with the reference answer. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

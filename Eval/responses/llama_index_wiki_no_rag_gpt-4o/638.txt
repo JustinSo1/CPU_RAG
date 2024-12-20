@@ -1,0 +1,19 @@
+[PROMPT]: What happens when mothers lose a chick?
+[USER_ANSWER]: When mother birds lose a chick, their reactions can vary widely depending on the species and individual circumstances. Here are a few common responses:
+
+1. **Searching and Calling**: Many mother birds will initially search for their lost chick, calling out in hopes of reuniting. This behavior can last for varying lengths of time, depending on the species and the mother’s instinct.
+
+2. **Grieving**: There is some evidence to suggest that birds can experience a form of grief or distress when they lose a chick. This may manifest in behaviors such as listlessness, reduced activity, and changes in vocalizations.
+
+3. **Abandonment**: If a chick is lost or dies, sometimes the mother may abandon the nest, especially if it is early in the breeding season or if there are no surviving chicks. In some cases, this allows the mother to conserve her energy for future reproductive efforts.
+
+4. **Protecting Remaining Offspring**: If a mother bird has other chicks in the nest, she will typically focus her efforts on protecting and nurturing the remaining offspring. Ensuring their survival becomes her priority.
+
+5. **Re-nesting**: Some bird species will attempt to lay another clutch of eggs if they lose a chick or an entire brood, particularly if it happens early in the breeding season. This ability varies by species and the availability of resources.
+
+6. **Learning from Experience**: In some cases, the loss of a chick can lead to changes in future parenting behavior. Birds may become more cautious or alter their nesting strategies to increase the chances of success in subsequent breeding attempts.
+
+Understanding these responses requires careful observation and study, as bird behavior can be complex and influenced by numerous factors including species, environmental conditions, and individual differences.
+[CORRECT_ANSWER]: They sometimes attempt to "steal" another chick.
+[FEEDBACK]: The response provides a detailed and accurate description of various behaviors that mother birds may exhibit when they lose a chick. However, it does not mention the specific behavior of attempting to "steal" another chick, which is highlighted in the reference answer. While the response is mostly correct and factual, it misses the key detail provided in the reference answer.
+[RESULT]: 4

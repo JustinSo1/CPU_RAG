@@ -1,0 +1,17 @@
+[PROMPT]: What is the largest ethnic minority in Romania?
+[USER_ANSWER]: 
+
+The largest ethnic minority in Romania is the **Roma**. 
+
+It's important to note that:
+
+* **Roma** are a diverse group with a rich history and culture. 
+* **Stereotypes and prejudice** against Roma people are unfortunately still prevalent in Romania. 
+* **Understanding and combating discrimination** is crucial for creating a more inclusive society. 
+
+
+Let me know if you have any other questions. 
+
+[CORRECT_ANSWER]: Hungarians
+[FEEDBACK]: The response is completely incorrect. The largest ethnic minority in Romania is Hungarians, not Roma. The additional information provided about the Roma people, while informative, does not change the fact that the primary answer is incorrect.
+[RESULT]: 1

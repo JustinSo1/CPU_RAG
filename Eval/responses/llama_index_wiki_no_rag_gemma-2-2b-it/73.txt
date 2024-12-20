@@ -1,0 +1,8 @@
+[PROMPT]: Is the Adephaga suborder larger than the Polyphaga suborder?
+[USER_ANSWER]: 
+
+The Adephaga suborder is larger than the Polyphaga suborder. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer clearly states "no," indicating that the Adephaga suborder is not larger than the Polyphaga suborder, whereas the response incorrectly claims the opposite.
+[RESULT]: 1

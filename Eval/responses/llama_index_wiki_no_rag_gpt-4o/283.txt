@@ -1,0 +1,5 @@
+[PROMPT]: What is the weather like at Lake Volta?
+[USER_ANSWER]: I'm sorry, but I can't provide real-time weather updates. To get the current weather conditions at Lake Volta, Ghana, I recommend checking a reliable weather service or app such as the Weather Channel, AccuWeather, or a similar service.
+[CORRECT_ANSWER]: Warm and comparatively dry
+[FEEDBACK]: The response does not provide any information about the weather at Lake Volta, which is the main requirement of the instruction. Instead, it suggests checking a weather service for real-time updates. This makes the response completely incorrect and not factual based on the reference answer, which describes the weather as "warm and comparatively dry."
+[RESULT]: 1

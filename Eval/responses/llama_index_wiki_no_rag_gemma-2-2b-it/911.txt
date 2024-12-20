@@ -1,0 +1,10 @@
+[PROMPT]: Was Wilson awarded the 1919 Nobel Peace Prize?
+[USER_ANSWER]: 
+
+Yes, Woodrow Wilson was awarded the 1919 Nobel Peace Prize. 
+
+He was awarded the prize for his role in negotiating the Treaty of Versailles, which ended World War I. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Woodrow Wilson was awarded the 1919 Nobel Peace Prize. However, the additional information about the Treaty of Versailles is not entirely accurate. Wilson was awarded the prize for his efforts in establishing the League of Nations, not specifically for negotiating the Treaty of Versailles. This slight inaccuracy prevents the response from being completely correct.
+[RESULT]: 4

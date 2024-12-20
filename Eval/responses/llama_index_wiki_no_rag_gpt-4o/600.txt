@@ -1,0 +1,5 @@
+[PROMPT]: Are otters herbivores?
+[USER_ANSWER]: No, otters are not herbivores. Otters are carnivorous mammals, meaning their diet primarily consists of animal matter. They typically eat fish, crustaceans, amphibians, and sometimes small mammals or birds. Different species of otters may have variations in their diets based on their specific habitats and available food sources.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is correct, accurate, and factual. It provides detailed information about the diet of otters, explaining that they are carnivorous mammals and listing the types of food they typically consume. While the reference answer is very brief, the evaluated response expands on the information without introducing any inaccuracies.
+[RESULT]: 5

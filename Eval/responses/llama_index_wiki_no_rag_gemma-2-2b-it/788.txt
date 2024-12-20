@@ -1,0 +1,8 @@
+[PROMPT]: When did Roosevelt die?
+[USER_ANSWER]: 
+
+Theodore Roosevelt died on **January 6, 1919**. 
+
+[CORRECT_ANSWER]: On January 6, 1919, Roosevelt died in his sleep.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the date of Theodore Roosevelt's death as January 6, 1919. However, it lacks the additional detail that he died in his sleep, which is present in the reference answer.
+[RESULT]: 4

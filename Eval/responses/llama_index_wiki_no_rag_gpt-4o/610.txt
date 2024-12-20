@@ -1,0 +1,5 @@
+[PROMPT]: Are otters playful animals?
+[USER_ANSWER]: Yes, otters are known for their playful behavior. They often engage in activities that resemble play, such as sliding down muddy or snowy slopes, juggling small rocks, and playing chase with each other. This playful behavior is not only a form of exercise but also helps young otters develop important survival skills. Playfulness is observed in both river otters and sea otters, making them quite fascinating and endearing animals to watch.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the playful behavior of otters, including specific examples and the benefits of such behavior. This aligns well with the reference answer, which simply states "yes." The response goes beyond the reference answer by offering additional context and details, but it remains entirely accurate and factual.
+[RESULT]: 5

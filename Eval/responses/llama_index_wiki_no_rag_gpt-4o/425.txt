@@ -1,0 +1,11 @@
+[PROMPT]: Did John Adams get along with Alexander Hamilton?
+[USER_ANSWER]: The relationship between John Adams and Alexander Hamilton was complex and often contentious. While both were key figures in the early years of the United States and members of the Federalist Party, they had significant ideological and personal differences that frequently put them at odds.
+
+Adams, who became the second President of the United States, and Hamilton, who was the first Secretary of the Treasury, had different visions for the direction of the nation. Hamilton was a strong proponent of a robust central government and had a vision for an industrialized, economically powerful nation. Adams, on the other hand, was more conservative in his approach to federal power and was wary of Hamilton's expansive economic policies.
+
+Their relationship deteriorated significantly during Adams' presidency (1797-1801). Hamilton often undermined Adams' authority and leadership within the Federalist Party. During the election of 1800, Hamilton's efforts to influence the outcome in favor of his preferred candidate, Thomas Pinckney, rather than supporting Adams, further strained their relationship.
+
+In summary, while Adams and Hamilton worked together in the early stages of the republic, their relationship was marked by rivalry, disagreements, and a lack of mutual trust and respect.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response provides a detailed and accurate account of the relationship between John Adams and Alexander Hamilton, highlighting their ideological and personal differences. However, the reference answer is a simple "No," indicating that the expected response should be concise and direct. While the evaluated response is factually correct, it does not align with the simplicity and directness of the reference answer. Therefore, it does not fully meet the criteria for complete correctness based on the reference answer.
+[RESULT]: 3

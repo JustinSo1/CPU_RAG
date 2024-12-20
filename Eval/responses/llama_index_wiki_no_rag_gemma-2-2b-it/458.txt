@@ -1,0 +1,12 @@
+[PROMPT]: When did the first official report of kangaroo blindness take place?
+[USER_ANSWER]: 
+
+There is no such thing as "kangaroo blindness." 
+
+Kangaroos are known for their excellent vision, and they can see well in low light conditions. 
+
+It's possible you've heard a myth or misinformation about kangaroos. 
+
+[CORRECT_ANSWER]: 1994
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The instruction asked for the date of the first official report of kangaroo blindness, which is 1994. The response instead denies the existence of kangaroo blindness and provides unrelated information about kangaroo vision. This does not align with the reference answer and fails to address the question accurately.
+[RESULT]: 1

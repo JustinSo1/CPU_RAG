@@ -1,0 +1,5 @@
+[PROMPT]: What is Monroe's father's name?
+[USER_ANSWER]: Could you please provide more context or clarify which Monroe you are referring to? There are many people with the surname Monroe, and additional information will help provide an accurate answer.
+[CORRECT_ANSWER]: Spence
+[FEEDBACK]: The response does not provide the correct, accurate, and factual answer to the question "What is Monroe's father's name?" based on the reference answer "Spence." Instead, it asks for more context or clarification, which does not address the question directly. Therefore, the response is completely incorrect and inaccurate according to the score rubric.
+[RESULT]: 1

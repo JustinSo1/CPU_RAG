@@ -1,0 +1,5 @@
+[PROMPT]: When do African elephants lie down?
+[USER_ANSWER]: African elephants typically lie down to sleep at night, although they may also take shorter naps standing up during the day. Unlike many animals that sleep lying down, elephants can sleep both standing and lying down. When they lie down, it's usually for deeper sleep, which tends to occur for a few hours during the night. They might lie on their sides, often rotating sides to prevent prolonged pressure on one side of their body. This behavior is more commonly observed in a safe and undisturbed environment, as lying down makes them more vulnerable to predators.
+[CORRECT_ANSWER]: when they are sick or wounded
+[FEEDBACK]: The response provides a detailed explanation of when African elephants lie down, focusing on their sleep patterns and behaviors. However, it does not address the specific condition mentioned in the reference answer, which is when they are sick or wounded. While the information given is accurate and factual, it does not align with the reference answer's focus. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

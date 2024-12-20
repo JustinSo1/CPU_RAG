@@ -1,0 +1,17 @@
+[PROMPT]: Why wasn't Romania neutral during World War II?
+[USER_ANSWER]: Romania's involvement in World War II was influenced by a complex set of geopolitical and strategic factors that made neutrality difficult to maintain. Here are some key reasons why Romania did not remain neutral:
+
+1. **Territorial losses and pressures**: In 1940, Romania faced significant territorial losses due to the Second Vienna Award, which forced it to cede Northern Transylvania to Hungary, and the Soviet ultimatum, which led to the cession of Bessarabia and Northern Bukovina to the USSR. These losses created internal instability and a desire to recover lost territories, pushing Romania to seek powerful allies.
+
+2. **Political landscape**: Romania experienced significant political changes and instability during this period. King Carol II abdicated in 1940, leading to the rise of the fascist Iron Guard and the establishment of a military dictatorship under General Ion Antonescu. The new government sought alliances to stabilize the country and regain lost territories.
+
+3. **Alliance with Nazi Germany**: Romania entered into an alliance with Nazi Germany in hopes of recovering the territories it had lost to the Soviet Union. In 1941, Romania joined the Axis Powers and participated in Operation Barbarossa, the invasion of the Soviet Union, alongside German forces.
+
+4. **Economic dependencies**: Romania had significant economic ties with Germany, particularly in oil exports. The Romanian oil fields were strategically important to the German war effort, and maintaining these economic relations was vital for Romania’s economy.
+
+5. **Military and strategic considerations**: Given its geographic location and the pressures from both the Axis and Allied powers, Romania found itself in a precarious position. Aligning with the Axis powers was seen as a strategic move to protect the country from potential Soviet occupation and to regain lost territories.
+
+These factors combined to make neutrality an impractical option for Romania during World War II. The country ultimately shifted its alliances late in the war, joining the Allies after a coup in August 1944 that overthrew Antonescu, but the complex interplay of territorial, political, and economic factors had already drawn Romania deeply into the conflict.
+[CORRECT_ANSWER]: it received a Soviet ultimatum
+[FEEDBACK]: The response provides a detailed and accurate explanation of why Romania was not neutral during World War II. It covers the key factors such as territorial losses, political instability, alliances with Nazi Germany, economic dependencies, and military considerations. These points align well with the reference answer, which mentions the Soviet ultimatum as a significant factor. The response is comprehensive and factual, addressing the complexity of the situation effectively.
+[RESULT]: 5

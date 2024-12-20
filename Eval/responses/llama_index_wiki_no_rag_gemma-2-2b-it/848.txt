@@ -1,0 +1,17 @@
+[PROMPT]: Had he smoked only sporadically ?
+[USER_ANSWER]: 
+
+The sentence is a bit unclear. It seems like the speaker is asking if the person in question smoked only occasionally. 
+
+Here are a few ways to rephrase the sentence to make it clearer:
+
+* **Did he smoke only occasionally?** (Simple and direct)
+* **Was he a sporadic smoker?** (More informal)
+* **Did he smoke only occasionally, or was it a regular habit?** (More specific)
+
+
+Let me know if you have any other sentences you'd like help with! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is somewhat correct in interpreting the question as asking if the person smoked only occasionally. However, it goes beyond the scope of the instruction by providing multiple rephrased sentences and additional context, which is not necessary. The reference answer is a simple "yes," indicating that a brief confirmation was sufficient. The response, while informative, does not align with the simplicity and directness of the reference answer. Therefore, it is not completely correct or accurate based on the reference answer.
+[RESULT]: 3

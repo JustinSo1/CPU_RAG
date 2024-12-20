@@ -1,0 +1,5 @@
+[PROMPT]: When was the Six Day War?
+[USER_ANSWER]: The Six-Day War took place from June 5 to June 10, 1967. It was a conflict between Israel and the neighboring states of Egypt, Jordan, and Syria.
+[CORRECT_ANSWER]: 1967
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact dates of the Six-Day War, which aligns with the reference answer. Additionally, it includes extra context about the conflict, which, while not necessary, does not detract from the accuracy of the information provided.
+[RESULT]: 5

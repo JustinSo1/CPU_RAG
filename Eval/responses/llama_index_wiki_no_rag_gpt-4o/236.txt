@@ -1,0 +1,19 @@
+[PROMPT]: What is the weather like in summer?
+[USER_ANSWER]: The weather in summer typically varies depending on the region. However, in general, summer weather is characterized by:
+
+1. **Warmer Temperatures**: Summer is the warmest season of the year, with temperatures often ranging from mild to hot. In many places, temperatures can reach well above 30°C (86°F).
+
+2. **Longer Days**: Summer days are longer, with extended daylight hours due to the tilt of the Earth's axis. This results in more sunshine and shorter nights.
+
+3. **Higher Humidity**: In many regions, summer can also bring higher humidity levels, making the air feel warmer and stickier.
+
+4. **Clearer Skies**: Summer often brings clearer skies and less cloud cover, although this can vary by region. 
+
+5. **Summer Storms**: In some areas, summer can also bring thunderstorms, especially in the late afternoon or evening due to the heat and humidity.
+
+6. **Dry or Rainy Seasons**: Depending on the geographic location, some places experience dry summers (like the Mediterranean climate), while others may have rainy seasons (like the monsoon season in South Asia).
+
+It's important to note that while these are general trends, specific weather patterns can vary widely based on location and local climate conditions.
+[CORRECT_ANSWER]: relatively warm
+[FEEDBACK]: The response provides a detailed and accurate description of summer weather, covering various aspects such as temperature, daylight hours, humidity, sky conditions, and regional variations. However, the reference answer is very concise, simply stating "relatively warm." While the response is factually correct and accurate, it goes beyond the simplicity of the reference answer. According to the rubric, the response should be evaluated based on its correctness, accuracy, and factuality in relation to the reference answer. Given that the response is accurate but more detailed than necessary, it aligns closely with the criteria for being mostly correct, accurate, and factual.
+[RESULT]: 4

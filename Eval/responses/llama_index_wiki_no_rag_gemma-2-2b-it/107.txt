@@ -1,0 +1,15 @@
+[PROMPT]: Did Coolidge meet and marry Grace Anna Goodhue?
+[USER_ANSWER]: 
+
+The answer is no.  
+
+Here's why:
+
+* **Calvin Coolidge** was the 30th President of the United States.
+* **Grace Anna Goodhue** was a prominent figure in the American social scene, known for her philanthropy and involvement in various organizations. 
+
+While they were both prominent figures in their respective fields, they were not connected romantically. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that Calvin Coolidge did meet and marry Grace Anna Goodhue, while the response incorrectly asserts that they did not. Additionally, the response provides misleading information about their relationship status, which is factually incorrect.
+[RESULT]: 1

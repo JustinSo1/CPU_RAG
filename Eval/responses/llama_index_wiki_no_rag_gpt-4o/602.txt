@@ -1,0 +1,5 @@
+[PROMPT]: What is an otter's den called?
+[USER_ANSWER]: An otter's den is called a "holt" or sometimes a "couch." These terms are used to describe the burrow or dwelling where otters live and raise their young. Holts are typically located near water bodies like rivers, lakes, or coastal areas, and they can be found in natural cavities, under tree roots, or in burrows dug into the riverbank.
+[CORRECT_ANSWER]: Holt
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "holt" as the term for an otter's den, which matches the reference answer. Additionally, it provides extra information by mentioning "couch" as another term and describing the typical locations and characteristics of otter dens. However, the reference answer is very concise, and the additional details, while informative, are not necessary for the primary question. The response could be seen as slightly over-explained for the simplicity of the question.
+[RESULT]: 4

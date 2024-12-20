@@ -1,0 +1,19 @@
+[PROMPT]: Why otters are considered as totem animals?
+[USER_ANSWER]: Otters are often considered totem animals due to their unique characteristics and the symbolism they embody. In various cultures, totem animals are believed to be spiritual guides or symbols that individuals or groups feel a deep connection with. Here are some reasons why otters hold this status:
+
+1. **Playfulness and Joy**: Otters are known for their playful behavior, often seen sliding down riverbanks, juggling rocks, or engaging in social activities. This playfulness is a reminder to embrace joy, spontaneity, and the lighter side of life.
+
+2. **Adaptability**: Otters are highly adaptable creatures, thriving in both freshwater and marine environments. This adaptability symbolizes the ability to go with the flow, adjust to different situations, and navigate through life's challenges with ease.
+
+3. **Family and Social Bonds**: Otters are social animals that often live in close-knit family groups. They demonstrate strong bonds, cooperation, and communication within their groups. This highlights the importance of family, community, and maintaining strong, supportive relationships.
+
+4. **Resourcefulness and Creativity**: Otters are clever and resourceful, using tools like rocks to open shells and find food. This resourcefulness and ingenuity represent creativity, problem-solving skills, and the ability to use available resources to achieve goals.
+
+5. **Connection to Water**: As creatures of the water, otters symbolize the emotional and intuitive aspects of life. Water is often associated with emotions, and otters remind us to stay in touch with our feelings, intuition, and the deeper currents of our inner lives.
+
+6. **Balance and Harmony**: Otters' ability to live both on land and in water represents balance and harmony between different elements and aspects of life. They encourage finding equilibrium and maintaining a harmonious existence.
+
+In summary, otters are considered totem animals because they embody qualities such as joy, adaptability, social bonds, resourcefulness, emotional depth, and balance. These attributes serve as powerful symbols and reminders for those who feel a connection to otters as their spiritual guides.
+[CORRECT_ANSWER]: The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19. 
+[FEEDBACK]: The response provided is detailed and informative about why otters are considered totem animals, but it does not address the specific information given in the reference answer, which relates to the time of year and the Aquarius sign of the Zodiac. The response does not mention the Zodiac sign or the time period associated with it, making it factually incorrect based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,20 @@
+[PROMPT]: How do qatar and the wider region relate?
+[USER_ANSWER]: 
+
+Qatar and the wider region have a complex and multifaceted relationship, marked by both cooperation and tension. Here's a breakdown:
+
+**Cooperation:**
+
+* **Economic Ties:** Qatar is a major player in the Gulf Cooperation Council (GCC), and its economy is deeply intertwined with the region's. Trade, investment, and energy cooperation are key areas of collaboration. 
+* **Security:** Qatar plays a significant role in regional security, particularly in counterterrorism efforts. It hosts the US Central Command (CENTCOM) and has a strong military presence.
+* **Cultural Exchange:** There is a significant cultural exchange between Qatar and the wider region, with shared heritage, language, and traditions. 
+* **Diplomacy:** Qatar has been a key player in mediating conflicts and promoting peace in the region.
+
+**Tension:**
+
+* **Political Differences:** Qatar's political stance, particularly its support for the Muslim Brotherhood and its opposition to Saudi Arabia's policies, has led to strained relations.
+* **Human Rights Concerns:** Qatar has been criticized for its human rights record, particularly regarding freedom of speech and the treatment of migrant workers.
+* **Regional Rivalry:** Qatar's wealth and its role in the region have led to tensions with other countries,
+[CORRECT_ANSWER]: Qatar is aiming to become a role model for economic and social transformation in the region. Large scale investment in all social and economic sectors will also lead to the development of a strong financial market.
+[FEEDBACK]: The response provides a detailed and accurate description of the relationship between Qatar and the wider region, highlighting both cooperation and tension. However, it does not directly address the specific focus on Qatar's aim to become a role model for economic and social transformation, as mentioned in the reference answer. While the response is factually correct and provides relevant information, it lacks the direct connection to the reference answer's emphasis on Qatar's investment in social and economic sectors and the development of a strong financial market. Therefore, it does not fully align with the reference answer's focus.
+[RESULT]: 4

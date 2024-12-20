@@ -1,0 +1,8 @@
+[PROMPT]: How many species of otter are there?
+[USER_ANSWER]: 
+
+There are **13 recognized species of otters** in the world. 
+
+[CORRECT_ANSWER]: 13
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It states that there are 13 recognized species of otters, which aligns with the reference answer. However, the additional wording "recognized species of otters in the world" is not necessary and slightly deviates from the concise nature of the reference answer.
+[RESULT]: 4

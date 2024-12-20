@@ -1,0 +1,5 @@
+[PROMPT]: Where is Qatar's telecommunication system centered?
+[USER_ANSWER]: Qatar's telecommunication system is centered around its capital city, Doha. Doha is the hub for the country's telecommunications infrastructure, including services provided by major operators like Ooredoo and Vodafone Qatar. These companies offer a wide range of services such as mobile and fixed-line telephony, internet, and broadband services. The government has also invested significantly in developing advanced telecommunications infrastructure to support the country's rapid growth and technological advancement.
+[CORRECT_ANSWER]: Doha.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Doha as the center of Qatar's telecommunication system, which aligns with the reference answer. However, the additional details about the telecommunications infrastructure, major operators, and government investments, while informative, are not necessary to answer the question directly. The extra information does not detract from the accuracy but is beyond what was required.
+[RESULT]: 4

@@ -1,0 +1,8 @@
+[PROMPT]: What is the biggest city in Finland?
+[USER_ANSWER]: 
+
+The biggest city in Finland is **Helsinki**. 
+
+[CORRECT_ANSWER]: Greater Helsinki
+[FEEDBACK]: The response "The biggest city in Finland is **Helsinki**." is mostly correct, accurate, and factual. However, the reference answer specifies "Greater Helsinki," which includes the metropolitan area and not just the city proper. While Helsinki is the largest city, the reference answer implies a broader area. Therefore, the response is not completely aligned with the reference answer but is still largely accurate.
+[RESULT]: 4

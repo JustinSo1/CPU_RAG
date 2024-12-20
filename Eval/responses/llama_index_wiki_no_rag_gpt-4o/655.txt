@@ -1,0 +1,5 @@
+[PROMPT]: What is polar bear's skin color?
+[USER_ANSWER]: Polar bears have black skin. Their fur appears white, but it's actually made up of transparent, hollow hairs that reflect and scatter light, giving them their white appearance. This adaptation helps them blend into their snowy and icy environment.
+[CORRECT_ANSWER]: white or cream
+[FEEDBACK]: The response is mostly incorrect. The question specifically asks about the color of the polar bear's skin, which is black. However, the reference answer indicates that the correct answer should be "white or cream," which refers to the fur color. The response does provide accurate information about the fur's appearance and its adaptation, but it does not directly answer the question about the skin color correctly based on the reference answer.
+[RESULT]: 2

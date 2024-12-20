@@ -1,0 +1,21 @@
+[PROMPT]: What sort of turtles are ectothermic?
+[USER_ANSWER]: 
+
+Ectothermic animals rely on external sources of heat to regulate their body temperature.  
+
+Here's a breakdown of ectothermic turtles:
+
+* **Most turtles are ectothermic.** This means they rely on the sun, warm rocks, or other sources of heat to regulate their body temperature. 
+* **Some turtles are considered "thermoregulators."**  These turtles can control their body temperature to some degree, but they still rely on external sources for a significant portion of their heat. 
+* **The specific type of turtle and its environment will determine its level of ectothermy.** For example, a turtle living in a cold climate will be more reliant on external heat sources than a turtle living in a warm climate.
+
+**Examples of ectothermic turtles:**
+
+* **Box turtles:** These turtles are known for their ability to bury themselves in the ground to escape the heat.
+* **Painted turtles:** These turtles are often found basking on rocks in the sun.
+* **Snapping turtles:** These turtles are known for their powerful jaws and are often found in cold water.
+
+**Key takeaway:** While some turtles can regulate their body temperature to some degree, most turtles are ectothermic and rely on external sources
+[CORRECT_ANSWER]: all of them
+[FEEDBACK]: The response provides a detailed explanation of ectothermic turtles, including examples and descriptions of their behavior. However, the reference answer is simply "all of them," indicating that all turtles are ectothermic. The response, while informative, does not directly state that all turtles are ectothermic and instead discusses variations and specific examples. This makes the response somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

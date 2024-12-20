@@ -1,0 +1,16 @@
+[PROMPT]: Is a kangaroo a reptile?
+[USER_ANSWER]: 
+
+No, a kangaroo is not a reptile. 
+
+Here's why:
+
+* **Kangaroos are mammals:**  They give birth to live young and nurse them with milk. 
+* **Reptiles are cold-blooded:** They rely on the environment to regulate their body temperature.
+* **Kangaroos are warm-blooded:** They maintain a constant body temperature. 
+
+Let me know if you have any other animal questions! 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that a kangaroo is not a reptile and provides additional accurate information about the characteristics of kangaroos and reptiles. This additional information, while not necessary, does not detract from the correctness of the response. The response is thorough and informative, aligning well with the criteria for a high score.
+[RESULT]: 5

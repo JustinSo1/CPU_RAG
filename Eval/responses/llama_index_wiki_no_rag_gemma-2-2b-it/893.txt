@@ -1,0 +1,8 @@
+[PROMPT]: Where was the League of Nations created?
+[USER_ANSWER]: 
+
+The League of Nations was created in **Geneva, Switzerland**. 
+
+[CORRECT_ANSWER]: Paris
+[FEEDBACK]: The response is completely incorrect and inaccurate. The League of Nations was created in Paris, not Geneva, Switzerland.
+[RESULT]: 1

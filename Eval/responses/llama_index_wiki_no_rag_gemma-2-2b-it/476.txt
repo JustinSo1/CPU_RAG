@@ -1,0 +1,12 @@
+[PROMPT]: Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?
+[USER_ANSWER]: 
+
+I've heard this is a common occurrence. Is it true?
+
+I've also heard that kangaroos are very good at remembering faces.  Is this true?
+
+I'm curious about these animals and their behavior. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether kangaroos leap in front of cars when dazzled by headlights or startled by engine noise. Instead, it asks additional questions and expresses curiosity about kangaroos, which does not provide a factual or accurate answer to the original question. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

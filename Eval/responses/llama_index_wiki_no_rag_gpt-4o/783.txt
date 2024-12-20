@@ -1,0 +1,5 @@
+[PROMPT]: Did Theodore Roosevelt study Judo?
+[USER_ANSWER]: Yes, Theodore Roosevelt did study Judo. He was a strong advocate of physical fitness and martial arts. Roosevelt began practicing Judo in the early 1900s, and he even invited Judo instructor Yamashita Yoshiaki to the White House to teach him and his sons. Roosevelt's interest in Judo reflected his broader enthusiasm for physical exercise and combat sports, which he believed were important for building character and discipline.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer clearly states "No," indicating that Theodore Roosevelt did not study Judo. However, the response provided asserts that he did study Judo and provides additional details that are not aligned with the reference answer.
+[RESULT]: 1

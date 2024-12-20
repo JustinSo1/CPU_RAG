@@ -1,0 +1,24 @@
+[PROMPT]: What enjoys one of the world's highest standards of living?
+[USER_ANSWER]: 
+
+The answer is **Switzerland**.
+
+Here's why:
+
+* **High GDP per capita:** Switzerland consistently ranks among the top countries in the world for GDP per capita, indicating a high level of economic prosperity.
+* **Low unemployment:** Switzerland boasts a remarkably low unemployment rate, reflecting a strong and stable economy.
+* **High quality of life:** Switzerland consistently ranks highly in global surveys measuring quality of life, including factors like healthcare, education, and safety.
+* **Strong social safety net:** Switzerland has a robust social safety net that provides support for its citizens, including healthcare, education, and unemployment benefits.
+* **Stable political environment:** Switzerland has a stable political environment with a strong tradition of democracy and rule of law.
+
+However, it's important to note that Switzerland also has:
+
+* **High cost of living:** Housing, food, and other goods and services are generally more expensive in Switzerland than in many other countries.
+* **Strict immigration policies:** Switzerland has strict immigration policies that can make it difficult for foreigners to obtain work permits or residency.
+* **Limited social mobility:** While Switzerland offers a high standard of living, social mobility can be limited for some individuals.
+
+
+Overall, Switzerland is a country with a high standard of
+[CORRECT_ANSWER]: Liechtenstein's population
+[FEEDBACK]: The response identifies Switzerland as enjoying one of the world's highest standards of living, which is not the same as the reference answer, Liechtenstein. While the response provides detailed and accurate information about Switzerland's high standard of living, it does not match the reference answer. Therefore, the response is mostly incorrect based on the reference answer provided.
+[RESULT]: 2

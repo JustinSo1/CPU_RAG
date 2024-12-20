@@ -1,0 +1,5 @@
+[PROMPT]: Is Romania a secular state?
+[USER_ANSWER]: Yes, Romania is officially a secular state. The Romanian Constitution guarantees freedom of religion and separates religious institutions from the state. While the Romanian Orthodox Church plays a significant cultural and historical role in the country and is the predominant religious affiliation among Romanians, there is no official state religion. The state recognizes and respects various religious denominations and ensures that individuals have the freedom to practice their religion of choice.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Romania is a secular state and provides additional relevant information about the Romanian Constitution, the role of the Romanian Orthodox Church, and the recognition of various religious denominations. However, the reference answer is very concise, and the additional details, while accurate, are not necessary to answer the question directly. Therefore, the response is not completely aligned with the reference answer's simplicity.
+[RESULT]: 4

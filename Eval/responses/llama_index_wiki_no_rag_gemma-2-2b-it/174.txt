@@ -1,0 +1,16 @@
+[PROMPT]: Is Egypt bordered by the Gaza Strip?
+[USER_ANSWER]: 
+
+No, Egypt is not bordered by the Gaza Strip. 
+
+Here's why:
+
+* **Geography:** The Gaza Strip is located on the eastern coast of the Mediterranean Sea, bordering Israel to the west and Egypt to the east.
+* **Borders:** Egypt shares a long border with the Gaza Strip, but it is not directly bordered by it. 
+* **Political Situation:** The Gaza Strip is a Palestinian territory under the control of Hamas, a Palestinian militant group. 
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that Egypt is bordered by the Gaza Strip, while the response incorrectly claims that Egypt is not bordered by the Gaza Strip. The explanation provided in the response is also factually incorrect, as it contradicts the geographical reality that Egypt shares a border with the Gaza Strip. Therefore, the response fails to meet the criteria for correctness, accuracy, and factuality.
+[RESULT]: 1

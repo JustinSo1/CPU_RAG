@@ -1,0 +1,7 @@
+[PROMPT]: Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?
+[USER_ANSWER]: Yes, it is likely that oil and gas will remain the backbone of Qatar's economy for some time to come. Qatar is one of the world's largest producers of liquefied natural gas (LNG) and has significant reserves of oil and natural gas. The revenues from these resources have been the primary drivers of the country's economic growth and development.
+
+While Qatar has been making efforts to diversify its economy through investments in sectors such as finance, tourism, and infrastructure, the energy sector continues to play a dominant role. The country's National Vision 2030 aims to reduce its dependency on hydrocarbon revenues, but the transition will take time. Given the current global demand for energy and Qatar's strategic position as a major supplier, oil and gas are expected to remain central to its economy in the near future.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of why oil and gas are likely to remain the backbone of Qatar's economy, mentioning Qatar's significant reserves and production of LNG, the role of energy revenues in economic growth, and the ongoing efforts to diversify the economy. However, the reference answer is simply "Yes," indicating that a brief confirmation would suffice. The response, while informative, goes beyond what is necessary to answer the question directly.
+[RESULT]: 4

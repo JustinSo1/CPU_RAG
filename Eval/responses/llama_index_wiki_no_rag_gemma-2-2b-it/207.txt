@@ -1,0 +1,18 @@
+[PROMPT]: How many species of African elephants have been proposed?
+[USER_ANSWER]: 
+
+The number of proposed species of African elephants is a bit tricky, as it depends on how you define "species." 
+
+Here's a breakdown:
+
+* **The most widely accepted view:**  There are **two** distinct species of African elephants: the **African bush elephant** (Loxodonta africana) and the **African forest elephant** (Loxodonta cyclotis).
+* **Genetic evidence:**  Genetic studies have shown that these two species are distinct and have evolved separately for a long time.
+* **Other proposed species:**  There have been other proposed species, often based on geographic differences or physical characteristics. These include:
+    * **The extinct "dwarf" elephant:**  Some researchers have proposed a third species based on fossil evidence, but this is not widely accepted.
+    * **The "African forest elephant subspecies":**  Some argue that the forest elephant is a distinct subspecies of the bush elephant, but this is not universally accepted.
+
+**In summary:** While the two main species are widely accepted, the exact number of proposed species of African elephants is debated and depends on the criteria used. 
+
+[CORRECT_ANSWER]: three
+[FEEDBACK]: The response provides a detailed explanation of the different views on the number of African elephant species, mentioning the two widely accepted species and other proposed species. However, it does not directly state the number "three" as the reference answer does. While the response is informative and mostly accurate, it does not align perfectly with the reference answer, which is concise and specific. Therefore, the response is mostly correct but not completely aligned with the reference answer.
+[RESULT]: 4

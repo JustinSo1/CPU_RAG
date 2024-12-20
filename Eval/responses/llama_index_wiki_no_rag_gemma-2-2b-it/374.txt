@@ -1,0 +1,10 @@
+[PROMPT]: What is the first number on the page?
+[USER_ANSWER]: 
+
+The first number on the page is **1**. 
+
+Please provide me with the context or the page you are referring to so I can help you further. 
+
+[CORRECT_ANSWER]: 28
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The first number on the page should be "28," but the response incorrectly states "1." Additionally, the request for further context is irrelevant to the task of identifying the first number on the page.
+[RESULT]: 1

@@ -1,0 +1,15 @@
+[PROMPT]: What did Canada adopt in 1965?
+[USER_ANSWER]: 
+
+The answer is the **Canadian Charter of Rights and Freedoms**. 
+
+Here's why:
+
+* **The Canadian Charter of Rights and Freedoms** is a fundamental document that enshrines the rights and freedoms of all Canadians. It was adopted in 1982, not 1965. 
+* **The Charter** protects fundamental rights like freedom of speech, religion, and assembly, as well as the right to equality and the right to a fair trial. 
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: The Maple Leaf Flag
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The Canadian Charter of Rights and Freedoms was adopted in 1982, not 1965. The correct answer is the Maple Leaf Flag. The response does not address the correct event that took place in 1965 and provides incorrect information about the Charter.
+[RESULT]: 1

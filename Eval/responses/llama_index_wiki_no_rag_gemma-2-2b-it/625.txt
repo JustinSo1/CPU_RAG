@@ -1,0 +1,28 @@
+[PROMPT]: How much time to penguins spend on land?
+[USER_ANSWER]: 
+
+Penguins spend a surprisingly large amount of time on land, but it's not as much as you might think. 
+
+Here's a breakdown:
+
+**On average, penguins spend about 10-20% of their time on land.**
+
+**Factors that influence time on land:**
+
+* **Species:** Different penguin species have different habits. For example, Emperor penguins spend more time on land than Gentoo penguins.
+* **Breeding season:** During breeding season, penguins spend more time on land to incubate their eggs and care for chicks.
+* **Food availability:** Penguins that live in areas with abundant food may spend less time on land.
+* **Weather:** Penguins may spend more time on land during storms or extreme cold.
+
+**Interesting facts:**
+
+* Penguins are flightless birds, so they need to spend time on land to rest and preen their feathers.
+* Penguins have a special adaptation called a "waddle" that helps them move efficiently on land.
+* Penguins are excellent swimmers and can dive to great depths.
+
+
+Let me know if you have any other questions about penguins! 
+
+[CORRECT_ANSWER]: half of their life
+[FEEDBACK]: The response provides a detailed explanation about the time penguins spend on land, including factors that influence this time. However, it states that penguins spend about 10-20% of their time on land, which is significantly different from the reference answer that states penguins spend half of their life on land. This discrepancy makes the response mostly incorrect and inaccurate based on the reference answer.
+[RESULT]: 2

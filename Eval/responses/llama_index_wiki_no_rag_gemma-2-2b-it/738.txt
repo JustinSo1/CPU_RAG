@@ -1,0 +1,19 @@
+[PROMPT]: Did the media contribute 15.6% to Singapore's GDP in 2001?
+[USER_ANSWER]: 
+
+This question is asking about the contribution of the media industry to Singapore's overall GDP. 
+
+To answer this, you would need to find the data on Singapore's GDP for 2001 and the contribution of the media industry to that GDP. 
+
+Here's how you could find that information:
+
+* **Search for official statistics:** The Singapore Department of Statistics is the best source for this information. You can find their website at [https://www.singstat.gov.sg/](https://www.singstat.gov.sg/).
+* **Look for publications:** The Singapore Ministry of Trade and Industry may also publish reports on the media industry's contribution to the economy.
+* **Consult economic databases:** There are various online databases that provide economic data, such as the World Bank or the International Monetary Fund.
+
+
+Once you find the relevant data, you can calculate the percentage contribution of the media industry to Singapore's GDP in 2001. 
+
+[CORRECT_ANSWER]: No, it contributed 1.56% to GDP in 2001.
+[FEEDBACK]: The response does not directly answer the question about the media's contribution to Singapore's GDP in 2001. Instead, it provides a method for finding the information, which is not what was asked. The reference answer clearly states that the media contributed 1.56% to the GDP, while the response does not provide this factual information. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

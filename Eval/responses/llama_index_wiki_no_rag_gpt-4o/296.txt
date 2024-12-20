@@ -1,0 +1,13 @@
+[PROMPT]: Where do wolves have scent glands?
+[USER_ANSWER]: Wolves have scent glands in several locations on their bodies, which they use for communication and marking their territory. The primary areas where these scent glands are found include:
+
+1. **Anal Glands**: Located near the base of the tail, these glands produce strong-smelling secretions used for marking territory.
+2. **Precaudal Glands**: Also known as supracaudal glands, these are found on the upper side of the tail and help in scent marking.
+3. **Interdigital Glands**: Situated between the toes, these glands leave scent marks on the ground as the wolf walks.
+4. **Facial Glands**: These are located around the face, particularly near the cheeks and lips, used for marking objects by rubbing against them.
+5. **Urine and Feces**: While not glands per se, wolves use urine and feces, both of which can carry unique scents, to mark their territory and communicate with other wolves.
+
+These scent-marking behaviors are crucial for wolves to establish their presence, communicate with pack members, and deter intruders.
+[CORRECT_ANSWER]: Helping the woldf to effectively navigate over large expanses while concurrently keeping others informed of its whereabouts.
+[FEEDBACK]: The response provides detailed and accurate information about the locations of scent glands in wolves, including the anal glands, precaudal glands, interdigital glands, and facial glands. It also mentions the use of urine and feces for scent marking, which, while not glands, is relevant to the topic. The response is factual and aligns well with the reference answer's focus on scent marking and communication. However, the reference answer is more general and does not provide specific details about the locations of the scent glands, which the evaluated response does. Despite this, the evaluated response is still accurate and factual.
+[RESULT]: 5

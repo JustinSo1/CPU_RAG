@@ -1,0 +1,5 @@
+[PROMPT]: Did Theodore Roosevelt go to Harvard?
+[USER_ANSWER]: Yes, Theodore Roosevelt attended Harvard College. He enrolled in 1876 and graduated in 1880. During his time at Harvard, he studied a variety of subjects, was involved in several extracurricular activities, and developed interests that would influence his later career in public service and conservation.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional details about Theodore Roosevelt's time at Harvard, including his enrollment and graduation years, his studies, and his extracurricular activities. While the reference answer is very brief, the response expands on it with accurate information that is relevant to the question.
+[RESULT]: 5

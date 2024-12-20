@@ -1,0 +1,27 @@
+[PROMPT]: What is the difference between leopards and cheetahs?
+[USER_ANSWER]: Leopards and cheetahs are both large cats found primarily in Africa, but they have several distinct differences. Here are some key differences between the two:
+
+1. **Physical Appearance**:
+   - **Leopards**: Leopards (Panthera pardus) have a robust, muscular build with short legs and a broad head. Their coat is marked with rosettes (spots that are grouped in a circular pattern) which helps them blend into the dappled light of their forested habitats. They have a powerful build and are excellent climbers.
+   - **Cheetahs**: Cheetahs (Acinonyx jubatus) are more slender and have a lighter build with long legs and a small, rounded head. Their coat is covered in solid black spots, and they have distinctive "tear marks" running from the inner corners of their eyes down to the sides of their mouths. Cheetahs are built for speed with a flexible spine, large nasal passages, and enlarged adrenal glands.
+
+2. **Speed and Hunting**:
+   - **Leopards**: Leopards are ambush predators who rely on their stealth and strength to get close to their prey before pouncing. They are excellent climbers and often drag their kills up trees to keep them safe from scavengers.
+   - **Cheetahs**: Cheetahs are the fastest land animals, capable of reaching speeds up to 60-70 miles per hour (97-113 kilometers per hour) in short bursts covering distances up to 500 meters. They rely on their speed to chase down and catch their prey, usually during the day.
+
+3. **Habitat**:
+   - **Leopards**: Leopards are highly adaptable and can be found in a wide range of habitats, including savannas, forests, mountains, and grasslands. They are solitary animals and are more nocturnal.
+   - **Cheetahs**: Cheetahs prefer open landscapes such as savannas and grasslands where they can utilize their speed to hunt. They are diurnal, meaning they are most active during the day.
+
+4. **Social Structure**:
+   - **Leopards**: Leopards are solitary animals, except for mothers with cubs or during mating. They are territorial and mark their territories with scent markings.
+   - **Cheetahs**: Cheetahs are more social than leopards. Males often form small groups called coalitions, usually consisting of brothers, while females tend to be solitary except when raising cubs.
+
+5. **Conservation Status**:
+   - **Leopards**: Leopards are listed as "Vulnerable" on the IUCN Red List, with some subspecies being critically endangered. Their populations are threatened by habitat loss, human-wildlife conflict, and poaching.
+   - **Cheetahs**: Cheetahs are also listed as "Vulnerable," with some populations critically endangered. They face threats from habitat loss, human-wildlife conflict, and a limited gene pool due to their low numbers.
+
+Understanding these differences can help in the conservation efforts and appreciation of these unique and magnificent animals.
+[CORRECT_ANSWER]: The leopard has roS08_settes rather than cheetah's simple spots and the leopard is larger and less lanky than the cheetah.
+[FEEDBACK]: The response is highly detailed and provides a comprehensive comparison between leopards and cheetahs, covering physical appearance, speed and hunting, habitat, social structure, and conservation status. While the reference answer is brief, the response expands on the key points mentioned, such as the differences in spots and body build. The information provided is correct, accurate, and factual, aligning well with the reference answer's focus on physical differences. The response goes beyond the reference answer by including additional relevant details, which enhances the overall understanding of the differences between the two species.
+[RESULT]: 5

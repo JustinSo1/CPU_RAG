@@ -1,0 +1,5 @@
+[PROMPT]: Who did Ford nominate for Vice President?
+[USER_ANSWER]: President Gerald Ford nominated Nelson Rockefeller as Vice President on August 20, 1974, after Ford himself ascended to the presidency following Richard Nixon's resignation. Nelson Rockefeller was a former governor of New York and was confirmed and sworn in as Vice President on December 19, 1974.
+[CORRECT_ANSWER]: Bob Dole
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that Bob Dole was nominated, while the response incorrectly states that Nelson Rockefeller was nominated. Additionally, the response includes extra information that is not relevant to the question.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Do penguins feed on krill?
+[USER_ANSWER]: Yes, many species of penguins do feed on krill. Krill are small, shrimp-like crustaceans that are a key part of the diet for several penguin species, including the Emperor Penguin, Adélie Penguin, and Chinstrap Penguin. Krill are abundant in the Southern Ocean and are an important food source for various marine animals.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information about the types of penguins that feed on krill and the importance of krill in the marine ecosystem, which is accurate and relevant. However, the reference answer is very brief, and the response goes beyond the simplicity of the reference answer. Despite this, the response is factually accurate and correct.
+[RESULT]: 5

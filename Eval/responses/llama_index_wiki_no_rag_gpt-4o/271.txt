@@ -1,0 +1,5 @@
+[PROMPT]: Is Ford one of only four former Presidents to live to 90 or more years of age ?
+[USER_ANSWER]: No, Gerald Ford is not one of only four former U.S. Presidents to live to 90 or more years of age. In fact, as of my last update in October 2023, several former Presidents have lived to be 90 or older. These include John Adams, Herbert Hoover, Ronald Reagan, Gerald Ford, George H.W. Bush, and Jimmy Carter. The list may expand over time as more Presidents reach that age.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The instruction asks if Ford is one of only four former Presidents to live to 90 or more years of age, and the correct answer is simply "Yes." The response provided a detailed list of Presidents who lived to be 90 or older, which is not necessary and contradicts the simplicity of the reference answer. Therefore, the response does not align well with the reference answer and contains inaccuracies in the context of the question asked.
+[RESULT]: 2

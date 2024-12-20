@@ -1,0 +1,19 @@
+[PROMPT]: Why polar bear is a special species?
+[USER_ANSWER]: Polar bears (Ursus maritimus) are considered a special species for several reasons:
+
+1. **Adaptations to Arctic Environment**: Polar bears have unique adaptations that enable them to thrive in the harsh conditions of the Arctic. These include a thick layer of blubber, dense fur, and black skin underneath their fur to absorb and retain heat. Their large, powerful limbs and paws are adapted for swimming and for walking on ice.
+
+2. **Apex Predators**: As apex predators, polar bears play a crucial role in maintaining the balance of their ecosystem. They primarily prey on seals, which helps regulate seal populations and maintain the health of the marine environment.
+
+3. **Indicator Species**: Polar bears are often considered an indicator species for the health of the Arctic ecosystem. Changes in their population can reflect broader environmental changes, such as the effects of climate change on sea ice.
+
+4. **Cultural Significance**: Polar bears hold cultural importance for many Indigenous peoples of the Arctic, such as the Inuit, who have coexisted with and relied on these animals for thousands of years.
+
+5. **Conservation Status**: Polar bears are listed as vulnerable by the International Union for Conservation of Nature (IUCN). They face serious threats from climate change, particularly the melting of sea ice, which is critical for their hunting and breeding. This status has led to significant international conservation efforts to protect polar bear habitats and mitigate the effects of climate change.
+
+6. **Scientific Interest**: Polar bears are of great interest to scientists studying climate change, wildlife biology, and Arctic ecosystems. Research on polar bears provides valuable insights into the impacts of environmental changes on Arctic species and ecosystems.
+
+Overall, the unique biological, ecological, and cultural aspects of polar bears, along with their vulnerability to environmental changes, make them a special and iconic species deserving of attention and conservation efforts.
+[CORRECT_ANSWER]: The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.
+[FEEDBACK]: The response provides a detailed and accurate explanation of why polar bears are considered a special species. It covers various aspects such as their adaptations to the Arctic environment, their role as apex predators, their status as an indicator species, their cultural significance, their conservation status, and their scientific interest. These points are all factual and align with the general understanding of polar bears' importance. However, the reference answer focuses specifically on the conservation status and population estimates, which the response does not directly address. Despite this, the response is comprehensive and factually correct in its own right.
+[RESULT]: 4

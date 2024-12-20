@@ -1,0 +1,13 @@
+[PROMPT]: What kind of ducks feed on land?
+[USER_ANSWER]: Several species of ducks are known to feed on land. These ducks often forage for food such as seeds, grains, insects, and small invertebrates. Some examples of ducks that commonly feed on land include:
+
+1. **Mallards**: These are one of the most common and adaptable duck species, often seen foraging for food in fields and grassy areas.
+2. **Northern Pintails**: These ducks are known to feed on agricultural lands, especially during migration.
+3. **American Black Ducks**: They often feed on land, especially in areas with abundant plant material.
+4. **Gadwalls**: These ducks are known to forage in agricultural fields and other terrestrial habitats.
+5. **Northern Shovelers**: While they are more commonly associated with feeding in water, they can also be seen foraging on land.
+
+These ducks exhibit flexibility in their feeding habits, which allows them to exploit a variety of food resources both in aquatic and terrestrial environments.
+[CORRECT_ANSWER]: Dabbling ducks
+[FEEDBACK]: The response provides detailed information about specific species of ducks that feed on land, which is accurate and factual. However, the reference answer "Dabbling ducks" is a more general and concise term that encompasses the types of ducks mentioned in the response. While the response is mostly correct and provides valuable information, it does not directly match the concise term given in the reference answer. Therefore, it is not completely correct according to the rubric.
+[RESULT]: 4

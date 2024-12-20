@@ -1,0 +1,8 @@
+[PROMPT]: What is the estimated population of Egypt?
+[USER_ANSWER]: 
+
+The estimated population of Egypt is around **110 million** people. 
+
+[CORRECT_ANSWER]: More than 78 million.
+[FEEDBACK]: The response "The estimated population of Egypt is around 110 million people." is mostly correct, accurate, and factual. While the reference answer states "More than 78 million," the response provides a more current and precise estimate. However, it is important to note that the reference answer is somewhat outdated, and the response reflects a more recent figure. Therefore, the response is mostly correct and accurate based on the reference answer, but not completely aligned with it.
+[RESULT]: 4

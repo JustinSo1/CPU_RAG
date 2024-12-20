@@ -1,0 +1,16 @@
+[PROMPT]: Sea otters eat what?
+[USER_ANSWER]: 
+
+Otters are carnivores, meaning they eat meat. Their diet consists mainly of:
+
+* **Sea urchins:** These spiny creatures are a favorite food of otters.
+* **Kelp:** This type of seaweed provides them with essential nutrients.
+* **Fish:** Otters will also eat fish, such as salmon, herring, and cod.
+* **Crustaceans:** Crabs, lobsters, and shrimp are also on their menu.
+* **Invertebrates:** Other invertebrates like clams, mussels, and snails are also consumed.
+
+Otters are opportunistic feeders, meaning they will eat whatever is available to them. 
+
+[CORRECT_ANSWER]: Shellfish and other invertebrates
+[FEEDBACK]: The response provides a detailed list of what otters eat, including sea urchins, fish, crustaceans, and invertebrates, which aligns with the reference answer mentioning shellfish and other invertebrates. However, the inclusion of kelp is inaccurate as sea otters are carnivores and do not eat seaweed. This inaccuracy affects the overall correctness of the response. While the response is mostly correct and factual, the mention of kelp prevents it from being completely accurate.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: When was James Monroe elected president?
+[USER_ANSWER]: James Monroe was first elected President of the United States in 1816. He was then re-elected for a second term in 1820.
+[CORRECT_ANSWER]: Monroe was elected president in the election of 1816, and re-elected in 1820.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that James Monroe was first elected President in 1816 and re-elected in 1820. However, the reference answer is more concise and directly addresses the election years without additional details. The response provides slightly more information than necessary, but it does not detract from the accuracy of the information provided.
+[RESULT]: 4

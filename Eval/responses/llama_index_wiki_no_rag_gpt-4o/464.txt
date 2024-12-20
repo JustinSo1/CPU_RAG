@@ -1,0 +1,7 @@
+[PROMPT]: Are Kangaroos Shy?
+[USER_ANSWER]: Kangaroos are generally not considered shy, but their behavior can vary depending on their species and individual experiences. Wild kangaroos tend to be wary of humans and other potential threats, so they may appear cautious or avoidant in their natural habitat. They are more likely to flee than to confront dangers. However, kangaroos that have become accustomed to human presence, such as those in wildlife parks or areas with frequent human interaction, can exhibit less shy behavior and may even approach people, especially if they associate humans with food.
+
+In summary, while wild kangaroos might exhibit behavior that can be perceived as shy, their actions are more about caution and survival instincts rather than inherent shyness.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation about the behavior of kangaroos, indicating that they are generally not considered shy but can exhibit cautious behavior depending on their environment and experiences. While the response is accurate and factual, it does not align with the simplicity and directness of the reference answer, which is a straightforward "Yes." The response overcomplicates the answer, making it somewhat correct but not fully aligned with the reference.
+[RESULT]: 3

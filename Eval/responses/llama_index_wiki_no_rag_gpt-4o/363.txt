@@ -1,0 +1,9 @@
+[PROMPT]: Are Sports in Indonesia generally male-orientated?
+[USER_ANSWER]: Sports in Indonesia, like in many other countries, have traditionally been male-oriented. However, the landscape is gradually changing. Historically, male athletes have received more attention, funding, and media coverage, particularly in popular sports like soccer (football), badminton, and martial arts. 
+
+In recent years, there has been a growing emphasis on promoting gender equality in sports. Female athletes in Indonesia have been making significant strides and gaining recognition in various sports, including badminton, weightlifting, and volleyball. The Indonesian government and various sports organizations are increasingly supporting female athletes, providing them with better training facilities, coaching, and opportunities to compete at national and international levels.
+
+Moreover, successful female athletes like Susi Susanti, who won Indonesia’s first Olympic gold medal in badminton, have inspired more young girls to participate in sports. Efforts to promote women's sports are ongoing, and there is a positive trend towards greater inclusivity and equal opportunities for both male and female athletes in Indonesia.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed and accurate account of the current state of sports in Indonesia, highlighting the historical male-orientation and the recent efforts towards gender equality. However, the reference answer is a simple "yes," indicating that the expected response should be concise and directly address whether sports in Indonesia are generally male-oriented. While the response is factually correct and informative, it does not align with the simplicity and directness of the reference answer. Therefore, it is mostly correct but not completely aligned with the reference answer's format.
+[RESULT]: 4

@@ -1,0 +1,9 @@
+[PROMPT]: What is Monroe's daughter's name?
+[USER_ANSWER]: 
+
+**Answer:**  
+* **Rory Kennedy** 
+
+[CORRECT_ANSWER]: Maria Hester Monroe Gouverneur
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. Rory Kennedy is not Monroe's daughter; the correct name is Maria Hester Monroe Gouverneur.
+[RESULT]: 1

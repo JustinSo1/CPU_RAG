@@ -1,0 +1,18 @@
+[PROMPT]: Did Wilson support the committee system?
+[USER_ANSWER]: 
+
+The committee system is a key part of the U.S. government's legislative process. It's a system of dividing legislative work among different committees. 
+
+**Answer:** Yes, Woodrow Wilson was a strong supporter of the committee system. He believed it was a vital part of a well-functioning democracy. 
+
+**Explanation:**
+
+* **Wilson's Views:** Wilson, as President, saw the committee system as a way to ensure that legislation was carefully considered and debated. He believed it allowed for more expertise and specialization in the legislative process.
+* **Importance of Committees:** He emphasized the importance of committees in gathering information, conducting research, and drafting legislation. He saw them as essential for the efficient functioning of Congress.
+* **Democratic Principles:** Wilson believed that the committee system was a key element of the democratic process. It allowed for greater participation and input from different stakeholders.
+
+**In summary:** Wilson was a strong advocate for the committee system, believing it was essential for a strong and effective democracy. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer clearly states "no," indicating that Wilson did not support the committee system. However, the response provided argues the opposite, stating that Wilson was a strong supporter of the committee system and provides detailed explanations to support this incorrect claim. This directly contradicts the reference answer and does not align with the factual information provided.
+[RESULT]: 1

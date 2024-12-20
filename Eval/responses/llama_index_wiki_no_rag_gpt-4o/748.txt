@@ -1,0 +1,5 @@
+[PROMPT]: What does "singa" mean?
+[USER_ANSWER]: The word "singa" can have different meanings depending on the context and the language. In Malay and Indonesian, "singa" means "lion." In other contexts, it could potentially have different meanings or be a name. If you provide more context, I can give a more precise definition.
+[CORRECT_ANSWER]: lion
+[FEEDBACK]: The response is mostly correct and accurate. It correctly identifies that "singa" means "lion" in Malay and Indonesian, which aligns with the reference answer. However, the additional information about potential other meanings or being a name, while not incorrect, is not necessary for this specific question and slightly deviates from the directness of the reference answer.
+[RESULT]: 4

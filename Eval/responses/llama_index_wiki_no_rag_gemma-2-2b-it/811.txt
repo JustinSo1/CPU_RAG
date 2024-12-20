@@ -1,0 +1,16 @@
+[PROMPT]: Are turtle eggs leathery and soft?
+[USER_ANSWER]: 
+
+Turtle eggs are not leathery and soft. They are **hard-shelled** and **tough**. 
+
+Here's why:
+
+* **Protection:** The hard shell provides a strong defense against predators and environmental hazards.
+* **Development:** The shell allows the developing embryo to grow and develop safely inside.
+* **Durability:** The shell is designed to withstand the rigors of life in the wild.
+
+So, while turtle eggs may seem fragile, their hard shell is essential for their survival. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that turtle eggs are leathery and soft, while the response incorrectly states that turtle eggs are hard-shelled and tough. The explanation provided in the response further supports this incorrect assertion, making the response entirely inaccurate.
+[RESULT]: 1

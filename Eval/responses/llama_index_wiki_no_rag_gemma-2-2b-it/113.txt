@@ -1,0 +1,10 @@
+[PROMPT]: What years were Coolidge's two sons born in?
+[USER_ANSWER]: 
+
+The question is a bit tricky because there's a bit of a misunderstanding.  **Calvin Coolidge did not have two sons.** 
+
+He had one son, **Calvin Coolidge Jr.**, who was born in **1906**. 
+
+[CORRECT_ANSWER]: 1906 and 1908
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The statement that Calvin Coolidge did not have two sons is factually incorrect. Calvin Coolidge had two sons: John Coolidge, born in 1906, and Calvin Coolidge Jr., born in 1908. The response only mentions one son and provides an incorrect birth year for him. Therefore, the response does not meet the criteria for being correct, accurate, and factual based on the reference answer.
+[RESULT]: 2

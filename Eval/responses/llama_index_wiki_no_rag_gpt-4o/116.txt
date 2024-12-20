@@ -1,0 +1,5 @@
+[PROMPT]: Is Canada's official language Zulu?
+[USER_ANSWER]: No, Canada's official languages are not Zulu. Canada has two official languages: English and French. These languages are used in government, legal proceedings, and official communications across the country.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Canada's official languages are not Zulu and provides additional accurate information about Canada's official languages being English and French, and their use in government, legal proceedings, and official communications. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Was John Calvin Coolidge Jr. was born in Las Vegas?
+[USER_ANSWER]: No, John Calvin Coolidge Jr. was not born in Las Vegas. He was born on July 4, 1872, in Plymouth Notch, Vermont. Coolidge served as the 30th President of the United States from 1923 to 1929.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that John Calvin Coolidge Jr. was not born in Las Vegas and provides additional accurate information about his birth date, place, and his role as the 30th President of the United States. However, the additional information, while accurate, is not necessary to answer the question directly. The reference answer is succinct and directly addresses the question without extra details.
+[RESULT]: 5

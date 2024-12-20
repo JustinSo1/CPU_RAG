@@ -1,0 +1,5 @@
+[PROMPT]: Who or what fell in love with abigail powers?
+[USER_ANSWER]: Abigail Powers was the wife of Millard Fillmore, the 13th President of the United States. Millard Fillmore fell in love with Abigail Powers, and they married on February 5, 1826. Abigail Powers Fillmore played a significant role as the First Lady during her husband's presidency from 1850 to 1853.
+[CORRECT_ANSWER]: millard fillmore
+[FEEDBACK]: The response provides accurate and factual information about Abigail Powers and Millard Fillmore, including their marriage and her role as First Lady. However, the response includes additional details that were not necessary to answer the question directly. The reference answer is concise and directly addresses the question by simply stating "Millard Fillmore." While the response is mostly correct and factual, it could be more concise to align perfectly with the reference answer.
+[RESULT]: 4

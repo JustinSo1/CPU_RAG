@@ -1,0 +1,10 @@
+[PROMPT]: Is Ghana's head of state John Agyekum Kufuor?
+[USER_ANSWER]: 
+
+No, John Agyekum Kufuor was Ghana's **President** from 2001 to 2009. 
+
+The current head of state of Ghana is **Nana Akufo-Addo**. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that John Agyekum Kufuor was Ghana's President from 2001 to 2009 and identifies the current head of state as Nana Akufo-Addo. However, the reference answer is simply "yes," which implies a different interpretation of the question. The response provides additional context that is accurate but not aligned with the simplicity of the reference answer.
+[RESULT]: 4

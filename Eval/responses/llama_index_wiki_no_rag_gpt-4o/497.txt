@@ -1,0 +1,5 @@
+[PROMPT]: How much does a leopard weigh?
+[USER_ANSWER]: Leopards are medium-sized big cats, and their weight can vary based on their subspecies, sex, and geographic location. On average, adult male leopards typically weigh between 66 to 176 pounds (30 to 80 kilograms), while adult female leopards generally weigh between 46 to 132 pounds (21 to 60 kilograms). Males are usually larger and heavier than females.
+[CORRECT_ANSWER]: Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females. 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed range for the weight of both male and female leopards, which aligns closely with the reference answer. However, the weight ranges given in the response are slightly broader than those in the reference answer. The reference answer states that males weigh 37 to 90 kg and females weigh 28 to 60 kg, while the response states that males weigh 30 to 80 kg and females weigh 21 to 60 kg. Despite these minor discrepancies, the response is largely accurate and informative.
+[RESULT]: 4

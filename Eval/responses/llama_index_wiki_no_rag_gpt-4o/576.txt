@@ -1,0 +1,5 @@
+[PROMPT]: Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?
+[USER_ANSWER]: Yes, Millard Fillmore, the 13th President of the United States, did decline an honorary degree from Oxford University in 1855. He explained his decision by stating that he had "neither the literary nor scientific attainment" to justify receiving such an honor. Fillmore's modesty and recognition of his own limitations were reflected in his refusal of the degree.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer is a simple "no," indicating that Fillmore did not turn down the honor for the stated reasons. However, the response provided a detailed explanation that contradicts the reference answer, making it factually incorrect.
+[RESULT]: 1

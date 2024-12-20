@@ -1,0 +1,5 @@
+[PROMPT]: When did Adams graduate from college?
+[USER_ANSWER]: I'm sorry, but I don't have access to information about when Adams graduated from college. Could you please provide more context or specify which Adams you are referring to?
+[CORRECT_ANSWER]: 1755.
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information based on the reference answer. Instead of giving the year "1755," it states that it does not have access to the information and asks for more context. This makes the response completely incorrect and inaccurate according to the score rubric.
+[RESULT]: 1

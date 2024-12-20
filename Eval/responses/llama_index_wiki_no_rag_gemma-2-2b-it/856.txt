@@ -1,0 +1,8 @@
+[PROMPT]: Who founded Montevideo?
+[USER_ANSWER]: 
+
+Montevideo was founded by **Juan José de la Cruz** in **1726**. 
+
+[CORRECT_ANSWER]: The Spanish.
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The correct answer is "The Spanish," but the response incorrectly attributes the founding to "Juan José de la Cruz" and provides an incorrect date. Therefore, the response does not align with the reference answer and lacks factual accuracy.
+[RESULT]: 2

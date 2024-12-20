@@ -1,0 +1,14 @@
+[PROMPT]: Can larger penguins dive deep in case of need ?
+[USER_ANSWER]: 
+
+Here's why I'm curious:
+
+* **Penguins are flightless birds:** This means they rely on swimming for movement and hunting.
+* **Deep diving is a skill:**  It requires a combination of powerful muscles, efficient lungs, and streamlined bodies. 
+* **Penguins are known for their swimming:**  They're incredibly agile and fast swimmers.
+
+**My question is:** Do larger penguins have the physical attributes to dive deep, or are they better suited for shallower dives? 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not directly answer the question posed in the instruction. Instead, it provides background information and context about penguins and their diving abilities. While this information is relevant, it does not address whether larger penguins can dive deep in case of need. The reference answer is a simple "Yes," indicating that a direct and factual response is required. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

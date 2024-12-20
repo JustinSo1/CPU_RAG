@@ -1,0 +1,19 @@
+[PROMPT]: Was Grover Cleveland married in the whitehouse?
+[USER_ANSWER]: 
+
+The answer is **no**. 
+
+Grover Cleveland was the 22nd and 24th President of the United States. He was married to Frances Folsom Cleveland, and they were married in 1886. 
+
+Here's why your question might be confusing:
+
+* **Grover Cleveland's presidency:** He served two non-consecutive terms, making him the only president to do so.
+* **White House:** The White House is the official residence of the President of the United States. 
+* **Marriage:**  Cleveland's marriage to Frances Folsom Cleveland took place before he became president. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer clearly states that Grover Cleveland was married in the White House, while the response incorrectly states that he was not. Additionally, the response provides incorrect information about the timing of Cleveland's marriage, as he was indeed married in the White House during his presidency. The response fails to provide any factual accuracy based on the reference answer.
+[RESULT]: 1

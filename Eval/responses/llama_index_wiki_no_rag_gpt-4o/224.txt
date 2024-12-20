@@ -1,0 +1,5 @@
+[PROMPT]: In what year were the "Games of the XV Olympiad" held?
+[USER_ANSWER]: The "Games of the XV Olympiad" were held in 1952.
+[CORRECT_ANSWER]: 1952
+[FEEDBACK]: The response "The 'Games of the XV Olympiad' were held in 1952." is completely correct, accurate, and factual based on the reference answer "1952." The year provided matches the reference answer exactly, and the additional context does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: The John Adams Library , housed at the Boston Public Library , contains what?
+[USER_ANSWER]: The John Adams Library, housed at the Boston Public Library, contains the personal library of John Adams, the second President of the United States. This collection includes around 3,500 volumes, encompassing a wide range of subjects such as law, philosophy, history, and literature. Many of the books contain John Adams' personal annotations, offering insights into his thoughts and intellectual development.
+[CORRECT_ANSWER]: Adams's personal collection of more than 3,500 volumes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately states that the John Adams Library contains the personal library of John Adams and mentions the collection includes around 3,500 volumes. However, it provides additional details about the subjects of the books and John Adams' annotations, which, while informative, are not necessary to answer the question directly. The core information aligns well with the reference answer, but the extra details, although accurate, are not required for a perfect score based on the rubric.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Had he smoked only sporadically ?
+[USER_ANSWER]: Could you provide more context or specify who you are referring to? This would help in giving you a more accurate response.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question "Had he smoked only sporadically?" Instead, it asks for more context or specification, which deviates from providing a direct answer. The reference answer is a simple "yes," indicating that a direct and concise response was expected. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

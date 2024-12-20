@@ -1,0 +1,5 @@
+[PROMPT]: May a single female lay from several dozen to several thousand eggs during her lifetime ?
+[USER_ANSWER]: Yes, it is possible for a single female of certain species to lay from several dozen to several thousand eggs during her lifetime. This can vary widely depending on the species in question. For example, many insects, fish, and amphibians are known to lay large numbers of eggs. Female mosquitoes, for instance, can lay up to 300 eggs at a time and can lay eggs multiple times in their lifetime. On the other hand, many bird species lay fewer eggs, with some laying just a handful of eggs each year. The reproductive strategies of different species are adapted to their ecological niches and survival strategies.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is correct, accurate, and factual. It provides additional context and examples that support the answer, which is informative but not necessary based on the reference answer. The reference answer is very concise, while the evaluated response is more detailed. However, the detailed response does not detract from the accuracy or correctness of the answer.
+[RESULT]: 5

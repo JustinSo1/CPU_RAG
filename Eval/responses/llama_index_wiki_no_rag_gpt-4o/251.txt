@@ -1,0 +1,5 @@
+[PROMPT]: What positions Ford played in the school football team?
+[USER_ANSWER]: Gerald Ford, the 38th President of the United States, played football during his college years at the University of Michigan. He was a center and linebacker for the Michigan Wolverines football team and was known for his skills and leadership on the field. Ford played on the team during the 1932, 1933, and 1934 seasons, and he was part of the national championship teams in 1932 and 1933.
+[CORRECT_ANSWER]: Center and linebacker
+[FEEDBACK]: The response provides accurate information about Gerald Ford's positions in the school football team, stating that he played as a center and linebacker, which matches the reference answer. However, the response includes additional details about Ford's college years, the University of Michigan, and his participation in the national championship teams, which, while factual, are not directly relevant to the specific question asked. The core information required by the question is present and correct.
+[RESULT]: 4

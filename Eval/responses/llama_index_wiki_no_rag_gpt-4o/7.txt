@@ -1,0 +1,5 @@
+[PROMPT]: Who suggested Lincoln grow a beard?
+[USER_ANSWER]: It was an 11-year-old girl named Grace Bedell who suggested that Abraham Lincoln grow a beard. In a letter dated October 15, 1860, she wrote to the presidential candidate, advising him that he would look better with a beard and that it might help him gain more votes, particularly from women. Lincoln responded to her letter and eventually did grow a beard, which became an iconic part of his appearance.
+[CORRECT_ANSWER]: 11-year-old Grace Bedell
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the name of the person who suggested Lincoln grow a beard, Grace Bedell, and includes additional context about the letter she wrote and Lincoln's subsequent decision to grow a beard. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

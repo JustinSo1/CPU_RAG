@@ -1,0 +1,5 @@
+[PROMPT]: Was Becquerel elected Permanent Secretary of the Académie des Sciences?
+[USER_ANSWER]: Yes, Alexandre-Edmond Becquerel, the French physicist, was elected Permanent Secretary of the Académie des Sciences in 1886. He is known for his significant contributions to the study of solar radiation and the discovery of the photovoltaic effect.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. Alexandre-Edmond Becquerel was not elected Permanent Secretary of the Académie des Sciences in 1886. The reference answer simply states "yes," which implies that the response should be concise and factual. The additional information provided about Becquerel's contributions, while accurate, does not compensate for the incorrect statement about his election.
+[RESULT]: 2

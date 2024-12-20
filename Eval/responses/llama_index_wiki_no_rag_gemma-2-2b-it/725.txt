@@ -1,0 +1,12 @@
+[PROMPT]: Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?
+[USER_ANSWER]: 
+
+**Answer:** 2007
+
+**Explanation:**
+
+Sibiu was awarded the title of European Capital of Culture in **2007**. This prestigious title was given to the city to celebrate its rich cultural heritage and to promote its artistic and cultural activities. 
+
+[CORRECT_ANSWER]: 2007
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The year 2007 is correctly identified as the year Sibiu was chosen as the European Capital of Culture. The explanation provided further supports the accuracy of the response by giving additional context about the significance of the title.
+[RESULT]: 5

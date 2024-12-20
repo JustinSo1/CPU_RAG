@@ -1,0 +1,16 @@
+[PROMPT]: What period of rapid economic growth did the United States experience during Coolidge's presidency?
+[USER_ANSWER]: 
+
+The period of rapid economic growth that the United States experienced during Coolidge's presidency was known as the **Roaring Twenties**. 
+
+Here's why:
+
+* **Calvin Coolidge's Presidency (1923-1929):**  Coolidge was a Republican president who took office during a time of economic prosperity.
+* **The Roaring Twenties:** This period (roughly 1920-1929) saw unprecedented economic growth, fueled by factors like technological advancements, mass production, and consumerism. 
+* **Economic Indicators:** The Roaring Twenties saw low unemployment, rising wages, and a booming stock market.
+
+It's important to note that while Coolidge's presidency coincided with this period of economic growth, it wasn't solely due to his policies. The economic boom was a result of a complex interplay of factors, including technological innovation, government policies, and global trends. 
+
+[CORRECT_ANSWER]: the Roaring Twenties
+[FEEDBACK]: The response correctly identifies the period of rapid economic growth during Coolidge's presidency as the Roaring Twenties. It provides additional context about Coolidge's presidency, the characteristics of the Roaring Twenties, and the economic indicators of the time. The explanation is accurate and factual, aligning well with the reference answer. The additional details, while not necessary, do not detract from the correctness of the response.
+[RESULT]: 5

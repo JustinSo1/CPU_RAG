@@ -1,0 +1,17 @@
+[PROMPT]: What makes it more difficult for a diving duck to fly?
+[USER_ANSWER]: Diving ducks face several challenges that make it more difficult for them to fly compared to other types of ducks. Some of the key factors include:
+
+1. **Body Structure**: Diving ducks have heavier and more compact bodies, which are adapted for diving and swimming underwater. This body structure helps them to be more buoyant and agile in water but makes it harder to achieve the lift necessary for flight.
+
+2. **Wing Size and Shape**: Their wings are generally shorter and more rounded, which provides better maneuverability underwater but requires more effort to generate the lift needed for takeoff. This wing shape is less efficient for flying compared to the longer, more pointed wings of other duck species.
+
+3. **Takeoff Technique**: Diving ducks typically need a running start to take off. They often have to run across the water's surface while flapping their wings vigorously to gain enough speed and lift for flight. This is in contrast to dabbling ducks, which can take off more easily from the water or land with a quick upward thrust.
+
+4. **Muscle Adaptation**: The muscle distribution in diving ducks is adapted to support powerful swimming rather than sustained flight. Their leg muscles are stronger to aid in diving and paddling, whereas their flight muscles may not be as developed as those in ducks that fly more frequently.
+
+5. **Feather Density**: Diving ducks have denser feathers that help with insulation and buoyancy while submerged. However, this increased density can add to their overall weight and make flight more energetically demanding.
+
+These adaptations are beneficial for their aquatic lifestyle but contribute to the additional effort required for flying.
+[CORRECT_ANSWER]: They are heavier
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of the factors that make it more difficult for diving ducks to fly, including body structure, wing size and shape, takeoff technique, muscle adaptation, and feather density. These factors align with the reference answer's indication that diving ducks are heavier, which is a key reason for their difficulty in flying. However, the response goes beyond the simplicity of the reference answer by elaborating on multiple aspects, which, while informative, may not be necessary for a perfect score based on the rubric's emphasis on correctness, accuracy, and factuality in relation to the reference answer.
+[RESULT]: 4

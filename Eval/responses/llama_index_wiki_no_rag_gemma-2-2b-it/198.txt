@@ -1,0 +1,15 @@
+[PROMPT]: How many living species of Asian Elephants are there?
+[USER_ANSWER]: 
+
+The number of living species of Asian elephants is **one**. 
+
+It's important to note that there are **two subspecies** of Asian elephants:
+
+* **Indian elephant (Elephas maximus indicus)**: Found in India, Sri Lanka, and Nepal.
+* **Sumatran elephant (Elephas maximus sumatranus)**: Found in Indonesia. 
+
+While there are two subspecies, they are considered a single species. 
+
+[CORRECT_ANSWER]: 1
+[FEEDBACK]: The response correctly identifies that there is one living species of Asian elephants, which aligns with the reference answer. However, the additional information about the subspecies, while accurate, is not necessary for the response and could potentially cause confusion. The primary question was about the number of species, not subspecies. Despite this, the response is mostly correct and factual.
+[RESULT]: 4

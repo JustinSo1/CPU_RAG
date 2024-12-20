@@ -1,0 +1,5 @@
+[PROMPT]: What expired on March?
+[USER_ANSWER]: Could you please provide more specific information or context regarding what you are referring to as having expired in March? There are many things that could potentially expire in March, such as policies, contracts, food products, software licenses, etc. More details would help me provide a more accurate response.
+[CORRECT_ANSWER]: Monroe's presidency
+[FEEDBACK]: The response does not provide a specific answer to the question "What expired on March?" Instead, it asks for more context and lists potential things that could expire in March without giving a definitive answer. This makes the response mostly incorrect and not factual based on the reference answer, which is "Monroe's presidency." The response fails to address the specific event that expired in March as required by the instruction.
+[RESULT]: 2

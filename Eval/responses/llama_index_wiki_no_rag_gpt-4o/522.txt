@@ -1,0 +1,5 @@
+[PROMPT]: What company administers Leichtenstein's railways?
+[USER_ANSWER]: Liechtenstein's railways are primarily operated by the Austrian Federal Railways (Österreichische Bundesbahnen or ÖBB). The rail network in Liechtenstein is limited, with a single railway line running through the country, which is part of the ÖBB network connecting Austria and Switzerland.
+[CORRECT_ANSWER]: Austrian Federal Railways
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the Austrian Federal Railways (ÖBB) as the operator of Liechtenstein's railways. However, the additional information about the rail network being limited and the single railway line running through the country, while accurate, is not necessary for the answer. The reference answer is more concise and directly addresses the question.
+[RESULT]: 4

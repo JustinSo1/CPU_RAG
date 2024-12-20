@@ -1,0 +1,5 @@
+[PROMPT]: Who graduated in ecclesiastical law at the early age of 20 and began to practice?
+[USER_ANSWER]: That individual is Hugo Grotius (Huig de Groot), a Dutch jurist, philosopher, and scholar. Grotius graduated in ecclesiastical law at the early age of 20 and went on to have a significant impact on international law and political philosophy. He is often referred to as the "father of international law" for his contributions to the concepts of natural law and just war theory.
+[CORRECT_ANSWER]: Amedeo Avogadro
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that Amedeo Avogadro graduated in ecclesiastical law at the early age of 20, while the response incorrectly identifies Hugo Grotius.
+[RESULT]: 1

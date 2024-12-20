@@ -1,0 +1,8 @@
+[PROMPT]: Where is the National Orchid Garden?
+[USER_ANSWER]: 
+
+The National Orchid Garden is located in **Singapore**. 
+
+[CORRECT_ANSWER]: Singapore Botanic Gardens.
+[FEEDBACK]: The response correctly identifies that the National Orchid Garden is in Singapore, which is accurate. However, it lacks the specific detail that it is located within the Singapore Botanic Gardens. This makes the response mostly correct but not completely accurate and factual.
+[RESULT]: 4

@@ -1,0 +1,15 @@
+[PROMPT]: What land animal is larger than an elephant?
+[USER_ANSWER]: 
+
+The answer is **Hippopotamus**. 
+
+Here's why:
+
+* **Hippopotamus** are semi-aquatic mammals known for their large size and powerful jaws. They can grow to be over 10 feet long and weigh up to 4,000 pounds. 
+* **Elephants** are the largest land animals, but they are not as large as hippos.
+
+Let me know if you have any other animal trivia questions! 
+
+[CORRECT_ANSWER]: None, the elephant is the largest land animal.
+[FEEDBACK]: The response is completely incorrect and inaccurate. The hippopotamus is not larger than an elephant. Elephants are indeed the largest land animals, and the information provided about the size of hippos does not change this fact. The response fails to provide correct and factual information based on the reference answer.
+[RESULT]: 1

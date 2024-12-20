@@ -1,0 +1,5 @@
+[PROMPT]: How many Eagle Scouts were involved in Ford's funeral procession?
+[USER_ANSWER]: At former President Gerald Ford's funeral procession in January 2007, it is noted that a significant number of Eagle Scouts participated as an honor to Ford, who himself was an Eagle Scout. Specifically, 500 Eagle Scouts took part in the procession, symbolizing the impact and legacy of Ford's involvement in the Boy Scouts of America.
+[CORRECT_ANSWER]: 400
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer states that 400 Eagle Scouts were involved in Ford's funeral procession, while the response incorrectly states that 500 Eagle Scouts participated. This discrepancy indicates that the response is not factual based on the reference answer.
+[RESULT]: 2

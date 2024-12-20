@@ -1,0 +1,18 @@
+[PROMPT]: Is otter a kind of mammal?
+[USER_ANSWER]: 
+
+Yes, otters are mammals. 
+
+Here's why:
+
+* **They give birth to live young:** Unlike reptiles or birds, otters don't lay eggs.
+* **They nurse their young with milk:**  Otters have mammary glands, which produce milk to feed their offspring.
+* **They are warm-blooded:**  Otters maintain a constant body temperature, unlike cold-blooded animals like reptiles. 
+* **They have hair:**  Otters have fur, which helps them stay warm and waterproof. 
+
+
+Let me know if you have any other animal questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about why otters are mammals, including their reproductive methods, nursing habits, body temperature regulation, and physical characteristics. This additional information, while not necessary, does not detract from the correctness of the response.
+[RESULT]: 5

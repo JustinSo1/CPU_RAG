@@ -1,0 +1,15 @@
+[PROMPT]: An otter 's den is what?
+[USER_ANSWER]: 
+
+An otter's den is a **burrow**. 
+
+Here's why:
+
+* **Burrow:** A burrow is a tunnel or hole dug into the ground, often used by animals for shelter and raising their young. 
+* **Otter Dens:** Otters are known for their dens, which are often burrows dug into the ground. 
+
+Let me know if you have any other animal questions! 
+
+[CORRECT_ANSWER]: A holt
+[FEEDBACK]: The response is somewhat correct, as it provides a detailed explanation of what a burrow is and how it relates to otters. However, the term "holt" is the more accurate and specific term for an otter's den. The response does not mention "holt" at all, which is the correct term according to the reference answer. Therefore, while the response is informative, it does not fully align with the most accurate term for an otter's den.
+[RESULT]: 3

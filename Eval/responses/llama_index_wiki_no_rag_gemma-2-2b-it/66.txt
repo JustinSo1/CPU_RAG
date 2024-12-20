@@ -1,0 +1,20 @@
+[PROMPT]: Are certain species of beetles considered pests?
+[USER_ANSWER]: 
+
+Yes, many species of beetles are considered pests. Here's why:
+
+* **Feeding Habits:** Some beetles feed on crops, fruits, vegetables, and other plants, causing significant damage to agricultural production. Examples include:
+    * **Colorado potato beetle:** A major pest of potatoes and other nightshade plants.
+    * **Japanese beetle:** A destructive pest of a wide range of crops, including roses, grapes, and corn.
+    * **Bark beetles:** Infest trees, causing damage and weakening them.
+    * **Weevils:** Feed on grains, seeds, and other plant material.
+* **Nesting Habits:** Some beetles create nests in homes, buildings, or other structures, causing damage and creating health hazards. Examples include:
+    * **Carpet beetles:** Feed on fabrics and can cause allergic reactions.
+    * **Cockroaches:** Can carry diseases and contaminate food.
+    * **Termites:** Can cause significant structural damage to buildings.
+* **Disease Transmission:** Some beetles can act as vectors for diseases that affect humans or other animals. Examples include:
+    * **Asian longhorned beetle:** Can damage hardwood trees and transmit diseases.
+    * **Bark beetles:** Can transmit fungal diseases to trees
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is correct, accurate, and factual. It provides detailed information about why certain species of beetles are considered pests, including their feeding habits, nesting habits, and potential for disease transmission. The examples given are relevant and support the main point effectively. However, the reference answer is very brief and only requires a simple "Yes." While the response goes above and beyond, it is still completely correct and factual based on the reference answer.
+[RESULT]: 5

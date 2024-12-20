@@ -1,0 +1,13 @@
+[PROMPT]: To whom was Millard Fillmore born to?
+[USER_ANSWER]: 
+
+The answer is: **His parents were  **
+
+* **William Fillmore** (father)
+* **Abigail Fillmore** (mother) 
+ 
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: to Nathaniel and Phoebe Millard Fillmore
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The names provided for Millard Fillmore's parents are not correct. According to the reference answer, Millard Fillmore's parents were Nathaniel and Phoebe Millard Fillmore, not William and Abigail Fillmore. Therefore, the response does not align with the factual information given in the reference answer.
+[RESULT]: 2

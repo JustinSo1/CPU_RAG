@@ -1,0 +1,5 @@
+[PROMPT]: Who helped to fund Roosevelt's African safari?
+[USER_ANSWER]: The Smithsonian Institution and Andrew Carnegie helped to fund Theodore Roosevelt's African safari. The expedition, which took place from 1909 to 1910, aimed to collect specimens for the Smithsonian Institution's National Museum of Natural History. Andrew Carnegie, a prominent philanthropist and industrialist, also provided financial support for the expedition.
+[CORRECT_ANSWER]: Financed by Andrew Carnegie and his own proposed writings
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Andrew Carnegie as one of the financiers of Theodore Roosevelt's African safari. However, it inaccurately includes the Smithsonian Institution as a financier, which is not mentioned in the reference answer. The reference answer also mentions Roosevelt's own proposed writings as a source of funding, which the response does not include. Therefore, while the response is mostly accurate, it is not completely correct and factual based on the reference answer.
+[RESULT]: 4

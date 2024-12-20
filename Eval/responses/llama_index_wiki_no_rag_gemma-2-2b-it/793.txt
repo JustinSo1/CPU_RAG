@@ -1,0 +1,8 @@
+[PROMPT]: Does the mother care for the young?
+[USER_ANSWER]: 
+
+The mother cares for the young. 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response "The mother cares for the young" is completely incorrect based on the reference answer "No." The reference answer indicates that the mother does not care for the young, while the response suggests the opposite. Therefore, the response is not accurate or factual according to the given reference answer.
+[RESULT]: 1

@@ -1,0 +1,25 @@
+[PROMPT]: Is the Romanian economy doing well?
+[USER_ANSWER]: 
+
+The Romanian economy has been showing signs of recovery in recent years, but it's not without its challenges. Here's a breakdown:
+
+**Positive Developments:**
+
+* **GDP Growth:** Romania has experienced positive GDP growth in recent years, exceeding the EU average. This indicates a growing economy.
+* **Foreign Direct Investment:** Romania has attracted significant foreign direct investment, particularly in sectors like IT and manufacturing. This signifies confidence in the country's economic potential.
+* **Improved Business Environment:** Reforms aimed at improving the business environment have led to increased competitiveness and attracted foreign investment.
+* **Lower Unemployment:** Unemployment rates have been declining, indicating a strengthening labor market.
+
+**Challenges:**
+
+* **High Public Debt:** Romania's public debt remains high, posing a risk to its long-term economic stability.
+* **Slow Wage Growth:** Despite economic growth, wage growth has been sluggish, impacting purchasing power.
+* **Corruption:** Corruption remains a significant issue, hindering investment and economic growth.
+* **Brain Drain:** Romania faces a brain drain, with skilled workers leaving for better opportunities abroad.
+
+**Overall:**
+
+The Romanian economy is showing signs of recovery, but it faces significant challenges. The government is working to address these issues through reforms
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response provides a detailed and nuanced analysis of the Romanian economy, highlighting both positive developments and challenges. However, the reference answer is a simple "Yes," indicating that the expected response should be a straightforward affirmation of the Romanian economy's performance. The detailed response, while informative, does not align with the simplicity and directness of the reference answer. Therefore, it does not fully meet the criteria of being completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

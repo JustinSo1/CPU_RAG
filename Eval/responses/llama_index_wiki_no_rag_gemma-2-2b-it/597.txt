@@ -1,0 +1,15 @@
+[PROMPT]: Why otters are considered as totem animals?
+[USER_ANSWER]: 
+
+Otters are considered as totem animals for several reasons:
+
+**1. Adaptability and Resourcefulness:** Otters are known for their ability to thrive in diverse environments, from rivers and oceans to lakes and even snowy mountains. They are incredibly resourceful, using their intelligence and skills to find food, navigate obstacles, and survive in challenging conditions. This adaptability makes them a symbol of resilience and resourcefulness, qualities that are highly valued in many cultures.
+
+**2. Playfulness and Joy:** Otters are playful creatures known for their joyful antics and social interactions. They often engage in games and activities that demonstrate their intelligence and ability to have fun. This playful nature is seen as a symbol of joy, happiness, and lightheartedness, qualities that are often desired in life.
+
+**3. Family and Community:** Otters are highly social animals that live in family groups. They exhibit strong bonds and cooperation within their communities, demonstrating the importance of family and community in their lives. This aspect of their nature is seen as a symbol of unity, support, and love, qualities that are highly valued in many cultures.
+
+**4. Healing and Balance:** Otters are often associated with water and its healing properties. They are believed to bring balance and harmony to the environment,
+[CORRECT_ANSWER]: The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19. 
+[FEEDBACK]: The response provided does not address the specific information given in the reference answer, which relates to the time of year and the Aquarius sign of the Zodiac. Instead, the response discusses various symbolic attributes of otters as totem animals, such as adaptability, playfulness, family, and healing. While the information about otters is accurate and detailed, it does not align with the reference answer's focus on the Zodiac sign and time period. Therefore, the response is not correct or accurate based on the reference answer.
+[RESULT]: 1

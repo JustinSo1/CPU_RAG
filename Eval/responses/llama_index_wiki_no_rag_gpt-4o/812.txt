@@ -1,0 +1,5 @@
+[PROMPT]: Are turtles being examined for longevity genes?
+[USER_ANSWER]: Yes, turtles are among the animals being studied for their longevity. Researchers are interested in understanding the genetic and biological mechanisms that contribute to the long lifespans of certain species of turtles. These studies aim to identify specific genes and biological processes that play a role in their exceptional longevity. By examining these genes, scientists hope to gain insights that could potentially inform human health and aging research.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is correct, accurate, and factual. It provides additional context and details about the research on turtles' longevity genes, which aligns with the reference answer. However, the reference answer is very brief, and the response goes beyond the simplicity of the reference answer. While the additional information is accurate, it is not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct and accurate but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

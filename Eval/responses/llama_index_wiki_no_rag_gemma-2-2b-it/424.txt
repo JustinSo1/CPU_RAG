@@ -1,0 +1,12 @@
+[PROMPT]: Was Adams the first to introduce a bicameral legislature?
+[USER_ANSWER]:  
+
+No, that honor goes to the **Romans**. 
+
+The Romans established a bicameral legislature, the **Senate and the Assemblies**, as early as the 5th century BC. 
+
+While the Romans were the first to implement a bicameral legislature, the United States adopted a bicameral legislature based on the **British model**, with the **House of Representatives** and the **Senate**. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that Adams was the first to introduce a bicameral legislature, while the response incorrectly attributes this to the Romans. Additionally, the response provides extraneous information about the Roman and British legislative systems, which is not relevant to the question asked.
+[RESULT]: 2

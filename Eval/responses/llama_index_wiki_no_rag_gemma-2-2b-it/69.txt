@@ -1,0 +1,10 @@
+[PROMPT]: How many species of beetles are there?
+[USER_ANSWER]: 
+
+The number of beetle species is estimated to be **400,000 to 500,000**. 
+
+This is a vast number, and scientists are still discovering new species all the time. 
+
+[CORRECT_ANSWER]: 350,000
+[FEEDBACK]: The response provides an estimate of 400,000 to 500,000 beetle species, which is significantly higher than the reference answer of 350,000. While the response acknowledges the vast number of beetle species and the ongoing discovery of new species, the numerical estimate is not accurate based on the reference answer. Therefore, the response is somewhat correct but not mostly or completely accurate.
+[RESULT]: 3

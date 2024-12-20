@@ -1,0 +1,11 @@
+[PROMPT]: Did Wilson support the committee system?
+[USER_ANSWER]: To provide a precise answer, it would be helpful to know which Wilson you are referring to, as there have been multiple notable individuals named Wilson in history, including President Woodrow Wilson of the United States and British Prime Ministers Harold Wilson and others. Assuming you are referring to President Woodrow Wilson:
+
+President Woodrow Wilson had a complex relationship with the committee system in the United States Congress. As a political scientist and later as President, Wilson had mixed feelings about the committee system. Before becoming President, he criticized the committee system for fragmenting legislative power and making it difficult for coherent policies to emerge. He argued that it contributed to inefficiency and a lack of accountability in government.
+
+However, as President, Wilson had to work within the existing political structures, including the committee system, to achieve his legislative goals. While he might have been critical of the system in theory, in practice he worked with congressional committees to advance his agenda, including significant legislative achievements such as the Federal Reserve Act and the Clayton Antitrust Act.
+
+In summary, Wilson's academic critiques of the committee system did not entirely align with his pragmatic approach as President, where he engaged with and utilized the system to further his policies.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response provides a detailed and nuanced explanation of President Woodrow Wilson's relationship with the committee system, which is factually accurate. However, the reference answer is a simple "no," indicating that the expected response should be straightforward and direct. The response, while informative, does not align with the simplicity and directness of the reference answer. Therefore, it does not fully meet the criteria for being completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

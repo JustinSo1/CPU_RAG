@@ -1,0 +1,8 @@
+[PROMPT]: When did he become a professor?
+[USER_ANSWER]: 
+
+Please provide the name of the person you are referring to. 
+
+[CORRECT_ANSWER]: 1820
+[FEEDBACK]: The response does not provide the correct, accurate, or factual information based on the reference answer. Instead of answering the question, it asks for additional information, which is not relevant to the task of providing the year when the person became a professor. Therefore, it does not meet the criteria for correctness, accuracy, or factuality.
+[RESULT]: 1

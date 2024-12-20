@@ -1,0 +1,10 @@
+[PROMPT]: What does "singa" mean?
+[USER_ANSWER]: 
+
+"Singa" is a word that comes from the **Swahili** language. It means **lion**. 
+
+Let me know if you'd like to know more about Swahili or other African languages! 
+
+[CORRECT_ANSWER]: lion
+[FEEDBACK]: The response correctly identifies "singa" as meaning "lion," which aligns with the reference answer. However, the additional information about the word coming from the Swahili language is not necessary and introduces a potential inaccuracy, as "singa" does not mean "lion" in Swahili. This extra detail makes the response less accurate overall.
+[RESULT]: 3

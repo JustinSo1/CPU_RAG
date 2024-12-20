@@ -1,0 +1,18 @@
+[PROMPT]: What are the similarities between beetles and grasshoppers?
+[USER_ANSWER]: 
+
+While beetles and grasshoppers are both insects, they have some key differences. Here's a breakdown of their similarities:
+
+* **Insects:** Both beetles and grasshoppers belong to the class Insecta, meaning they share the same basic body plan with three body segments (head, thorax, and abdomen), six legs, and often wings.
+* **Exoskeletons:** Both have hard, external skeletons called exoskeletons that provide protection and support.
+* **Metamorphosis:** Both undergo metamorphosis, meaning they change form during their life cycle. Grasshoppers go through a complete metamorphosis (egg, nymph, adult), while beetles typically go through a complete metamorphosis (egg, larva, pupa, adult).
+* **Diet:** Both beetles and grasshoppers are herbivores, meaning they primarily eat plants.
+
+**However, there are also some key differences:**
+
+* **Body Shape:** Grasshoppers have long, slender bodies with powerful hind legs for jumping. Beetles have a wider, more rounded body shape with strong legs for walking or running.
+* **Antennae:** Grasshoppers have long, thin antennae that are used for sensing their environment. Beetles have shorter, thicker antennae that are often used for smelling and detecting vibrations.
+* **Wings
+[CORRECT_ANSWER]: mouthparts
+[FEEDBACK]: The response provides a detailed comparison between beetles and grasshoppers, highlighting both similarities and differences. However, the reference answer focuses specifically on "mouthparts," which is not addressed in the response. While the response is factually accurate and provides useful information, it does not directly address the key similarity mentioned in the reference answer. Therefore, it does not fully meet the criteria for being completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

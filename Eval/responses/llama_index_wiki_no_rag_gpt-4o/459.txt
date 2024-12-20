@@ -1,0 +1,23 @@
+[PROMPT]: What are vehicles that frequent isolated roads often fitted with?
+[USER_ANSWER]: Vehicles that frequent isolated roads are often fitted with several key features and equipment to ensure safety and functionality. These may include:
+
+1. **Off-Road Tires**: For better traction and durability on unpaved surfaces.
+2. **Enhanced Suspension Systems**: To handle rough terrain and provide a smoother ride.
+3. **All-Wheel Drive or Four-Wheel Drive**: For improved handling and control on uneven or slippery surfaces.
+4. **High Ground Clearance**: To navigate over obstacles and rough terrain.
+5. **Extra Fuel Tanks**: To extend the vehicle's range in areas where refueling stations are scarce.
+6. **GPS Navigation Systems**: For accurate navigation in remote areas where cell service may be limited.
+7. **Emergency Communication Devices**: Such as satellite phones or two-way radios for reliable communication in areas without cell coverage.
+8. **Recovery Gear**: Including winches, tow straps, and recovery boards to get unstuck if the vehicle becomes immobilized.
+9. **Skid Plates**: To protect the undercarriage from damage by rocks and debris.
+10. **Spotlights or Additional Lighting**: To improve visibility in low-light conditions or at night.
+11. **First Aid Kits**: To handle medical emergencies until help can arrive.
+12. **Spare Tires and Repair Kits**: To address flat tires when far from assistance.
+13. **Portable Air Compressors**: For adjusting tire pressure to suit different terrains.
+14. **Roof Racks or Cargo Carriers**: For additional storage space.
+15. **Survival Gear**: Including food, water, blankets, and other essentials in case of being stranded.
+
+These features help ensure that the vehicle and its occupants can handle the challenges of isolated and rugged environments safely and effectively.
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response provides a comprehensive list of features and equipment that vehicles frequenting isolated roads might be fitted with. However, the reference answer is "roo bars," which is a specific feature. The response, while informative and accurate in a general sense, does not directly address the specific feature mentioned in the reference answer. Therefore, it does not align with the reference answer provided.
+[RESULT]: 2

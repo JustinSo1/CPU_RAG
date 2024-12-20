@@ -1,0 +1,5 @@
+[PROMPT]: Where was the largest elephant ever recorded shot?
+[USER_ANSWER]: The largest elephant ever recorded was shot in Angola in 1956. This enormous elephant weighed about 24,000 pounds and was an African bush elephant, the largest species of elephant. It was shot by professional hunter J.H. Patterson.
+[CORRECT_ANSWER]: Angola
+[FEEDBACK]: The response provides the correct location, Angola, where the largest elephant was shot, which aligns with the reference answer. However, it includes additional details about the year, weight, species, and the hunter, which are not required by the instruction. While these details are accurate, they are not necessary for the response to be considered completely correct based on the reference answer. Therefore, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

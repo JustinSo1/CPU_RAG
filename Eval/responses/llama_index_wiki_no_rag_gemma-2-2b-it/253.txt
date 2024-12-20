@@ -1,0 +1,8 @@
+[PROMPT]: Who did Ford nominate for Vice President?
+[USER_ANSWER]: 
+
+Ford nominated **Nelson Rockefeller** for Vice President in 1976. 
+
+[CORRECT_ANSWER]: Bob Dole
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. Ford nominated Bob Dole for Vice President, not Nelson Rockefeller. Additionally, the year mentioned (1976) is also incorrect as Ford nominated Dole in 1976, but Rockefeller was nominated in 1974.
+[RESULT]: 1

@@ -1,0 +1,24 @@
+[PROMPT]: What do turles use to breathe in the water?
+[USER_ANSWER]: 
+
+Turles is a powerful warrior from the Dragon Ball universe, and he's known for his incredible strength and resilience. However, he's also a water-based warrior, which means he has a unique way of breathing underwater. 
+
+Here's the breakdown:
+
+* **Turles doesn't breathe underwater in the traditional sense.** He doesn't have gills or any other biological adaptations for underwater breathing.
+* **Turles's power comes from a unique energy source.** This energy allows him to manipulate water and control its properties, giving him the ability to survive and fight underwater.
+
+**How does Turles breathe underwater?**
+
+Turles's ability to breathe underwater is a result of his mastery over the water element. He can:
+
+* **Control water pressure:** This allows him to create bubbles and manipulate water currents.
+* **Absorb water:** He can absorb water into his body, allowing him to survive for extended periods underwater.
+* **Manipulate water density:** This allows him to create a protective barrier around himself, preventing him from being harmed by external forces.
+
+**In conclusion:**
+
+Turles doesn't breathe underwater in the traditional sense. He uses his mastery over water to survive and fight underwater.
+[CORRECT_ANSWER]: Papillae
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks about how turtles breathe underwater, but the response discusses a fictional character named Turles from the Dragon Ball universe, which is irrelevant to the question. The reference answer "Papillae" indicates a biological feature related to turtles, which is not addressed at all in the response. Therefore, the response does not meet any of the criteria for correctness, accuracy, or factuality based on the reference answer.
+[RESULT]: 1

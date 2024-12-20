@@ -1,0 +1,11 @@
+[PROMPT]: Has Singapore a network of reservoirs and water catchment areas ?
+[USER_ANSWER]: Yes, Singapore has a well-developed network of reservoirs and water catchment areas. Given its limited land area and high population density, Singapore has implemented innovative and comprehensive water management strategies to ensure a sustainable and reliable water supply. This includes the creation and maintenance of an extensive system of reservoirs and water catchment areas.
+
+Singapore has 17 reservoirs, which serve as major sources of raw water. Some of the key reservoirs include the MacRitchie Reservoir, Lower Peirce Reservoir, Upper Peirce Reservoir, Marina Reservoir, and Bedok Reservoir. The Marina Reservoir, in particular, is notable for being one of the largest and most urbanized water catchment areas in the world.
+
+The water catchment areas in Singapore have been expanded to cover two-thirds of the country’s land surface, effectively capturing rainwater and channeling it into the reservoirs. This extensive network helps to maximize the collection of rainwater, which is a crucial component of Singapore’s water supply strategy, alongside imported water, desalinated water, and recycled water (known as NEWater).
+
+Overall, Singapore's approach to water management is considered a model for other countries facing similar challenges, combining advanced technology, infrastructure, and policy measures to achieve water sustainability.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about Singapore's network of reservoirs and water catchment areas, including the number of reservoirs, specific examples, and the extent of the water catchment areas. The response also explains the significance of these systems in Singapore's overall water management strategy. This level of detail, while more than the reference answer, does not detract from its correctness or accuracy.
+[RESULT]: 5

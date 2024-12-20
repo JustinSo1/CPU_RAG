@@ -1,0 +1,5 @@
+[PROMPT]: Do carrion beetles eat dung?
+[USER_ANSWER]: Carrion beetles, also known as burying beetles or silphid beetles, primarily feed on decaying animal matter rather than dung. They are scavengers that specialize in locating and consuming dead animals. The adults and larvae of carrion beetles play an important role in the decomposition process by breaking down animal carcasses. While they are not typically associated with dung, there are other types of beetles, such as dung beetles, that are specifically adapted to feed on and live in dung.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about carrion beetles, explaining that they primarily feed on decaying animal matter rather than dung. This aligns with the reference answer, which simply states "no." However, the response includes additional context about the role of carrion beetles in the decomposition process and mentions dung beetles, which is not necessary to answer the question directly. While the extra information is accurate, it slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: What did Cleveland die from?
+[USER_ANSWER]: Grover Cleveland, the 22nd and 24th President of the United States, died from a heart attack on June 24, 1908. He had been in poor health for several years prior to his death.
+[CORRECT_ANSWER]: A heart attack
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Grover Cleveland died from a heart attack, which aligns with the reference answer. However, the additional details about his presidency and the date of his death, while accurate, are not necessary for the answer and do not directly address the question asked. The inclusion of these extra details does not detract from the correctness of the response but does make it more verbose than required.
+[RESULT]: 4

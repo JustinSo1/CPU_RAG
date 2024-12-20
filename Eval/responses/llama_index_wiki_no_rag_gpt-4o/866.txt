@@ -1,0 +1,7 @@
+[PROMPT]: How much of the population is of white European descent?
+[USER_ANSWER]: The percentage of people of white European descent varies greatly depending on the geographic location being considered. In the United States, for example, the Census Bureau estimated that in 2020, about 60% of the population identified as non-Hispanic white. In Europe, the vast majority of the population is of European descent, though specific percentages can vary by country.
+
+For a more precise answer, it's important to specify the country or region of interest. In general, white Europeans make up a significant portion of the population in Europe, North America, Australia, and parts of South America.
+[CORRECT_ANSWER]: 88%
+[FEEDBACK]: The response provides a detailed explanation about the variation in the percentage of people of white European descent depending on the geographic location. However, it does not directly answer the question with a specific percentage, which is what the reference answer provides. The response is somewhat correct and factual in its explanation, but it lacks the precise information that the reference answer gives. Therefore, it does not fully meet the criteria for being mostly or completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

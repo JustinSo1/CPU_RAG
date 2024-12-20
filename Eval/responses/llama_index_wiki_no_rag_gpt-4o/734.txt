@@ -1,0 +1,5 @@
+[PROMPT]: Is romania -LRB- , -RRB- a country in southeastern europe?
+[USER_ANSWER]: Yes, Romania is a country located in Southeastern Europe. It is bordered by Ukraine to the north, Bulgaria to the south, Serbia to the southwest, Hungary to the west, Moldova to the east, and the Black Sea to the southeast.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information about Romania's geographical location and its neighboring countries, which, while not necessary, does not detract from the correctness of the answer. The response fully aligns with the reference answer in terms of correctness and accuracy.
+[RESULT]: 5

@@ -1,0 +1,16 @@
+[PROMPT]: Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?
+[USER_ANSWER]: 
+
+The answer is **no**.
+
+Here's why:
+
+* **Cleveland's portrait was on the $5 bill from 1928 to 1946.**  This was a period of time when the $5 bill was the most commonly used bill.
+* **The $1000 bill did not feature a portrait of any president.** The $1000 bill was designed to be a more modern bill, featuring a design that was more abstract and less focused on portraits.
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states "yes," indicating that Cleveland's portrait was indeed on the $1000 bill from 1928 to 1946. The response incorrectly states "no" and provides inaccurate information about Cleveland being on the $5 bill and the $1000 bill not featuring a portrait of any president. This contradicts the factual information provided in the reference answer.
+[RESULT]: 1

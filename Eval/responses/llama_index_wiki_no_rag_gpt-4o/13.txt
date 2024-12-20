@@ -1,0 +1,5 @@
+[PROMPT]: Which county was Lincoln born in?
+[USER_ANSWER]: Abraham Lincoln was born in Hardin County, Kentucky, which is now part of LaRue County. He was born on February 12, 1809.
+[CORRECT_ANSWER]: Hardin County
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Hardin County as the place where Lincoln was born, which aligns with the reference answer. However, it includes additional information about LaRue County and Lincoln's birth date, which, while accurate, is not necessary for the specific question asked. This extra information does not detract from the correctness of the main answer but is not required for full marks based on the rubric.
+[RESULT]: 4

@@ -1,0 +1,15 @@
+[PROMPT]: Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?
+[USER_ANSWER]: 
+
+The emperor penguin is indeed the largest living species of penguin, but it's not the largest living species overall. 
+
+Here's why:
+
+* **Emperor penguins are the largest *penguin* species.** They can reach up to 4 feet tall and weigh over 100 pounds.
+* **The largest living animal is the blue whale.** These majestic creatures can grow up to 100 feet long and weigh over 200 tons. 
+
+So, while the emperor penguin is a remarkable bird, it's dwarfed by the sheer size of the blue whale. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the emperor penguin is the largest living species of penguin, but not the largest living species overall. However, the reference answer is a simple "Yes," which directly answers the question without additional information. The response provides extra details that are accurate but not necessary for the question asked. Therefore, while the response is factually correct, it does not align perfectly with the simplicity and directness of the reference answer.
+[RESULT]: 4

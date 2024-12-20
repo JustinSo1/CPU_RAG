@@ -1,0 +1,22 @@
+[PROMPT]: What are vehicles that frequent isolated roads often fitted with?
+[USER_ANSWER]: 
+
+Here's a breakdown of the question:
+
+* **Vehicles:** This refers to any type of road-going vehicle, from cars to trucks to buses.
+* **Isolated roads:** These are roads that are not easily accessible or have limited traffic. They might be rural, mountainous, or in remote areas.
+* **Fitted:** This means equipped or having specific features.
+
+**Possible answers:**
+
+* **Off-road tires:** These tires provide better traction and grip on rough terrain, which is common on isolated roads.
+* **Winches:** These are used to pull vehicles out of difficult situations, like getting stuck in mud or snow.
+* **Recovery gear:** This includes things like tow straps, shackles, and recovery boards, which are used to help pull or lift vehicles.
+* **High ground clearance:** This allows vehicles to navigate obstacles and uneven terrain.
+* **Auxiliary power units (APUs):** These provide power to run essential equipment like lights, radios, and air conditioning.
+* **Emergency kits:** These include items like flares, first aid supplies, and tools for basic repairs.
+* **GPS navigation systems:** These help drivers navigate unfamiliar roads and avoid getting lost.
+* **Communication devices:** These can include radios
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response provides a detailed breakdown of the question and lists several possible answers for what vehicles that frequent isolated roads might be fitted with. However, the reference answer specifically mentions "roo bars," which are not included in the response. While the response includes relevant and plausible equipment, it does not directly address the reference answer. Therefore, the response is somewhat correct and factual but does not fully align with the reference answer.
+[RESULT]: 3

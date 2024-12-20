@@ -1,0 +1,5 @@
+[PROMPT]: When did the first official report of kangaroo blindness take place?
+[USER_ANSWER]: The first official report of kangaroo blindness, also known as kangaroo ophthalmia, was documented in the early 1980s. Researchers observed an outbreak of blindness among kangaroos in Victoria, Australia, which was later linked to a viral infection. This condition has been studied to understand its causes, which can include factors like viral infections, environmental stressors, and nutritional deficiencies.
+[CORRECT_ANSWER]: 1994
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer states that the first official report of kangaroo blindness took place in 1994, while the response claims it was in the early 1980s. Additionally, the response includes extra information about the causes and observations of the condition, which, while informative, does not align with the specific date provided in the reference answer.
+[RESULT]: 2

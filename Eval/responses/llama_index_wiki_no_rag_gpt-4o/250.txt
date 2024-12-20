@@ -1,0 +1,5 @@
+[PROMPT]: Did ford attend the University of Michigan?
+[USER_ANSWER]: Yes, Gerald Ford attended the University of Michigan. He enrolled there in 1931 and graduated in 1935 with a degree in economics. While at the University of Michigan, he was also a star football player.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional details about Gerald Ford's time at the University of Michigan, including his enrollment and graduation years, his degree, and his involvement in football. While the reference answer is very brief, the response still aligns with the criteria of being correct, accurate, and factual.
+[RESULT]: 5

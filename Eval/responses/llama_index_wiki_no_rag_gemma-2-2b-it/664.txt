@@ -1,0 +1,8 @@
+[PROMPT]: How heavy was the largest polar bear on record?
+[USER_ANSWER]: 
+
+The largest polar bear on record weighed in at **1,500 pounds (680 kg)**. 
+
+[CORRECT_ANSWER]: 1002 kg (2200 lb) 
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The largest polar bear on record weighed 1002 kg (2200 lb), whereas the response states 680 kg (1500 lb). This discrepancy indicates that the response does not align with the factual information provided in the reference answer.
+[RESULT]: 2

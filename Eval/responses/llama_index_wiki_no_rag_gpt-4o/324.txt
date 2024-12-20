@@ -1,0 +1,11 @@
+[PROMPT]: Which election did Grover Cleveland win?
+[USER_ANSWER]: Grover Cleveland won three presidential elections in the United States:
+
+1. The 1884 election, in which he defeated James G. Blaine.
+2. The 1888 election, which he lost to Benjamin Harrison, although he won the popular vote.
+3. The 1892 election, in which he defeated the incumbent president Benjamin Harrison.
+
+Notably, Grover Cleveland is the only U.S. president to serve two non-consecutive terms, making him both the 22nd and 24th president of the United States.
+[CORRECT_ANSWER]: 1884 and 1892 presidential elections
+[FEEDBACK]: The response provides accurate information about the elections Grover Cleveland participated in, including the correct years he won (1884 and 1892) and the fact that he lost the 1888 election but won the popular vote. It also correctly notes that Cleveland is the only U.S. president to serve two non-consecutive terms. However, the response includes additional information about the 1888 election, which was not necessary to answer the question directly. Despite this, the response is mostly correct, accurate, and factual based on the reference answer.
+[RESULT]: 4

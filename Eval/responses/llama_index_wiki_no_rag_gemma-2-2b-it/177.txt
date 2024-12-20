@@ -1,0 +1,8 @@
+[PROMPT]: When was the Six Day War?
+[USER_ANSWER]: 
+
+The Six Day War took place in **1967**. 
+
+[CORRECT_ANSWER]: 1967
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact year of the Six Day War, which matches the reference answer. The additional formatting does not detract from the accuracy of the information provided.
+[RESULT]: 5

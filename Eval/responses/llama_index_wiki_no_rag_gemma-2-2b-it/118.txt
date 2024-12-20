@@ -1,0 +1,26 @@
+[PROMPT]: In addition to Port Royal, where else did Samuel de Champlain establish a S08_settlement?
+[USER_ANSWER]: 
+
+A.  Quebec
+B.  Montreal
+C.  St. Lawrence River
+D.  Hudson Bay
+
+**Correct Answer:** A. Quebec
+
+**Explanation:**
+
+Samuel de Champlain established a settlement at **Quebec** in 1608. This was one of the most important French settlements in North America, and it played a key role in the fur trade and the development of French Canada.
+
+The other options are incorrect because:
+
+* **Montreal** was founded by the French in 1642.
+* **St. Lawrence River** is a major river in Canada, but not a settlement.
+* **Hudson Bay** was a major trading post for the Hudson's Bay Company, but not a settlement established by Champlain. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Quebec City
+[FEEDBACK]: The response correctly identifies Quebec as the settlement established by Samuel de Champlain in 1608, which aligns with the reference answer. The explanation provided is accurate and factual, detailing why the other options are incorrect. The response is thorough and demonstrates a clear understanding of the historical context.
+[RESULT]: 5

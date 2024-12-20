@@ -1,0 +1,17 @@
+[PROMPT]: What arrived in Britain?
+[USER_ANSWER]: 
+
+The answer is **The Normans**.
+
+Here's why:
+
+* **The Normans** were a group of people from northern France who invaded and conquered England in 1066. This event is known as the Norman Conquest.
+* **The Normans** brought with them their language, culture, and laws, which had a significant impact on English society. 
+* **The Normans** were a powerful force in England for centuries, leaving a lasting legacy on the country's history, language, and culture.
+
+
+Let me know if you'd like to know more about the Norman Conquest or the Normans themselves! 
+
+[CORRECT_ANSWER]: The first Canadian Army units in WW II
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer specifies "The first Canadian Army units in WW II" as what arrived in Britain, while the response discusses "The Normans" and their impact on England, which is unrelated to the reference answer.
+[RESULT]: 1

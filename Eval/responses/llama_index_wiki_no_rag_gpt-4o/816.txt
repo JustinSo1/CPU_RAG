@@ -1,0 +1,5 @@
+[PROMPT]: What is the smallest suborder of turtles?
+[USER_ANSWER]: The smallest suborder of turtles is the Pleurodira, also known as side-necked turtles. These turtles are characterized by the way they retract their heads sideways into their shells rather than pulling them directly back. Pleurodira is smaller in terms of the number of species compared to the other suborder, Cryptodira, which includes the majority of the world's turtle species.
+[CORRECT_ANSWER]: Pleurodira
+[FEEDBACK]: The response correctly identifies Pleurodira as the smallest suborder of turtles, which aligns with the reference answer. However, the additional information provided about the characteristics of Pleurodira and the comparison with Cryptodira, while accurate, is not necessary for the answer. The response is mostly correct, accurate, and factual, but the extra details are not required to meet the criteria of the instruction.
+[RESULT]: 4

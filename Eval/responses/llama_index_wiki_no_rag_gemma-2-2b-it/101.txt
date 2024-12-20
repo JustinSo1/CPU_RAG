@@ -1,0 +1,10 @@
+[PROMPT]: Which state were Coolidge born in?
+[USER_ANSWER]: 
+
+The answer is **Massachusetts**. 
+
+Calvin Coolidge, the 30th President of the United States, was born in Plymouth, Massachusetts. 
+
+[CORRECT_ANSWER]: Plymouth, Windsor County, Vermont
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. Calvin Coolidge was born in Plymouth, Windsor County, Vermont, not Massachusetts. The response does not align with the reference answer at all.
+[RESULT]: 1

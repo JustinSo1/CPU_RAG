@@ -1,0 +1,5 @@
+[PROMPT]: What are approximately 42,000 years old and have been nicknamed`` John of Anina''?
+[USER_ANSWER]: "John of Anina" refers to the remains of an ancient human, specifically from the Homo sapiens species, discovered in Romania. These remains are approximately 42,000 years old. The nickname "John of Anina" is derived from the Anina Cave in Romania where the remains were found. This discovery is significant as it provides valuable insights into early human presence and migration in Europe.
+[CORRECT_ANSWER]: the remains (the lower jaw) of the oldest modern human
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "John of Anina" as the remains of an ancient human discovered in Romania and states that these remains are approximately 42,000 years old. However, it does not specify that the remains are specifically the lower jaw, which is a key detail in the reference answer. The response also provides additional context about the significance of the discovery, which, while informative, is not necessary for the core answer.
+[RESULT]: 4

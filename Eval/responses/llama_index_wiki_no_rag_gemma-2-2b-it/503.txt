@@ -1,0 +1,17 @@
+[PROMPT]: What sort of cats are solitary?
+[USER_ANSWER]: 
+
+Solitary cats are those that prefer to be alone and don't necessarily need constant human interaction. They are often independent and self-sufficient, and they may even be more comfortable with their own company than with other cats. 
+
+Here are some of the most common types of cats that are solitary:
+
+* **Persian:** These cats are known for their luxurious fur and calm temperament. They are often content to spend their days lounging around and enjoying their own company.
+* **Maine Coon:** These large, gentle giants are known for their playful nature and affectionate personalities. However, they can also be quite independent and enjoy their own space.
+* **Siberian:** These cats are known for their thick, luxurious fur and their love of the outdoors. They are often solitary hunters and prefer to be on their own.
+* **Sphynx:** These hairless cats are known for their unique appearance and their affectionate personalities. They are often content to spend their days lounging around and enjoying their own company.
+* **Abyssinian:** These cats are known for their playful and curious nature. They are often independent and enjoy their own company.
+
+It's important to note that even though these cats are solitary, they can still be affectionate and loving with their owners
+[CORRECT_ANSWER]: Leopards
+[FEEDBACK]: The response provided is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that leopards are solitary cats, which refers to a specific type of wild cat. The response, however, discusses various domestic cat breeds and their solitary behaviors, which is not aligned with the reference answer. The information about domestic cats being solitary is not relevant to the question as intended by the reference answer. Therefore, the response does not meet the criteria for accuracy and correctness as per the rubric.
+[RESULT]: 2

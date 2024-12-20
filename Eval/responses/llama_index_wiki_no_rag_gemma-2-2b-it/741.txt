@@ -1,0 +1,19 @@
+[PROMPT]: What is the MRT?
+[USER_ANSWER]: 
+
+The MRT stands for **Mass Rapid Transit**. It is a type of rapid transit system that uses dedicated tracks to transport passengers. 
+
+Here are some key features of an MRT:
+
+* **High Speed:** MRT trains travel at high speeds, typically exceeding 50 mph.
+* **Dedicated Tracks:** MRT trains use dedicated tracks, which means they are not sharing the same tracks with other forms of transportation.
+* **Frequent Service:** MRT trains run frequently, with trains arriving at stations every few minutes.
+* **Efficient Operation:** MRT systems are designed to be efficient, with minimal delays and disruptions.
+* **Reduced Congestion:** MRT trains help to reduce congestion on roads and highways.
+
+
+MRT systems are found in many major cities around the world, including Singapore, Hong Kong, and Kuala Lumpur. 
+
+[CORRECT_ANSWER]: One of three heavy rail passenger transport lines in Singapore.
+[FEEDBACK]: The response provides a detailed explanation of what MRT stands for and describes its features. However, it does not directly address the specific context of the MRT in Singapore, which is the focus of the reference answer. The reference answer specifies that the MRT is one of three heavy rail passenger transport lines in Singapore, while the response gives a general description of MRT systems worldwide. Therefore, the response is somewhat correct and factual but lacks the specific detail required by the reference answer.
+[RESULT]: 3

@@ -1,0 +1,23 @@
+[PROMPT]: Have elephants been used as working animals?
+[USER_ANSWER]: 
+
+Yes, elephants have been used as working animals for centuries. Here's a breakdown:
+
+**Historical Use:**
+
+* **Ancient Egypt:** Elephants were used for transportation, warfare, and even as a symbol of power. They were crucial in the construction of pyramids and temples.
+* **India:** Elephants played a vital role in agriculture, carrying heavy loads, plowing fields, and protecting crops. They were also used in religious ceremonies and festivals.
+* **Southeast Asia:** Elephants were employed for logging, mining, and transportation. They were also used in warfare and as a symbol of royalty.
+
+**Modern Use:**
+
+* **Tourism:** In some countries, elephants are used for tourism purposes, such as trekking, riding, and performing tricks. This practice is controversial due to ethical concerns.
+* **Agriculture:** In some parts of Africa, elephants are still used for agricultural work, particularly in areas where other animals are scarce.
+* **Logging:** Elephants can be used for logging in certain regions, but this practice is becoming less common due to ethical concerns and the availability of other equipment.
+
+**Ethical Concerns:**
+
+* **Animal welfare:** Elephants are highly intelligent and social animals. Their use as working animals can be detrimental to their well-being, leading
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed historical and modern context of how elephants have been used as working animals, which aligns with the reference answer. However, the reference answer is very brief and only confirms the fact without additional details. The response goes beyond the reference answer by providing extensive information, which is not required but still accurate. The response is cut off at the end, which slightly affects its completeness.
+[RESULT]: 4

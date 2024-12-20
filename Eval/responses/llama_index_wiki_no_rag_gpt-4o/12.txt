@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln ever represent Alton & Sangamon Railroad?
+[USER_ANSWER]: Yes, Abraham Lincoln did represent the Alton & Sangamon Railroad. In fact, one notable case involving the railroad was "Hurd v. Rock Island Bridge Company" where Lincoln defended the railroad's interests. This was part of his larger legal career where he frequently represented various clients in transportation and infrastructure-related cases. His legal work for railroads and other clients helped build his reputation as a lawyer prior to his political career.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Abraham Lincoln represented the Alton & Sangamon Railroad. However, the additional information about the "Hurd v. Rock Island Bridge Company" case is inaccurate, as this case did not involve the Alton & Sangamon Railroad. This extra detail introduces an inaccuracy, which prevents the response from being completely correct.
+[RESULT]: 4

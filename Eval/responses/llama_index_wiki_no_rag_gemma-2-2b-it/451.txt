@@ -1,0 +1,22 @@
+[PROMPT]: What do kangaroos use for "crawl-walking?"
+[USER_ANSWER]: 
+
+Kangaroos are famous for their hopping, but they also have a unique ability to "crawl-walk" on their hind legs.  Here's what they use for this:
+
+* **Their powerful hind legs:**  Kangaroos have incredibly strong hind legs, which are built for powerful jumps.  These legs are also surprisingly flexible, allowing them to move in a variety of ways.
+* **Their tail:**  The kangaroo's tail acts as a counterbalance, helping them maintain balance and stability while crawling.
+* **Their claws:**  Kangaroos have sharp claws that help them grip the ground and provide traction.
+
+**How does it work?**
+
+* **Low to the ground:**  Kangaroos crawl-walk by keeping their bodies low to the ground, using their hind legs to push off the ground.
+* **Short bursts:**  They move in short bursts, using their powerful legs to propel themselves forward.
+* **Tail for balance:**  Their tail acts as a counterbalance, helping them maintain balance and stability.
+
+**Why do kangaroos crawl-walk?**
+
+* **To escape predators:**  Kangaroos use crawl-walking to escape predators, such as dingoes and eagles.
+* **To access
+[CORRECT_ANSWER]: its hind feet
+[FEEDBACK]: The response provides a detailed explanation of how kangaroos "crawl-walk," mentioning their hind legs, tail, and claws. However, the reference answer indicates that kangaroos use their hind feet for "crawl-walking," which is a more specific and concise answer. The response includes additional information that is not directly relevant to the question and does not align perfectly with the reference answer. Therefore, while the response is somewhat correct and factual, it is not completely accurate based on the reference answer.
+[RESULT]: 3

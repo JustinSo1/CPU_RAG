@@ -1,0 +1,23 @@
+[PROMPT]: What is a collective noun for a kangaroo?
+[USER_ANSWER]: 
+
+A.  A mob
+B.  A herd
+C.  A pride
+D.  A flock
+
+**Answer:** A. A mob
+
+**Explanation:**
+
+* **Mob:**  A collective noun for a group of kangaroos.
+* **Herd:**  Typically used for animals like cattle or sheep.
+* **Pride:**  A collective noun for a group of lions.
+* **Flock:**  A collective noun for a group of birds. 
+
+
+Let me know if you have any other animal-related questions! 
+
+[CORRECT_ANSWER]: a mob, troop, or court
+[FEEDBACK]: The response correctly identifies "a mob" as a collective noun for a group of kangaroos, which is accurate and factual. However, it does not mention the other possible collective nouns "troop" or "court" as indicated in the reference answer. While the explanation provided is clear and informative, the response is not completely correct as it omits these additional terms.
+[RESULT]: 4

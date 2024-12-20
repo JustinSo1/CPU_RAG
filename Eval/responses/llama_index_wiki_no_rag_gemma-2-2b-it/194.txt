@@ -1,0 +1,22 @@
+[PROMPT]: Are elephants good swimmers?
+[USER_ANSWER]: 
+
+Elephants are not natural swimmers. They are large and heavy, and their legs are not designed for swimming. 
+
+Here's why:
+
+* **Body Shape:** Elephants have a large body with a thick trunk and legs that are not built for buoyancy.
+* **Weight:** Their weight makes it difficult to stay afloat.
+* **Legs:** Their legs are not designed to propel them through water.
+
+However, elephants can be seen in water, and they may be able to swim in short distances. They may do this to:
+
+* **Reach food:** They may swim to access water sources or food in rivers or lakes.
+* **Escape danger:** They may swim to escape predators or other threats.
+* **Cool down:** They may swim to cool down in hot weather.
+
+It's important to remember that elephants are not natural swimmers and should not be encouraged to swim in deep water. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer simply states "yes," indicating that elephants are good swimmers. However, the response provided argues that elephants are not natural swimmers and lists reasons why they are not built for swimming, which contradicts the reference answer. While the response does acknowledge that elephants can swim for short distances, it primarily emphasizes their limitations in swimming, which is not aligned with the reference answer's assertion. Therefore, the response does not meet the criteria for being mostly correct, accurate, and factual.
+[RESULT]: 2

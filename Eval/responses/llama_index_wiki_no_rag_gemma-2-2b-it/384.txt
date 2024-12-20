@@ -1,0 +1,8 @@
+[PROMPT]: Where was James Monroe born?
+[USER_ANSWER]: 
+
+James Monroe was born in ** Westmoreland County, Virginia**. 
+
+[CORRECT_ANSWER]: Westmoreland County, Virginia
+[FEEDBACK]: The response is mostly correct and factual, as it accurately identifies Westmoreland County, Virginia as the birthplace of James Monroe. However, the inclusion of unnecessary asterisks around the location slightly detracts from the clarity and precision of the answer.
+[RESULT]: 4

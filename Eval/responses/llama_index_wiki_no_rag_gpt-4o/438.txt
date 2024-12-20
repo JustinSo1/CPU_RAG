@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that adams had spent some time as the ambassador?
+[USER_ANSWER]: Yes, it is true that John Adams, the second President of the United States, served as a diplomat and ambassador before becoming president. He was the first U.S. ambassador to the Netherlands and later served as the first U.S. ambassador to Great Britain. His diplomatic efforts in Europe were crucial in securing aid and support for the American cause during the Revolutionary War and in negotiating the Treaty of Paris, which ended the war.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about John Adams' roles as a diplomat and ambassador, including his positions in the Netherlands and Great Britain, and his contributions during the Revolutionary War and the Treaty of Paris. This level of detail goes beyond the simplicity of the reference answer but remains entirely accurate and relevant to the question asked.
+[RESULT]: 5

@@ -1,0 +1,15 @@
+[PROMPT]: What does a polar bear's fur provide?
+[USER_ANSWER]: A polar bear's fur provides several crucial functions for its survival in the harsh Arctic environment:
+
+1. **Insulation:** The fur, which consists of a dense undercoat and longer guard hairs, traps air and provides an insulating layer that helps retain body heat and keep the bear warm in extremely cold temperatures.
+
+2. **Camouflage:** The fur appears white, which helps polar bears blend into their snowy and icy surroundings. This camouflage is essential for hunting seals, their primary prey, and for avoiding potential threats.
+
+3. **Protection:** The thick fur protects the polar bear's skin from the harsh elements, including cold winds, snow, and ice. It also provides some protection from minor injuries.
+
+4. **Buoyancy:** The fur traps air, which can aid in buoyancy while swimming. Polar bears are excellent swimmers and often travel long distances in search of food.
+
+Overall, the fur is an essential adaptation that helps polar bears thrive in one of the most extreme environments on Earth.
+[CORRECT_ANSWER]: It provides the animal with effective camouflage.
+[FEEDBACK]: The response provides a detailed and accurate explanation of the functions of a polar bear's fur, including insulation, camouflage, protection, and buoyancy. However, the reference answer specifically mentions camouflage as the primary function. While the response includes camouflage, it also adds additional information that, while accurate, is not directly aligned with the simplicity of the reference answer. Therefore, the response is mostly correct and factual but includes more information than required.
+[RESULT]: 4

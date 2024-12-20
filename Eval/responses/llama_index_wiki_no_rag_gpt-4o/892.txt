@@ -1,0 +1,5 @@
+[PROMPT]: Did the U.S. join the League of Nations?
+[USER_ANSWER]: No, the United States did not join the League of Nations. Although President Woodrow Wilson was one of the key architects of the League and strongly advocated for U.S. membership, the U.S. Senate ultimately did not ratify the Treaty of Versailles, which included the covenant of the League of Nations. There was significant opposition in the Senate, largely due to concerns over national sovereignty and the potential for the U.S. to be drawn into international conflicts. As a result, the U.S. never became a member of the League of Nations.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation of why the United States did not join the League of Nations, including the role of President Woodrow Wilson, the Senate's opposition, and concerns over national sovereignty and international conflicts. This level of detail goes beyond the reference answer but remains entirely accurate and factual.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Are penguins birds?
+[USER_ANSWER]: Yes, penguins are birds. They belong to the group of flightless birds in the order Sphenisciformes and the family Spheniscidae. Penguins are highly adapted to life in the water, with their wings evolving into flippers for swimming. Despite being unable to fly, they share many common characteristics with other birds, such as laying eggs, having feathers, and being warm-blooded.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information about penguins, such as their classification, adaptations, and characteristics, which are all accurate and relevant. However, the reference answer is very brief, and the rubric emphasizes correctness, accuracy, and factuality based on the reference answer. The response goes beyond the simplicity of the reference answer but remains entirely factual and accurate.
+[RESULT]: 5

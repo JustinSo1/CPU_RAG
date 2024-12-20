@@ -1,0 +1,8 @@
+[PROMPT]: Was James Monroe President of the United States?
+[USER_ANSWER]: 
+
+Yes, James Monroe was the **5th President of the United States**. He served from 1817 to 1825. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that James Monroe was the 5th President of the United States and provides the accurate years of his presidency, 1817 to 1825. This additional information, while not necessary, does not detract from the correctness of the response.
+[RESULT]: 5

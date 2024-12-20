@@ -1,0 +1,12 @@
+[PROMPT]: Who did MassachuS08_setts send in 1774?
+[USER_ANSWER]: In 1774, Massachusetts sent several notable representatives to the First Continental Congress, which convened in response to the Intolerable Acts imposed by the British Parliament. Among the delegates from Massachusetts were:
+
+1. John Adams – A prominent lawyer and a leading advocate for colonial independence.
+2. Samuel Adams – A key organizer against British policies and a leader of the Sons of Liberty.
+3. Thomas Cushing – A merchant and politician who served as a speaker of the Massachusetts House of Representatives.
+4. Robert Treat Paine – A lawyer and future signer of the Declaration of Independence.
+
+These delegates were part of the broader effort by the American colonies to coordinate their resistance to British rule and assert their rights.
+[CORRECT_ANSWER]: John Adams
+[FEEDBACK]: The response provides a detailed list of delegates sent by Massachusetts to the First Continental Congress in 1774, including John Adams, Samuel Adams, Thomas Cushing, and Robert Treat Paine. While the reference answer specifically mentions only John Adams, the response is factually accurate and includes additional relevant information. However, it goes beyond the scope of the reference answer, which only required the mention of John Adams. Therefore, the response is mostly correct, accurate, and factual but includes more information than necessary.
+[RESULT]: 4

@@ -1,0 +1,17 @@
+[PROMPT]: Are otters playful animals?
+[USER_ANSWER]: 
+
+Otters are known for their playful nature. They are highly social animals and enjoy interacting with each other. 
+
+Here's why otters are so playful:
+
+* **They are curious:** Otters are naturally curious and love to explore their surroundings. This curiosity often leads to playful antics.
+* **They are energetic:** Otters are very active animals with a lot of energy to burn. They love to swim, play, and explore.
+* **They are social:** Otters live in groups and enjoy interacting with each other. This social interaction can be playful and fun.
+* **They are intelligent:** Otters are intelligent animals and can learn tricks and solve puzzles. This intelligence can be used for playful activities.
+
+So yes, otters are definitely playful animals! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about why otters are considered playful animals, including their curiosity, energy, social nature, and intelligence. However, the reference answer is very brief and simply states "yes," which is a complete and factual response to the question. The detailed explanation in the response is accurate but goes beyond the simplicity of the reference answer. Therefore, while the response is informative and correct, it is not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

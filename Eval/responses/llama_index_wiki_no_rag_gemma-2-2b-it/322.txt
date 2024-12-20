@@ -1,0 +1,8 @@
+[PROMPT]: When was he elected sheriff of Erire County, New York?
+[USER_ANSWER]: 
+
+Please provide the name of the person you are referring to. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not answer the question "When was he elected sheriff of Erie County, New York?" and instead asks for clarification about the person being referred to. This makes the response completely incorrect and not factual based on the reference answer, which is a simple affirmation "Yes."
+[RESULT]: 1

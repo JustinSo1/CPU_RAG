@@ -1,0 +1,18 @@
+[PROMPT]: Is it true that otters eat a variety of fish?
+[USER_ANSWER]: 
+
+Yes, it is true! Otters are carnivores and their diet consists mainly of fish. They are known to eat a wide variety of fish, including salmon, trout, herring, and even eels. 
+
+Here are some interesting facts about otters and their diet:
+
+* **They are opportunistic feeders:** Otters will eat whatever fish is available to them, even if it's not their preferred species.
+* **They have specialized teeth:** Otters have sharp, curved teeth that are perfect for tearing flesh and catching fish.
+* **They use their paws to help them catch fish:** Otters use their paws to grip and hold onto fish, and they can even use them to help them flip fish over.
+* **They are very agile swimmers:** Otters are incredibly agile swimmers, and they can use their speed and agility to catch fish.
+
+
+Let me know if you have any other questions about otters! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that otters are carnivores and that their diet consists mainly of fish. The additional details about otters being opportunistic feeders, having specialized teeth, using their paws to catch fish, and being agile swimmers are accurate and provide useful context. However, the reference answer is very brief and only confirms the statement without additional information. The response goes beyond the reference answer by providing extra details, which, while accurate, are not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct and factual but includes more information than required.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Which Russian army general conquered Finland in 1809?
+[USER_ANSWER]: The Russian army general who conquered Finland in 1809 was General Friedrich Wilhelm von Buxhoeveden. He led the Russian forces during the Finnish War (1808-1809) against Sweden, which ultimately resulted in Finland becoming an autonomous Grand Duchy under Russian control following the Treaty of Fredrikshamn.
+[CORRECT_ANSWER]: Alexander I
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The correct answer is Alexander I, who was the Emperor of Russia at the time and under whose reign the conquest of Finland occurred. General Friedrich Wilhelm von Buxhoeveden did play a role in the Finnish War, but he was not the primary figure responsible for the conquest. The response provides some factual information about the Finnish War and the Treaty of Fredrikshamn, but it does not correctly identify the key figure as asked in the question.
+[RESULT]: 2

@@ -1,0 +1,10 @@
+[PROMPT]: Is the comic strip Mallard Fillmore named after the president ?
+[USER_ANSWER]:  
+
+No, the comic strip Mallard Fillmore is not named after the president. 
+
+The comic strip Mallard Fillmore is named after the **character** Mallard Fillmore, a **duck** who is the main character of the comic strip. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that the correct response is "yes," implying that the comic strip is named after the president. However, the response provided states that the comic strip is not named after the president and gives additional information about the character, which contradicts the reference answer.
+[RESULT]: 2

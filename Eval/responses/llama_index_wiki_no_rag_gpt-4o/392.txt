@@ -1,0 +1,5 @@
+[PROMPT]: When did James Monroe graduate from William and Mary?
+[USER_ANSWER]: James Monroe did not graduate from the College of William and Mary. He attended the college in 1774 but left in 1775 to join the Continental Army and fight in the American Revolutionary War.
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response is mostly correct and factual. It accurately states that James Monroe attended the College of William and Mary in 1774 and left in 1775 to join the Continental Army. However, it does not directly answer the question of when he graduated, which is the year 1776 according to the reference answer. The response provides relevant context but misses the specific detail required by the question.
+[RESULT]: 3

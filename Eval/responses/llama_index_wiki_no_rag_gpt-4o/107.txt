@@ -1,0 +1,5 @@
+[PROMPT]: Did Coolidge meet and marry Grace Anna Goodhue?
+[USER_ANSWER]: Yes, Calvin Coolidge met and married Grace Anna Goodhue. They met in Burlington, Vermont, where Grace was working as a teacher at the Clarke School for the Deaf. They were married on October 4, 1905. Grace was a supportive partner throughout Coolidge's political career, including his tenure as the 30th President of the United States.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional context about where Calvin Coolidge and Grace Anna Goodhue met, her occupation, their marriage date, and her role in his political career. While the reference answer is very brief, the response includes all the necessary information and is factually accurate.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard one of the four 'big cats'?
+[USER_ANSWER]: Yes, the leopard is indeed considered one of the four "big cats." The term "big cats" typically refers to the four largest members of the genus Panthera, which includes the lion, tiger, leopard, and jaguar. These cats are known for their ability to roar, which is a distinguishing feature of the genus.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the leopard is one of the four "big cats" and provides additional information about the genus Panthera and the ability to roar, which is accurate and relevant to the question.
+[RESULT]: 5

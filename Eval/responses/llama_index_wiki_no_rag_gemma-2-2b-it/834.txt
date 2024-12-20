@@ -1,0 +1,8 @@
+[PROMPT]: Where was Grant born?
+[USER_ANSWER]: 
+
+Answer: **Point Pleasant, Ohio** 
+
+[CORRECT_ANSWER]: Point Pleasant, Ohio
+[FEEDBACK]: The response "Point Pleasant, Ohio" is completely correct, accurate, and factual based on the reference answer. It matches the reference answer exactly, including the correct location of Grant's birthplace.
+[RESULT]: 5

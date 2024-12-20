@@ -1,0 +1,18 @@
+[PROMPT]: Who graduated in ecclesiastical law at the early age of 20 and began to practice?
+[USER_ANSWER]: 
+
+**Answer:**
+
+The answer is **Pope Leo XIII**. 
+
+Here's why:
+
+* **Early Career:** Pope Leo XIII was a highly educated man, ordained as a priest at a young age. He was known for his intellectual prowess and legal expertise.
+* **Ecclesiastical Law:**  He was deeply involved in the study and application of ecclesiastical law, particularly during his papacy.
+* **Age of 20:**  While the exact age is debated, it's widely accepted that he began his legal career at a very young age.
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Amedeo Avogadro
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The correct answer is Amedeo Avogadro, not Pope Leo XIII. The details provided about Pope Leo XIII do not align with the question about graduating in ecclesiastical law at the age of 20 and beginning to practice. Therefore, the response does not meet the criteria for accuracy and correctness.
+[RESULT]: 1

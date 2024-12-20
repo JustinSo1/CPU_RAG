@@ -1,0 +1,23 @@
+[PROMPT]: What shares land borders with Papua New Guinea, East Timor and Malaysia?
+[USER_ANSWER]: 
+
+This question is a bit tricky! Here's why and how to think about it:
+
+* **Papua New Guinea:**  This is a country in Melanesia.
+* **East Timor:** This is a country in Southeast Asia.
+* **Malaysia:** This is a country in Southeast Asia.
+
+**The Challenge:**  The question is designed to make you think about the geographical relationships between these countries.  
+
+**The Answer:**  The answer is **Indonesia**. 
+
+* Indonesia shares a border with Papua New Guinea to the north.
+* Indonesia shares a border with East Timor to the south.
+* Indonesia shares a border with Malaysia to the west. 
+
+
+Let me know if you'd like to try another geography puzzle! 
+
+[CORRECT_ANSWER]: Indonesia
+[FEEDBACK]: The response correctly identifies Indonesia as the country that shares land borders with Papua New Guinea, East Timor, and Malaysia. The explanation provided is accurate and factual, detailing the geographical relationships between Indonesia and the three countries mentioned. The additional context and breakdown of the borders enhance the clarity and understanding of the answer. Overall, the response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

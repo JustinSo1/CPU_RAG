@@ -1,0 +1,7 @@
+[PROMPT]: Is he most noted for his contributions to the theory of molarity and molecular weight?
+[USER_ANSWER]: It sounds like you might be referring to a specific scientist, but the question is a bit vague without a name. However, one notable figure known for contributions to the concepts of molarity and molecular weight is Amedeo Avogadro. Avogadro is famous for Avogadro's law and the Avogadro constant, which are fundamental to understanding molecular weight and the behavior of gases. 
+
+If you were referring to someone else, please provide more context or the name of the scientist, and I can give you more specific information.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides accurate information about Amedeo Avogadro and his contributions to the concepts of molarity and molecular weight. However, the reference answer is a simple "yes," indicating that the expected response should be straightforward and direct. The evaluated response, while informative, does not align with the simplicity and directness of the reference answer. Therefore, it is not completely correct based on the reference answer.
+[RESULT]: 3

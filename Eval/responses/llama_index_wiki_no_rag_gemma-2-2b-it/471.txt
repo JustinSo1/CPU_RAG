@@ -1,0 +1,16 @@
+[PROMPT]: What are four species that are commonly referred to as kangaroos?
+[USER_ANSWER]: 
+
+Here's the answer:
+
+1. **Red Kangaroo:** The largest kangaroo species, known for its distinctive red fur.
+2. **Eastern Grey Kangaroo:** The most common kangaroo species in Australia, known for its grey fur and large size.
+3. **Western Grey Kangaroo:** Found in Western Australia, known for its smaller size and grey fur.
+4. **Antilopine Kangaroo:** Found in the arid regions of Australia, known for its distinctive black and white fur.
+
+
+Let me know if you'd like to know more about these fascinating animals! 
+
+[CORRECT_ANSWER]: The Red Kangaroo, The Eastern Grey Kangaroo, The Western Grey Kangaroo, and The Antilopine Kangaroo
+[FEEDBACK]: The response correctly identifies the four species commonly referred to as kangaroos: the Red Kangaroo, the Eastern Grey Kangaroo, the Western Grey Kangaroo, and the Antilopine Kangaroo. The additional details provided about each species are mostly accurate, though the description of the Antilopine Kangaroo having "distinctive black and white fur" is incorrect; it actually has a reddish-brown coat. Despite this minor inaccuracy, the primary task of naming the four species is fulfilled correctly.
+[RESULT]: 4

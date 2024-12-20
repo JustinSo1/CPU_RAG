@@ -1,0 +1,7 @@
+[PROMPT]: Why did Cleveland want to hide his cancer surgery from the public?
+[USER_ANSWER]: President Grover Cleveland wanted to hide his cancer surgery from the public primarily because he was concerned about the potential impact on the nation's financial markets and the overall economy. At the time, the United States was experiencing a severe economic depression known as the Panic of 1893. Cleveland believed that news of his serious health condition could further undermine public confidence and exacerbate the economic instability.
+
+To maintain secrecy, Cleveland arranged for the surgery to be performed on a friend's yacht, the Oneida, while it was anchored in the East River. The operation, which took place on June 30, 1893, was successful, and Cleveland later recovered without the public knowing the true nature of his condition. The full details of his surgery were not disclosed to the public until many years later.
+[CORRECT_ANSWER]: To avoid further market panic
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of why President Grover Cleveland wanted to hide his cancer surgery from the public, emphasizing the potential impact on the nation's financial markets and the overall economy during the Panic of 1893. However, the reference answer is very concise and focuses solely on avoiding market panic. While the response includes additional context and details, it aligns well with the core reason provided in the reference answer.
+[RESULT]: 4
