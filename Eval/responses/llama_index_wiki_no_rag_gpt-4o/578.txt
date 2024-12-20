@@ -1,0 +1,5 @@
+[PROMPT]: Who was born precisely at midnight during an electrical storm , to a Serbian family in the village of Smiljan near Gospić , in the Lika region of the Croatian Krajina in Military Frontier ( part of the Austrian Empire ) , in the present-day Croatia . ?
+[USER_ANSWER]: The individual you are referring to is Nikola Tesla. He was born on July 10, 1856, during an electrical storm, to a Serbian family in the village of Smiljan, which was then part of the Austrian Empire. Tesla is renowned for his numerous contributions to the development of electrical engineering and electromagnetism.
+[CORRECT_ANSWER]: Nikola Tesla
+[FEEDBACK]: The response correctly identifies Nikola Tesla as the individual born during an electrical storm to a Serbian family in the village of Smiljan. The additional details provided about his birth date, the historical context, and his contributions to electrical engineering and electromagnetism are accurate and factual. However, the reference answer is concise and only requires the name "Nikola Tesla." While the response is mostly correct and factual, it includes more information than necessary.
+[RESULT]: 4

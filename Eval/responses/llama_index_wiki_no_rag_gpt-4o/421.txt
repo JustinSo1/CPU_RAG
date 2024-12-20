@@ -1,0 +1,5 @@
+[PROMPT]: Who was on the committee with Adams to draft  a Declaration of Independence?
+[USER_ANSWER]: The committee tasked with drafting the Declaration of Independence included the following members: Thomas Jefferson, John Adams, Benjamin Franklin, Roger Sherman, and Robert R. Livingston. Thomas Jefferson was the primary author of the document, but the other members contributed to its discussion and revisions.
+[CORRECT_ANSWER]: Thomas Jefferson, Benjamin Franklin, Robert R. Livingston and Roger Sherman.
+[FEEDBACK]: The response accurately lists all the members of the committee tasked with drafting the Declaration of Independence: Thomas Jefferson, John Adams, Benjamin Franklin, Roger Sherman, and Robert R. Livingston. It also correctly identifies Thomas Jefferson as the primary author and mentions the contributions of the other members. This information is correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

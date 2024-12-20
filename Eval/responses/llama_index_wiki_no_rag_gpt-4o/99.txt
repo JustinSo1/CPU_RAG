@@ -1,0 +1,5 @@
+[PROMPT]: When was Coolidge born?
+[USER_ANSWER]: Calvin Coolidge, the 30th President of the United States, was born on July 4, 1872.
+[CORRECT_ANSWER]: July 4 1872
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact birth date of Calvin Coolidge, which matches the reference answer. Additionally, it includes extra information about Coolidge being the 30th President of the United States, which, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

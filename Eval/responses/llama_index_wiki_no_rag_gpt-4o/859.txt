@@ -1,0 +1,5 @@
+[PROMPT]: What are poor neighborhoods called informally?
+[USER_ANSWER]: Poor neighborhoods are informally called various names depending on the region and context. Some common terms include "slums," "ghettos," "shantytowns," "favelas" (in Brazil), "barrios" (in Spanish-speaking regions), "projects" (in the U.S.), and "inner-city areas." It's important to note that these terms can carry negative connotations and may be considered disrespectful or stigmatizing, so it's best to use them with sensitivity and awareness of their impact.
+[CORRECT_ANSWER]: Cantegriles.
+[FEEDBACK]: The response provides a variety of terms used to refer to poor neighborhoods informally, which are accurate and factual. However, the reference answer specifically mentions "Cantegriles," which is not included in the response. While the response is mostly correct and provides relevant information, it does not fully align with the reference answer. Therefore, it is not completely correct based on the given rubric.
+[RESULT]: 4

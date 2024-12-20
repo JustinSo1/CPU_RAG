@@ -1,0 +1,5 @@
+[PROMPT]: What are dark leopards known as colloquially?
+[USER_ANSWER]: Dark leopards are colloquially known as "black panthers." The term "black panther" can refer to melanistic (having dark pigmentation) leopards or jaguars. This melanism is a genetic variation that results in the dark coat, although their characteristic rosettes or spots may still be visible in certain lighting.
+[CORRECT_ANSWER]: Black Panthers
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies dark leopards as "black panthers," which aligns with the reference answer. Additionally, the response provides extra information about melanism and the visibility of rosettes or spots, which is accurate but not necessary for the colloquial term. This additional detail does not detract from the correctness of the primary answer but is not required for a perfect score based on the rubric.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Where did Wilson attend law school?
+[USER_ANSWER]: Woodrow Wilson attended law school at the University of Virginia. He enrolled in the law school in 1879 but did not complete his degree. He later pursued an academic career and earned a Ph.D. in political science from Johns Hopkins University.
+[CORRECT_ANSWER]: Wilson attended law school at University of Virginia
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Woodrow Wilson attended law school at the University of Virginia, which is the main point of the question. However, it includes additional information about his enrollment year, not completing his degree, and his later academic career, which, while accurate, is not necessary for answering the question directly. This additional information does not detract from the correctness of the main answer but is beyond what was asked.
+[RESULT]: 4

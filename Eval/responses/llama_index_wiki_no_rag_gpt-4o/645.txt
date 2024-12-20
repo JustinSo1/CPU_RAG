@@ -1,0 +1,5 @@
+[PROMPT]: Can larger penguins dive deep in case of need ?
+[USER_ANSWER]: Yes, larger penguin species generally have the capability to dive deeper compared to smaller penguins. This is due to their greater body mass, which allows them to store more oxygen in their muscles and blood, enabling them to sustain longer and deeper dives. For example, emperor penguins, the largest of all penguin species, can dive to depths of over 500 meters (1,640 feet) and can hold their breath for up to 20 minutes. This ability is crucial for foraging, as it allows them to access prey that lives at greater depths.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the diving capabilities of larger penguins, specifically mentioning the emperor penguin and its ability to dive to significant depths and hold its breath for extended periods. However, the reference answer is very brief and only confirms the capability without additional details. While the response is informative and accurate, it goes beyond the simplicity of the reference answer.
+[RESULT]: 4

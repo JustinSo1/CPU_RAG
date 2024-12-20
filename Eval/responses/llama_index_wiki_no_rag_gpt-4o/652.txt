@@ -1,0 +1,5 @@
+[PROMPT]: Is polar bear a mammal?
+[USER_ANSWER]: Yes, the polar bear is a mammal. It is a large carnivorous bear species found primarily within the Arctic Circle. Polar bears are part of the family Ursidae and are well-adapted to cold environments, with thick fur and a layer of fat to insulate them against the cold temperatures.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the polar bear is a mammal and provides additional relevant information about the species, such as its habitat, family classification, and adaptations to cold environments. While the additional details are not necessary, they do not detract from the accuracy of the response.
+[RESULT]: 5

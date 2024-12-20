@@ -1,0 +1,5 @@
+[PROMPT]: Did Lincoln start his political career in 1832?
+[USER_ANSWER]: Yes, Abraham Lincoln began his political career in 1832 when he ran for the Illinois State Legislature at the age of 23. Although he was unsuccessful in his first attempt, he gained valuable political experience and established connections that would benefit his future political endeavors. He ran again in 1834 and won, starting his long and influential political career.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Abraham Lincoln began his political career in 1832 when he ran for the Illinois State Legislature. However, the additional details about his unsuccessful attempt, gaining political experience, and subsequent success in 1834, while accurate, are not necessary to answer the question directly. The reference answer is concise and directly addresses the question without additional information.
+[RESULT]: 4

@@ -1,0 +1,17 @@
+[PROMPT]: What is used to protect a vehicale from a Kangaroo?
+[USER_ANSWER]: To protect a vehicle from collisions with kangaroos, several methods and devices can be used:
+
+1. **Kangaroo Bars (Roo Bars or Bull Bars)**: These are heavy-duty metal bars installed on the front of a vehicle to absorb the impact of a collision with a kangaroo and protect the vehicle's engine, radiator, and passengers.
+
+2. **Kangaroo Whistles**: These are small devices that can be mounted to the front of a vehicle. They emit high-frequency sounds when the vehicle is in motion, which are intended to deter kangaroos from approaching the roadway.
+
+3. **Enhanced Lighting**: Adding extra lights, such as spotlights or light bars, can help drivers spot kangaroos from a greater distance, particularly at dawn, dusk, or night when kangaroos are most active.
+
+4. **Driving Practices**: Being vigilant and reducing speed in areas known for high kangaroo activity, especially at times when they are most active, can help reduce the risk of collisions.
+
+5. **Wildlife Warning Systems**: Some vehicles may be equipped with advanced driver-assistance systems (ADAS) that use cameras and sensors to detect animals on the road and alert the driver.
+
+By using these protective measures, the likelihood of a collision with a kangaroo can be reduced, thereby enhancing the safety of both the vehicle occupants and the wildlife.
+[CORRECT_ANSWER]: roo bars
+[FEEDBACK]: The response provides a detailed and accurate explanation of various methods and devices used to protect a vehicle from collisions with kangaroos. It includes "Kangaroo Bars (Roo Bars or Bull Bars)" which directly aligns with the reference answer "roo bars." Additionally, it mentions other relevant methods such as kangaroo whistles, enhanced lighting, driving practices, and wildlife warning systems. While the response goes beyond the reference answer by including additional information, it remains correct and factual. However, the reference answer is very specific and concise, focusing solely on "roo bars." The response, while accurate, includes more information than necessary.
+[RESULT]: 4

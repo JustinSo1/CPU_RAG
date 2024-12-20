@@ -1,0 +1,5 @@
+[PROMPT]: Are the largest turtles aquatic?
+[USER_ANSWER]: Yes, the largest turtles are primarily aquatic. The largest species of turtle is the leatherback sea turtle (Dermochelys coriacea). These turtles can grow up to 7 feet (2.1 meters) in length and weigh as much as 2,000 pounds (900 kilograms). Leatherback sea turtles are highly adapted to life in the ocean, spending most of their lives in the water and only coming ashore to lay eggs. Their streamlined bodies and powerful flippers make them excellent swimmers, capable of traveling great distances across the world's oceans.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the largest turtles, specifically the leatherback sea turtle, and accurately describes their aquatic nature. The additional details about their size, weight, and adaptations to aquatic life further support the correctness of the response. This level of detail, while more than the reference answer, does not detract from its accuracy and factual correctness.
+[RESULT]: 5

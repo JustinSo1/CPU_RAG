@@ -1,0 +1,5 @@
+[PROMPT]: Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?
+[USER_ANSWER]: No, Grover Cleveland's portrait was not on the U.S. $1,000 bill from 1928 to 1946. It was actually Salmon P. Chase, the U.S. Treasury Secretary under President Lincoln, whose portrait appeared on the $1,000 bill during that period. Grover Cleveland's portrait appeared on the $1,000 bill in the earlier 1918 series.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer is a simple "yes," indicating that Cleveland's portrait was indeed on the U.S. $1,000 bill from 1928 to 1946. However, the response incorrectly states that it was Salmon P. Chase's portrait during that period and mentions Cleveland's portrait on the 1918 series, which is not relevant to the question.
+[RESULT]: 2

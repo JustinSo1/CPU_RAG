@@ -1,0 +1,33 @@
+[PROMPT]: How many species and genera does otter have?
+[USER_ANSWER]: Otters belong to the family Mustelidae, and they are divided into two subfamilies: Lutrinae and Aonychinae. Within these subfamilies, there are 13 species of otters distributed across seven genera. Here are the genera and their respective species:
+
+1. **Aonyx**
+   - African clawless otter (Aonyx capensis)
+   - Asian small-clawed otter (Aonyx cinereus)
+
+2. **Enhydra**
+   - Sea otter (Enhydra lutris)
+
+3. **Lontra**
+   - North American river otter (Lontra canadensis)
+   - Southern river otter (Lontra provocax)
+   - Neotropical otter (Lontra longicaudis)
+   - Marine otter (Lontra felina)
+
+4. **Hydrictis**
+   - Spotted-necked otter (Hydrictis maculicollis)
+
+5. **Lutra**
+   - European otter (Lutra lutra)
+   - Hairy-nosed otter (Lutra sumatrana)
+
+6. **Lutrogale**
+   - Smooth-coated otter (Lutrogale perspicillata)
+
+7. **Pteronura**
+   - Giant otter (Pteronura brasiliensis)
+
+These species vary significantly in size, habitat, and behavior, but they all share common traits that define them as otters.
+[CORRECT_ANSWER]: 13 species and 7 genera
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that there are 13 species of otters distributed across seven genera, which matches the reference answer. The response also provides detailed information about the genera and their respective species, which is accurate and informative. However, the additional details, while accurate, are not necessary for the specific question asked. The primary focus should be on the number of species and genera, which the response does address correctly.
+[RESULT]: 4

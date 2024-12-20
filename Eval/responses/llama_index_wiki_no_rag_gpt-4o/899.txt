@@ -1,0 +1,5 @@
+[PROMPT]: Was Wilson a member of the Phi Kappa Psi fraternity?
+[USER_ANSWER]: Yes, President Woodrow Wilson was a member of the Phi Kappa Psi fraternity. He joined the fraternity during his time at the University of Virginia Law School.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Woodrow Wilson was a member of the Phi Kappa Psi fraternity. However, the additional detail about him joining during his time at the University of Virginia Law School is not necessary and is not verified by the reference answer. The reference answer is concise and to the point, while the response includes extra information that, while not incorrect, is not required to answer the question accurately.
+[RESULT]: 4

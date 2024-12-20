@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard solitary?
+[USER_ANSWER]: Yes, leopards are generally solitary animals. They typically live and hunt alone, coming together only during mating season or when a mother is raising her cubs. This solitary behavior helps them avoid competition for food and allows them to cover large territories in search of prey. Each leopard usually maintains a territory that they mark and defend from other leopards of the same sex.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional relevant information about the solitary nature of leopards, explaining their behavior and territorial habits. This extra detail, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Does Theodore Roosevelt have a brother?
+[USER_ANSWER]: Yes, Theodore Roosevelt had a brother named Elliott Bulloch Roosevelt. Elliott was the father of Eleanor Roosevelt, who later became the First Lady of the United States as the wife of President Franklin D. Roosevelt.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Theodore Roosevelt had a brother named Elliott Bulloch Roosevelt and provides additional information about Elliott being the father of Eleanor Roosevelt. However, the reference answer is very concise, and the additional details, while accurate, are not necessary to answer the question directly. The response goes beyond the simplicity of the reference answer, which might not be required.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: When is the first record of S08_settlement in Singapore?
+[USER_ANSWER]: The first record of settlement in Singapore dates back to the 14th century. The island was known as Temasek, a thriving maritime settlement, and later renamed Singapura, meaning "Lion City" in Sanskrit. According to the Malay Annals, a historical text from the region, Singapore was founded by a Sumatran prince named Sang Nila Utama. This early settlement period is critical in understanding the historical development of Singapore before it became a major trading port under British colonial rule in the 19th century.
+[CORRECT_ANSWER]: second century AD
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that the first record of settlement in Singapore dates back to the second century AD, while the response states that it dates back to the 14th century. Additionally, the response provides extra historical context that is not directly relevant to the specific question asked.
+[RESULT]: 2

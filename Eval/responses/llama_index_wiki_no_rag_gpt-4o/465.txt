@@ -1,0 +1,5 @@
+[PROMPT]: What method of locomotion do Kangaroos Use?
+[USER_ANSWER]: Kangaroos primarily use a method of locomotion known as hopping or saltation. They have large, powerful hind legs and strong tail muscles that allow them to leap great distances efficiently. When moving at slower speeds, kangaroos use their tail as a third limb in a movement called "pentapedal locomotion," where they use their front limbs and tail to balance while moving their hind legs forward.
+[CORRECT_ANSWER]: hopping
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes the primary method of locomotion for kangaroos as hopping or saltation, which aligns with the reference answer. Additionally, it provides extra information about pentapedal locomotion, which is accurate but not necessary for the primary question. The extra detail does not detract from the correctness of the main answer but goes beyond the simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Did Wilson's father own slaves?
+[USER_ANSWER]: Woodrow Wilson, the 28th President of the United States, was born in 1856 in Staunton, Virginia. His father, Joseph Ruggles Wilson, was a Presbyterian minister. While there are records indicating that Joseph Ruggles Wilson supported the Confederacy during the American Civil War and had pro-slavery views, there is no conclusive evidence that he personally owned slaves. Historical documents and records from that period do not provide clear confirmation of slave ownership by Wilson's father.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed background on Woodrow Wilson and his father, Joseph Ruggles Wilson. However, it ultimately concludes that there is no conclusive evidence that Joseph Ruggles Wilson owned slaves, which contradicts the reference answer that simply states "yes." Therefore, the response is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 2

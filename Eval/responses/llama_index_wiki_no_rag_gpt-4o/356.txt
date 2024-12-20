@@ -1,0 +1,5 @@
+[PROMPT]: Which spice originally attracted Europeans to Indonesia?
+[USER_ANSWER]: The spice that originally attracted Europeans to Indonesia was nutmeg. Nutmeg, along with other valuable spices such as cloves and mace, was highly sought after in Europe for its use in cooking, medicine, and as a preservative. The desire to control the lucrative spice trade led to European exploration and colonization of the Indonesian archipelago, particularly the Maluku Islands, also known as the Spice Islands.
+[CORRECT_ANSWER]: nutmeg, cloves, or cubeb pepper
+[FEEDBACK]: The response correctly identifies nutmeg as one of the spices that attracted Europeans to Indonesia, which aligns with the reference answer. However, it does not mention cloves or cubeb pepper, which are also part of the reference answer. The additional context provided about the spice trade and European colonization is accurate but not necessary for the primary question. Therefore, the response is mostly correct, accurate, and factual but not completely comprehensive.
+[RESULT]: 4

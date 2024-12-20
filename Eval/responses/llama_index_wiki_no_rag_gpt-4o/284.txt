@@ -1,0 +1,5 @@
+[PROMPT]: Is Ghana in Asia?
+[USER_ANSWER]: No, Ghana is not in Asia. Ghana is a country located in West Africa. It is situated along the Gulf of Guinea and the Atlantic Ocean, to the west of Togo, to the east of Côte d'Ivoire, and to the south of Burkina Faso.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Ghana is not in Asia and provides additional accurate information about Ghana's location in West Africa. While the reference answer is very brief, the response still meets the criteria for being completely correct and factual.
+[RESULT]: 5

@@ -1,0 +1,7 @@
+[PROMPT]: Why are penguins countershaded?
+[USER_ANSWER]: Penguins are countershaded as a form of camouflage to protect them from predators. Countershading refers to the coloration pattern where an animal is darker on the upper side and lighter on the underside. This type of coloration helps penguins blend into their environment and makes it difficult for both aerial and underwater predators to spot them.
+
+When a predator looks down at a penguin swimming in the water, the dark back blends with the darker ocean depths. Conversely, when a predator looks up from below, the light underside of the penguin blends with the lighter surface of the water and the sky. This countershading provides an effective form of concealment in the open ocean, where there are few places to hide.
+[CORRECT_ANSWER]: for camouflage
+[FEEDBACK]: The response is completely correct, accurate, and factual. It explains that penguins are countershaded as a form of camouflage to protect them from predators, which aligns with the reference answer. The response also provides additional details about how countershading works, which enhances the understanding of the concept without deviating from the main point.
+[RESULT]: 5

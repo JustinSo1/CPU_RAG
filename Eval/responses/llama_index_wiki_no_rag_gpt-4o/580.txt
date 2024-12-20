@@ -1,0 +1,15 @@
+[PROMPT]: Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?
+[USER_ANSWER]: Yes, there have been several theatrical plays produced and staged worldwide based on the life of Nikola Tesla. Tesla's fascinating life and groundbreaking contributions to science and technology have inspired many playwrights. Some notable examples include:
+
+1. **"Tesla"** - Written by Sheri Graubert, this play explores Tesla's eccentric personality and his rivalry with Thomas Edison.
+
+2. **"The Dangers of Electric Lighting"** - Written by David Podgursky, it delves into the competition between Tesla and Edison during the War of the Currents.
+
+3. **"Light Falls"** - Written by Simon Stephens, this play focuses on Tesla's later years and his contributions to the development of alternating current electricity.
+
+4. **"TESLA"** - Written by Ian Ruskin, this play portrays Tesla's brilliant mind and his struggles with recognition and financial stability.
+
+These are just a few examples, and there may be other productions that have been inspired by Tesla's life and work. His story continues to captivate audiences and inspire new interpretations and adaptations in the world of theater.
+[CORRECT_ANSWER]: yes.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that there have been several theatrical plays based on Tesla's life, which aligns with the reference answer. However, the reference answer is extremely concise, while the response provides additional details and examples of specific plays. Although the additional information is accurate and relevant, it goes beyond the simplicity of the reference answer. Therefore, while the response is informative and correct, it does not match the brevity of the reference answer.
+[RESULT]: 4

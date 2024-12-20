@@ -1,0 +1,5 @@
+[PROMPT]: Who died in childbirth in 1772?
+[USER_ANSWER]: In 1772, a notable figure who died in childbirth was Princess Mary of Great Britain. She was the second-youngest daughter of King George II of Great Britain and Queen Caroline. She passed away on January 14, 1772, after giving birth to her sixth child.
+[CORRECT_ANSWER]: Margaret Miller
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that Margaret Miller died in childbirth in 1772, while the response incorrectly identifies Princess Mary of Great Britain as the person who died in childbirth in that year. There is no factual alignment with the reference answer.
+[RESULT]: 1

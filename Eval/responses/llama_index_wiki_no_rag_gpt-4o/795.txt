@@ -1,0 +1,5 @@
+[PROMPT]: What shape are the eggs of the larest species of turtle?
+[USER_ANSWER]: The largest species of turtle is the leatherback sea turtle (Dermochelys coriacea). The eggs of the leatherback sea turtle are generally spherical in shape and have a diameter of about 5.3 cm (2.1 inches).
+[CORRECT_ANSWER]: Spherical
+[FEEDBACK]: The response correctly identifies the largest species of turtle as the leatherback sea turtle and accurately describes the shape of its eggs as spherical. However, the additional information about the diameter of the eggs, while accurate, is not necessary for answering the question directly. The reference answer is concise and directly addresses the question without additional details. Despite this, the response is factually correct and accurate.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: When was the first factory opened?
+[USER_ANSWER]: The first factory, often considered to be the first modern factory, was the Soho Manufactory established by Matthew Boulton in 1761 in Birmingham, England. This factory was significant for its use of the latest technology and organized labor to produce goods on a large scale. It marked the beginning of the Industrial Revolution, which saw the rise of factories as the central place for manufacturing goods.
+[CORRECT_ANSWER]: 1836
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the first factory was opened in 1836, while the response discusses the Soho Manufactory established in 1761, which does not align with the reference answer.
+[RESULT]: 1

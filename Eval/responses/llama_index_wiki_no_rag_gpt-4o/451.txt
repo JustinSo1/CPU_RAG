@@ -1,0 +1,5 @@
+[PROMPT]: What do kangaroos use for "crawl-walking?"
+[USER_ANSWER]: Kangaroos primarily use their forelimbs and tail for "crawl-walking." This type of locomotion is often referred to as "pentapedal walking" because it involves all four of their limbs plus their tail. When kangaroos are moving slowly, they place their forelimbs on the ground and use their strong tail as a support to lift their hind legs forward. This allows them to move in a crawling motion, which is different from their more familiar hopping or bounding locomotion used for faster movement.
+[CORRECT_ANSWER]: its hind feet
+[FEEDBACK]: The response provides a detailed explanation of how kangaroos use their forelimbs and tail for "crawl-walking," which is accurate in the context of pentapedal walking. However, the reference answer specifically mentions "hind feet," which is a simpler and more direct answer. The response does not directly address the reference answer's focus on the hind feet, making it somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

@@ -1,0 +1,5 @@
+[PROMPT]: Does Uruguay recognize same-sex civil unions?
+[USER_ANSWER]: Yes, Uruguay recognizes same-sex civil unions. In fact, Uruguay was one of the early adopters of legal recognition for same-sex couples in Latin America. The country passed a law allowing for same-sex civil unions in 2008. Furthermore, Uruguay went on to legalize same-sex marriage in 2013, becoming the second Latin American country to do so after Argentina.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It not only confirms that Uruguay recognizes same-sex civil unions but also provides additional relevant information about the history of same-sex civil unions and marriage in Uruguay. This additional context, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Is watt commemorated by statuary in George Square, Glasgow and Princes Street, Edinburgh?
+[USER_ANSWER]: Yes, James Watt, the famous Scottish inventor and mechanical engineer, is commemorated by statues in both George Square, Glasgow, and Princes Street, Edinburgh. Watt is best known for his improvements to the steam engine, which played a crucial role in the Industrial Revolution. The statues serve to honor his significant contributions to science and industry.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that James Watt is commemorated by statues in both George Square, Glasgow, and Princes Street, Edinburgh. However, the additional information about Watt's contributions to the steam engine and the Industrial Revolution, while accurate, is not necessary to answer the question directly. The reference answer is concise and directly addresses the question without additional details. Therefore, the response, while informative, goes beyond what was required.
+[RESULT]: 4

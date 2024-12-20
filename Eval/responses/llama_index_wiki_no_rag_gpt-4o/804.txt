@@ -1,0 +1,5 @@
+[PROMPT]: How many suborders are turtles divided into?
+[USER_ANSWER]: Turtles are divided into two suborders: Cryptodira and Pleurodira. Cryptodira, also known as hidden-necked turtles, retract their heads straight back into their shells, while Pleurodira, or side-necked turtles, retract their heads sideways.
+[CORRECT_ANSWER]: Three.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer states that turtles are divided into three suborders, while the response mentions only two suborders. Although the response provides detailed and factual information about the two suborders it mentions, it does not align with the reference answer's count of suborders.
+[RESULT]: 2

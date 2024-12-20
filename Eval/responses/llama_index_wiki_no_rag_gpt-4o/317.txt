@@ -1,0 +1,5 @@
+[PROMPT]: Who did Cleveland run against in 1884?
+[USER_ANSWER]: In the United States presidential election of 1884, Grover Cleveland, the Democratic candidate, ran against James G. Blaine, the Republican candidate. Cleveland ultimately won the election, becoming the 22nd President of the United States.
+[CORRECT_ANSWER]: former Senator James G. Blaine of Maine
+[FEEDBACK]: The response correctly identifies James G. Blaine as the opponent of Grover Cleveland in the 1884 presidential election, which aligns with the reference answer. Additionally, the response provides extra context about the election and Cleveland's victory, which, while not necessary, does not detract from the accuracy of the answer. The information is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

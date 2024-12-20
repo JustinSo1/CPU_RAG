@@ -1,0 +1,5 @@
+[PROMPT]: Is the Polar Bear the mascot of Bowdoin college ?
+[USER_ANSWER]: Yes, the Polar Bear is indeed the mascot of Bowdoin College. The college adopted the Polar Bear as its mascot in 1913, inspired by Admiral Robert E. Peary, a Bowdoin alumnus who led the first successful expedition to the North Pole.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the Polar Bear is the mascot of Bowdoin College and provides additional context about the adoption of the mascot, which is accurate and relevant.
+[RESULT]: 5

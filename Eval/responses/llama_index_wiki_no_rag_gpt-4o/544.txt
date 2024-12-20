@@ -1,0 +1,5 @@
+[PROMPT]: Are nationals referred to by the plural : Liechtensteiners ?
+[USER_ANSWER]: Yes, the nationals of Liechtenstein are referred to as Liechtensteiners. The term is used to describe the people who are from or reside in the country of Liechtenstein.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is correct, accurate, and factual. It confirms that the nationals of Liechtenstein are referred to as Liechtensteiners, which aligns with the reference answer. However, the response includes additional information that, while accurate, is not necessary to answer the question directly. The reference answer is more concise and to the point.
+[RESULT]: 4

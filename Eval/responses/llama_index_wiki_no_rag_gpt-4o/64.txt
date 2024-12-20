@@ -1,0 +1,17 @@
+[PROMPT]: What do beetles eat?
+[USER_ANSWER]: Beetles have a diverse range of diets depending on their species. Generally, beetles can be classified into various dietary categories:
+
+1. **Herbivores:** Many beetles feed on plants. They may eat leaves, flowers, seeds, roots, or wood. Examples include the Colorado potato beetle, which feeds on potato plants, and the Japanese beetle, which eats leaves and flowers of many plants.
+
+2. **Detritivores:** These beetles feed on decomposing organic matter, such as dead plants and animals. Dung beetles, which feed on animal feces, and carrion beetles, which consume decaying animal bodies, fall into this category.
+
+3. **Carnivores:** Some beetles are predators and feed on other insects or small invertebrates. For example, lady beetles (ladybugs) often feed on aphids, and ground beetles may hunt various small insects and larvae.
+
+4. **Omnivores:** Some beetles have a varied diet and can eat both plant and animal matter. Many rove beetles are omnivorous and may feed on fungi, decaying matter, and smaller insects.
+
+5. **Fungivores:** Certain beetles specialize in feeding on fungi. An example of this is the pleasing fungus beetle, which consumes fungal spores and mycelium.
+
+The specific diet of a beetle species will depend on its ecological niche and the resources available in its habitat.
+[CORRECT_ANSWER]: Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.
+[FEEDBACK]: The response is detailed and provides a comprehensive overview of the various dietary habits of beetles, categorizing them into herbivores, detritivores, carnivores, omnivores, and fungivores. It includes specific examples for each category, which enhances the accuracy and factual nature of the information. While the reference answer is brief and general, the response expands on the same idea by providing detailed and accurate information about the diverse diets of beetles. Therefore, the response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

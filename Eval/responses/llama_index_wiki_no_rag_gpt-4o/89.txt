@@ -1,0 +1,5 @@
+[PROMPT]: Did Coolidge graduate from Black River Academy?
+[USER_ANSWER]: Yes, Calvin Coolidge graduated from Black River Academy in Ludlow, Vermont. He completed his studies there before going on to attend Amherst College in Massachusetts.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Calvin Coolidge graduated from Black River Academy and provides additional context about his subsequent education at Amherst College, which, while not necessary, does not detract from the accuracy of the answer.
+[RESULT]: 5

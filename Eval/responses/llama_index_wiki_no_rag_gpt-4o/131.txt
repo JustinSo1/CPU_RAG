@@ -1,0 +1,5 @@
+[PROMPT]: When did Canada have one of the largest armed forces in the world?
+[USER_ANSWER]: Canada had one of the largest armed forces in the world during World War II. During the war, Canada mobilized over a million men and women for military service, making it one of the largest armed forces relative to its population. By the end of the war, Canada had the fourth-largest air force and the fifth-largest navy in the world. This significant military contribution was a notable part of Canada's efforts in the Allied war effort.
+[CORRECT_ANSWER]: 1944.
+[FEEDBACK]: The response provides a detailed and accurate account of Canada's military mobilization during World War II, mentioning the significant size of its armed forces and its contributions to the Allied war effort. However, it does not directly answer the question with the specific year "1944" as indicated in the reference answer. While the information is correct and relevant, it lacks the precise detail required by the question.
+[RESULT]: 4

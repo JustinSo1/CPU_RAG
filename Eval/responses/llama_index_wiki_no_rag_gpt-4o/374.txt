@@ -1,0 +1,5 @@
+[PROMPT]: What is the first number on the page?
+[USER_ANSWER]: I'm sorry, but I can't see the page you're referring to. Could you please provide more context or specify which page you are talking about?
+[CORRECT_ANSWER]: 28
+[FEEDBACK]: The response does not provide the correct number as requested in the instruction. Instead, it asks for more context and does not attempt to answer the question directly. This makes the response completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

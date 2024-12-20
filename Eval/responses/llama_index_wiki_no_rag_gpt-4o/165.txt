@@ -1,0 +1,5 @@
+[PROMPT]: Are diving ducks heavier tha dabbling ducks?
+[USER_ANSWER]: Yes, diving ducks are generally heavier than dabbling ducks. This difference in weight is related to their different feeding behaviors and habitats. Diving ducks, which feed by diving underwater to forage for food, tend to have more robust bodies and denser bones to help them stay submerged. On the other hand, dabbling ducks feed primarily on the surface of the water or by tipping forward to reach underwater vegetation, and they generally have lighter bodies that are more suited to floating and quick takeoffs.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that diving ducks are generally heavier than dabbling ducks and provides additional context about their feeding behaviors and habitats, which is accurate. However, the reference answer is very concise, and the additional information, while accurate, is not necessary to answer the question directly. Therefore, the response is not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Are male otters dog-otters?
+[USER_ANSWER]: Yes, male otters are sometimes referred to as dog-otters. Female otters are sometimes called bitch-otters. However, these terms are not as commonly used as simply referring to them as male and female otters. The use of "dog" and "bitch" in reference to male and female animals is more commonly seen in species like dogs.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that male otters can be referred to as dog-otters and provides additional information about female otters being called bitch-otters. However, the reference answer is a simple "yes," which is completely correct and factual. The additional information in the response, while accurate, is not necessary to answer the question directly. Therefore, the response is mostly correct but not as concise as the reference answer.
+[RESULT]: 4

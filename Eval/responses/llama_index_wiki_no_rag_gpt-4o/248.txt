@@ -1,0 +1,5 @@
+[PROMPT]: Was Gerald Ford a member of Delta Kappa Epsilon?
+[USER_ANSWER]: Yes, Gerald Ford was a member of the Delta Kappa Epsilon fraternity. He joined the fraternity while he was a student at the University of Michigan.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Gerald Ford was a member of the Delta Kappa Epsilon fraternity and provides additional context by mentioning that he joined while at the University of Michigan. This additional information does not detract from the accuracy of the response and aligns with the reference answer.
+[RESULT]: 5

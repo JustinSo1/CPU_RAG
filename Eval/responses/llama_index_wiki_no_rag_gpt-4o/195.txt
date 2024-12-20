@@ -1,0 +1,10 @@
+[PROMPT]: How many living species of African Elephants are there?
+[USER_ANSWER]: There are two recognized living species of African elephants. These are:
+
+1. The African bush elephant (Loxodonta africana), also known as the African savanna elephant.
+2. The African forest elephant (Loxodonta cyclotis).
+
+These species differ in various aspects such as size, habitat, and physical characteristics.
+[CORRECT_ANSWER]: 2
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that there are two recognized living species of African elephants and provides their scientific names and common names. However, the reference answer is more concise and directly answers the question with just the number "2". The additional details, while accurate, are not necessary for the specific question asked.
+[RESULT]: 4

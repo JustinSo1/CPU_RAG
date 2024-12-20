@@ -1,0 +1,5 @@
+[PROMPT]: What is the capital city?
+[USER_ANSWER]: The capital city of which country or region are you inquiring about? Please provide more details so I can give you the correct information.
+[CORRECT_ANSWER]: Helsinki
+[FEEDBACK]: The response does not provide the capital city as requested. Instead, it asks for clarification, which means it does not answer the question directly. This makes the response completely incorrect based on the reference answer, which is "Helsinki."
+[RESULT]: 1

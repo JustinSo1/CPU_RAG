@@ -1,0 +1,5 @@
+[PROMPT]: Are ducks an accepted presence in some populated areas?
+[USER_ANSWER]: Yes, ducks are often an accepted presence in many populated areas around the world. They are commonly found in parks, ponds, lakes, and other water bodies within cities and towns. Many people enjoy feeding and watching ducks, and they can coexist well with human populations. However, some areas may have regulations or guidelines about feeding ducks to ensure their health and to prevent overpopulation or dependency on human-provided food. Ducks can contribute to the local ecosystem by controlling insect populations and serving as part of the natural food chain.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional context about the presence of ducks in populated areas, their common habitats, and their interactions with humans. However, the reference answer is very brief and only confirms the presence of ducks in populated areas without additional details. The response goes beyond the simplicity of the reference answer, which is not necessary for a perfect score based on the rubric.
+[RESULT]: 4

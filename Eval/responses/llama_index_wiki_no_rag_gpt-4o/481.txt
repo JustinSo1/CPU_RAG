@@ -1,0 +1,17 @@
+[PROMPT]: What kinds of changes have larger kangaroos adapted much better to?
+[USER_ANSWER]: Larger kangaroos, particularly species such as the red kangaroo and the eastern grey kangaroo, have adapted well to a variety of environmental changes. Some of the key adaptations include:
+
+1. **Temperature Extremes**: Kangaroos have developed physiological adaptations to cope with the extreme temperatures of the Australian outback. They are able to regulate their body temperature through behaviors such as licking their forearms, which helps with evaporative cooling. Additionally, they are mostly crepuscular, being active during dawn and dusk to avoid the midday heat.
+
+2. **Water Conservation**: In arid environments, kangaroos have adapted to conserve water efficiently. They are able to survive on very little water by obtaining moisture from the food they eat and concentrating their urine to reduce water loss.
+
+3. **Dietary Flexibility**: Larger kangaroos have a versatile diet that allows them to thrive in diverse environments. They primarily graze on grasses but can also consume leaves, shrubs, and even bark when necessary. Their digestive system is highly efficient at extracting nutrients from fibrous plant material.
+
+4. **Mobility**: Kangaroos are known for their powerful hind legs and large feet, which enable them to cover large distances quickly and efficiently through hopping. This mode of locomotion is energy-efficient and allows them to travel long distances in search of food and water.
+
+5. **Reproductive Adaptations**: Kangaroos have a unique reproductive system that includes embryonic diapause, where the development of the embryo can be paused during unfavorable conditions. This allows them to time the birth of their young to coincide with periods when resources are more abundant.
+
+These adaptations have allowed larger kangaroos to thrive in a range of habitats across Australia, from deserts to grasslands and forests.
+[CORRECT_ANSWER]: Changes wrought to the Australian landscape by humans.
+[FEEDBACK]: The response provides detailed information about the adaptations of larger kangaroos to various environmental changes, such as temperature extremes, water conservation, dietary flexibility, mobility, and reproductive adaptations. However, the reference answer specifically mentions "changes wrought to the Australian landscape by humans," which the response does not address directly. Therefore, while the response is factually accurate and informative, it does not align with the specific focus of the reference answer.
+[RESULT]: 3

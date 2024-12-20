@@ -1,0 +1,14 @@
+[PROMPT]: A semi-aquatic marine mammal , the polar bear has what?
+[USER_ANSWER]: The polar bear, a semi-aquatic marine mammal, has several distinct characteristics and adaptations that enable it to thrive in its Arctic habitat. These include:
+
+1. **Thick Fur and Blubber**: Polar bears have dense, water-repellent fur and a thick layer of blubber beneath their skin to insulate against the cold temperatures.
+2. **White Fur**: Their white or yellowish fur provides camouflage against the ice and snow.
+3. **Strong Swimmers**: They have large, powerful limbs and slightly webbed front paws that make them excellent swimmers, capable of covering long distances in the water.
+4. **Keen Sense of Smell**: Polar bears have an acute sense of smell, which helps them detect seals, their primary prey, from great distances.
+5. **Large Size**: They are the largest land carnivores, with males weighing between 900 to 1,600 pounds (410 to 720 kg) and females around half that size.
+6. **Sharp Claws and Teeth**: These help them catch and consume their prey, primarily seals.
+
+These adaptations make polar bears well-suited for life in the Arctic, where they spend much of their time on sea ice hunting for food.
+[CORRECT_ANSWER]: It has adapted for life on a combination of land, sea, and ice.
+[FEEDBACK]: The response provides a detailed and accurate description of the polar bear's characteristics and adaptations, which are factual and relevant to its semi-aquatic nature. However, the response does not directly address the instruction's query about what the polar bear has in a concise manner, as the reference answer does. The reference answer succinctly states that the polar bear has adapted for life on land, sea, and ice, which directly answers the question. While the response is factually correct, it is more elaborate than necessary and does not match the concise nature of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Is Fillmore the first of two presidents to have been an indentured servant ?
+[USER_ANSWER]: No, Millard Fillmore is not known to have been an indentured servant. The two U.S. Presidents who were indentured servants are Andrew Johnson and James Garfield. Andrew Johnson was apprenticed to a tailor, and James Garfield worked as a canal boy, which is often considered a form of indenture due to the harsh conditions and binding nature of the work. Fillmore, on the other hand, came from a poor family and worked various jobs to support his education, but he was not indentured.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer simply states "yes," indicating that Fillmore was indeed one of the two presidents who had been indentured servants. The response, however, denies this and provides additional information about other presidents who were indentured servants, which is not relevant to the question. Therefore, the response does not align with the reference answer and contains inaccuracies regarding Fillmore's history.
+[RESULT]: 2

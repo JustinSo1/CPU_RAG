@@ -1,0 +1,5 @@
+[PROMPT]: Where is Finland located?
+[USER_ANSWER]: Finland is located in Northern Europe. It is bordered by Sweden to the west, Norway to the north, and Russia to the east. To the south, it is bounded by the Gulf of Finland, which separates it from Estonia. The Baltic Sea lies to the southwest of the country. Helsinki is the capital and largest city of Finland.
+[CORRECT_ANSWER]: Northern Europe
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about Finland's location, including its borders with neighboring countries and bodies of water. However, the reference answer is very concise, and the response goes beyond the simplicity required. While the additional details are accurate, they are not necessary to answer the question directly. Therefore, the response is not completely aligned with the reference answer's brevity but is still factually correct.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?
+[USER_ANSWER]: Can you please provide the name of the person you are referring to? There are many notable individuals buried in the Princeton Cemetery of the Nassau Presbyterian Church, and I would need more specific information to give you an accurate answer.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question. Instead, it asks for clarification, which is not aligned with the reference answer. The reference answer is a simple "yes," indicating that the question can be answered without additional information. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

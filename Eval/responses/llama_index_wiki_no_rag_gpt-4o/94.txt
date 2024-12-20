@@ -1,0 +1,5 @@
+[PROMPT]: Of what state was Coolidge governor?
+[USER_ANSWER]: Calvin Coolidge was the governor of Massachusetts. He served as the 48th governor from 1919 to 1921 before becoming the Vice President and eventually the President of the United States.
+[CORRECT_ANSWER]: MassachuS08_setts
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Massachusetts as the state where Calvin Coolidge served as governor and provides additional accurate information about his tenure and subsequent political career. This level of detail and accuracy aligns well with the reference answer.
+[RESULT]: 5

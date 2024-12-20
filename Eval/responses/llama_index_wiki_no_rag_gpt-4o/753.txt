@@ -1,0 +1,5 @@
+[PROMPT]: When did Goh Chok Tong succeed Lee as Prime Minister?
+[USER_ANSWER]: Goh Chok Tong succeeded Lee Kuan Yew as the Prime Minister of Singapore on November 28, 1990.
+[CORRECT_ANSWER]: In 1990, Goh Chok Tong succeeded Lee as Prime Minister.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact date when Goh Chok Tong succeeded Lee Kuan Yew as Prime Minister of Singapore, which is more detailed than the reference answer but still entirely accurate.
+[RESULT]: 5

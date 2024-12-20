@@ -1,0 +1,5 @@
+[PROMPT]: Is it true that he became a professor in 1820?
+[USER_ANSWER]: To provide accurate information, I need to know which person you are referring to. Could you please provide a name or more context?
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question. Instead, it asks for more information, which is not necessary based on the reference answer. The reference answer indicates that a simple "yes" would be completely correct, accurate, and factual. Therefore, the response is not aligned with the reference answer and does not provide the required information.
+[RESULT]: 1

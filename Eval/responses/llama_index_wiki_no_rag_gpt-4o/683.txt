@@ -1,0 +1,5 @@
+[PROMPT]: Do nearly all Qataris profess Islam?
+[USER_ANSWER]: Yes, nearly all Qataris profess Islam. Islam is the state religion of Qatar, and the vast majority of Qatar's citizens are Muslims. The country follows Islamic laws and practices, and Islamic traditions and values play a significant role in shaping the culture and lifestyle in Qatar.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional context about the role of Islam in Qatar, which is accurate, but the instruction only asked for a simple confirmation. The reference answer is a concise "Yes," while the response elaborates further than necessary. However, the elaboration does not detract from the correctness of the answer.
+[RESULT]: 4

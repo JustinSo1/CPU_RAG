@@ -1,0 +1,5 @@
+[PROMPT]: What land animal is larger than an elephant?
+[USER_ANSWER]: The blue whale is the largest animal on Earth, but it is an aquatic animal. When it comes to land animals, the African elephant holds the title for the largest. No land animal is larger than the African elephant.
+[CORRECT_ANSWER]: None, the elephant is the largest land animal.
+[FEEDBACK]: The response correctly identifies that the African elephant is the largest land animal and states that no land animal is larger than the African elephant. However, the mention of the blue whale, while accurate, is not relevant to the question about land animals. This additional information does not detract significantly from the accuracy of the response but does make it slightly less concise than the reference answer. Overall, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

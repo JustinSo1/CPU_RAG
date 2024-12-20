@@ -1,0 +1,15 @@
+[PROMPT]: How much time to penguins spend on land?
+[USER_ANSWER]: The amount of time penguins spend on land varies depending on the species and the time of year. Generally, penguins are highly adapted to life both in water and on land:
+
+1. **Breeding Season**: During the breeding season, which can last several months, penguins spend a significant amount of time on land. They engage in courtship, nest building, egg incubation, and chick rearing. For example, Emperor Penguins can spend months on the ice during breeding season.
+
+2. **Molting**: Penguins also spend time on land during their molting period, which occurs annually. This process can take a few weeks, during which they cannot go to sea because their old feathers are being replaced with new ones, and they are not waterproof.
+
+3. **Resting and Socializing**: Penguins come ashore to rest, preen their feathers, and socialize with other penguins. The duration of these activities can vary widely.
+
+4. **Non-Breeding Season**: Outside of the breeding and molting periods, many penguins spend a majority of their time at sea, foraging for food. 
+
+Overall, the time penguins spend on land can range from a few weeks to several months, depending on their life cycle stage and specific species behaviors.
+[CORRECT_ANSWER]: half of their life
+[FEEDBACK]: The response provides a detailed and accurate explanation of the various factors that influence the amount of time penguins spend on land, such as breeding season, molting, resting, and socializing. However, it does not directly address the reference answer, which states that penguins spend "half of their life" on land. While the response is informative and mostly correct, it does not succinctly summarize the overall time spent on land as the reference answer does. Therefore, it is not completely aligned with the reference answer.
+[RESULT]: 4

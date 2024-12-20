@@ -1,0 +1,5 @@
+[PROMPT]: When did Roosevelt die?
+[USER_ANSWER]: Franklin D. Roosevelt, the 32nd President of the United States, died on April 12, 1945.
+[CORRECT_ANSWER]: On January 6, 1919, Roosevelt died in his sleep.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that Roosevelt died on January 6, 1919, while the response incorrectly states that Franklin D. Roosevelt died on April 12, 1945. This discrepancy shows that the response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

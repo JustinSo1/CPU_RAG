@@ -1,0 +1,5 @@
+[PROMPT]: Did Wilson support desegregation?
+[USER_ANSWER]: No, President Woodrow Wilson did not support desegregation. In fact, during his presidency from 1913 to 1921, Wilson implemented policies that were detrimental to the progress of racial equality. He allowed for the segregation of federal government offices and facilities, which had previously been integrated. His administration's policies and actions reinforced racial segregation and discrimination, setting back civil rights progress for African Americans.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation of President Woodrow Wilson's stance on desegregation, including specific actions he took that reinforced racial segregation and discrimination. This aligns with the reference answer, which simply states "no," but the response goes further to provide context and evidence supporting the claim.
+[RESULT]: 5

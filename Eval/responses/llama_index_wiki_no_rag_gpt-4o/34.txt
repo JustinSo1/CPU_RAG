@@ -1,0 +1,5 @@
+[PROMPT]: Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+[USER_ANSWER]: Yes, Amedeo Avogadro was born on August 9, 1776, in Turin, which was part of the Kingdom of Sardinia in Italy at that time. He was born into a noble and ancient family of Piedmont, Italy. Avogadro is best known for Avogadro's law and the Avogadro constant, which are fundamental to the field of chemistry.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that Amedeo Avogadro was born on August 9, 1776, in Turin, and mentions that he was born into a noble and ancient family of Piedmont, Italy. However, the additional information about the Kingdom of Sardinia and Avogadro's contributions to chemistry, while accurate, is not necessary to answer the question directly. The reference answer is much more concise and directly addresses the question without additional details.
+[RESULT]: 4

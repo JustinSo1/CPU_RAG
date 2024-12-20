@@ -1,0 +1,5 @@
+[PROMPT]: Do female polar bears weight more than the male?
+[USER_ANSWER]: No, male polar bears generally weigh more than female polar bears. Adult male polar bears typically weigh between 900 and 1,600 pounds (410 to 725 kilograms), while adult female polar bears usually weigh between 330 and 650 pounds (150 to 295 kilograms). The size difference is significant, with males being considerably larger than females.
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is correct, accurate, and factual. It provides detailed information about the weight ranges of male and female polar bears, which supports the assertion that male polar bears generally weigh more than female polar bears. This additional information, while not necessary, does not detract from the accuracy of the response. However, the reference answer is very brief and to the point, while the evaluated response includes extra details that are not required. Based on the rubric, the response is mostly correct, accurate, and factual, but the additional details are not necessary for a perfect score.
+[RESULT]: 4

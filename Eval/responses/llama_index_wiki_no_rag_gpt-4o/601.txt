@@ -1,0 +1,5 @@
+[PROMPT]: What is the primary item in an otter's diet?
+[USER_ANSWER]: The primary item in an otter's diet varies depending on the species and its habitat, but generally, otters primarily feed on a variety of aquatic organisms. For example, river otters mainly eat fish, crayfish, and amphibians, while sea otters primarily consume sea urchins, mollusks, crustaceans, and some species of fish. Their diet can also include small mammals and birds, but their preference is typically for readily available aquatic prey.
+[CORRECT_ANSWER]: Fish.
+[FEEDBACK]: The response provides a detailed and accurate description of the primary items in an otter's diet, mentioning the variation based on species and habitat. It correctly identifies fish as a significant part of the diet for river otters and includes other aquatic organisms for sea otters. However, the reference answer is very specific, stating only "Fish." While the response is mostly correct and factual, it includes additional information that is not strictly necessary according to the reference answer.
+[RESULT]: 4

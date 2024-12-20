@@ -1,0 +1,9 @@
+[PROMPT]: How do sea otters insulate themselves?
+[USER_ANSWER]: Sea otters have several adaptations that help them stay warm in the cold ocean waters where they live. Unlike most marine mammals, they do not have a thick layer of blubber for insulation. Instead, they rely on their extremely dense fur, which is the densest of any animal, with about 600,000 to 1,000,000 hair follicles per square inch.
+
+This dense fur traps a layer of air next to the skin, which provides insulation and helps keep the otter's skin dry. The fur has two layers: a short, dense underfur and longer, waterproof guard hairs. The underfur traps the air, while the guard hairs help repel water.
+
+Sea otters also spend a significant amount of time grooming to maintain the insulating properties of their fur. They regularly clean and fluff their fur to ensure it stays in top condition, which helps maintain the air layer and provides effective insulation. Additionally, sea otters have a high metabolic rate, which helps generate body heat to keep them warm. They eat a lot of food to fuel this high metabolism, consuming about 25-30% of their body weight in food each day.
+[CORRECT_ANSWER]: a layer of air trapped in their fur(!)
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about how sea otters insulate themselves, including the role of their dense fur, the structure of the fur, and their grooming habits. However, the reference answer focuses specifically on the layer of air trapped in their fur, which is mentioned in the response but not emphasized as the primary point. The additional details about their high metabolic rate and food consumption, while accurate, are not directly related to the primary method of insulation described in the reference answer. Therefore, the response is mostly correct but includes extra information that is not necessary for the primary focus of the question.
+[RESULT]: 4

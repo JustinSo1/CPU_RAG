@@ -1,0 +1,5 @@
+[PROMPT]: Are otters very active?
+[USER_ANSWER]: Yes, otters are generally very active animals. They are known for their playful behavior, which includes activities like sliding down mud or snow banks, playing with objects, and chasing each other. Otters are also skilled swimmers and spend a significant amount of time in the water hunting for food, such as fish, crustaceans, and other aquatic animals. Their high activity levels are essential for their survival, as they need to maintain a high metabolism to stay warm in their often cold aquatic habitats.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about otters' activity levels, their playful behavior, and their swimming skills, which are all accurate and relevant to the question. The response goes beyond the reference answer by providing additional context and details, but it remains entirely factual and correct.
+[RESULT]: 5

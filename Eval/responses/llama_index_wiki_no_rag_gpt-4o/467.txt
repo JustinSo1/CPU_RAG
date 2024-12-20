@@ -1,0 +1,5 @@
+[PROMPT]: What is a roo?
+[USER_ANSWER]: A "roo" is an informal term commonly used in Australia to refer to a kangaroo. Kangaroos are marsupials indigenous to Australia, known for their powerful hind legs, large tail, and ability to hop at high speeds. They are a symbol of Australia and are featured on the country's coat of arms.
+[CORRECT_ANSWER]: a kangaroo
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies "roo" as an informal term for a kangaroo, which aligns with the reference answer. However, the additional information about kangaroos, while accurate, is not necessary to meet the criteria of the instruction. The response goes beyond the simplicity of the reference answer, which may not be required for a perfect score based on the rubric.
+[RESULT]: 4

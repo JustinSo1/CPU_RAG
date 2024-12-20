@@ -1,0 +1,5 @@
+[PROMPT]: What Roman province was Liechtenstein part of?
+[USER_ANSWER]: The area that is now Liechtenstein was part of the Roman province of Raetia. Raetia was a significant province in the Roman Empire, encompassing parts of modern-day Switzerland, Austria, Germany, and Italy.
+[CORRECT_ANSWER]: Raetia.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Raetia as the Roman province that included the area now known as Liechtenstein. The additional information about Raetia encompassing parts of modern-day Switzerland, Austria, Germany, and Italy is accurate but not necessary for the answer. The response could be more concise to align perfectly with the reference answer.
+[RESULT]: 4

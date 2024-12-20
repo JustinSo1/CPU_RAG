@@ -1,0 +1,5 @@
+[PROMPT]: Who asked a nearby local what the creatures were called?
+[USER_ANSWER]: That question seems to be referencing a specific story or context, but without additional details, it's difficult to pinpoint exactly who you are referring to. This kind of scenario might be common in various books, movies, or other narratives where characters encounter unfamiliar creatures and seek information from local inhabitants. Could you provide more context or specify the story or setting you are thinking about?
+[CORRECT_ANSWER]: Captain James Cook and naturalist Sir Joseph Banks
+[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it discusses the difficulty of answering without additional context and suggests that the scenario could be common in various narratives. This does not align with the reference answer, which specifically identifies Captain James Cook and naturalist Sir Joseph Banks. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

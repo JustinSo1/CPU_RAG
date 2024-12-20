@@ -1,0 +1,5 @@
+[PROMPT]: What is the largest living species of penguin?
+[USER_ANSWER]: The largest living species of penguin is the Emperor Penguin (Aptenodytes forsteri). Adult Emperor Penguins can reach heights of up to 120 cm (47 inches) and weigh between 22 to 45 kg (49 to 99 pounds). They are known for their impressive size and their ability to thrive in the harsh conditions of Antarctica.
+[CORRECT_ANSWER]: Emperor Penguin
+[FEEDBACK]: The response correctly identifies the Emperor Penguin as the largest living species of penguin, which matches the reference answer. Additionally, the response provides accurate and factual details about the Emperor Penguin's height, weight, and habitat, which further supports the correctness of the answer. The additional information, while not necessary, does not detract from the accuracy and correctness of the response. Therefore, the response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Where do sea otters live?
+[USER_ANSWER]: Sea otters are primarily found along the coasts of the northern and eastern North Pacific Ocean. Their range extends from northern Japan, along the eastern coast of Russia, down through the Aleutian Islands and Alaska, and southward along the coasts of British Columbia, Washington, Oregon, and California. Specifically, they inhabit coastal areas with kelp forests, rocky shores, and barrier reefs where they find their primary food sources such as sea urchins, mollusks, crustaceans, and fish.
+[CORRECT_ANSWER]: Sea otters (Enhydra lutris) live along the Pacific coast of North America. 
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed description of the sea otters' habitat, including specific geographic locations and types of environments they inhabit. However, it includes more information than the reference answer, which is more concise. The additional details about their habitat and food sources are accurate but not necessary for a perfect score based on the reference answer.
+[RESULT]: 4

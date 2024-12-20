@@ -1,0 +1,5 @@
+[PROMPT]: Who boasted a sizeable community of 100,000 by 1869?
+[USER_ANSWER]: In 1869, Salt Lake City, Utah, boasted a sizeable community of approximately 100,000 people. This rapid growth was largely due to the settlement of members of The Church of Jesus Christ of Latter-day Saints (LDS Church), commonly known as Mormons, who migrated to the area under the leadership of Brigham Young starting in 1847. The city became a central hub for the Mormon community and played a significant role in the westward expansion of the United States during the 19th century.
+[CORRECT_ANSWER]: British India office
+[FEEDBACK]: The response provided is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that the British India office boasted a sizeable community of 100,000 by 1869, whereas the response incorrectly attributes this to Salt Lake City, Utah. The information about the LDS Church and the settlement in Salt Lake City is not relevant to the question asked.
+[RESULT]: 1

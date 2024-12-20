@@ -1,0 +1,11 @@
+[PROMPT]: What religions has Egypt outlawed?
+[USER_ANSWER]: As of my knowledge cutoff date in October 2023, Egypt does not officially outlaw specific religions per se, but it does place significant restrictions on religious practices and organizations, particularly those that fall outside the recognized Abrahamic faiths: Islam, Christianity, and Judaism. 
+
+The Egyptian government recognizes Islam as the state religion, with the majority of the population being Sunni Muslims. The constitution also recognizes Christianity and Judaism and provides for the freedom of religious practice for these groups. However, other religious groups, such as Baha'is, Jehovah's Witnesses, and atheists, face significant legal and societal challenges. They may encounter difficulties in practicing their faith openly, obtaining official recognition, or securing legal documentation such as identification cards that reflect their religious beliefs.
+
+In practice, religious minorities in Egypt often face discrimination and restrictions, and there have been instances of persecution and violence. This can include difficulties in building or repairing places of worship, limitations on religious expressions, and pressure to conform to the dominant religious norms.
+
+For the most accurate and up-to-date information, it is recommended to consult recent reports from human rights organizations or official government statements.
+[CORRECT_ANSWER]: All but Christianity, Islam, and Judaism
+[FEEDBACK]: The response provides a detailed explanation of the religious landscape in Egypt, including the recognition of Islam, Christianity, and Judaism, and the challenges faced by other religious groups. However, it does not directly answer the question of which religions have been outlawed. The reference answer clearly states that all but Christianity, Islam, and Judaism are outlawed, while the response suggests that other religions face significant restrictions and challenges but stops short of saying they are outlawed. Therefore, the response is somewhat correct and accurate but not fully aligned with the reference answer.
+[RESULT]: 3

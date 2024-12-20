@@ -1,0 +1,5 @@
+[PROMPT]: Are polar bears excellent swimmers?
+[USER_ANSWER]: Yes, polar bears are indeed excellent swimmers. They are well-adapted to their Arctic environment, where swimming is often necessary to travel between ice floes or to hunt for seals, which are their primary food source. Polar bears have large, powerful front paws that they use to paddle through the water, while their back legs act as rudders. They are capable of swimming long distances; some polar bears have been recorded swimming for several days and covering distances of up to 60 miles (97 kilometers) or more without resting. Their thick layer of blubber not only insulates them against the cold water but also provides buoyancy, making them highly efficient swimmers.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the swimming abilities of polar bears, including their adaptations, swimming techniques, and endurance. This level of detail goes beyond the simplicity of the reference answer but remains entirely factual and relevant to the question.
+[RESULT]: 5

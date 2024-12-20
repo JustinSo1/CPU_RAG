@@ -1,0 +1,5 @@
+[PROMPT]: Do beetles antennae function primarily as organs of smell?
+[USER_ANSWER]: Yes, beetles' antennae primarily function as organs of smell. They are equipped with sensory receptors that can detect various chemical cues in the environment, such as pheromones, food sources, and other important signals. These chemosensory abilities help beetles locate mates, find food, and navigate their surroundings. In addition to their role in olfaction, beetle antennae can also serve other sensory functions, such as touch and detecting air currents.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that beetles' antennae primarily function as organs of smell and provides additional relevant information about the sensory receptors and their roles in detecting chemical cues. However, the reference answer is very concise, and the additional details, while accurate, are not necessary to meet the criteria of the instruction. The response could be seen as over-explaining beyond the simplicity of the reference answer.
+[RESULT]: 4

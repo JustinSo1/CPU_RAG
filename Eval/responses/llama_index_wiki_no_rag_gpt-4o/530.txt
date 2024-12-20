@@ -1,0 +1,5 @@
+[PROMPT]: What countries border Liechtenstein?
+[USER_ANSWER]: Liechtenstein is a small, landlocked country in Central Europe. It is bordered by two countries: Switzerland to the west and south, and Austria to the east and north.
+[CORRECT_ANSWER]: Switzerland and Austria.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the two countries that border Liechtenstein: Switzerland and Austria. However, it includes additional information about the geographical location of Liechtenstein and the specific directions of the borders, which, while accurate, is not necessary for the answer. The extra details do not detract from the correctness of the response but are not required based on the reference answer.
+[RESULT]: 4

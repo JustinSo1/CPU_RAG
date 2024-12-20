@@ -1,0 +1,19 @@
+[PROMPT]: Did Singapore's standard of living decrease since independence?
+[USER_ANSWER]: No, Singapore's standard of living has significantly increased since its independence in 1965. Over the past few decades, the country has undergone rapid economic development and transformation, evolving from a low-income nation to one of the world's most prosperous and developed economies.
+
+Key indicators of improved living standards in Singapore include:
+
+1. **Economic Growth**: Singapore has experienced robust economic growth, with a high GDP per capita, ranking among the highest in the world.
+
+2. **Infrastructure Development**: The nation has invested heavily in infrastructure, including modern transportation systems, public housing, and healthcare facilities.
+
+3. **Education**: Singapore has a highly developed education system, consistently ranking at the top in global education rankings.
+
+4. **Healthcare**: The country boasts a high-quality healthcare system, with significant improvements in life expectancy and overall health outcomes.
+
+5. **Quality of Life**: Singaporeans enjoy high living standards, with access to a wide range of services and amenities that contribute to a high quality of life.
+
+Overall, Singapore has made remarkable progress since its independence, making it one of the most developed and livable cities in the world.
+[CORRECT_ANSWER]: No, the standard living was raised.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation of how Singapore's standard of living has improved since independence, supported by key indicators such as economic growth, infrastructure development, education, healthcare, and quality of life. This aligns well with the reference answer, which simply states that the standard of living was raised. The response goes above and beyond by providing comprehensive details that substantiate the claim.
+[RESULT]: 5

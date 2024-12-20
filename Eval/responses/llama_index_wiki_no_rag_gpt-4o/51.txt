@@ -1,0 +1,5 @@
+[PROMPT]: Is the Celsius crater on the Moon named after him ?
+[USER_ANSWER]: Yes, the Celsius crater on the Moon is indeed named after Anders Celsius, the Swedish astronomer, physicist, and mathematician who is best known for the Celsius temperature scale. The International Astronomical Union (IAU) is responsible for naming lunar craters, and many of them are named in honor of prominent scientists and contributors to the field of astronomy.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that the Celsius crater on the Moon is named after Anders Celsius and provides additional information about the International Astronomical Union (IAU) and the naming of lunar craters. However, the reference answer is simply "Yes," which is concise and directly answers the question. The additional information, while accurate, is not necessary to meet the criteria of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: When do wolves molt?
+[USER_ANSWER]: Wolves typically molt once a year, usually in the spring. The molting process, also known as shedding, involves the replacement of their winter coat with a thinner summer coat. This helps them adapt to the warmer temperatures. The process usually starts around late March or April and can continue through early summer. The timing and duration of molting can vary depending on the specific climate and geographic location of the wolf population.
+[CORRECT_ANSWER]: Late Spring or Early Summer
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the molting process of wolves, including the timing and reasons for molting. However, it slightly deviates from the reference answer by specifying a broader time frame (late March or April through early summer) rather than just "late spring or early summer." This additional detail, while informative, introduces a slight discrepancy in the timing mentioned.
+[RESULT]: 4

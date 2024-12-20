@@ -1,0 +1,5 @@
+[PROMPT]: Was James Monroe President of the United States?
+[USER_ANSWER]: Yes, James Monroe was the fifth President of the United States. He served two terms from 1817 to 1825. Monroe is perhaps best known for the Monroe Doctrine, a key foreign policy statement that opposed European colonialism in the Americas.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional relevant information about James Monroe's presidency, including his terms in office and the Monroe Doctrine, which enhances the answer without deviating from the truth.
+[RESULT]: 5

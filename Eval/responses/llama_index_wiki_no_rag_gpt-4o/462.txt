@@ -1,0 +1,5 @@
+[PROMPT]: Is a Kangaroo a Marsupial?
+[USER_ANSWER]: Yes, a kangaroo is a marsupial. Marsupials are a group of mammals characterized by giving birth to relatively undeveloped young, which typically complete their development in a pouch on the mother's belly. Kangaroos, native to Australia, are one of the most well-known examples of marsupials.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It not only confirms that a kangaroo is a marsupial but also provides additional information about marsupials and kangaroos, which is accurate and relevant. However, the reference answer is very brief, and the response goes beyond the simplicity of the reference answer. Despite this, the response is factually accurate and correct.
+[RESULT]: 5

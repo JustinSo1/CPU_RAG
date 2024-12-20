@@ -1,0 +1,7 @@
+[PROMPT]: How many people use the bus network daily?
+[USER_ANSWER]: The number of people using a bus network daily can vary significantly depending on the city or region in question. In large metropolitan areas, it can range from tens of thousands to several million passengers per day. For instance, in cities like New York or London, millions of people might use the bus network daily, while in smaller cities, the numbers could be in the thousands.
+
+If you are looking for specific data regarding a particular city's bus network, it would be best to consult the latest reports or statistics from the local transportation authority or government sources.
+[CORRECT_ANSWER]: More than 2.78 million people.
+[FEEDBACK]: The response provides a general overview of bus network usage, mentioning that the number of daily users can vary significantly depending on the city or region. While this information is accurate, it does not directly answer the question with a specific number, as the reference answer does. The reference answer provides a precise figure of more than 2.78 million people, which the evaluated response lacks. Therefore, the response is somewhat correct and factual but does not meet the specificity required by the reference answer.
+[RESULT]: 3

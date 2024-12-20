@@ -1,0 +1,5 @@
+[PROMPT]: What field did Woodrow Wilson leave law practice to study?
+[USER_ANSWER]: Woodrow Wilson left his law practice to study political science and history. He pursued an academic career, ultimately becoming a professor and later the president of Princeton University before entering politics and eventually becoming the 28th President of the United States.
+[CORRECT_ANSWER]: history and political science
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Woodrow Wilson left his law practice to study political science and history, which aligns with the reference answer. However, the additional information about his academic career and presidency, while accurate, is not necessary for the specific question asked. This extra detail does not detract from the correctness of the main answer but is not required for full marks based on the rubric.
+[RESULT]: 4

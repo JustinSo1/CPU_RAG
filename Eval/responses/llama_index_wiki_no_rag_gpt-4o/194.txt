@@ -1,0 +1,5 @@
+[PROMPT]: Are elephants good swimmers?
+[USER_ANSWER]: Yes, elephants are indeed good swimmers. They are known to be capable of swimming long distances and can swim for several hours at a time. When swimming, elephants use their trunk as a snorkel to breathe while their bodies are submerged. Despite their large size, they can move efficiently in the water and are buoyant enough to float. Swimming helps them cool down, play, and in some cases, travel across rivers and lakes in search of food or new habitats.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about elephants' swimming abilities, including their capability to swim long distances, use their trunks as snorkels, and the benefits of swimming for them. This aligns with the reference answer, which simply states "yes," indicating that elephants are good swimmers. The response goes beyond the reference answer by providing additional relevant details, but it remains entirely accurate and factual.
+[RESULT]: 5

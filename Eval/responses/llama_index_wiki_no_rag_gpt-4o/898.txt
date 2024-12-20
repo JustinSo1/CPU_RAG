@@ -1,0 +1,5 @@
+[PROMPT]: What was more damaging than moving students into colleges?
+[USER_ANSWER]: The context of your question is unclear. Could you please provide more details or specify the situation you're referring to? This will help me give a more accurate and relevant response.
+[CORRECT_ANSWER]: His confrontation with Andrew Fleming West
+[FEEDBACK]: The response does not address the question directly and does not provide any factual information related to the reference answer. Instead, it asks for more context, which indicates a lack of understanding or knowledge about the specific situation mentioned in the question. Therefore, it is completely incorrect and inaccurate based on the reference answer provided.
+[RESULT]: 1

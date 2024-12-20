@@ -1,0 +1,17 @@
+[PROMPT]: Is a beetle's general anatomy uniform?
+[USER_ANSWER]: While there is a general anatomical structure that most beetles share, there is considerable variation among the different species. Generally, beetles have the following common anatomical features:
+
+1. **Exoskeleton**: Beetles have a hard, protective outer shell made of chitin.
+2. **Body Segmentation**: Their bodies are segmented into three main parts - head, thorax, and abdomen.
+3. **Head**: The head typically includes compound eyes, antennae, and mouthparts.
+4. **Mouthparts**: Beetles have mandibles for chewing, though the exact structure and function of the mouthparts can vary widely among species.
+5. **Antennae**: These sensory organs can vary in shape and size, playing roles in detecting chemicals, vibrations, or even air currents.
+6. **Thorax**: The thorax is divided into three segments, each bearing a pair of legs. The first segment, the prothorax, also often has a hardened plate called the pronotum.
+7. **Legs**: Beetles generally have six legs, adapted for various functions depending on the species, such as running, digging, or swimming.
+8. **Wings**: Most beetles have two pairs of wings. The front pair, called elytra, are typically hard and serve to protect the hind wings and abdomen. The hind wings are usually membranous and used for flight.
+9. **Abdomen**: The abdomen contains the digestive and reproductive organs and is segmented.
+
+Despite these common features, beetle species exhibit a wide range of adaptations that suit their diverse lifestyles and habitats. For example, the shape and size of the elytra, the structure of the legs, and the form of the antennae can vary greatly. This diversity allows beetles to occupy a vast array of ecological niches.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed and accurate description of the general anatomical structure of beetles, highlighting common features such as the exoskeleton, body segmentation, head, mouthparts, antennae, thorax, legs, wings, and abdomen. However, the reference answer is a simple "Yes," indicating that the expected response should be concise and directly affirm the uniformity of beetle anatomy. While the detailed explanation is informative, it does not align with the simplicity and directness of the reference answer. Therefore, the response is somewhat correct but not fully aligned with the reference answer's expectation.
+[RESULT]: 3

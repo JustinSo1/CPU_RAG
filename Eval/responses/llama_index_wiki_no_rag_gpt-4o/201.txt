@@ -1,0 +1,5 @@
+[PROMPT]: Are elephant populations in West Africa generally small and fragmented?
+[USER_ANSWER]: Yes, elephant populations in West Africa are generally small and fragmented. Habitat loss, human-wildlife conflict, and poaching have significantly reduced their numbers and led to the isolation of many elephant groups. These fragmented populations face challenges such as reduced genetic diversity and increased vulnerability to environmental changes and human activities. Conservation efforts are ongoing to protect and reconnect these populations, but significant challenges remain.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation of why elephant populations in West Africa are small and fragmented, mentioning habitat loss, human-wildlife conflict, and poaching. It also discusses the consequences of fragmentation and the ongoing conservation efforts. This level of detail goes beyond the simplicity of the reference answer but remains entirely accurate and factual.
+[RESULT]: 5

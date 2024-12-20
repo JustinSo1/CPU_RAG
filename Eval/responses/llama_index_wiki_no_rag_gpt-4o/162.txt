@@ -1,0 +1,17 @@
+[PROMPT]: What does the word duck mean?
+[USER_ANSWER]: The word "duck" can have multiple meanings depending on the context:
+
+1. **Bird**: A waterfowl belonging to the family Anatidae, known for their broad, flat bills, webbed feet, and ability to swim. Ducks are often found in freshwater and marine environments.
+
+2. **Verb (to lower the head or body quickly)**: To quickly lower the head or body, typically to avoid being seen or hit. For example, "He had to duck to avoid the low-hanging branch."
+
+3. **Cricket**: In the sport of cricket, "duck" refers to a batsman getting out without scoring any runs. The term "golden duck" is used when the batsman gets out on the very first ball they face.
+
+4. **Avoidance**: Colloquially, it can mean to avoid or evade a responsibility or a difficult situation. For example, "She tried to duck out of the meeting."
+
+5. **Endearment**: In some dialects, particularly in parts of England, "duck" is used as a term of endearment or affection, similar to "dear" or "honey."
+
+These are some of the primary meanings of the word "duck." The intended meaning usually becomes clear from the context in which the word is used.
+[CORRECT_ANSWER]: It is the common name for a number of species in the Anatidae family of birds.
+[FEEDBACK]: The response provides a detailed and accurate explanation of the multiple meanings of the word "duck," including its use as a noun and verb, as well as its specific meanings in cricket, colloquial avoidance, and as a term of endearment. While the reference answer focuses solely on the bird definition, the response expands on this by including additional meanings, all of which are correct and factual. However, the reference answer is very specific and concise, focusing only on the bird definition, which is not fully aligned with the broader scope of the response. Therefore, while the response is accurate and factual, it does not strictly adhere to the narrow focus of the reference answer.
+[RESULT]: 4

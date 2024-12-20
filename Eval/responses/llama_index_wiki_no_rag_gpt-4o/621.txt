@@ -1,0 +1,5 @@
+[PROMPT]: Do penguins live almost exclusively in the Southern Hemisphere?
+[USER_ANSWER]: Yes, penguins live almost exclusively in the Southern Hemisphere. They are primarily found in Antarctica, but they also inhabit other regions such as parts of South America, Africa, Australia, and New Zealand. The Galápagos penguin is an exception, as it lives near the equator on the Galápagos Islands.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that penguins live almost exclusively in the Southern Hemisphere and provides additional information about their habitats, including the exception of the Galápagos penguin. This additional detail does not detract from the accuracy of the response.
+[RESULT]: 5

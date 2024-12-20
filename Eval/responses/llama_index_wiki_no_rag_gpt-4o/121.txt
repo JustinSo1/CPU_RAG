@@ -1,0 +1,21 @@
+[PROMPT]: How has Canada helped UN peacekeeping efforts?
+[USER_ANSWER]: Canada has a long history of contributing to United Nations (UN) peacekeeping efforts. Over the years, Canada has supported UN peacekeeping missions in various ways, including providing military personnel, police officers, funding, training, and logistical support. Here are some of the key contributions:
+
+1. **Military Personnel and Police**: Canada has deployed thousands of military personnel and police officers to participate in various UN peacekeeping missions around the world. These deployments have helped to stabilize conflict zones, protect civilians, and support the implementation of peace agreements.
+
+2. **Funding**: Canada contributes financially to the UN's peacekeeping budget. This funding helps to sustain the operations and logistics of peacekeeping missions, ensuring that they have the resources needed to carry out their mandates.
+
+3. **Training and Capacity Building**: Canada has provided training programs for peacekeepers from other countries, helping to enhance their skills and capabilities. This includes training in areas such as conflict resolution, human rights, and the protection of civilian populations.
+
+4. **Logistical and Technical Support**: Canada has offered logistical and technical assistance to peacekeeping missions, including providing equipment, transportation, and other essential resources. This support helps to improve the effectiveness and efficiency of peacekeeping operations.
+
+5. **Advocacy and Diplomacy**: Canada has been an advocate for the principles of peacekeeping and has worked diplomatically to support UN efforts to maintain international peace and security. This includes participating in discussions and negotiations at the UN to strengthen the peacekeeping system.
+
+6. **Specialized Contributions**: In recent years, Canada has focused on providing specialized contributions to peacekeeping missions, such as medical units, engineering support, and expertise in areas like gender equality and the protection of children in conflict zones.
+
+Historically, Canada has been a key player in the development of UN peacekeeping. Lester B. Pearson, a Canadian diplomat and future Prime Minister, is often credited with conceptualizing modern peacekeeping and was awarded the Nobel Peace Prize in 1957 for his efforts to resolve the Suez Crisis through the establishment of the first large-scale UN peacekeeping force.
+
+While Canada's direct involvement in peacekeeping has fluctuated over the years, the country continues to support and promote the importance of UN peacekeeping as a tool for maintaining global peace and security.
+[CORRECT_ANSWER]: During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989
+[FEEDBACK]: The response provides a detailed and accurate account of Canada's contributions to UN peacekeeping efforts, including military personnel, funding, training, logistical support, advocacy, and specialized contributions. It also mentions Lester B. Pearson's role in conceptualizing modern peacekeeping. However, it does not specifically mention the Suez Crisis of 1956 or the fact that Canada served in every UN peacekeeping effort until 1989, which are key points in the reference answer. While the response is mostly correct and factual, it lacks some specific details provided in the reference answer.
+[RESULT]: 4

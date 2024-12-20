@@ -1,0 +1,5 @@
+[PROMPT]: Is the leopard of the Felidae family?
+[USER_ANSWER]: Yes, the leopard (Panthera pardus) is a member of the Felidae family, which is also known as the cat family. This family includes other big cats such as lions, tigers, and jaguars, as well as smaller cats like the domestic cat.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that the leopard is a member of the Felidae family and provides additional relevant information about other members of the family, which enhances the response without deviating from the main question.
+[RESULT]: 5

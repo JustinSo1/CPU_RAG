@@ -1,0 +1,5 @@
+[PROMPT]: Are beetles endopterygotes with complete metamorphosis?
+[USER_ANSWER]: Yes, beetles are endopterygotes and they undergo complete metamorphosis. Endopterygota is a classification of insects that experience complete metamorphosis, which involves four distinct life stages: egg, larva, pupa, and adult. Beetles (order Coleoptera) follow this developmental process, transforming from larvae into pupae and then emerging as fully developed adults.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that beetles are endopterygotes and undergo complete metamorphosis, providing additional details about the classification and the stages of metamorphosis. This extra information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

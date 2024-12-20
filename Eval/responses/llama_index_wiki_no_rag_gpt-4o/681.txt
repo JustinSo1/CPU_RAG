@@ -1,0 +1,5 @@
+[PROMPT]: Are Cubs born in December without awakening the mother ?
+[USER_ANSWER]: Yes, bear cubs, such as those of polar bears and brown bears, can be born during the winter months while the mother is in a state of hibernation or torpor. These mothers experience a lighter state of hibernation that allows them to give birth and care for their cubs without fully awakening. During this period, the mother remains in the den, providing warmth and nourishment to the newborns until they are strong enough to leave the den in the spring.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the birth of bear cubs during the winter months while the mother is in a state of hibernation or torpor. However, the reference answer is a simple "yes," which directly addresses the question without additional details. The response goes beyond the simplicity of the reference answer, but it does not contain any incorrect information. Therefore, it is mostly correct and accurate but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Was Monroe appointed Minister to France from 1794 to 1796?
+[USER_ANSWER]: Yes, James Monroe was appointed as the United States Minister to France from 1794 to 1796. He was sent to France by President George Washington to help maintain diplomatic relations during a turbulent period marked by the French Revolution. Monroe's tenure in France was significant, though it was cut short when he was recalled in 1796 due to disagreements with Washington's administration over foreign policy.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that James Monroe was appointed as the United States Minister to France from 1794 to 1796, which aligns with the reference answer. Additionally, it provides relevant context about Monroe's mission and the circumstances of his recall, which, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Did John Adams go to Harvard? 
+[USER_ANSWER]: Yes, John Adams did attend Harvard. He graduated from Harvard College in 1755. Adams, who would later become the second President of the United States, received an excellent education there and went on to become an influential lawyer, statesman, and one of the Founding Fathers of the United States.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that John Adams attended Harvard and provides additional relevant information about his graduation year and subsequent achievements. However, the reference answer is very brief, and the response, while accurate, goes beyond the simplicity of the reference answer. Nonetheless, the additional details do not detract from the correctness of the response.
+[RESULT]: 5

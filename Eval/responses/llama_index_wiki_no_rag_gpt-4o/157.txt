@@ -1,0 +1,5 @@
+[PROMPT]: Do ducks forage underwater?
+[USER_ANSWER]: Yes, many species of ducks do forage underwater. These ducks are known as diving ducks. They dive beneath the surface to search for food such as aquatic plants, small fish, insects, and crustaceans. Examples of diving ducks include the Canvasback, Redhead, and Scaup. In contrast, dabbling ducks typically feed on the surface of the water or tip their bodies to reach underwater vegetation. Examples of dabbling ducks include the Mallard and the Northern Pintail.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the foraging behavior of ducks, distinguishing between diving ducks and dabbling ducks, and gives examples of each. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

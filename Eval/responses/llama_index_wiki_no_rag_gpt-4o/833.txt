@@ -1,0 +1,5 @@
+[PROMPT]: Who was Grant's brother in law?
+[USER_ANSWER]: Ulysses S. Grant's brother-in-law was Abel Rathbone Corbin. Corbin was married to Grant's sister, Virginia Grant, making him Grant's brother-in-law. Abel Corbin was a financier and was notably involved in the Black Friday gold market scandal of 1869.
+[CORRECT_ANSWER]: Fred Dent
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct answer is Fred Dent, but the response incorrectly identifies Abel Rathbone Corbin as Ulysses S. Grant's brother-in-law. This shows a lack of accuracy and factual correctness based on the reference answer.
+[RESULT]: 1

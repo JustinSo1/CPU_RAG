@@ -1,0 +1,5 @@
+[PROMPT]: Who was Roosevelt's presidential hero?
+[USER_ANSWER]: Franklin D. Roosevelt often cited Theodore Roosevelt, his distant cousin, as one of his heroes. Theodore Roosevelt, the 26th President of the United States, was known for his progressive policies, strong leadership, and efforts to promote social and economic reforms. Franklin D. Roosevelt admired Theodore's vigorous approach to the presidency and his commitment to addressing the issues of his time.
+[CORRECT_ANSWER]: Lincoln was Roosevelt's presidential hero.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer states that Lincoln was Roosevelt's presidential hero, while the response incorrectly identifies Theodore Roosevelt as the hero. Although the information about Theodore Roosevelt is accurate, it does not address the correct answer to the question.
+[RESULT]: 2

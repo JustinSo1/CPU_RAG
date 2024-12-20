@@ -1,0 +1,5 @@
+[PROMPT]: What is the life expectancy for men?
+[USER_ANSWER]: The life expectancy for men varies significantly depending on the country and region due to factors such as healthcare quality, lifestyle, economic conditions, and public health policies. As of the latest global data, the average life expectancy for men worldwide is approximately 70-75 years. However, it's important to consult specific and up-to-date sources for the most accurate information for a particular country or region. National health departments, the World Health Organization (WHO), and other reputable health organizations provide detailed and current statistics on life expectancy.
+[CORRECT_ANSWER]: 75 years
+[FEEDBACK]: The response provides a detailed explanation about the factors affecting life expectancy for men and mentions a global average range of 70-75 years. While this information is mostly accurate, it does not directly state the specific figure of 75 years as given in the reference answer. The response is mostly correct and factual but lacks the precision of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Does it have a border with Norway?
+[USER_ANSWER]: Could you please specify which country or region you are asking about? That would help me provide you with accurate information regarding its borders with Norway.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response does not directly answer the question about whether a border exists with Norway. Instead, it asks for clarification, which means it does not provide any factual information regarding the border with Norway. Therefore, it is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

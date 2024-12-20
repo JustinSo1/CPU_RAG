@@ -1,0 +1,55 @@
+[PROMPT]: What are prey of various animals including birds and mammals?
+[USER_ANSWER]: Different animals, including birds and mammals, have varied diets depending on their ecological niches and hunting capabilities. Here are some examples:
+
+### Birds
+1. **Hawks and Eagles:**
+   - Prey: Small mammals (like mice, rabbits), birds, reptiles, and fish.
+   
+2. **Owls:**
+   - Prey: Rodents (like rats and voles), insects, small birds, and sometimes fish.
+   
+3. **Herons and Egrets:**
+   - Prey: Fish, amphibians, crustaceans, and small mammals.
+   
+4. **Peregrine Falcons:**
+   - Prey: Primarily birds (pigeons, doves, and songbirds).
+
+5. **Crows and Ravens:**
+   - Prey: Insects, small mammals, eggs, carrion, and other birds.
+
+### Mammals
+1. **Lions:**
+   - Prey: Large ungulates (like zebras, buffaloes, and antelopes).
+   
+2. **Wolves:**
+   - Prey: Large mammals (like deer, elk, moose), smaller mammals (rabbits, hares), and occasionally birds.
+   
+3. **Foxes:**
+   - Prey: Small mammals (like rodents and rabbits), birds, insects, and fruits.
+   
+4. **Bears:**
+   - Prey: Varied diet including fish (like salmon), mammals (deer, moose), insects, fruits, and plants.
+   
+5. **Tigers:**
+   - Prey: Large mammals (like deer, wild boar, buffalo), and smaller mammals.
+
+6. **Domestic Cats:**
+   - Prey: Small mammals (like mice and rats), birds, and insects.
+
+7. **Bats:**
+   - Prey: Insects (many species are insectivorous), some fruit bats consume fruits and nectar, and vampire bats feed on blood.
+
+8. **Dolphins:**
+   - Prey: Fish, squid, and crustaceans.
+
+9. **Shrews:**
+   - Prey: Insects, earthworms, small amphibians, and other invertebrates.
+
+### General Notes
+- **Omnivorous mammals** like raccoons, bears (some species like brown and black bears), and humans have a mixed diet that includes both animal prey and plant matter.
+- **Piscivorous animals** (fish-eating) include not only birds like kingfishers and ospreys but also mammals like seals and otters.
+
+These examples represent the diversity of predatory habits among different species, showcasing the complexity of food webs in various ecosystems.
+[CORRECT_ANSWER]: Beetles.
+[FEEDBACK]: The response provided is detailed and accurate in listing the prey of various birds and mammals. However, it does not align with the reference answer, which is simply "Beetles." The response goes beyond the scope of the reference answer and includes a wide range of prey for different animals, which, while informative, does not match the expected simplicity and specificity of the reference answer. Therefore, it cannot be considered completely correct based on the given rubric.
+[RESULT]: 1

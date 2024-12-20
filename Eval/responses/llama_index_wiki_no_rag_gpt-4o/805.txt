@@ -1,0 +1,5 @@
+[PROMPT]: Name a turtle popularly kept as a pet.
+[USER_ANSWER]: A turtle that is popularly kept as a pet is the Red-Eared Slider. This species is known for the distinctive red markings around its ears and is relatively easy to care for, making it a common choice among turtle enthusiasts.
+[CORRECT_ANSWER]: Russian Tortoises
+[FEEDBACK]: The response identifies the Red-Eared Slider as a turtle popularly kept as a pet, which is accurate and factual. However, the reference answer specifies the Russian Tortoise. While both are correct answers, the response does not match the reference answer. Therefore, it is mostly correct and factual but not completely aligned with the reference.
+[RESULT]: 4

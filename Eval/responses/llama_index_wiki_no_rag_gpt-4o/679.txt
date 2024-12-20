@@ -1,0 +1,13 @@
+[PROMPT]: Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?
+[USER_ANSWER]: It appears there might be a typo in your question. Did you mean "polar bears" instead of "thumbpolar bears"? If so, here is some information:
+
+Polar bears are indeed well-known and often a subject of both fame and controversy. They are famous for their distinctive white fur, which provides camouflage in their snowy Arctic habitat. This adaptation is crucial for their survival, as it helps them hunt for seals, their primary food source.
+
+The controversy surrounding polar bears mainly stems from issues related to climate change. As Arctic ice melts due to rising global temperatures, polar bears are losing their natural habitat, which threatens their survival. Conservationists and scientists have raised concerns about the future of polar bears, making them a symbol of the broader impacts of climate change on the environment.
+
+Efforts to protect polar bears and their habitat are ongoing, but they often clash with economic interests, such as oil and gas exploration in the Arctic. This creates a complex and contentious situation involving environmental, economic, and political considerations.
+
+If you were referring to something other than "polar bears," please provide more context so I can better address your question.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the likely typo in the question and provides detailed information about polar bears, their distinctive white fur, and their habitat. It also accurately discusses the controversy surrounding polar bears due to climate change and the loss of their habitat. However, the reference answer is extremely brief and direct, while the evaluated response is much more detailed. Despite this, the evaluated response is factually accurate and addresses the question comprehensively.
+[RESULT]: 4

@@ -1,0 +1,5 @@
+[PROMPT]: Was Thedore Roosevelt  a member of the Republican Party?
+[USER_ANSWER]: Yes, Theodore Roosevelt was a member of the Republican Party for most of his political career. He served as the 26th President of the United States from 1901 to 1909. However, in the 1912 presidential election, after failing to secure the Republican nomination, he ran as a third-party candidate for the Progressive Party, also known as the "Bull Moose Party."
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Theodore Roosevelt was a member of the Republican Party for most of his political career and provides additional context about his presidency and his run as a third-party candidate in the 1912 election. However, the reference answer is simply "Yes," which is a more direct and concise response to the question. The additional information, while accurate, is not necessary to answer the question directly.
+[RESULT]: 4

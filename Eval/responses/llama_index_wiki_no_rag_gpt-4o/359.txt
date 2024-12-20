@@ -1,0 +1,12 @@
+[PROMPT]: What are the largest and politically dominant ethnic group?
+[USER_ANSWER]: The largest and politically dominant ethnic group can vary greatly depending on the country or region in question. For instance:
+
+- In China, the Han Chinese are the largest and politically dominant ethnic group.
+- In India, the Indo-Aryan ethnic group is the largest, with significant political influence.
+- In the United States, people of European descent (particularly those of British, Irish, German, and Italian heritage) have historically been the largest and politically dominant group.
+- In Nigeria, the Hausa-Fulani, Yoruba, and Igbo are among the largest and politically influential ethnic groups.
+
+Please specify a country or region for a more precise answer.
+[CORRECT_ANSWER]: the Javanese
+[FEEDBACK]: The response provided is not aligned with the reference answer, which specifies the Javanese as the largest and politically dominant ethnic group. Instead, the response discusses various ethnic groups in different countries, which, while factually accurate in a broader context, does not address the specific question asked. Therefore, the response is mostly incorrect and does not meet the criteria for accuracy based on the reference answer.
+[RESULT]: 2

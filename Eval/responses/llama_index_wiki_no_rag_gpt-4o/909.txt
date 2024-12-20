@@ -1,0 +1,5 @@
+[PROMPT]: What defended slavery, owned slaves and S08_set up a Sunday school for them?
+[USER_ANSWER]: The historical figure you are referring to is likely Robert E. Lee. Robert E. Lee was a Confederate general during the American Civil War who defended the institution of slavery, owned slaves, and is known to have set up a Sunday school for enslaved African Americans. This complex and contradictory legacy is part of the broader historical context of the period.
+[CORRECT_ANSWER]: His father
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates "His father," while the response mentions Robert E. Lee, who is not the correct figure in this context. Therefore, the response does not align with the reference answer and fails to provide the correct information.
+[RESULT]: 1

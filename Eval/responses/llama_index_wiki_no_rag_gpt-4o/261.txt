@@ -1,0 +1,5 @@
+[PROMPT]: What district was Ford elected from?
+[USER_ANSWER]: Gerald Ford was elected to the U.S. House of Representatives from Michigan's 5th congressional district.
+[CORRECT_ANSWER]: Michigan's 5th congressional district
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact district from which Gerald Ford was elected, matching the reference answer precisely.
+[RESULT]: 5

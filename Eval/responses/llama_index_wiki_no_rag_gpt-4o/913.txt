@@ -1,0 +1,25 @@
+[PROMPT]: What lived in Columbia?
+[USER_ANSWER]: Colombia, a country in South America, is home to a diverse range of flora and fauna due to its varied ecosystems, including rainforests, mountains, and coastlines. Here are some key points about the wildlife and indigenous people of Colombia:
+
+### Wildlife
+1. **Birds**: Colombia boasts one of the highest bird diversities in the world, with species such as the Andean condor, the toucan, and various types of parrots.
+2. **Mammals**: The country is home to jaguars, capybaras, sloths, and various species of monkeys, including the howler monkey and the spider monkey.
+3. **Reptiles and Amphibians**: It has a rich variety of reptiles and amphibians, including the poison dart frog and the spectacled caiman.
+4. **Marine Life**: The coastal regions, both on the Pacific and the Atlantic Oceans, host a variety of marine species, including humpback whales, sea turtles, and diverse fish species.
+
+### Indigenous Peoples
+Colombia has a rich cultural heritage with numerous indigenous groups who have historically lived in various regions of the country:
+1. **Wayuu**: Located in the northern part of the country in the La Guajira Desert.
+2. **Kogi**: Inhabit the Sierra Nevada de Santa Marta mountain range.
+3. **Embera**: Found in the western part of Colombia, particularly in the Chocó region.
+4. **Muisca**: Historically inhabited the central highlands of Colombia, including the area of modern-day Bogotá.
+
+These indigenous groups have their own unique languages, traditions, and ways of life that contribute to Colombia's cultural diversity.
+
+### Historical Context
+The history of human habitation in Colombia dates back thousands of years, with evidence of early hunter-gatherer societies. The Spanish colonization in the 16th century significantly impacted the indigenous populations and their cultures.
+
+Overall, Colombia's biodiversity and cultural heritage make it a unique and fascinating country.
+[CORRECT_ANSWER]: Wilson
+[FEEDBACK]: The response provides a detailed and accurate description of the wildlife and indigenous peoples of Colombia, which is factually correct. However, the reference answer "Wilson" suggests a specific, singular answer that the response does not address. The response, while informative, does not align with the reference answer, which implies a specific entity or individual named Wilson. Therefore, the response does not meet the criteria of being correct based on the reference answer.
+[RESULT]: 1

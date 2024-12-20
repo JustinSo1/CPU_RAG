@@ -1,0 +1,5 @@
+[PROMPT]: Are Immature sea turtles not cared for by the adults ?
+[USER_ANSWER]: Yes, that is correct. Immature sea turtles are generally not cared for by adult sea turtles. Once female sea turtles lay their eggs on the beach, they return to the ocean and do not provide any further care. The eggs incubate in the sand, and after hatching, the baby sea turtles (hatchlings) must make their own way to the sea and fend for themselves. This lack of parental care is typical for sea turtles, which leads to a high mortality rate among hatchlings due to predation and other environmental hazards.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation that aligns with the reference answer, elaborating on the lack of parental care in sea turtles and the challenges faced by hatchlings. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

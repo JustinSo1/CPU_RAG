@@ -1,0 +1,5 @@
+[PROMPT]: Was Grant 's favorite brand of bourbon whiskey Old Crow ?
+[USER_ANSWER]: Yes, Ulysses S. Grant, the 18th President of the United States and a prominent Union general during the American Civil War, is often associated with Old Crow bourbon whiskey. It is widely believed that Old Crow was his favorite brand.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional context about Ulysses S. Grant, which is not necessary but does not detract from the accuracy of the answer. The core information that Old Crow was Grant's favorite brand of bourbon whiskey is correctly stated. However, the reference answer is very concise, and the additional details, while accurate, are not required to meet the criteria of the question.
+[RESULT]: 4

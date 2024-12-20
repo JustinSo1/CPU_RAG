@@ -1,0 +1,13 @@
+[PROMPT]: What type of creatures breathe air and don't lay eggs underwater?
+[USER_ANSWER]: Creatures that breathe air and do not lay eggs underwater primarily include mammals, birds, and some reptiles.
+
+1. **Mammals**: Almost all mammals breathe air and give live birth rather than laying eggs. Examples include humans, dogs, cats, whales, and bats. However, there are a few exceptions like the monotremes (platypus and echidna) which lay eggs but do not lay them underwater.
+
+2. **Birds**: Birds breathe air and lay eggs, but they do not lay their eggs underwater. Examples include sparrows, eagles, penguins, and ostriches.
+
+3. **Reptiles**: Many reptiles, such as snakes, lizards, and turtles, breathe air and lay eggs on land or in nests. Some turtles lay their eggs on beaches.
+
+Overall, these groups of animals are adapted to terrestrial or aerial environments, where they breathe air and their reproductive strategies do not involve laying eggs underwater.
+[CORRECT_ANSWER]: Amniotes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies mammals, birds, and some reptiles as creatures that breathe air and do not lay eggs underwater. The detailed examples and explanations provided for each group are accurate. However, the reference answer "Amniotes" is a more precise and encompassing term that includes all these groups. The response does not use this specific term, which is why it is not completely aligned with the reference answer.
+[RESULT]: 4

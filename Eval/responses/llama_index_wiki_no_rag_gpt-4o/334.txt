@@ -1,0 +1,5 @@
+[PROMPT]: Did the team , sedating Cleveland with nitrous oxide -LRB- laughing gas -RRB- , not remove his upper left jaw and portions of his hard palate ?
+[USER_ANSWER]: Yes, the team sedating President Grover Cleveland with nitrous oxide (laughing gas) did indeed perform a significant surgical procedure. They removed a portion of his upper left jaw and part of his hard palate. This surgery took place in 1893 to remove a malignant tumor in his mouth, and the operation was conducted in secret on a yacht to avoid causing public alarm.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that the team did perform a significant surgical procedure on President Grover Cleveland, which involved removing a portion of his upper left jaw and part of his hard palate. However, the additional details about the surgery being conducted in secret on a yacht and the context of removing a malignant tumor, while informative, are not necessary to answer the question directly. The reference answer is a simple "yes," which is completely correct and factual. The response, while accurate, goes beyond what was required.
+[RESULT]: 4

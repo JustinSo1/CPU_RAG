@@ -1,0 +1,11 @@
+[PROMPT]: Can beetles be found in polar regions?
+[USER_ANSWER]: Beetles are one of the most diverse groups of insects and can be found in a wide range of environments around the world. However, their presence in polar regions is limited. The extreme cold temperatures and harsh conditions of the Arctic and Antarctic make these regions challenging habitats for most beetles. 
+
+Despite this, a few species of beetles have adapted to survive in the cold environments of the Arctic. For example, the Arctic beetle *Pterostichus brevicornis* is known to live in the tundra. These beetles have developed specific adaptations that allow them to endure the cold, such as the production of antifreeze proteins that prevent their bodily fluids from freezing.
+
+In contrast, the Antarctic is even more inhospitable to beetles, and no beetle species are known to inhabit the continent itself. The closest one might find is on sub-Antarctic islands, where a few hardy insect species have managed to survive.
+
+Overall, while beetles are incredibly adaptable and can be found in many extreme environments, their presence in polar regions is notably sparse and limited to only a few specialized species.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response provides a detailed and accurate explanation about the presence of beetles in polar regions. It correctly states that beetles are generally not found in the harsh conditions of the Arctic and Antarctic, but mentions the exception of a few species in the Arctic, such as *Pterostichus brevicornis*. The response also accurately notes that no beetle species are known to inhabit the Antarctic continent itself. This aligns well with the reference answer, which is a simple "No," but the response provides additional context and detail that is factually correct.
+[RESULT]: 5

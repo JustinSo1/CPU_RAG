@@ -1,0 +1,5 @@
+[PROMPT]: Are there many Roma in Romania?
+[USER_ANSWER]: Yes, Romania has a significant Roma population. Estimates of the Roma population in Romania vary widely, but it is generally accepted that there are hundreds of thousands to over a million Roma living in the country. The Roma community in Romania is one of the largest in Europe and faces various social and economic challenges, including issues related to discrimination, poverty, and access to education and healthcare.
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response provided is factually accurate and provides detailed information about the Roma population in Romania. However, it does not align with the reference answer, which is a simple "No." According to the score rubric, the response is mostly incorrect because it contradicts the reference answer.
+[RESULT]: 2

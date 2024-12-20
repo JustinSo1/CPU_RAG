@@ -1,0 +1,5 @@
+[PROMPT]: Where did a suicide-bombing kill a teacher in 2005?
+[USER_ANSWER]: In 2005, a suicide bombing that resulted in the death of a teacher occurred in the Israeli city of Netanya. On July 12, 2005, a Palestinian suicide bomber detonated explosives at the entrance of the Hasharon Mall, killing five people, including a teacher, and injuring many others. The attack was part of the ongoing Israeli-Palestinian conflict.
+[CORRECT_ANSWER]: At the Doha Players Theatre.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that the suicide bombing that killed a teacher in 2005 occurred at the Doha Players Theatre, while the response incorrectly states that it happened in the Israeli city of Netanya at the Hasharon Mall. The details provided in the response do not match the reference answer at all.
+[RESULT]: 1

@@ -1,0 +1,5 @@
+[PROMPT]: Where is Uruguay's oldest church?
+[USER_ANSWER]: Uruguay's oldest church is the Iglesia de San Carlos Borromeo, commonly known as the Cathedral of San José de Mayo. It is located in the city of San José de Mayo, which is the capital of the San José Department. The construction of the church began in 1857 and was completed in 1874, making it the oldest standing church in Uruguay. The cathedral is an important historical and architectural landmark in the country.
+[CORRECT_ANSWER]: San Carlos, Maldonado.
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer indicates that Uruguay's oldest church is in San Carlos, Maldonado, while the response incorrectly identifies it as the Iglesia de San Carlos Borromeo in San José de Mayo. The details provided about the construction and significance of the church in San José de Mayo are not relevant to the correct answer.
+[RESULT]: 2

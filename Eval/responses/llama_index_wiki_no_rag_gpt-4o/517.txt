@@ -1,0 +1,5 @@
+[PROMPT]: Was Liechtenstein part of the ancient Roman province of Raetia?
+[USER_ANSWER]: Yes, the area that is now Liechtenstein was indeed part of the ancient Roman province of Raetia. The Romans conquered the region in the 1st century BC and integrated it into the province of Raetia, which covered parts of present-day Switzerland, Austria, Germany, and Italy. Roman influence persisted in the area until the decline of the Roman Empire in the 5th century AD.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional context about the Roman conquest and the extent of the province of Raetia, which is accurate and enhances the understanding of the historical context. The information about the Roman influence persisting until the decline of the Roman Empire is also correct.
+[RESULT]: 5

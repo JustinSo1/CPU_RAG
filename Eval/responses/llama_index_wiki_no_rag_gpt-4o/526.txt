@@ -1,0 +1,5 @@
+[PROMPT]: Is Liechtenstein doubly landlocked?
+[USER_ANSWER]: Yes, Liechtenstein is one of the only two doubly landlocked countries in the world. A doubly landlocked country is one that is surrounded entirely by other landlocked countries. In the case of Liechtenstein, it is bordered by Switzerland to the west and south and Austria to the east and north. Since both Switzerland and Austria are themselves landlocked, Liechtenstein is considered doubly landlocked. The other doubly landlocked country is Uzbekistan.
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Liechtenstein as one of the only two doubly landlocked countries in the world and provides an accurate explanation of what it means to be doubly landlocked. The response also correctly identifies the countries that border Liechtenstein and mentions the other doubly landlocked country, Uzbekistan. This level of detail, while more than the reference answer, does not detract from its correctness and accuracy.
+[RESULT]: 5

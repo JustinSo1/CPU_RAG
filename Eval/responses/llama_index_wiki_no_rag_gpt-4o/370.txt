@@ -1,0 +1,5 @@
+[PROMPT]: Is it the world 's fourth most populous country and the most populous muslim-majority nation?
+[USER_ANSWER]: Yes, Indonesia is the world's fourth most populous country and the most populous Muslim-majority nation. It has a population of over 270 million people, with the majority of its residents adhering to Islam.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Indonesia as the world's fourth most populous country and the most populous Muslim-majority nation, and it provides additional accurate information about the population size and the predominant religion.
+[RESULT]: 5

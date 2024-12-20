@@ -1,0 +1,5 @@
+[PROMPT]: Was Grant elected president as a Republican?
+[USER_ANSWER]: Yes, Ulysses S. Grant was elected as the 18th President of the United States as a member of the Republican Party. He served two terms from 1869 to 1877.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional context about Ulysses S. Grant's presidency, including his party affiliation, the number of terms he served, and the years of his service. While the reference answer is very brief, the response still aligns perfectly with the question and provides accurate information.
+[RESULT]: 5

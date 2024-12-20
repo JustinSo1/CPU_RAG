@@ -1,0 +1,5 @@
+[PROMPT]: To whom was Millard Fillmore born to?
+[USER_ANSWER]: Millard Fillmore was born to Nathaniel Fillmore Jr. and Phoebe Millard Fillmore.
+[CORRECT_ANSWER]: to Nathaniel and Phoebe Millard Fillmore
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Nathaniel Fillmore Jr. and Phoebe Millard Fillmore as Millard Fillmore's parents. However, the reference answer does not include "Jr." and uses a more concise format. Despite this minor discrepancy, the response is still factually accurate.
+[RESULT]: 4

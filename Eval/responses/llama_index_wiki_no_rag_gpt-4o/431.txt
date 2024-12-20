@@ -1,0 +1,5 @@
+[PROMPT]: Where is Adams buried?
+[USER_ANSWER]: John Adams, the second President of the United States, is buried in the United First Parish Church in Quincy, Massachusetts. He is interred alongside his wife, Abigail Adams, as well as his son, John Quincy Adams, the sixth President of the United States, and his wife, Louisa Catherine Adams. This church is also known as the "Church of the Presidents" due to the burial of these two presidents and their wives.
+[CORRECT_ANSWER]: United First Parish Church
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the United First Parish Church in Quincy, Massachusetts, as the burial site of John Adams. However, it includes additional information about other individuals buried there, which, while accurate, is not necessary for the specific question asked. The extra details do not detract from the correctness of the main answer but are not required to meet the criteria for a perfect score based on the reference answer.
+[RESULT]: 4

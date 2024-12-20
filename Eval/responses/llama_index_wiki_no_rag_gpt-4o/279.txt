@@ -1,0 +1,5 @@
+[PROMPT]: How many regions is Ghana divided into?
+[USER_ANSWER]: As of my last update in 2023, Ghana is divided into 16 administrative regions. These regions were officially increased from 10 to 16 in 2019.
+[CORRECT_ANSWER]: 10
+[FEEDBACK]: The response is completely incorrect based on the reference answer. The reference answer states that Ghana is divided into 10 regions, while the response claims that Ghana is divided into 16 regions. This discrepancy indicates that the response is not accurate or factual according to the provided reference answer.
+[RESULT]: 1

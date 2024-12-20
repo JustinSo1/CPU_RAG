@@ -1,0 +1,5 @@
+,llama_index_wiki_no_rag_gpt-4o.csv
+missing_context,0
+exist_content,918
+average_score,3.844226579520697
+score_map,"{5: 289, 1: 82, 4: 408, 3: 92, 2: 47}"

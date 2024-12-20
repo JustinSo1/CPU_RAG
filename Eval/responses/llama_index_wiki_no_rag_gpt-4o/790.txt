@@ -1,0 +1,13 @@
+[PROMPT]: Did Roosevelt support racial integration in schools?
+[USER_ANSWER]: President Franklin D. Roosevelt's stance on racial integration in schools was complex and evolved over time. During his presidency from 1933 to 1945, Roosevelt did not make significant efforts to push for racial integration in schools. The political and social climate of the United States at that time, especially in the South, made it difficult for any politician to openly support such measures without facing substantial backlash.
+
+Roosevelt relied heavily on the support of Southern Democrats to pass his New Deal legislation, and these Southern Democrats were staunchly opposed to integration and civil rights for African Americans. As a result, Roosevelt often avoided confronting issues of racial segregation directly in order to maintain the political alliances necessary for his broader legislative agenda.
+
+However, Roosevelt did take some steps that indirectly supported the African American community. For example, he appointed African Americans to some key positions within his administration and established the Fair Employment Practices Committee (FEPC) in 1941 to combat racial discrimination in the defense industry.
+
+It was not until after Roosevelt's presidency, during the Civil Rights Movement of the 1950s and 1960s, that significant progress was made toward racial integration in schools, particularly with the landmark Supreme Court decision in Brown v. Board of Education in 1954.
+
+In summary, while Roosevelt did not actively support racial integration in schools during his presidency, he did take some actions that laid the groundwork for future civil rights advancements.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed and nuanced explanation of President Franklin D. Roosevelt's stance on racial integration in schools, highlighting the political and social context of the time. However, the reference answer is a simple "yes," indicating that the expected response should be straightforward and directly address whether Roosevelt supported racial integration in schools. The evaluated response, while informative, does not align with the simplicity and directness of the reference answer. Therefore, it does not fully meet the criteria for being completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 3

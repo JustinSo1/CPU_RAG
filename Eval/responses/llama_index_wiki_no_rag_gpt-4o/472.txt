@@ -1,0 +1,5 @@
+[PROMPT]: Are kangaroos and wallabies adept swimmers?
+[USER_ANSWER]: Yes, both kangaroos and wallabies are capable swimmers. While they are more commonly known for their hopping abilities on land, they can also swim quite well when necessary. They use their powerful hind legs to propel themselves through the water, and their tails help with balance and steering. Swimming can be a useful skill for them to escape predators or to cross rivers and other bodies of water in their natural habitats.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides additional information about the swimming abilities of kangaroos and wallabies, explaining how they use their hind legs and tails to swim. This extra detail, while not necessary, does not detract from the accuracy of the response. The core question about their swimming ability is answered correctly.
+[RESULT]: 5

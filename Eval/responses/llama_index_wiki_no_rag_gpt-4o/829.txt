@@ -1,0 +1,5 @@
+[PROMPT]: Does the Order Testudines not include both extant -LRB- living -RRB- and extinct species , the earliest known turtles being from around 215 million years ago ?
+[USER_ANSWER]: Yes, the Order Testudines, also known as Chelonia, includes both extant (living) and extinct species of turtles. The earliest known turtles date back to around 215 million years ago, during the late Triassic period. This order encompasses all species of turtles, tortoises, and terrapins that have existed throughout history, highlighting a long evolutionary lineage.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that the Order Testudines includes both extant and extinct species and provides additional information about the earliest known turtles dating back to around 215 million years ago. However, the reference answer is simply "yes," indicating that a brief confirmation was sufficient. The additional details, while accurate, were not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct but includes more information than required.
+[RESULT]: 4

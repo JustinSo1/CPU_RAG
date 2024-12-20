@@ -1,0 +1,5 @@
+[PROMPT]: What land animal has the largest brain?
+[USER_ANSWER]: The land animal with the largest brain is the elephant. Elephants have brains that can weigh as much as 5 kilograms (about 11 pounds), making them the largest among land animals. This large brain size is associated with their complex social behaviors, memory, and problem-solving abilities.
+[CORRECT_ANSWER]: elephant
+[FEEDBACK]: The response correctly identifies the elephant as the land animal with the largest brain, which aligns with the reference answer. Additionally, the response provides accurate and factual information about the weight of an elephant's brain and its association with their complex behaviors. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

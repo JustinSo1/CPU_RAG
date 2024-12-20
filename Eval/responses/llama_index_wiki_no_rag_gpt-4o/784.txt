@@ -1,0 +1,5 @@
+[PROMPT]: Did Roosevelt receive a Medal of Honor?
+[USER_ANSWER]: Yes, Theodore Roosevelt was posthumously awarded the Medal of Honor in 2001 for his actions during the Spanish-American War. Roosevelt had led the Rough Riders in the Battle of San Juan Hill in 1898. Although he was recommended for the medal shortly after the war, bureaucratic complications and political considerations delayed the award for over a century. His award was finally approved by President Bill Clinton, making him one of the few individuals to have received both the Medal of Honor and the Nobel Peace Prize.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about Theodore Roosevelt's posthumous Medal of Honor award in 2001 for his actions during the Spanish-American War, including the context of the Battle of San Juan Hill, the delay in awarding the medal, and the approval by President Bill Clinton. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

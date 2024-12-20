@@ -1,0 +1,7 @@
+[PROMPT]: What do turtle eggs preared to eat consist mainly of?
+[USER_ANSWER]: Turtle eggs that are prepared for consumption consist mainly of egg yolk and egg white, similar to bird eggs. The egg yolk is rich in fats, proteins, and various nutrients, while the egg white contains proteins and water. The composition can vary slightly depending on the species of turtle, but generally, turtle eggs are known for their high cholesterol and fat content. 
+
+In some cultures, turtle eggs are considered a delicacy and are cooked in various ways, such as boiling, frying, or even eaten raw. However, it's important to note that the consumption of turtle eggs is illegal in many places due to the endangered status of many turtle species and the conservation efforts to protect them.
+[CORRECT_ANSWER]: Yolk
+[FEEDBACK]: The response provides a detailed explanation of the composition of turtle eggs, mentioning both egg yolk and egg white, and their nutritional content. However, the reference answer specifies only "yolk" as the main component. While the response is mostly accurate and factual, it includes additional information that is not directly aligned with the reference answer. Therefore, it is not completely correct according to the given rubric.
+[RESULT]: 4

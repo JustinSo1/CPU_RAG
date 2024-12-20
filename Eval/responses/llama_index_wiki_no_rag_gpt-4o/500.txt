@@ -1,0 +1,21 @@
+[PROMPT]: How does the distribution size of the leopard compare to the distribution of other wild cats?
+[USER_ANSWER]: Leopards (Panthera pardus) have one of the most extensive distributions of all wild cats. They are found across a wide range of habitats in sub-Saharan Africa, parts of North Africa, the Middle East, Central Asia, the Indian subcontinent, and Southeast Asia. This broad distribution is facilitated by their adaptability to various environments, including savannas, forests, mountains, and even semi-desert areas.
+
+Comparatively, the distribution of other wild cats varies significantly:
+
+1. **Lions (Panthera leo)**: Historically, lions had a wide range across Africa, Europe, and Asia. However, their current distribution is mostly limited to sub-Saharan Africa, with a small population in the Gir Forest of India (Asiatic lions).
+
+2. **Tigers (Panthera tigris)**: Tigers are primarily found in Asia, with their range spanning from India, Southeast Asia, and the Russian Far East. Their habitats include tropical forests, grasslands, and wetlands.
+
+3. **Jaguars (Panthera onca)**: Jaguars are native to the Americas, with their range extending from the southwestern United States to Argentina. They are most commonly found in rainforests, but also inhabit savannas and scrublands.
+
+4. **Cheetahs (Acinonyx jubatus)**: Cheetahs are primarily found in sub-Saharan Africa, with a small population in Iran. They prefer open savannas and grasslands where they can use their speed to hunt.
+
+5. **Snow Leopards (Panthera uncia)**: Snow leopards inhabit the mountainous regions of Central and South Asia, including the Himalayas and the Tibetan Plateau. They are adapted to cold, arid, and rocky environments.
+
+6. **Pumas (Puma concolor)**: Also known as cougars or mountain lions, pumas have a broad range across the Americas, from Canada to the southern tip of South America. They inhabit a variety of environments including forests, mountains, deserts, and swamps.
+
+In summary, leopards have one of the widest distributions among wild cats, spanning multiple continents and diverse habitats. Their broad range is second only to the puma, which also has an extensive distribution across a wide variety of environments in the Americas.
+[CORRECT_ANSWER]: As of 1996, the leopard had the largest distribution of any wild cat, although populations before and since have shown a declining trend and are fragmented outside of subsaharan Africa.
+[FEEDBACK]: The response provides a detailed comparison of the distribution of leopards with other wild cats, which is accurate and factual. It correctly states that leopards have one of the most extensive distributions among wild cats and provides specific details about their habitats and regions. The response also accurately describes the distribution of other wild cats, making it clear that leopards have a broad range. However, it does not mention the specific point from the reference answer about the leopard's distribution being the largest as of 1996 and the trend of declining and fragmented populations outside of sub-Saharan Africa. Despite this, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

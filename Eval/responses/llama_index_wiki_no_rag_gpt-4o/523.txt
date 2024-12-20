@@ -1,0 +1,5 @@
+[PROMPT]: What percentage of Liechtenstein's population is foreign-born?
+[USER_ANSWER]: As of the most recent data, approximately one-third of Liechtenstein’s population is foreign-born. This means that around 33% of the residents in Liechtenstein are immigrants. However, it’s important to note that demographic statistics can change, so for the most current and specific data, consulting the latest reports from Liechtenstein's government or statistical agencies would be necessary.
+[CORRECT_ANSWER]: two-thirds
+[FEEDBACK]: The response states that approximately one-third of Liechtenstein’s population is foreign-born, which is significantly different from the reference answer indicating two-thirds. This discrepancy shows that the response is mostly incorrect and inaccurate. While the response does provide additional context about the variability of demographic statistics, the core factual information is not aligned with the reference answer.
+[RESULT]: 2

@@ -1,0 +1,15 @@
+[PROMPT]: What caused Wilson to ask Congress to declare war on the Central Powers?
+[USER_ANSWER]: President Woodrow Wilson asked Congress to declare war on the Central Powers, specifically Germany, for several reasons that accumulated over time. The primary reasons included:
+
+1. **Unrestricted Submarine Warfare:** Germany's policy of unrestricted submarine warfare led to the sinking of civilian and commercial ships, including those of neutral countries. The most notable incident was the sinking of the British ocean liner RMS Lusitania in 1915, which resulted in the deaths of 1,198 passengers, including 128 Americans.
+
+2. **The Zimmermann Telegram:** In January 1917, British intelligence intercepted and decoded a secret communication from the German Foreign Minister Arthur Zimmermann to Mexico. The telegram proposed a military alliance between Germany and Mexico in the event that the United States entered the war against Germany. In return, Germany promised to support Mexico in reclaiming lost territories of Texas, New Mexico, and Arizona. The publication of the Zimmermann Telegram in March 1917 inflamed American public opinion.
+
+3. **Economic Interests and Allied Ties:** The United States had significant economic investments and extensive trade with the Allied Powers, particularly Great Britain and France. The war threatened these economic interests and the stability of international markets. Additionally, cultural and historical ties with the Allies, especially with Britain, played a role.
+
+4. **Defense of Democracy and International Order:** Wilson and others in the U.S. government framed the war as a struggle to make the world "safe for democracy." Wilson's idealistic vision included the promotion of democratic values and the construction of a new international order based on collective security and self-determination for nations.
+
+On April 2, 1917, Wilson delivered a speech to a joint session of Congress, asking for a declaration of war against Germany. Congress formally declared war on April 6, 1917, thereby bringing the United States into World War I.
+[CORRECT_ANSWER]: German began unrestricted submarine warfare
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of the reasons behind Wilson's decision to ask Congress to declare war on the Central Powers, including unrestricted submarine warfare, the Zimmermann Telegram, economic interests, and the defense of democracy. However, the reference answer focuses solely on unrestricted submarine warfare, which is the primary reason. While the response includes this reason, it also adds additional context that, while accurate, is not mentioned in the reference answer. Therefore, the response is mostly correct but includes more information than necessary based on the reference answer.
+[RESULT]: 4

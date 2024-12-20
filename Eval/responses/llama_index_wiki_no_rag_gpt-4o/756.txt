@@ -1,0 +1,5 @@
+[PROMPT]: Where is the National Orchid Garden?
+[USER_ANSWER]: The National Orchid Garden is located within the Singapore Botanic Gardens in Singapore. It is a major tourist attraction and features a diverse and extensive collection of orchid species and hybrids. The Singapore Botanic Gardens itself is a UNESCO World Heritage Site and offers a range of botanical and horticultural attractions.
+[CORRECT_ANSWER]: Singapore Botanic Gardens.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the location of the National Orchid Garden within the Singapore Botanic Gardens in Singapore. However, it includes additional information about the garden being a major tourist attraction and the Singapore Botanic Gardens being a UNESCO World Heritage Site, which, while accurate, is not necessary to answer the question directly. The reference answer is more concise and directly addresses the question.
+[RESULT]: 4

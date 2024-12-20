@@ -1,0 +1,5 @@
+[PROMPT]: What is the name of a specialized species of duck adapted to catch large fish?
+[USER_ANSWER]: The specialized species of duck adapted to catch large fish is known as the Merganser. There are several species within the Merganser genus, including the Common Merganser (Mergus merganser), Red-breasted Merganser (Mergus serrator), and Hooded Merganser (Lophodytes cucullatus). Mergansers are characterized by their serrated bills, which help them grasp and hold onto slippery fish.
+[CORRECT_ANSWER]: the smew
+[FEEDBACK]: The response identifies the Merganser as a specialized species of duck adapted to catch large fish, which is accurate. However, the reference answer specifies the Smew as the correct species. While Mergansers are indeed fish-eating ducks, the response does not match the reference answer. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

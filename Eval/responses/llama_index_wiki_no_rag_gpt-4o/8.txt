@@ -1,0 +1,7 @@
+[PROMPT]: When did the Gettysburg address argue that America was born?
+[USER_ANSWER]: In the Gettysburg Address, delivered on November 19, 1863, President Abraham Lincoln referred to the founding of the United States by saying, "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal." 
+
+A score is twenty years, so four score and seven years equal 87 years. If you subtract 87 years from 1863, you arrive at the year 1776. This indicates that Lincoln was referring to the year 1776, when the Declaration of Independence was signed and the United States was founded.
+[CORRECT_ANSWER]: 1776
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation of how President Abraham Lincoln referred to the founding of the United States in the Gettysburg Address, including the calculation of "four score and seven years" to arrive at the year 1776. This aligns perfectly with the reference answer.
+[RESULT]: 5

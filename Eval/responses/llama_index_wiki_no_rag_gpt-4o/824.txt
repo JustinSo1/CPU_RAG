@@ -1,0 +1,5 @@
+[PROMPT]: The eggs of the largest species are what?
+[USER_ANSWER]: The eggs of the largest species of bird, the ostrich, are the largest in the world. Ostrich eggs are roughly 6 inches (15 centimeters) long, 5 inches (13 centimeters) wide, and can weigh around 3 pounds (1.4 kilograms). Despite their size, they are relatively small in proportion to the size of the ostrich, which can stand up to 9 feet (2.7 meters) tall and weigh over 300 pounds (136 kilograms).
+[CORRECT_ANSWER]: spherical
+[FEEDBACK]: The response provides detailed information about the size and weight of ostrich eggs, which is accurate and factual. However, it does not directly answer the question about the shape of the eggs, which is "spherical" according to the reference answer. The response is informative but does not address the specific aspect of the question regarding the shape of the eggs. Therefore, it is not aligned with the reference answer.
+[RESULT]: 2

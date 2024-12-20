@@ -1,0 +1,9 @@
+[PROMPT]: Who were the midnight judges?
+[USER_ANSWER]: The "midnight judges" were a group of judges appointed by President John Adams in the final hours of his administration, just before Thomas Jefferson took office. This term is often used to refer to the judges appointed under the Judiciary Act of 1801, which was passed by the outgoing Federalist-dominated Congress and signed into law by Adams. The act reorganized the federal judiciary and allowed Adams to appoint several new circuit judges and justices of the peace.
+
+The nickname "midnight judges" comes from the idea that Adams was signing these appointments late into the night on his last day in office, March 3, 1801. This move was seen as an attempt to maintain Federalist influence in the government, particularly in the judiciary, even as the executive and legislative branches were transitioning to Democratic-Republican control under Jefferson.
+
+One of the most notable midnight judges was William Marbury, whose commission as a justice of the peace led to the landmark Supreme Court case Marbury v. Madison. This case established the principle of judicial review, allowing the Supreme Court to strike down laws it finds unconstitutional.
+[CORRECT_ANSWER]: They were a series of judges, so called because most of them were formally appointed days before Adams' presidential term expired
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides a detailed explanation of who the midnight judges were, including the context of their appointment, the Judiciary Act of 1801, and the significance of the appointments. The response also mentions the notable case of Marbury v. Madison, which is relevant and adds depth to the explanation. This level of detail goes beyond the reference answer but remains entirely accurate and factual.
+[RESULT]: 5

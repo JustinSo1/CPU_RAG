@@ -1,0 +1,5 @@
+[PROMPT]: Is Indonesia the world's largest archipelagic state?
+[USER_ANSWER]: Yes, Indonesia is the world's largest archipelagic state. It consists of over 17,000 islands, of which around 6,000 are inhabited. This vast collection of islands spans across a significant portion of Southeast Asia and the Indian and Pacific Oceans. Indonesia's unique geographical composition makes it the largest country by the number of islands and one of the most diverse in terms of cultures, languages, and ecosystems.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Indonesia is the world's largest archipelagic state and provides additional relevant information about the number of islands, their habitation, and the geographical and cultural diversity of the country. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

@@ -1,0 +1,5 @@
+[PROMPT]: Was Wilson an automobile enthusiast?
+[USER_ANSWER]: Yes, Woodrow Wilson, the 28th President of the United States, was known to be an automobile enthusiast. He was the first sitting president to ride in an automobile to his inauguration in 1913, and he enjoyed driving cars. Wilson even owned a Pierce-Arrow, a luxury vehicle of that era. His interest in automobiles was quite notable for the time, as cars were still relatively new and not yet widely adopted.
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional context about Woodrow Wilson's enthusiasm for automobiles, including specific details such as his ownership of a Pierce-Arrow and his use of an automobile during his inauguration. However, the reference answer is simply "yes," which is completely correct and factual. The response goes beyond the simplicity of the reference answer but remains accurate and factual.
+[RESULT]: 4

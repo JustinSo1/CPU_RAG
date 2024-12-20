@@ -1,0 +1,5 @@
+[PROMPT]: What is the most extensively celebrated holiday?
+[USER_ANSWER]: The most extensively celebrated holiday worldwide is likely New Year's Day. It is observed on January 1st in almost every country around the globe, regardless of cultural, religious, or regional differences. New Year's Day is typically marked by various festivities, including fireworks, parties, and special events, making it a universal celebration that brings people together to welcome the new year.
+[CORRECT_ANSWER]: Christmas
+[FEEDBACK]: The response identifies New Year's Day as the most extensively celebrated holiday, which is not aligned with the reference answer, Christmas. While New Year's Day is indeed widely celebrated, the reference answer specifies Christmas as the correct response. Therefore, the response is mostly incorrect based on the given criteria.
+[RESULT]: 2

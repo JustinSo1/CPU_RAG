@@ -1,0 +1,5 @@
+[PROMPT]: Are adult ducks fast fliers?
+[USER_ANSWER]: Yes, adult ducks are generally considered fast fliers. They are capable of reaching impressive speeds while in flight, often ranging between 40 to 60 miles per hour (64 to 97 kilometers per hour). Some species, such as the Red-breasted Merganser, are known to achieve even higher speeds. Ducks have strong wing muscles and streamlined bodies that contribute to their aerodynamic efficiency, allowing them to cover long distances during migration and evade predators.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the flight speeds of adult ducks, mentioning specific speeds and species, which is accurate. However, the reference answer is very brief and only confirms that adult ducks are fast fliers without additional details. The response goes beyond the simplicity of the reference answer, which is not necessary but still correct and factual.
+[RESULT]: 4

@@ -1,0 +1,13 @@
+[PROMPT]: Does the mother care for the young?
+[USER_ANSWER]: The level of maternal care for the young varies widely among different species. In many mammalian species, the mother plays a crucial role in nurturing and protecting her offspring. For instance, mammals like primates, elephants, and many carnivores exhibit significant maternal care, including feeding, grooming, and teaching survival skills.
+
+In birds, maternal care is also common, with mothers often incubating eggs and feeding chicks after they hatch. However, in some bird species, both parents share these responsibilities.
+
+In contrast, some reptiles and fish exhibit little to no maternal care. For example, many species of turtles lay their eggs and then leave them to hatch and fend for themselves without any parental involvement.
+
+Insects and amphibians also demonstrate a wide range of maternal care behaviors, from none at all to highly involved. For instance, some species of frogs and insects guard their eggs and care for their young, while others do not.
+
+Therefore, whether the mother cares for the young depends greatly on the species in question.
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response provides a detailed explanation of maternal care across various species, which is factually accurate and informative. However, the instruction asks a straightforward question that requires a simple "yes" or "no" answer. The reference answer "No" indicates that the expected response should be concise and directly address whether the mother cares for the young in general terms. The provided response, while accurate, does not align with the simplicity and directness of the reference answer. Therefore, it does not meet the criteria for being completely correct based on the reference answer.
+[RESULT]: 3

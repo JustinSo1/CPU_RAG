@@ -1,0 +1,5 @@
+[PROMPT]: What did Canada adopt in 1965?
+[USER_ANSWER]: In 1965, Canada adopted its current national flag, commonly known as the "Maple Leaf" flag. The flag features a red field with a white square at its center, bearing a red, stylized 11-pointed maple leaf. This design replaced the Red Ensign, which had been used informally as a national flag. The new flag was inaugurated on February 15, 1965, which is now celebrated annually as National Flag of Canada Day.
+[CORRECT_ANSWER]: The Maple Leaf Flag
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about the adoption of the Maple Leaf flag in 1965, including its design, the flag it replaced, and the significance of the date it was inaugurated. This level of detail goes beyond the reference answer but remains entirely accurate and relevant to the question asked.
+[RESULT]: 5

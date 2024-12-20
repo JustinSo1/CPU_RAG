@@ -1,0 +1,25 @@
+[PROMPT]: Different species of kangaroos eat what?
+[USER_ANSWER]: Kangaroos are herbivorous marsupials, and their diet primarily consists of various types of vegetation. Different species of kangaroos have slightly different dietary preferences based on their habitat and availability of food sources. Here are some examples:
+
+1. **Eastern Grey Kangaroo (Macropus giganteus):**
+   - **Diet:** Mainly grazers, they feed on a variety of grasses, herbs, and sometimes leaves from shrubs and trees.
+
+2. **Red Kangaroo (Macropus rufus):**
+   - **Diet:** Also primarily grazers, they consume grasses and forbs (flowering plants), and can survive on dry grasses and leaves when food is scarce.
+
+3. **Western Grey Kangaroo (Macropus fuliginosus):**
+   - **Diet:** Similar to the Eastern Grey, they graze on grasses, herbs, and leaves.
+
+4. **Antilopine Kangaroo (Macropus antilopinus):**
+   - **Diet:** They feed on grasses, leaves, and shrubs found in the tropical savannas of northern Australia.
+
+5. **Tree Kangaroos (Genus Dendrolagus):**
+   - **Diet:** Unlike their ground-dwelling relatives, tree kangaroos live in rainforests and their diet consists of leaves, fruits, flowers, bark, and sap from trees and shrubs.
+
+6. **Wallabies and Wallaroos:**
+   - **Diet:** These smaller relatives of kangaroos eat a variety of grasses, leaves, and shoots, with some species also consuming fruits and seeds.
+
+Kangaroos have adapted to their environments and food sources, with their diet reflecting the vegetation available in their specific habitats.
+[CORRECT_ANSWER]: different diets
+[FEEDBACK]: The response is detailed and provides accurate information about the dietary preferences of different species of kangaroos. It correctly identifies that kangaroos are herbivorous and lists specific diets for various species, including Eastern Grey Kangaroo, Red Kangaroo, Western Grey Kangaroo, Antilopine Kangaroo, Tree Kangaroos, and Wallabies and Wallaroos. The information is factual and aligns with the reference answer's indication of different diets. The response is comprehensive and accurate.
+[RESULT]: 5

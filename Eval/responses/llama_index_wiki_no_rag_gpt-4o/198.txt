@@ -1,0 +1,5 @@
+[PROMPT]: How many living species of Asian Elephants are there?
+[USER_ANSWER]: There is only one living species of Asian Elephant, which is scientifically known as Elephas maximus. However, within this species, there are three recognized subspecies based on their geographical distribution: the Indian elephant (Elephas maximus indicus), the Sumatran elephant (Elephas maximus sumatranus), and the Sri Lankan elephant (Elephas maximus maximus).
+[CORRECT_ANSWER]: 1
+[FEEDBACK]: The response provides accurate information about the Asian Elephant, including its scientific name and the recognized subspecies. However, the instruction specifically asks for the number of living species, which is "1" as indicated in the reference answer. The response, while informative, does not directly answer the question in the simplest form as required. Therefore, it is not completely correct based on the reference answer.
+[RESULT]: 3

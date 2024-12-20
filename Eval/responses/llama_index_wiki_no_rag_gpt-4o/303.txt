@@ -1,0 +1,15 @@
+[PROMPT]: Are wolves built for stamina?
+[USER_ANSWER]: Yes, wolves are built for stamina. They are well-adapted to long-distance travel, which is essential for their survival as they often need to traverse large territories in search of food. Wolves have several physical adaptations that contribute to their endurance:
+
+1. **Muscular Build**: Wolves have powerful muscles, particularly in their legs, which help them cover long distances without tiring quickly.
+
+2. **Efficient Respiratory System**: Their respiratory system is adapted to support sustained physical activity, allowing them to take in large amounts of oxygen and maintain a steady pace over long periods.
+
+3. **Paws and Legs**: Wolves have large, padded paws that provide good traction and reduce the impact on their joints, while their long legs help them cover ground efficiently.
+
+4. **Lean Body Mass**: Wolves have a lean body mass that reduces the energy required for movement, enhancing their stamina.
+
+These adaptations enable wolves to travel up to 30 miles or more in a single day while hunting or patrolling their territory. Their ability to maintain a steady, ground-covering trot for extended periods is a key aspect of their hunting strategy, allowing them to exhaust prey over long chases.
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is correct, accurate, and factual. It provides detailed information about the physical adaptations of wolves that contribute to their stamina, such as their muscular build, efficient respiratory system, paws and legs, and lean body mass. These details are accurate and align with the understanding that wolves are built for stamina. However, the reference answer is extremely concise, and the response goes beyond the simplicity of the reference answer. While the additional information is accurate, it is not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct and factual but includes more detail than required.
+[RESULT]: 4
