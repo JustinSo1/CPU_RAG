@@ -1,5 +1,0 @@
-[PROMPT]: Who is most noted for his contributions to the theory of molarity and molecular weight?
-[USER_ANSWER]: The context does not provide any information about who is most noted for his contributions to the theory of molarity and molecular weight, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Amedeo Avogadro
-[FEEDBACK]: The response does not provide the correct answer to the question. Instead, it states that the context does not provide the information needed to answer the question, which is not relevant to the task. The correct answer, Amedeo Avogadro, is not mentioned at all. Therefore, the response is completely incorrect and does not meet the criteria for accuracy or factual correctness.
-[RESULT]: 1

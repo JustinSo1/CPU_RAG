@@ -1,5 +1,0 @@
-[PROMPT]: Is The Celsius crater on the Moon named after him?
-[USER_ANSWER]: The context does not provide any information about whether the Celsius crater on the Moon is named after anyone, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not provide the correct answer to the question. The reference answer clearly states "Yes," indicating that the Celsius crater on the Moon is indeed named after someone. The evaluated response fails to address this and instead mentions the lack of context, which is not relevant to the correctness of the answer. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1

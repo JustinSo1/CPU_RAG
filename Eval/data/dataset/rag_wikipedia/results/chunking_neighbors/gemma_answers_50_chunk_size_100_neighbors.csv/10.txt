@@ -1,5 +1,0 @@
-[PROMPT]: Was Abraham Lincoln the first President of the United States?
-[USER_ANSWER]: Sure, Abraham Lincoln was the first President of the United States. He served from 1861 to 1865.
-[CORRECT_ANSWER]: No
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. Abraham Lincoln was not the first President of the United States; George Washington was. The response also provides incorrect information about Lincoln's presidency, which further deviates from the factual answer.
-[RESULT]: 1

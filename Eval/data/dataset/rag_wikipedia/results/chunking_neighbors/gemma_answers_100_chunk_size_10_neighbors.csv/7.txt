@@ -1,5 +1,0 @@
-[PROMPT]: Who suggested Lincoln grow a beard?
-[USER_ANSWER]: The context does not specify who suggested Lincoln grow a beard, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 11-year-old Grace Bedell
-[FEEDBACK]: The response does not provide the correct answer to the question. It states that the context does not specify who suggested Lincoln grow a beard, which is not accurate based on the reference answer. The correct answer is "11-year-old Grace Bedell." Therefore, the response is completely incorrect and not factual.
-[RESULT]: 1

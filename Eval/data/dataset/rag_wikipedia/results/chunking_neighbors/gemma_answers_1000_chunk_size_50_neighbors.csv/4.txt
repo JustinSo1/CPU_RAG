@@ -1,5 +1,0 @@
-[PROMPT]: How many long was Lincoln's formal education?
-[USER_ANSWER]: The context does not provide any information about the length of Lincoln's formal education, hence I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 18 months
-[FEEDBACK]: The response does not provide the correct, accurate, and factual information regarding the length of Lincoln's formal education. The reference answer states "18 months," but the response indicates a lack of information from the context, which is not aligned with the reference answer. Therefore, the response is completely incorrect based on the given score rubric.
-[RESULT]: 1

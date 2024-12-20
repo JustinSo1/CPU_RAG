@@ -1,5 +1,0 @@
-[PROMPT]: Did Lincoln's Wife's Family support slavery?
-[USER_ANSWER]: The context does not provide any information about whether Lincoln's wife's family supported slavery. Therefore, I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response to evaluate states that the context does not provide information about whether Lincoln's wife's family supported slavery, which is not aligned with the reference answer "Yes." The reference answer indicates a clear and factual response, while the evaluated response avoids providing a direct answer. Therefore, the response is not correct, accurate, or factual based on the reference answer.
-[RESULT]: 1

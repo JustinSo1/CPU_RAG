@@ -1,5 +1,0 @@
-[PROMPT]: Is it true that thermometer had 100 for the freezing point?
-[USER_ANSWER]: The context does not provide any information about the thermometer's freezing point, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "Yes," indicating that the freezing point is 100 for the thermometer in question. The evaluated response does not address this and instead mentions the lack of context, which is not relevant to the correctness of the answer.
-[RESULT]: 1

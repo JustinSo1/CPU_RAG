@@ -1,5 +1,0 @@
-[PROMPT]: The Celsius crater on the Moon is what?
-[USER_ANSWER]: Sure, the Celsius crater on the Moon is a large impact crater named after the Swedish astronomer Anders Celsius.
-[CORRECT_ANSWER]: named after him
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the Celsius crater on the Moon is named after the Swedish astronomer Anders Celsius. However, the additional detail about it being a large impact crater is not necessary and was not included in the reference answer. The core information required by the instruction is present and accurate.
-[RESULT]: 4

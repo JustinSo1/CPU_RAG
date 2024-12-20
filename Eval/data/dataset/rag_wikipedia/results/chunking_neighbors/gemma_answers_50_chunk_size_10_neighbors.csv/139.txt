@@ -1,5 +1,0 @@
-[PROMPT]: Who determined the dependence of the boiling of water with atmospheric pressure?
-[USER_ANSWER]: The context does not provide any information about who determined the dependence of the boiling point of water with atmospheric pressure, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Anders Celsius
-[FEEDBACK]: The response does not provide the correct answer to the question. It states that the context does not provide the information, which is not relevant to the task of identifying who determined the dependence of the boiling point of water with atmospheric pressure. The correct answer is "Anders Celsius," and the response fails to mention this. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1

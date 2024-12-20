@@ -1,5 +1,0 @@
-[PROMPT]: Do scholars rank lincoln among the top three presidents?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not directly answer the question about whether scholars rank Lincoln among the top three presidents. Instead, it provides an irrelevant statement about the knowledge base. This makes the response completely incorrect and not factual based on the reference answer.
-[RESULT]: 1

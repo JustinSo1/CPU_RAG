@@ -1,7 +1,0 @@
-[PROMPT]: What did The Legal Tender Act of 1862 establish?
-[USER_ANSWER]: Sure, here's the answer to your question:
-
-The Legal Tender Act of 1862 established the United States Note, the first paper currency in the United States.
-[CORRECT_ANSWER]: the United States Note, the first paper currency in United States history
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the Legal Tender Act of 1862 established the United States Note, the first paper currency in the United States. However, the phrasing "Sure, here's the answer to your question:" is unnecessary and does not add value to the factual content. The core information is accurate and aligns well with the reference answer.
-[RESULT]: 4

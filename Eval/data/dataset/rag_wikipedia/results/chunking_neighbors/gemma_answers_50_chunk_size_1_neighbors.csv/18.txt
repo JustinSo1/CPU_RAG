@@ -1,5 +1,0 @@
-[PROMPT]: Why did Lincoln issue the Emancipation Proclamation?
-[USER_ANSWER]: The Emancipation Proclamation was issued by President Abraham Lincoln in 1862 during the American Civil War to emancipate all slaves in the Confederate states, freeing them from slavery and granting them the right to freedom.
-[CORRECT_ANSWER]: To free slaves 
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately states that President Abraham Lincoln issued the Emancipation Proclamation during the American Civil War and that it aimed to emancipate slaves in the Confederate states. However, it includes additional details about the year it was issued and the broader context of the Civil War, which, while accurate, are not necessary to answer the question directly. The reference answer is more concise and directly addresses the question by stating the primary purpose was to free slaves.
-[RESULT]: 4

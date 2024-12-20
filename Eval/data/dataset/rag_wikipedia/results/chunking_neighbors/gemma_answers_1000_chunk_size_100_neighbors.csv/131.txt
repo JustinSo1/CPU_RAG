@@ -1,5 +1,0 @@
-[PROMPT]: Can the title of this famous 1811 paper be roughly translated into english?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not address the question directly and does not provide an answer to whether the title of the famous 1811 paper can be roughly translated into English. It is not correct, accurate, or factual based on the reference answer.
-[RESULT]: 1

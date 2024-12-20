@@ -1,5 +1,0 @@
-[PROMPT]: Who assassinated Lincoln?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: John Wilkes Booth
-[FEEDBACK]: The response does not provide the correct answer to the question "Who assassinated Lincoln?" The response is not factual and does not address the question directly. It fails to mention John Wilkes Booth, who is the correct answer.
-[RESULT]: 1

@@ -1,5 +1,0 @@
-[PROMPT]: When did Lincoln begin his political career?
-[USER_ANSWER]: According to the context, Abraham Lincoln began his political career in 1832 at age 23.
-[CORRECT_ANSWER]: 1832
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the year 1832 as the beginning of Lincoln's political career, which matches the reference answer. However, the additional detail about Lincoln's age (23) is not necessary and slightly deviates from the simplicity of the reference answer.
-[RESULT]: 4

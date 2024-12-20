@@ -1,5 +1,0 @@
-[PROMPT]: Who graduated in ecclesiastical law at the early age of 20 and began to practice?
-[USER_ANSWER]: The context tells us that John Adams graduated in ecclesiastical law at the early age of 20 and began to practice.
-[CORRECT_ANSWER]: Amedeo Avogadro
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that Amedeo Avogadro graduated in ecclesiastical law at the early age of 20 and began to practice, while the response incorrectly mentions John Adams.
-[RESULT]: 1

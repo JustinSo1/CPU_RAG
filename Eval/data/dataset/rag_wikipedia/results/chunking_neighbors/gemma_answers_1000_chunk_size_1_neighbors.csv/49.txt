@@ -1,5 +1,0 @@
-[PROMPT]: Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?
-[USER_ANSWER]: The context tells us that Anders Celsius was the first person to conduct and publish careful experiments aimed at defining an international temperature scale on scientific grounds.
-[CORRECT_ANSWER]: Anders Celsius
-[FEEDBACK]: The response correctly identifies Anders Celsius as the first person to conduct and publish careful experiments aimed at defining an international temperature scale on scientific grounds. However, the response includes additional context that is not necessary for the answer. While the extra context does not make the response incorrect, it does not align perfectly with the concise nature of the reference answer. Therefore, the response is mostly correct, accurate, and factual.
-[RESULT]: 4
