@@ -27,7 +27,7 @@ def main():
     #    azure_endpoint=os.environ['OPENAI_API_BASE'],
     #    openai_organization=os.environ['OPENAI_ORGANIZATION']
     #)
-    llm_predictor = LangChainLLM(llm=llm)
+    # llm_predictor = LangChainLLM(llm=llm)
 
     question_answer = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
     questions = question_answer['question'].tolist()
@@ -41,7 +41,7 @@ def main():
         print(f"Question: {question}")
         print(f"Ground Truth: {answer}")
         start_llm_response_time = time.perf_counter()
-        response = llm_predictor.complete(question)
+        response = llm.complete(question)
         end_llm_response_time = time.perf_counter()
         print(f"Result: {response}")
         answer_dict[f"Q{i}"] = {"Answer": response,
@@ -49,7 +49,7 @@ def main():
                                 }
 #        if i == 50:
 #            break
-#        break
+       # break
     df = pd.DataFrame.from_dict(answer_dict)
     print(df)
     df.to_csv("llama_index_wiki_no_rag_gemma-2-2b-it.csv")
