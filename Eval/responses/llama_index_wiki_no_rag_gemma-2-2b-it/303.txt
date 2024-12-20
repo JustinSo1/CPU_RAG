@@ -1,0 +1,26 @@
+[PROMPT]: Are wolves built for stamina?
+[USER_ANSWER]: 
+
+Wolves are known for their endurance and stamina, especially when it comes to hunting. They can cover vast distances in search of prey, and their ability to sustain long hunts is crucial for their survival. 
+
+Here's a breakdown of their stamina:
+
+**Physical Traits:**
+
+* **Muscular Build:** Wolves have a powerful, lean build with strong legs and a large chest. This allows them to run long distances with ease.
+* **Efficient Metabolism:** Wolves have a high metabolic rate, meaning they burn energy quickly. This helps them maintain their energy levels during long hunts.
+* **Flexible Spine:** Their flexible spine allows them to maintain a balanced posture while running, reducing fatigue.
+
+**Hunting Strategies:**
+
+* **Endurance Hunting:** Wolves often hunt in packs, and their stamina allows them to cover large areas and track prey for extended periods.
+* **Cooperative Hunting:** They work together to bring down large prey, which requires sustained effort and stamina.
+* **Efficient Energy Use:** Wolves are able to conserve energy during hunts by taking advantage of cover and resting when needed.
+
+**Factors Affecting Stamina:**
+
+* **Age:** Younger wolves generally have more stamina than older wolves.
+* **Health:** A healthy wolf will have more stamina than a
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed and accurate explanation of why wolves are built for stamina, including their physical traits, hunting strategies, and factors affecting their stamina. However, the reference answer is a simple "Yes," indicating that a brief confirmation was sufficient. While the response is factually correct and informative, it goes beyond the simplicity required by the reference answer. Therefore, it is mostly correct and accurate but not completely aligned with the expected brevity.
+[RESULT]: 4

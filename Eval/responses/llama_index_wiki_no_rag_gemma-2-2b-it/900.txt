@@ -1,0 +1,13 @@
+[PROMPT]: Was Wilson an automobile enthusiast?
+[USER_ANSWER]: 
+
+Answer: 
+No, Woodrow Wilson was not an automobile enthusiast. 
+
+**Explanation:**
+
+Woodrow Wilson was the 28th President of the United States. He was a scholar and politician, not a car enthusiast.  He was more interested in international affairs and the development of the United States. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Wilson was an automobile enthusiast, while the response states the opposite. Additionally, the explanation provided does not align with the reference answer.
+[RESULT]: 1

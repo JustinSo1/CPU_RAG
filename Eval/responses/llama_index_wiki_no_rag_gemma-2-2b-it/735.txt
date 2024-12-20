@@ -1,0 +1,15 @@
+[PROMPT]: Is romania a semi-presidential unitary state?
+[USER_ANSWER]: 
+
+Romania is a **semi-presidential unitary state**. 
+
+Here's a breakdown:
+
+* **Unitary State:**  The power of the state is concentrated in the central government, and there is no significant regional or local autonomy.
+* **Semi-Presidential:** The executive branch is headed by a president who holds significant power, but the president's powers are limited by a constitution and a parliament. 
+
+In Romania, the president has significant powers, including appointing the prime minister and the cabinet, but the parliament holds the power to approve or reject the president's appointments. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Romania as a semi-presidential unitary state and provides a detailed explanation of what that means. However, the reference answer is very concise, simply stating "Yes," which suggests that a brief confirmation would have been sufficient. The additional details, while accurate, are not necessary to meet the criteria of the reference answer. Therefore, the response goes beyond what was required but remains factually correct.
+[RESULT]: 4

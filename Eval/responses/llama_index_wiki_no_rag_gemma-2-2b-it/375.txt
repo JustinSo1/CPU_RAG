@@ -1,0 +1,16 @@
+[PROMPT]: When did Monroe's presidency expired?
+[USER_ANSWER]: 
+
+The answer is **1825**. 
+
+Here's why:
+
+* **James Monroe** served as the fifth President of the United States from 1817 to 1825. 
+* His presidency ended in **1825** when he left office after completing his term. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: March 4, 1825
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the year 1825 as the end of Monroe's presidency. However, it lacks the specific date "March 4, 1825," which is provided in the reference answer. While the year is accurate, the absence of the exact date means it is not completely correct.
+[RESULT]: 4

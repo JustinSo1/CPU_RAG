@@ -1,0 +1,12 @@
+[PROMPT]: Is Liechtenstein the smallest German-speaking country in the world?
+[USER_ANSWER]: 
+
+Liechtenstein is not a German-speaking country. It is a **Principality** in Central Europe, and its official language is **German**. 
+
+It is also the **smallest country in the world** by land area, with a population of around 38,000 people. 
+
+So, while it is a German-speaking country, it is not the smallest German-speaking country in the world. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response contains several inaccuracies and incorrect statements. Firstly, it incorrectly states that Liechtenstein is not a German-speaking country, which contradicts itself later by acknowledging that German is the official language. Secondly, it incorrectly claims that Liechtenstein is the smallest country in the world by land area, which is factually incorrect as Vatican City holds that title. The response also incorrectly concludes that Liechtenstein is not the smallest German-speaking country in the world, which is incorrect as Liechtenstein is indeed the smallest German-speaking country. Overall, the response is mostly incorrect and inaccurate based on the reference answer.
+[RESULT]: 2

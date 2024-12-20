@@ -1,0 +1,21 @@
+[PROMPT]: A semi-aquatic marine mammal , the polar bear has what?
+[USER_ANSWER]: 
+
+A.  Flippers and a tail
+B.  Flippers and webbed feet
+C.  A thick layer of blubber and a dense fur coat
+D.  A long, slender neck and a short, stout body
+
+**Answer:** C. A thick layer of blubber and a dense fur coat
+
+**Explanation:**
+
+* **Polar bears are built for the Arctic environment.**  They have a thick layer of blubber (fat) for insulation, and a dense fur coat that traps air for warmth. 
+* **They are semi-aquatic**, meaning they can live both on land and in water. 
+* **They have flippers and webbed feet** which help them swim and navigate icy waters. 
+
+Let me know if you have any other animal trivia questions! 
+
+[CORRECT_ANSWER]: It has adapted for life on a combination of land, sea, and ice.
+[FEEDBACK]: The response correctly identifies that polar bears have a thick layer of blubber and a dense fur coat, which is accurate and factual. However, the additional information about flippers and webbed feet is incorrect for polar bears, as they do not have flippers. This inaccuracy affects the overall correctness of the response. The explanation about their semi-aquatic nature is accurate but does not fully align with the reference answer, which focuses on their adaptation to land, sea, and ice. Therefore, while the response is mostly correct, it contains some inaccuracies.
+[RESULT]: 4

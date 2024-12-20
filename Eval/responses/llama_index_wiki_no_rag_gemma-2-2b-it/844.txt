@@ -1,0 +1,8 @@
+[PROMPT]: Was Grant elected president as a Republican?
+[USER_ANSWER]: 
+
+No, Ulysses S. Grant was elected president as a **Republican**. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is factually accurate in stating that Ulysses S. Grant was elected president as a Republican. However, the response starts with "No," which contradicts the factual information provided. This contradiction makes the response somewhat correct but not fully accurate.
+[RESULT]: 3

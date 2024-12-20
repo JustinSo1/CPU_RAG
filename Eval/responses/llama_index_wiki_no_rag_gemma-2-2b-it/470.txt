@@ -1,0 +1,8 @@
+[PROMPT]: Who asked a nearby local what the creatures were called?
+[USER_ANSWER]: 
+
+The passage you provided does not contain the answer to your question. 
+
+[CORRECT_ANSWER]: Captain James Cook and naturalist Sir Joseph Banks
+[FEEDBACK]: The response is completely incorrect and does not provide any factual information related to the question. It states that the passage does not contain the answer, which is not accurate based on the reference answer provided. The correct answer should have been "Captain James Cook and naturalist Sir Joseph Banks."
+[RESULT]: 1

@@ -1,0 +1,23 @@
+[PROMPT]: How many suborders are turtles divided into?
+[USER_ANSWER]: 
+
+The answer is **7**. 
+
+Here's a breakdown:
+
+* **Testudines:** This is the scientific name for turtles and tortoises.
+* **Suborders:**  These are the seven groups within Testudines:
+    * **Cryptodira:**  These turtles have a "hidden" or "crooked" shell, with the shell opening on the side.
+    * **Pleurodira:** These turtles have a "straight" or "open" shell, with the shell opening on the top.
+    * **Chelonioidea:**  These are the sea turtles.
+    * **Emydidae:**  These are the freshwater turtles.
+    * **Kinosternidae:**  These are the mud turtles.
+    * **Pelomedusidae:**  These are the side-necked turtles.
+    * **Testudinidae:**  These are the tortoises. 
+
+
+Let me know if you'd like to know more about any of these suborders! 🐢 
+
+[CORRECT_ANSWER]: Three.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer states that there are three suborders of turtles, while the response incorrectly lists seven suborders. Additionally, the descriptions provided for each of the seven groups are not accurate in the context of turtle suborders.
+[RESULT]: 1

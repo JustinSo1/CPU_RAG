@@ -1,0 +1,13 @@
+[PROMPT]: Are kangaroos and wallabies adept swimmers?
+[USER_ANSWER]: 
+
+Here's the breakdown:
+
+* **Kangaroos:**  While kangaroos are strong and agile, they are **not** natural swimmers. Their powerful legs are designed for hopping, not navigating water. They can swim, but it's usually a last resort and they often struggle.
+* **Wallabies:** Wallabies are smaller than kangaroos and have a more compact build. They are **slightly better swimmers** than kangaroos, but they still aren't natural swimmers. They can swim for short distances, but they're not comfortable in deep water.
+
+**In summary:** Both kangaroos and wallabies can swim, but they are not adept swimmers. Their bodies are not built for it, and they prefer to avoid water. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed explanation about the swimming abilities of kangaroos and wallabies, stating that both can swim but are not adept swimmers. This aligns with the reference answer, which simply states "yes," implying that both animals can swim. However, the response goes beyond the reference answer by providing additional context and details, which are accurate and factual. Therefore, the response is mostly correct, accurate, and factual based on the reference answer.
+[RESULT]: 4

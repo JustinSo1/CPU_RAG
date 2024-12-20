@@ -1,0 +1,16 @@
+[PROMPT]: What is the primary domestic source of water supply?
+[USER_ANSWER]: 
+
+The primary domestic source of water supply is **groundwater**. 
+
+Here's why:
+
+* **Accessibility:** Groundwater is readily available in most areas, especially in the form of aquifers.
+* **Cost-effectiveness:**  Compared to surface water sources like rivers and lakes, extracting groundwater is often cheaper.
+* **Reliability:** Groundwater is a relatively stable source, unaffected by seasonal fluctuations or droughts.
+
+While surface water sources like rivers and lakes are also important, they are often less reliable and more expensive to manage. 
+
+[CORRECT_ANSWER]: The primary domestic source of water supply in Singapore is rainfall.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer specifies that the primary domestic source of water supply in Singapore is rainfall, while the response incorrectly identifies groundwater as the primary source. The additional explanations provided about groundwater do not align with the reference answer and do not contribute to the accuracy of the response.
+[RESULT]: 1

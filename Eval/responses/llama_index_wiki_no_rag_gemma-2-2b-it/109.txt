@@ -1,0 +1,12 @@
+[PROMPT]: What fraternity was Coolidge a member of?
+[USER_ANSWER]: 
+
+This is a bit of a trick question! 
+
+**Calvin Coolidge was not a member of a fraternity.** 
+
+He was a very successful lawyer and politician, but he didn't participate in the Greek system of fraternities. 
+
+[CORRECT_ANSWER]: Phi Gamma Delta
+[FEEDBACK]: The response is completely incorrect and inaccurate. Calvin Coolidge was indeed a member of a fraternity, specifically Phi Gamma Delta, which contradicts the response provided. The response also includes additional information that is not relevant to the question.
+[RESULT]: 1

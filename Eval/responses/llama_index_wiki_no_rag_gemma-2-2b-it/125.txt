@@ -1,0 +1,8 @@
+[PROMPT]: Is an official language of Canada German?
+[USER_ANSWER]: 
+
+No, German is not an official language of Canada. 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is correct and factual in stating that German is not an official language of Canada. However, it provides more information than the reference answer, which is a simple "No." While the additional information is accurate, it is not necessary based on the reference answer.
+[RESULT]: 4

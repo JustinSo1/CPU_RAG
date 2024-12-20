@@ -1,0 +1,18 @@
+[PROMPT]: What is now part of Adams National Historical Park?
+[USER_ANSWER]: 
+
+The area that is now part of Adams National Historical Park was once home to a number of important historical sites, including:
+
+* **The home of John Adams:** This was the home of John Adams, the second president of the United States.
+* **The Old North Church:** This church was famous for its role in the American Revolution, as it was the site of the famous "one if by land, two if by sea" signal.
+* **The site of the Continental Congress:** This was the site where the Continental Congress met to discuss and pass important legislation during the American Revolution.
+* **The site of the Boston Massacre:** This was the site of a tragic event that took place during the American Revolution, where British soldiers fired on a group of unarmed civilians.
+* **The site of the Boston Tea Party:** This was the site of a famous protest against British taxation, where colonists disguised as Native Americans dumped tea into the harbor.
+
+The park encompasses a variety of historical sites and buildings, including:
+
+* **The John Adams House:** This is the only remaining house in Boston that was owned by a president of the United States.
+* **The Old North Church:** This is a historic church that played a significant role in the American Revolution
+[CORRECT_ANSWER]: John Adams' birthplace
+[FEEDBACK]: The response provided includes a number of historical sites that are not part of Adams National Historical Park. The reference answer specifies "John Adams' birthplace" as the correct and factual part of the park. The response mentions several other sites such as The Old North Church, the site of the Continental Congress, the site of the Boston Massacre, and the site of the Boston Tea Party, which are not part of Adams National Historical Park. Therefore, the response is mostly incorrect and inaccurate based on the reference answer.
+[RESULT]: 2

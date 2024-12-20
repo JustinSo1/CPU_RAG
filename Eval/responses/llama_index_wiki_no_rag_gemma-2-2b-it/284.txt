@@ -1,0 +1,10 @@
+[PROMPT]: Is Ghana in Asia?
+[USER_ANSWER]: 
+
+No, Ghana is not in Asia. 
+
+**Ghana is located in West Africa.** 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Ghana is not in Asia and provides additional accurate information about Ghana's location in West Africa. This additional detail, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

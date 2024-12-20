@@ -1,0 +1,8 @@
+[PROMPT]: Was Abraham Lincoln the first President of the United States?
+[USER_ANSWER]: 
+
+No, Abraham Lincoln was not the first President of the United States.  **George Washington** was the first President of the United States. 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is correct in stating that Abraham Lincoln was not the first President of the United States, which aligns with the reference answer. Additionally, the response provides extra information by mentioning that George Washington was the first President, which is accurate and factual. However, the reference answer is very concise, and the additional information, while correct, is not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct, accurate, and factual but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

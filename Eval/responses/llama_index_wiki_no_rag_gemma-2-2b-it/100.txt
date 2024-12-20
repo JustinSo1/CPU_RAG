@@ -1,0 +1,13 @@
+[PROMPT]: Where did Coolidge's grandfather had government offices?
+[USER_ANSWER]: 
+
+This question is a bit tricky!  Here's why:
+
+* **Calvin Coolidge's grandfather,  John Coolidge, was a prominent figure in American politics.** He served as a Congressman, Governor of Massachusetts, and even briefly as the Secretary of the Treasury.
+* **However, there's no widely known or documented information about John Coolidge having government offices in a specific location.**  His career was marked by his political positions, not necessarily by holding specific government offices in a particular place.
+
+**It's important to note:**  Historical records can be incomplete or difficult to access.  While we know John Coolidge held various government positions, the specifics of his office locations might not be readily available. 
+
+[CORRECT_ANSWER]: Plymouth
+[FEEDBACK]: The response provided is not correct, accurate, or factual based on the reference answer. The reference answer clearly states "Plymouth" as the location of Coolidge's grandfather's government offices. The response, however, discusses Calvin Coolidge's grandfather, John Coolidge, and his political career without mentioning Plymouth. Additionally, the response contains inaccuracies about John Coolidge's roles, as he was not a Congressman, Governor of Massachusetts, or Secretary of the Treasury. Therefore, the response does not align with the reference answer and contains factual errors.
+[RESULT]: 1

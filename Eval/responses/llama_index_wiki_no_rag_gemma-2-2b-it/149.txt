@@ -1,0 +1,8 @@
+[PROMPT]: Is a drake a male?
+[USER_ANSWER]: 
+
+A drake is a male duck or goose. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct in identifying that a drake is a male duck. However, it inaccurately includes that a drake can also be a male goose, which is not factual. Therefore, while the response is somewhat accurate, it contains a significant inaccuracy.
+[RESULT]: 3

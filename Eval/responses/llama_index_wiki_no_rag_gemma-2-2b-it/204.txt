@@ -1,0 +1,19 @@
+[PROMPT]: How do elephants communicate over long distances?
+[USER_ANSWER]: 
+
+Elephants communicate over long distances using a complex system of sounds, including:
+
+* **Rumbles:** These are low-frequency sounds that can travel for miles. They are often used to communicate with other elephants over long distances.
+* **Trumpets:** These are high-pitched sounds that can be heard over short distances. They are used to warn other elephants of danger or to attract attention.
+* **Infrasound:** This is a low-frequency sound that is below the range of human hearing. It can travel for hundreds of miles and is used to communicate over long distances.
+* **Vocalizations:** Elephants also communicate through vocalizations, such as grunts, snorts, and bellows. These sounds can be used to express a variety of emotions, such as happiness, sadness, or anger.
+
+**How it works:**
+
+* **Rumbles:** Elephants use their trunks to create vibrations in the ground, which travel through the air and can be heard over long distances.
+* **Trumpets:** Elephants use their trunks to create high-pitched sounds that can be heard by other elephants over short distances.
+* **Infrasound:** Elephants can produce infrasound sounds that travel through the air and can be heard by other elephants over long distances.
+
+[CORRECT_ANSWER]: by producing and receiving low frequency sound
+[FEEDBACK]: The response provides a detailed explanation of how elephants communicate over long distances, including the use of rumbles, trumpets, infrasound, and vocalizations. However, the reference answer specifically mentions "producing and receiving low frequency sound," which is a more concise and focused explanation. The response does mention infrasound and rumbles, which are low-frequency sounds, but it also includes additional information that is not directly related to the reference answer. Therefore, while the response is mostly correct and accurate, it is not completely aligned with the reference answer.
+[RESULT]: 4

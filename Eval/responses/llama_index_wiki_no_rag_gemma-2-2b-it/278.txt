@@ -1,0 +1,8 @@
+[PROMPT]: When did Ghana achieve independence from the United Kingdom?
+[USER_ANSWER]: 
+
+Ghana achieved independence from the United Kingdom on **March 6, 1957**. 
+
+[CORRECT_ANSWER]: 1957
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides the exact date of Ghana's independence, which is consistent with the reference answer. The additional detail of the specific date enhances the response without detracting from its accuracy.
+[RESULT]: 5

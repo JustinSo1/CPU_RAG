@@ -1,0 +1,13 @@
+[PROMPT]: How many Eagle Scouts were involved in Ford's funeral procession?
+[USER_ANSWER]: 
+
+This question is based on a misunderstanding. 
+
+* **Eagle Scouts** are a high-level achievement in the Boy Scouts of America. 
+* **Ford's funeral procession** was a public event honoring the late President Gerald Ford.
+
+There is no connection between Eagle Scouts and the funeral procession for President Ford. 
+
+[CORRECT_ANSWER]: 400
+[FEEDBACK]: The response does not provide the correct number of Eagle Scouts involved in Ford's funeral procession. Instead, it incorrectly states that there is no connection between Eagle Scouts and the funeral procession for President Ford. This is inaccurate as the reference answer clearly states that 400 Eagle Scouts were involved. The response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

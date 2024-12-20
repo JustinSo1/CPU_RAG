@@ -1,0 +1,12 @@
+[PROMPT]: Oxygen is what?
+[USER_ANSWER]: 
+
+**Answer:** A gas
+
+**Explanation:**
+
+Oxygen is a colorless, odorless, and tasteless gas that is essential for the survival of most living organisms. 
+
+[CORRECT_ANSWER]: One kind of gas obtained via a tracheal system.
+[FEEDBACK]: The response "A gas" is correct in identifying oxygen as a gas. The explanation further elaborates that oxygen is a colorless, odorless, and tasteless gas essential for the survival of most living organisms, which is accurate and factual. However, it does not mention the tracheal system, which is a specific detail included in the reference answer. Despite this, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

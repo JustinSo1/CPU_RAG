@@ -1,0 +1,8 @@
+[PROMPT]: When did James Monroe die?
+[USER_ANSWER]: 
+
+James Monroe died on **July 4, 1831**. 
+
+[CORRECT_ANSWER]: July 4, 1831
+[FEEDBACK]: The response is completely correct, accurate, and factual based on the reference answer. The date provided, July 4, 1831, matches exactly with the reference answer. The additional formatting with asterisks does not detract from the accuracy of the information provided.
+[RESULT]: 5

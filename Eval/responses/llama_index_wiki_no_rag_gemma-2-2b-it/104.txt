@@ -1,0 +1,15 @@
+[PROMPT]: What caused Calvin Jr.'s death?
+[USER_ANSWER]: 
+
+Calvin Jr.'s death was caused by a **combination of factors**, including:
+
+* **His own actions:** He was reckless and often engaged in dangerous activities, putting himself at risk.
+* **The environment:** The environment he lived in was often dangerous, with limited access to resources and opportunities for safety.
+* **Lack of support:** He lacked the support and guidance he needed to make healthy choices and navigate the challenges he faced.
+* **The influence of others:** He was influenced by negative peers and adults who encouraged him to engage in risky behavior.
+
+It's important to note that **Calvin Jr.'s death was not a result of any single cause**, but rather a complex interplay of factors that contributed to his tragic end.
+
+[CORRECT_ANSWER]: heart attack
+[FEEDBACK]: The response provided is not correct, accurate, or factual based on the reference answer. The reference answer clearly states that Calvin Jr.'s death was caused by a heart attack, while the response attributes his death to a combination of factors such as his own actions, the environment, lack of support, and the influence of others. This information is not aligned with the factual cause of death given in the reference answer.
+[RESULT]: 1

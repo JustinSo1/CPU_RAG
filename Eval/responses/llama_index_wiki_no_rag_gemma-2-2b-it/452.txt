@@ -1,0 +1,22 @@
+[PROMPT]: Why do kangaroos have a wide bite?
+[USER_ANSWER]: 
+
+Kangaroos have a wide bite because of their **powerful jaw muscles** and **large teeth**. 
+
+Here's a breakdown:
+
+* **Powerful Jaw Muscles:** Kangaroos have strong jaw muscles that allow them to exert a lot of force when biting. This is essential for their diet, which consists mainly of grasses and leaves.
+* **Large Teeth:** Kangaroos have large, sharp teeth that are designed for tearing and grinding tough plant material. These teeth are also adapted for grabbing and holding onto their food.
+
+**Why is a wide bite important?**
+
+* **Efficiently Chewing:** A wide bite allows kangaroos to efficiently chew tough plant material, breaking it down into smaller pieces that are easier to digest.
+* **Strong Grip:** The wide bite also provides a strong grip on their food, preventing it from slipping out of their mouths.
+* **Efficient Food Consumption:** This combination of factors allows kangaroos to consume large quantities of food quickly and efficiently.
+
+
+So, the wide bite of a kangaroo is a result of their powerful jaw muscles and large teeth, which are perfectly adapted for their herbivorous diet and efficient food consumption.
+
+[CORRECT_ANSWER]: The two sides of the lower jaw are not joined together and the lower incisors are farther apart.
+[FEEDBACK]: The response provides a detailed explanation about the powerful jaw muscles and large teeth of kangaroos, which are not mentioned in the reference answer. The reference answer specifically states that the wide bite is due to the two sides of the lower jaw not being joined together and the lower incisors being farther apart. The response does not address these anatomical features, making it mostly inaccurate and not aligned with the reference answer.
+[RESULT]: 2

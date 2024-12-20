@@ -1,0 +1,26 @@
+[PROMPT]: What kinds of coats do wolves have?
+[USER_ANSWER]: 
+
+Wolves have a thick, double coat that helps them survive in cold climates. 
+
+Here's a breakdown of their coat:
+
+* **Undercoat:** This is a soft, fluffy layer that provides insulation. It's made of fine, downy hairs.
+* **Guard hairs:** These are longer, coarser hairs that provide protection from the elements. They're often darker in color than the undercoat.
+
+**Seasonal Changes:**
+
+* **Summer:** The undercoat is shed, and the guard hairs become less prominent. This allows for a lighter, more breathable coat.
+* **Winter:** The guard hairs grow longer and thicker, providing extra insulation. The undercoat is often shed again, but the guard hairs remain for protection.
+
+**Color Variations:**
+
+* Wolves have a variety of coat colors, including gray, black, brown, and white. 
+* The color of their coat can vary depending on their location and the time of year.
+
+
+Let me know if you have any other questions about wolf coats! 
+
+[CORRECT_ANSWER]: bulky coats with two layers
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately describes the two layers of a wolf's coat, including the undercoat and guard hairs, and provides additional details about seasonal changes and color variations. However, the reference answer is very brief and only mentions "bulky coats with two layers," while the response goes into much more detail. Despite this, the response aligns well with the reference answer in terms of the main point about the two-layered coat.
+[RESULT]: 4

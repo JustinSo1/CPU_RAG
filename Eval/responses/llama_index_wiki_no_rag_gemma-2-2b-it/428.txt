@@ -1,0 +1,10 @@
+[PROMPT]: Is Adams' birthplace part of a national park?
+[USER_ANSWER]: 
+
+**Answer:**
+
+No, Adams' birthplace is not part of a national park. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer states that Adams' birthplace is part of a national park, while the response claims the opposite.
+[RESULT]: 1

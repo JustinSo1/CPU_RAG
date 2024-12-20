@@ -1,0 +1,8 @@
+[PROMPT]: In what year were the "Games of the XV Olympiad" held?
+[USER_ANSWER]: 
+
+The "Games of the XV Olympiad" were held in **1996**. 
+
+[CORRECT_ANSWER]: 1952
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The "Games of the XV Olympiad" were held in 1952, not 1996.
+[RESULT]: 1

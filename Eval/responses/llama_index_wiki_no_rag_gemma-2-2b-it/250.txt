@@ -1,0 +1,12 @@
+[PROMPT]: Did ford attend the University of Michigan?
+[USER_ANSWER]: 
+
+Ford Motor Company was founded in Detroit, Michigan, and is headquartered there.  
+
+**Therefore, it is likely that Ford Motor Company's founder, Henry Ford, attended the University of Michigan.** 
+
+However, there is no definitive evidence to confirm this. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The question asks whether Ford attended the University of Michigan, but the response discusses the Ford Motor Company and its founder, Henry Ford, without providing a clear and factual answer. The statement that it is "likely" Henry Ford attended the University of Michigan is speculative and not based on factual evidence. The correct answer is simply "No," as Henry Ford did not attend the University of Michigan.
+[RESULT]: 2

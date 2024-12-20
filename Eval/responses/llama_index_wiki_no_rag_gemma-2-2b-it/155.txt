@@ -1,0 +1,14 @@
+[PROMPT]: What makes it more difficult for a diving duck to fly?
+[USER_ANSWER]: 
+
+Here's a breakdown of the answer:
+
+* **Diving ducks have evolved to be excellent swimmers.** Their bodies are streamlined, their wings are webbed, and they have a dense layer of feathers that helps them stay buoyant in water.
+* **Their wings are adapted for swimming, not flying.** While they can flap their wings to propel themselves through the air, their wings are not as powerful as those of other ducks.
+* **Their body shape is not ideal for flight.** Their long necks and heavy bodies make it difficult to maintain lift and maneuver in the air.
+
+**In summary:** Diving ducks are adapted for swimming, not flying. Their wings are not as powerful, their body shape is not ideal for flight, and they have a dense layer of feathers that makes them heavier in water. 
+
+[CORRECT_ANSWER]: They are heavier
+[FEEDBACK]: The response provides a detailed explanation of why diving ducks find it more difficult to fly, mentioning their adaptations for swimming, wing structure, and body shape. However, the reference answer is very concise, stating simply that diving ducks are heavier. While the response does touch on the idea of weight (dense layer of feathers), it does not directly state that being heavier is the primary reason for the difficulty in flying. Therefore, the response is somewhat correct and accurate but not completely aligned with the reference answer.
+[RESULT]: 3

@@ -1,0 +1,23 @@
+[PROMPT]: Are all penguins countershaded?
+[USER_ANSWER]: 
+
+Countershading is a camouflage technique where the animal's upper surface is darker than its lower surface. This helps to blend in with the background, making it harder for predators to spot them. 
+
+While most penguins are countershaded, it's not a universal rule. Some species have different coloration patterns. 
+
+Here's a breakdown:
+
+**Countershaded Penguins:**
+
+* **Emperor Penguin:**  The Emperor penguin is a classic example of countershading. Its black back and white belly help it blend into the icy landscapes of Antarctica.
+* **Adélie Penguin:** Adélie penguins also exhibit countershading, with their black backs and white bellies.
+* **Chinstrap Penguin:**  Chinstrap penguins have a black back and white belly, which helps them camouflage in the icy waters of the Southern Ocean.
+* **Gentoo Penguin:** Gentoo penguins are known for their distinctive black backs and white bellies, which are effective for camouflage.
+
+**Not Countershaded Penguins:**
+
+* **Little Blue Penguin:**  These penguins have a blue-grey back and white belly, which helps them blend into the rocky shores of their habitat.
+* **Magellanic Penguin:**  Magellanic penguins have
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation of countershading and lists examples of penguins that are and are not countershaded. However, the reference answer is a simple "Yes," indicating that all penguins are countershaded. The response contradicts this by stating that not all penguins are countershaded and provides examples of penguins that do not follow this pattern. Therefore, the response is not completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 2

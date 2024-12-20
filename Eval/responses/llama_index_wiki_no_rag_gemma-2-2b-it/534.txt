@@ -1,0 +1,12 @@
+[PROMPT]: The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?
+[USER_ANSWER]: 
+
+**Answer:** 1850
+
+**Explanation:**
+
+The Savings and Loans Bank was founded in 1850, and the first cotton-weaving mill was also established in that year. 
+
+[CORRECT_ANSWER]: 1861
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct year for the founding of The Savings and Loans Bank and the first cotton-weaving mill is 1861, not 1850. The explanation provided also incorrectly states that both events occurred in 1850.
+[RESULT]: 1

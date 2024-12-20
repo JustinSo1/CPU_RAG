@@ -1,0 +1,8 @@
+[PROMPT]: Do sea otters live along the Pacific coast?
+[USER_ANSWER]: 
+
+Sea otters are found along the Pacific coast of North America, from Alaska to California. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides additional information about the range of sea otters along the Pacific coast, which is accurate. However, it does not directly answer the question with a simple "Yes" as the reference answer does.
+[RESULT]: 4

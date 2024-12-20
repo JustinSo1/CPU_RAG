@@ -1,0 +1,8 @@
+[PROMPT]: Did he not die at the age of 55 in Le Croisic ?
+[USER_ANSWER]: 
+
+Please provide more context. Who is "he"? 
+
+[CORRECT_ANSWER]: Yes he died at the age of 55
+[FEEDBACK]: The response does not directly address the question asked. Instead of confirming or denying the information about the age and place of death, it asks for more context. This makes the response not factual or accurate based on the reference answer.
+[RESULT]: 1

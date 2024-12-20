@@ -1,0 +1,12 @@
+[PROMPT]: Are his last words often quoted as " Thomas Jefferson survives " . ?
+[USER_ANSWER]: 
+
+This is a reference to the famous American Founding Father, Thomas Jefferson. 
+
+**Yes**, his last words are often quoted as " **Thomas Jefferson survives**". 
+
+This is a reference to the fact that Jefferson was a strong advocate for the American Revolution and the Constitution. He died on July 4, 1826, the same day as the Declaration of Independence was signed. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Thomas Jefferson and his famous last words, "Thomas Jefferson survives." However, the additional context about Jefferson's advocacy for the American Revolution and the Constitution, as well as the detail about his death date, while accurate, is not necessary for the response. The reference answer is much more concise and directly addresses the question without additional information. Therefore, the response is mostly correct but includes extraneous details that are not required.
+[RESULT]: 4

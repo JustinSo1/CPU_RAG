@@ -1,0 +1,24 @@
+[PROMPT]: How can beetle larvae be differentiated from other insect larvae?
+[USER_ANSWER]: 
+
+Beetles have a unique larval stage called a **grub** or **larva**.  Here's how to differentiate them from other insect larvae:
+
+**1. Body Shape and Structure:**
+
+* **Beetle Grubs:**  Typically have a cylindrical or oval body with a hard, segmented exoskeleton. They often have a distinct head capsule and a pair of mandibles.
+* **Other Insect Larvae:**  Body shapes vary widely depending on the insect. Some may be worm-like, others segmented, and some even have a soft, flexible body.
+
+**2. Mouthparts:**
+
+* **Beetle Grubs:**  Possess mandibles for chewing and tearing.
+* **Other Insect Larvae:**  Mouthparts vary greatly. Some have chewing mouthparts, others have sucking mouthparts, and some have rasping mouthparts.
+
+**3. Legs and Antennae:**
+
+* **Beetle Grubs:**  Usually have a pair of legs on each segment of their body. They may also have antennae.
+* **Other Insect Larvae:**  Leg and antenna structures vary greatly depending on the insect. Some may have no legs, some may have many legs, and some may have long or short antennae.
+
+
+[CORRECT_ANSWER]: their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body
+[FEEDBACK]: The response provides a detailed and accurate description of how beetle larvae can be differentiated from other insect larvae. It correctly mentions the body shape and structure, mouthparts, and legs and antennae, which are all relevant characteristics. However, it does not explicitly mention the hardened, often darkened head and spiracles along the sides of the body, which are key points in the reference answer. While the response is mostly correct and factual, it misses some specific details that are highlighted in the reference answer.
+[RESULT]: 4

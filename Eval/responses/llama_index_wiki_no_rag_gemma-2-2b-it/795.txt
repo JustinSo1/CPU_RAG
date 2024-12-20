@@ -1,0 +1,10 @@
+[PROMPT]: What shape are the eggs of the larest species of turtle?
+[USER_ANSWER]: 
+
+The largest species of turtle is the **Leatherback Sea Turtle**. 
+
+Leatherback sea turtle eggs are **oval-shaped**. 
+
+[CORRECT_ANSWER]: Spherical
+[FEEDBACK]: The response identifies the largest species of turtle correctly as the Leatherback Sea Turtle. However, it inaccurately describes the shape of the eggs as oval-shaped, whereas the reference answer states that they are spherical. This discrepancy means the response is not accurate or factual based on the reference answer.
+[RESULT]: 2

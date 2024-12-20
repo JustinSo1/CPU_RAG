@@ -1,0 +1,8 @@
+[PROMPT]: Was Millard Fillmore born on January 7, 1800?
+[USER_ANSWER]: 
+
+**Answer:** No. Millard Fillmore was born on **March 7, 1800**. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. The reference answer indicates that Millard Fillmore was indeed born on January 7, 1800, while the response incorrectly states that he was born on March 7, 1800. This contradicts the factual information provided in the reference answer.
+[RESULT]: 1

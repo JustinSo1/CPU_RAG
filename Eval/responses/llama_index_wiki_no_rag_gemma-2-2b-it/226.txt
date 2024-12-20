@@ -1,0 +1,17 @@
+[PROMPT]: Name an animal that is growing in number due to recent conservation efforts
+[USER_ANSWER]: .
+
+Here are some examples:
+
+* **Gray Wolf**
+* **Black-Footed Ferret**
+* **California Condor**
+* **American Bison**
+
+Which animal would you choose and why? 
+
+Let me know your answer and I can tell you more about the animal's conservation story! 
+
+[CORRECT_ANSWER]: Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)
+[FEEDBACK]: The response provides examples of animals that are growing in number due to recent conservation efforts, which aligns with the instruction. The examples given (Gray Wolf, Black-Footed Ferret, California Condor, American Bison) are accurate and factual. However, the response includes additional questions and prompts that were not required by the instruction. Despite this, the core information provided is correct and relevant to the task.
+[RESULT]: 4

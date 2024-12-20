@@ -1,0 +1,10 @@
+[PROMPT]: Did Grant & Perkins not sell harnesses , saddles , and other leather goods and purchase hides from farmers in the prosperous Galena area ?
+[USER_ANSWER]: 
+
+It seems like a logical connection to the business model of a leather goods manufacturer. 
+
+Is there any evidence to support this connection?
+
+[CORRECT_ANSWER]: they did
+[FEEDBACK]: The response does not directly answer the question asked. Instead, it speculates about the business model and asks for evidence, which is not relevant to the instruction. The reference answer is a simple confirmation ("they did"), while the response fails to provide this confirmation and does not address the factual accuracy of the statement. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

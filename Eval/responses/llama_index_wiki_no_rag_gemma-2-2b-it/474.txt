@@ -1,0 +1,15 @@
+[PROMPT]: Who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?
+[USER_ANSWER]: 
+ 
+This question is likely referring to a specific research study or experiment. To find the answer, you could:
+
+* **Search for scientific articles:** Use keywords like "kangaroo blindness," "viral blindness," and "virus exposure" in databases like PubMed or Google Scholar.
+* **Consult veterinary resources:** Websites or journals focused on veterinary medicine might have information on this topic.
+* **Contact experts:** Reach out to researchers or veterinarians specializing in animal health and virology. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: Veterinarians
+[FEEDBACK]: The response does not directly answer the question about who discovered that less than three percent of kangaroos exposed to the virus developed blindness. Instead, it provides a general approach to finding the answer, which is not what was asked. The reference answer is "Veterinarians," which is a specific and direct answer. The response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

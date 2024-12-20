@@ -1,0 +1,12 @@
+[PROMPT]: Was Gellu Naum the leader of the surrealist movement in Romania ?
+[USER_ANSWER]: 
+
+Gellu Naum was a Romanian writer, poet, and political activist. He was a prominent figure in the Romanian intellectual and political scene during the interwar period. He was a strong advocate for social justice and human rights. 
+
+He was not a surrealist. Surrealism is a movement that originated in France in the 1920s and is associated with artists like Salvador Dali and René Magritte. 
+
+It's important to note that Gellu Naum's work was influenced by various literary and political movements, but he was not a surrealist. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "Yes," indicating that Gellu Naum was indeed the leader of the surrealist movement in Romania. However, the response provided states that he was not a surrealist and provides unrelated information about his political activism and other literary influences, which contradicts the reference answer. Therefore, the response fails to address the question accurately and factually.
+[RESULT]: 1

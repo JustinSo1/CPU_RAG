@@ -1,0 +1,8 @@
+[PROMPT]: Did his mother die of pneumonia?
+[USER_ANSWER]: 
+
+Please provide more context. Who is "he"? 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not answer the question directly and instead asks for more context. The reference answer is a simple "no," which directly addresses the question. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

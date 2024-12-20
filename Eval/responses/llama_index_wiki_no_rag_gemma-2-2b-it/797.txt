@@ -1,0 +1,10 @@
+[PROMPT]: What do all turtles and tortoises breathe?
+[USER_ANSWER]: 
+
+Turtles and tortoises breathe through their **lungs**. 
+
+They also have **gills** which are used for breathing underwater, but only when they are in water. 
+
+[CORRECT_ANSWER]: air
+[FEEDBACK]: The response is partially correct in stating that turtles and tortoises breathe through their lungs. However, it is inaccurate to say that they have gills for breathing underwater. Turtles and tortoises do not have gills; they rely solely on their lungs for breathing both on land and in water. This inaccuracy makes the response mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

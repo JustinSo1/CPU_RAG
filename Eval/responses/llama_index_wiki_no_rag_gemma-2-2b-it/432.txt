@@ -1,0 +1,17 @@
+[PROMPT]: Who were the midnight judges?
+[USER_ANSWER]: 
+
+The Midnight Judges were a group of judges who were appointed by the British government to oversee the trial of individuals accused of treason during the American Revolution.
+
+Here's a breakdown of their significance:
+
+* **Purpose:** They were tasked with determining guilt or innocence in cases of treason, a serious crime that could lead to death.
+* **Appointment:** The judges were appointed by the British government, which aimed to suppress dissent and maintain control during the Revolution.
+* **Controversy:** Their appointment was highly controversial, as many Americans saw them as biased and unfair. They were accused of using their power to punish those who opposed British rule.
+* **Impact:** The Midnight Judges' actions had a significant impact on the course of the Revolution. They helped to solidify the British government's control over the colonies and contributed to the growing sense of resentment and defiance among the colonists.
+
+**It's important to note:** The Midnight Judges were a controversial and complex part of the American Revolution. Their actions were driven by political motivations and aimed to maintain British control. However, their actions also contributed to the growing sense of American independence and resistance to British rule.
+
+[CORRECT_ANSWER]: They were a series of judges, so called because most of them were formally appointed days before Adams' presidential term expired
+[FEEDBACK]: The response is completely incorrect and inaccurate. The Midnight Judges were not appointed by the British government during the American Revolution. Instead, they were a group of judges appointed by President John Adams in the final days of his presidency, just before Thomas Jefferson took office. The response provided does not align with the historical context or the reference answer.
+[RESULT]: 1

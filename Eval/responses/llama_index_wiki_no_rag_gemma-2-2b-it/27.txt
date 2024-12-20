@@ -1,0 +1,22 @@
+[PROMPT]: Did Lincoln's Wife's Family support slavery?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Yes, Mary Todd Lincoln's family did support slavery. 
+
+**Explanation:**
+
+While Mary Todd Lincoln herself was a vocal opponent of slavery, her family's history is more complex. 
+
+* **Her father, Thomas Todd, was a wealthy landowner who owned slaves.** He was a prominent figure in the community and held a strong belief in the institution of slavery.
+* **Her mother, Elizabeth Todd, was also a slave owner.** She was a devout Christian who believed in the Bible's justification for slavery.
+* **Mary Todd Lincoln's family owned slaves for generations.** This was a significant part of their social and economic life.
+
+It's important to note that Mary Todd Lincoln's family's views on slavery were not necessarily shared by all members of her family. However, the fact that her father and mother were slave owners and that her family owned slaves for generations makes it clear that slavery was a part of their lives and a significant part of their social and economic structure.
+
+This information is crucial to understanding the complexities of Mary Todd Lincoln's life and her role in the Civil War. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Mary Todd Lincoln's family supported slavery and provides additional context about her parents and their ownership of slaves. However, the reference answer is very brief and simply states "Yes," while the evaluated response includes more detailed information. This additional detail does not detract from the accuracy but goes beyond the simplicity of the reference answer. Therefore, while the response is accurate, it is not completely aligned with the brevity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,30 @@
+[PROMPT]: What do beetles eat?
+[USER_ANSWER]: 
+
+Beetles are a diverse group of insects with a wide variety of diets. Here's a breakdown:
+
+**Herbivores:**
+* **Leaves:** Many beetles feed on leaves, including oak, maple, and birch. 
+* **Fruits:** Some beetles, like the fruit fly, feed on fruits.
+* **Flowers:** Certain beetles, like the flower beetle, feed on nectar and pollen.
+
+**Carnivores:**
+* **Insects:** Many beetles are predators, feeding on other insects like aphids, caterpillars, and grasshoppers.
+* **Other invertebrates:** Some beetles also eat worms, snails, and slugs.
+
+**Omnivores:**
+* **Both plants and animals:** Some beetles, like the dung beetle, eat both plants and animals.
+
+**Detritivores:**
+* **Dead organic matter:** Some beetles, like the dung beetle, feed on decaying organic matter.
+
+**Other:**
+* **Wood:** Some beetles, like the longhorn beetle, feed on wood.
+* **Sap:** Some beetles, like the bark beetle, feed on sap.
+
+**Factors influencing diet:**
+* **Species:** Different beetle species have different diets.
+* **Environment:** The availability of food sources in the environment
+[CORRECT_ANSWER]: Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.
+[FEEDBACK]: The response provides a detailed and accurate breakdown of the various diets of beetles, including herbivores, carnivores, omnivores, detritivores, and other specific diets like wood and sap. It also mentions factors influencing their diet, such as species and environment. While the reference answer is brief, the response is comprehensive and factually correct, covering all aspects mentioned in the reference answer and more. Therefore, it meets the criteria for being completely correct, accurate, and factual.
+[RESULT]: 5

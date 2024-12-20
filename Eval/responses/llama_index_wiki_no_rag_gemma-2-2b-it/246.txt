@@ -1,0 +1,10 @@
+[PROMPT]: Was Ford a member of the House of Representatives?
+[USER_ANSWER]: 
+
+No, Henry Ford was not a member of the House of Representatives. 
+
+He was a businessman and industrialist, best known for founding the Ford Motor Company. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The question asks about Ford's membership in the House of Representatives, and the reference answer indicates that the correct response is "Yes." The evaluated response incorrectly discusses Henry Ford, who was not a member of the House of Representatives, instead of Gerald Ford, who was. This demonstrates a fundamental misunderstanding of the question and provides inaccurate information.
+[RESULT]: 1

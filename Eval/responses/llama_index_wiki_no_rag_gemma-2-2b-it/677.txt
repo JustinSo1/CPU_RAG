@@ -1,0 +1,8 @@
+[PROMPT]: The bears sometimes what?
+[USER_ANSWER]: 
+
+The bears sometimes **sleep**! 🐻😴 
+
+[CORRECT_ANSWER]: They sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites.
+[FEEDBACK]: The response "The bears sometimes **sleep**! 🐻😴" is not correct, accurate, or factual based on the reference answer. The reference answer discusses bears having problems with skin diseases caused by mites or other parasites, which is a specific and factual issue. The response provided does not address this topic at all and instead mentions a general behavior of bears (sleeping), which is unrelated to the reference answer. Therefore, the response is completely incorrect and inaccurate in this context.
+[RESULT]: 1

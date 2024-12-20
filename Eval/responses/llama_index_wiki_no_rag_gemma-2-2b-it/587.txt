@@ -1,0 +1,16 @@
+[PROMPT]: How do sea otters insulate themselves?
+[USER_ANSWER]: 
+
+Sea otters are marine mammals that live in the cold waters of the Pacific Ocean. They have a thick layer of blubber, which is a type of fat that helps them to insulate themselves from the cold. 
+
+Here's how it works:
+
+* **Blubber:** Sea otters have a thick layer of blubber that acts as a natural insulator. This blubber is made up of fat cells that are packed tightly together. 
+* **Heat retention:** The blubber traps air, which helps to keep the otter warm. The air acts as a barrier against the cold water and prevents heat loss.
+* **Energy efficiency:** The blubber also helps the otter to conserve energy. By keeping them warm, the blubber allows them to be more active and efficient in their hunting and foraging activities.
+
+In addition to blubber, sea otters also have a dense fur coat that helps to trap air and provide additional insulation. 
+
+[CORRECT_ANSWER]: a layer of air trapped in their fur(!)
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer highlights that sea otters insulate themselves with a layer of air trapped in their fur, while the response incorrectly emphasizes the role of blubber. Although the response briefly mentions the dense fur coat, it does not focus on the primary mechanism of insulation, which is the air trapped in the fur. Therefore, the response does not align well with the reference answer and contains significant inaccuracies.
+[RESULT]: 2

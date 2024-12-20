@@ -1,0 +1,8 @@
+[PROMPT]: Does Romania share a border with Ukraine?
+[USER_ANSWER]: 
+
+Yes, Romania shares a border with Ukraine to the north. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that Romania shares a border with Ukraine and provides additional detail about the location of the border, which is accurate.
+[RESULT]: 5

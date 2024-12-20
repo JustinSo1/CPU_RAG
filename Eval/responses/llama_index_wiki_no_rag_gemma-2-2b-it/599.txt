@@ -1,0 +1,24 @@
+[PROMPT]: Are otters totem animals?
+[USER_ANSWER]: 
+
+Otters are not typically considered totem animals in the same way that animals like bears, wolves, or eagles are. 
+
+**However, otters hold cultural significance in many Indigenous cultures.** 
+
+Here's why:
+
+* **Respect for Nature:** Otters are seen as playful and intelligent creatures, symbolizing the interconnectedness of nature and the importance of respecting all living things.
+* **Resilience and Adaptability:** Otters are known for their ability to thrive in diverse environments, representing resilience and adaptability.
+* **Water and Life:** Otters are closely associated with water, symbolizing life, cleansing, and renewal.
+* **Family and Community:** Otters live in social groups, emphasizing the importance of family and community.
+
+**Specific cultural associations:**
+
+* **Native American cultures:** Some tribes see otters as symbols of good luck, prosperity, and protection.
+* **Japanese culture:** Otters are associated with the god of the sea and are often depicted in art and folklore.
+* **Indigenous cultures of the Pacific Northwest:** Otters are seen as guardians of the waterways and are often honored in ceremonies.
+
+While otters aren't universally recognized as totem animals, their cultural significance and symbolism make them powerful and meaningful creatures
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation about the cultural significance of otters and their symbolic meanings in various cultures. However, it does not directly address the question of whether otters are totem animals. The reference answer is a simple "Yes," indicating that otters can be considered totem animals. The response, while informative, suggests that otters are not typically considered totem animals, which contradicts the reference answer. Therefore, the response is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

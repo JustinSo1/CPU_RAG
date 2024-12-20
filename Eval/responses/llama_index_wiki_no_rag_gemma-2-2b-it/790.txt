@@ -1,0 +1,14 @@
+[PROMPT]: Did Roosevelt support racial integration in schools?
+[USER_ANSWER]: 
+
+This is a complex question that requires a nuanced understanding of Roosevelt's policies and the historical context. 
+
+**Here's a breakdown of the key points:**
+
+* **Roosevelt's early views:**  Theodore Roosevelt, the president's father, was a strong advocate for segregation. However, Franklin Delano Roosevelt (FDR) was more complex. He believed in equal opportunity but did not explicitly support racial integration in schools.
+* **The New Deal and segregation:** FDR's New Deal programs, while aimed at alleviating poverty and providing jobs, often inadvertently reinforced segregation. For example, the Works Progress Administration (WPA) employed many African Americans, but they were often relegated to low-paying, menial jobs.
+* **The "separate but equal" doctrine:**  FDR's administration was deeply influenced by the "separate but equal" doctrine established by the Supreme Court in Plessy v. Ferguson (1896). This doctrine allowed for racial segregation in public facilities, including schools, as long as facilities were equal.
+* **FDR's actions:** While FDR did not explicitly support racial integration in schools, he did take some steps to address racial discrimination. He appointed African Americans to high-level positions in his administration and supported legislation
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed and nuanced discussion of Roosevelt's policies and actions regarding racial integration in schools. However, it ultimately concludes that Roosevelt did not explicitly support racial integration in schools, which contradicts the reference answer that simply states "yes." While the response contains accurate historical information, it does not align with the reference answer's clear and direct affirmation. Therefore, the response is somewhat correct and factual but does not fully meet the criteria for complete accuracy based on the reference answer.
+[RESULT]: 3

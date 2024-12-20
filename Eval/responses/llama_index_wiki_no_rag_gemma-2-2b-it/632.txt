@@ -1,0 +1,18 @@
+[PROMPT]: How tall were the tallest prehistoric penguins?
+[USER_ANSWER]: 
+
+The tallest prehistoric penguins were **around 3 feet (90 cm) tall**. 
+
+Here's some additional information:
+
+* **Fossil evidence:**  These penguins lived during the Eocene epoch, around 50-34 million years ago. We know about them through fossilized bones and other remains.
+* **Species:**  The most well-known example is *Palaeeudyptes robustus*, a species that lived in Antarctica.
+* **Comparison:**  These penguins were significantly taller than modern penguins, which typically range from 2 to 3 feet (60-90 cm) tall. 
+* **Adaptations:**  Their size likely helped them to hunt in the colder waters of the Eocene.
+
+
+Let me know if you have any other questions about prehistoric penguins! 
+
+[CORRECT_ANSWER]: 1.80 meters
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The tallest prehistoric penguins were around 1.80 meters tall, not 3 feet (90 cm) as stated in the response. While the additional information about the Eocene epoch, species, and adaptations is interesting, it does not compensate for the incorrect height information. The comparison to modern penguins is also misleading because it suggests that the tallest prehistoric penguins were only slightly taller than modern ones, which is not accurate.
+[RESULT]: 2

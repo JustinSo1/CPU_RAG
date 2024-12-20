@@ -1,0 +1,12 @@
+[PROMPT]: How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+[USER_ANSWER]: 
+
+The Imperial Japanese Army did **not** win the Battle of Singapore. 
+
+The Battle of Singapore was a decisive defeat for the Japanese, and they were forced to surrender after a fierce and prolonged battle. 
+
+The battle lasted from **February 8 to 15, 1942**. 
+
+[CORRECT_ANSWER]: Six days
+[FEEDBACK]: The response is completely incorrect and inaccurate. The Imperial Japanese Army did win the Battle of Singapore, contrary to what the response states. Additionally, the response incorrectly claims that the Japanese were forced to surrender, which is factually incorrect. The battle did last from February 8 to 15, 1942, but the correct answer is that it took six days for the Japanese to win. The response fails to provide the correct duration and outcome of the battle.
+[RESULT]: 1

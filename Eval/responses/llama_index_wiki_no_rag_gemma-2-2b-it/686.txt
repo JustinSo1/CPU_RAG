@@ -1,0 +1,8 @@
+[PROMPT]: Where is Qatar's telecommunication system centered?
+[USER_ANSWER]: 
+
+The telecommunication system of Qatar is centered in **Doha**. 
+
+[CORRECT_ANSWER]: Doha.
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Doha as the center of Qatar's telecommunication system. However, the additional words and formatting (bold text) are unnecessary and slightly detract from the conciseness of the answer.
+[RESULT]: 4

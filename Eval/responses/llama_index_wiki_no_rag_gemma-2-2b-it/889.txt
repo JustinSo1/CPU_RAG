@@ -1,0 +1,27 @@
+[PROMPT]: Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?
+[USER_ANSWER]: 
+
+The question is about the role of the president in a country's government. 
+
+Let's break down the concept of a constitutional democracy and the president's role:
+
+**Constitutional Democracy:**
+
+* **Rule of Law:** The government operates under a constitution that outlines the powers and limitations of all branches of government.
+* **Separation of Powers:** Power is divided among the legislative, executive, and judicial branches. This prevents any one branch from becoming too powerful.
+* **Individual Rights:** Citizens have fundamental rights and freedoms protected by the constitution.
+* **Free and Fair Elections:** Citizens choose their leaders through regular, free, and fair elections.
+
+**President's Role:**
+
+* **Head of State:** Represents the country on the international stage and symbolizes national unity.
+* **Head of Government:** Leads the executive branch, responsible for implementing policies and managing the government.
+* **Commander-in-Chief:**  In many countries, the president holds the authority to command the armed forces.
+* **Legislative Power:**  In some countries, the president can propose legislation or veto bills passed by the legislature.
+
+**The President as Head of State and Head of Government:**
+
+In a constitutional democracy, the president typically fulfills both
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides a detailed explanation of what a constitutional democracy is and the roles of the president within such a system. However, it does not directly answer the question posed, which is whether the president fulfills the roles of both head of state and head of government in a constitutional democracy. The reference answer is a simple "Yes," indicating that a direct and concise answer was expected. While the response contains accurate information, it fails to directly address the question, making it only somewhat correct and accurate in the context of the given rubric.
+[RESULT]: 3

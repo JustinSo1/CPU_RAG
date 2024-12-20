@@ -1,0 +1,8 @@
+[PROMPT]: Was Calvin Coolidge a governor of MassachuS08_setts?
+[USER_ANSWER]: 
+
+**Answer:** Yes. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response "Yes." is completely correct, accurate, and factual based on the reference answer. It directly addresses the question and provides the correct information.
+[RESULT]: 5

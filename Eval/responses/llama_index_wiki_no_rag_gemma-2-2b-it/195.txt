@@ -1,0 +1,15 @@
+[PROMPT]: How many living species of African Elephants are there?
+[USER_ANSWER]: 
+
+The answer is **two**. 
+
+Here's why:
+
+* **African Bush Elephant (Loxodonta africana):** The largest land animal, known for its massive size and tusks.
+* **African Forest Elephant (Loxodonta cyclotis):** Smaller and more compact than the bush elephant, with smaller ears and a more rounded head.
+
+Let me know if you have any other animal trivia questions! 🐘 
+
+[CORRECT_ANSWER]: 2
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies that there are two living species of African Elephants and provides additional information about each species, which is accurate and relevant. The response is thorough and informative, aligning perfectly with the reference answer.
+[RESULT]: 5

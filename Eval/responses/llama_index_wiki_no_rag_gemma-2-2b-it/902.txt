@@ -1,0 +1,15 @@
+[PROMPT]: Where is Wilson buried?
+[USER_ANSWER]: 
+
+The question of where Wilson is buried is a bit of a trick! 
+
+* **The famous "Wilson" you're likely thinking of is Woodrow Wilson, the 28th President of the United States.** He is buried at the **Princeton University Cemetery** in Princeton, New Jersey. 
+
+* **There are other people named Wilson, of course.**  If you're thinking of someone else, you'll need to provide more information. 
+
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: He was buried in Washington National Cathedral
+[FEEDBACK]: The response is mostly incorrect and inaccurate based on the reference answer. The reference answer states that Wilson was buried in Washington National Cathedral, while the response incorrectly states that Woodrow Wilson is buried at Princeton University Cemetery. Additionally, the response introduces unnecessary ambiguity by mentioning other people named Wilson without providing relevant information. This detracts from the accuracy and clarity of the response.
+[RESULT]: 2

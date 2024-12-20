@@ -1,0 +1,16 @@
+[PROMPT]: Was Ford released from the hospital?
+[USER_ANSWER]: 
+
+I'm not sure if you're asking about a specific person named Ford or a general question about hospital releases. 
+
+To help me answer, please provide more context:
+
+* **Is this a real person or a fictional character?**
+* **What is the name of the hospital?**
+* **What is the reason for the hospital stay?**
+
+Once you provide more information, I can give you a more accurate answer. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response does not directly answer the question "Was Ford released from the hospital?" Instead, it asks for more context and additional information, which is unnecessary based on the simplicity of the question. The reference answer is a straightforward "Yes," indicating that the response should be direct and factual. The evaluated response fails to provide any factual information regarding Ford's release from the hospital and does not align with the reference answer. Therefore, it is mostly incorrect and not factual.
+[RESULT]: 2

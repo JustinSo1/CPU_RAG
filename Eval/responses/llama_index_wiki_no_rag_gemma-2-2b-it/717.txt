@@ -1,0 +1,17 @@
+[PROMPT]: Did Romania declare neutrality during World War I?
+[USER_ANSWER]: 
+
+Romania declared **neutrality** during World War I, but this declaration was **not entirely consistent** with its actions. 
+
+Here's a breakdown:
+
+* **Declaration:** Romania officially declared neutrality on **June 28, 1914**, hoping to avoid being drawn into the conflict.
+* **Actions:** While Romania claimed neutrality, it secretly supported the **Allied Powers** by providing them with military supplies, intelligence, and even troops. 
+* **Motivation:** Romania's neutrality was partly motivated by its desire to avoid being drawn into a war that could potentially threaten its own independence. 
+* **Shifting allegiances:**  Romania's actions were influenced by the complex political landscape of the time, with its own internal struggles and the pressure of neighboring countries.
+
+**In conclusion:** Romania's declaration of neutrality was a complex and nuanced issue, with its actions often contradicting its official stance. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides a detailed and nuanced explanation of Romania's stance during World War I, including its declaration of neutrality and subsequent actions. However, the reference answer is a simple "yes," indicating that the expected response should be straightforward and concise. While the detailed explanation is informative, it goes beyond the simplicity of the reference answer and introduces elements that are not required. Therefore, the response is somewhat correct and accurate but not aligned with the simplicity and directness of the reference answer.
+[RESULT]: 3

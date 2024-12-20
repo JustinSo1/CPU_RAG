@@ -1,0 +1,10 @@
+[PROMPT]: Does the giant otter inhabit South Africa?
+[USER_ANSWER]: 
+
+No, giant otters do not inhabit South Africa. 
+
+Giant otters are native to the **Americas**, specifically in **South America, Central America, and parts of North America**. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response correctly states that giant otters do not inhabit South Africa, which aligns with the reference answer. However, the additional information provided about the native habitat of giant otters is inaccurate. Giant otters are native to South America, not Central America or parts of North America. This inaccuracy affects the overall correctness and factuality of the response.
+[RESULT]: 3

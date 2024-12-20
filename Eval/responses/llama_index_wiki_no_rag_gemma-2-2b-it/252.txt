@@ -1,0 +1,21 @@
+[PROMPT]: What did Ford say about his biological father?
+[USER_ANSWER]: 
+
+Ford Prefect, the protagonist of Douglas Adams's *The Hitchhiker's Guide to the Galaxy*, is a fictional character.  He is a human from Earth who travels the galaxy with his alien friend Marvin the Paranoid Android.  Ford's father is a significant part of the story, but he is never actually named.  
+
+Here's what we know about Ford's father:
+
+* **He is a human.** This is stated explicitly in the book.
+* **He is not a good father.**  Ford's relationship with his father is strained, and he often feels neglected.
+* **He is a mystery.**  We never learn his name, his occupation, or anything else about him.
+
+**What is the significance of Ford's father in the story?**
+
+Ford's father is a symbol of the unknown and the unfulfilled. He represents the part of Ford's life that he cannot understand or control. He is a reminder that even though we may have a sense of belonging, there are still mysteries in our lives that we cannot solve.
+
+
+Let me know if you'd like to explore any of these points further! 
+
+[CORRECT_ANSWER]: He was abusive and had a history of hitting his mother.
+[FEEDBACK]: The response does not address the specific question about what Ford said about his biological father. Instead, it provides general information about Ford Prefect, a character from *The Hitchhiker's Guide to the Galaxy*, and his relationship with his father. The details given about Ford's father being human, not a good father, and a mystery are not relevant to the specific information requested, which is that Ford's father was abusive and had a history of hitting his mother. Therefore, the response is mostly incorrect and not factual based on the reference answer.
+[RESULT]: 2

@@ -1,0 +1,10 @@
+[PROMPT]: When did he publish another memoria?
+[USER_ANSWER]: 
+
+Please provide the context for your question. Who is "he"? 
+
+Once you provide that information, I can help you find the answer. 
+
+[CORRECT_ANSWER]: 1821
+[FEEDBACK]: The response does not provide the correct, accurate, and factual answer to the question. Instead, it asks for additional context and does not address the specific query about the publication date. According to the rubric, the response is completely incorrect, inaccurate, and not factual based on the reference answer provided.
+[RESULT]: 1

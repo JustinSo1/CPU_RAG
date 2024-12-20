@@ -1,0 +1,18 @@
+[PROMPT]: Where do leopards often hide their kills?
+[USER_ANSWER]: 
+
+Leopards are solitary hunters and are known for their stealth and agility. They often hide their kills in a variety of places, depending on the terrain and the specific circumstances of the hunt. Here are some common hiding spots:
+
+**Dense vegetation:** Leopards are adept at squeezing through tight spaces and can easily hide their kills amongst bushes, trees, or tall grass.
+**Under rocks or logs:** Leopards can easily squeeze under rocks or logs, making them ideal hiding spots for their kills.
+**In caves or crevices:** Leopards are known to use caves and crevices to hide their kills, especially in areas with limited visibility.
+**Water sources:** Leopards may also hide their kills near water sources, such as rivers, streams, or ponds, to deter scavengers.
+**Open areas:** While less common, leopards can also hide their kills in open areas, such as rocky outcrops or high vantage points, to ambush prey.
+
+**Why do leopards hide their kills?**
+
+* **To avoid scavengers:** Leopards are prey animals themselves and want to avoid attracting unwanted attention from larger predators like hyenas or vultures.
+* **To preserve their kill:** Hiding their kill helps leopards to keep the meat
+[CORRECT_ANSWER]: in dense vegetation
+[FEEDBACK]: The response provides a detailed and accurate description of various places where leopards might hide their kills, including dense vegetation, which is the reference answer. However, the response includes additional information that, while accurate, goes beyond the scope of the reference answer. The extra details about other hiding spots and reasons for hiding kills are informative but not necessary for the specific question asked. Therefore, while the response is mostly correct and factual, it is not completely aligned with the simplicity and directness of the reference answer.
+[RESULT]: 4

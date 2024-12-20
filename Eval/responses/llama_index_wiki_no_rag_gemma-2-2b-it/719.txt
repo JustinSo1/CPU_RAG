@@ -1,0 +1,10 @@
+[PROMPT]: Who was the first gymnast to score a perfect "ten"?
+[USER_ANSWER]: 
+
+The first gymnast to score a perfect "ten" was **Nadia Comăneci** of Romania. 
+
+She achieved this feat at the 1976 Montreal Olympics. 
+
+[CORRECT_ANSWER]: Nadia Comăneci
+[FEEDBACK]: The response correctly identifies Nadia Comăneci as the first gymnast to score a perfect "ten," which aligns with the reference answer. Additionally, the response provides extra information about the event and location, which is accurate and factual. This additional detail does not detract from the correctness of the answer but rather enhances it. Therefore, the response is completely correct, accurate, and factual based on the reference answer.
+[RESULT]: 5

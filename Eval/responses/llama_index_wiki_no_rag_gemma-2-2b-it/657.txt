@@ -1,0 +1,26 @@
+[PROMPT]: What is cause of polar bear's skin diseases?
+[USER_ANSWER]: 
+
+Polar bears are facing a number of health problems, including skin diseases. These diseases can be caused by a variety of factors, including:
+
+**1. Climate Change:**
+* **Melting sea ice:** This reduces the polar bear's hunting grounds and forces them to spend more time on land, increasing their exposure to parasites and bacteria.
+* **Changes in temperature:**  These can affect the bear's immune system and make them more susceptible to diseases.
+
+**2. Parasites:**
+* **Fleas, ticks, and mites:** These can cause skin irritation, inflammation, and even secondary infections.
+
+**3. Bacterial Infections:**
+* **Staphylococcus aureus:** This bacteria can cause skin lesions, abscesses, and even sepsis.
+
+**4. Nutritional Deficiencies:**
+* **Lack of essential nutrients:** This can weaken the bear's immune system and make them more vulnerable to diseases.
+
+**5. Other Factors:**
+* **Pollution:**  Exposure to pollutants can weaken the bear's immune system and make them more susceptible to diseases.
+* **Stress:**  Stress from hunting, habitat loss, and other environmental factors can weaken the bear's immune system and make them more susceptible to diseases.
+
+It's important
+[CORRECT_ANSWER]: mites or other parasites
+[FEEDBACK]: The response provides a detailed explanation of various factors that can cause skin diseases in polar bears, including climate change, parasites, bacterial infections, nutritional deficiencies, pollution, and stress. While the reference answer specifically mentions "mites or other parasites," the response does include parasites as one of the causes, which aligns with the reference answer. However, the response goes beyond the reference answer by listing additional factors that are not mentioned in the reference answer. This makes the response mostly correct and accurate, but not completely aligned with the reference answer.
+[RESULT]: 4

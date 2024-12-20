@@ -1,0 +1,20 @@
+[PROMPT]: Is Ford one of only four former Presidents to live to 90 or more years of age ?
+[USER_ANSWER]: 
+
+Here's why this is a tricky question:
+
+* **Ford's age:** Gerald Ford was born in 1913 and died in 2006. 
+* **Former Presidents:**  This refers to individuals who served as President of the United States. 
+* **Living to 90 or more:** This is a specific age threshold.
+
+**Answer:**
+
+No, Gerald Ford was not one of only four former Presidents to live to 90 or more years of age. 
+
+**Explanation:**
+
+While Gerald Ford lived a long life, he did not reach the age of 90.  To be considered one of only four former Presidents to live to 90 or more, you would need to compare him to other presidents who lived that long. 
+
+[CORRECT_ANSWER]: Yes.
+[FEEDBACK]: The response is completely incorrect. Gerald Ford did live to be 93 years old, making him one of the former Presidents who lived to 90 or more years of age. The explanation provided in the response is also inaccurate, as it incorrectly states that Ford did not reach the age of 90. This contradicts the factual information and the reference answer.
+[RESULT]: 1

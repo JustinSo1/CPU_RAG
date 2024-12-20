@@ -1,0 +1,10 @@
+[PROMPT]: What is the primary item in an otter's diet?
+[USER_ANSWER]: 
+
+The primary item in an otter's diet is **fish**. 
+
+Otters are carnivores and spend a significant amount of time hunting and eating fish. They are known for their agility and sharp teeth, which help them catch and consume their prey. 
+
+[CORRECT_ANSWER]: Fish.
+[FEEDBACK]: The response correctly identifies fish as the primary item in an otter's diet, which aligns with the reference answer. The additional information about otters being carnivores and their hunting behavior is accurate and factual, though not necessary for the primary question. Overall, the response is completely correct, accurate, and factual.
+[RESULT]: 5

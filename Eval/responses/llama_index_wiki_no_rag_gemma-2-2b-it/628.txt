@@ -1,0 +1,18 @@
+[PROMPT]: Are penguins birds?
+[USER_ANSWER]: 
+
+Yes, penguins are birds! 🐧 
+
+Here's why:
+
+* **They have feathers:**  Penguins are covered in feathers, just like other birds.
+* **They lay eggs:**  Penguins reproduce by laying eggs, just like all other birds.
+* **They have wings:**  While penguins' wings are modified into flippers for swimming, they are still wings! 
+* **They are warm-blooded:**  Penguins maintain a constant body temperature, just like other birds.
+
+
+Let me know if you have any other questions about penguins! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It confirms that penguins are birds and provides additional information to support this fact, such as their feathers, egg-laying, wings, and warm-blooded nature. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

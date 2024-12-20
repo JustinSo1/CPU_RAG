@@ -1,0 +1,8 @@
+[PROMPT]: In what year did East Timor secede from Indonesia?
+[USER_ANSWER]: 
+
+The year East Timor seceded from Indonesia is **2002**. 
+
+[CORRECT_ANSWER]: 1999
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The correct year East Timor seceded from Indonesia is 1999, not 2002.
+[RESULT]: 1

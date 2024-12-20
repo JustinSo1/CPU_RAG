@@ -1,0 +1,17 @@
+[PROMPT]: How much of the population is of white European descent?
+[USER_ANSWER]: 
+
+It's impossible to give a precise number for the percentage of the population that is of white European descent. This is because:
+
+* **Defining "white European" is complex:** There's no single, universally accepted definition. It can vary depending on the source, including whether it includes people with mixed ancestry, or whether it considers specific ethnicities within Europe.
+* **Data collection varies:** Different countries have different methods for collecting and classifying racial data, leading to inconsistencies.
+* **Self-identification is unreliable:** People may not accurately report their racial background, especially when it comes to complex categories like "white European."
+
+However, we can look at some general trends:
+
+* **Global estimates:**  Estimates from the World Bank and other organizations suggest that **around 50-60% of the world's population is of European descent.** This is a broad estimate and can vary significantly depending on the specific definition used.
+* **Regional variations:**  The percentage of people of European descent varies significantly across different regions of the world. For example, it is higher in countries like the United States, Canada, and Australia, where European immigration has been significant. 
+* **Changing demographics:**  The global population is becoming increasingly diverse,
+[CORRECT_ANSWER]: 88%
+[FEEDBACK]: The response does not provide a specific percentage, which is required based on the reference answer. Instead, it discusses the complexities and challenges in defining and measuring the population of white European descent. While the response offers some general trends and estimates, it does not align with the reference answer's clear and specific figure of 88%. Therefore, the response is mostly incorrect and does not meet the criteria for accuracy and factuality as per the reference answer.
+[RESULT]: 2

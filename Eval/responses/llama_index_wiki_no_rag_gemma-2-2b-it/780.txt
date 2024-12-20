@@ -1,0 +1,8 @@
+[PROMPT]: What was the nickname of Theodore Roosevelt's sister Anna?
+[USER_ANSWER]: 
+
+The nickname of Theodore Roosevelt's sister Anna was **"The Little Lioness."** 
+
+[CORRECT_ANSWER]: Bamie as a child and Bye as an adult
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The nickname "The Little Lioness" is not mentioned in the reference answer, which states that Anna was called "Bamie" as a child and "Bye" as an adult. Therefore, the response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

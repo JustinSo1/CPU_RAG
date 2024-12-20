@@ -1,0 +1,13 @@
+[PROMPT]: What district was Ford elected from?
+[USER_ANSWER]: 
+
+The question is a bit tricky because it depends on what you mean by "elected". 
+
+* **If you mean elected to the US House of Representatives:**  Ford was elected from the **11th Congressional District of Michigan**. 
+* **If you mean elected to the US Senate:**  Ford was **never** elected to the US Senate. 
+
+It's important to be specific with your question to get the right answer. 
+
+[CORRECT_ANSWER]: Michigan's 5th congressional district
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer states that Ford was elected from Michigan's 5th congressional district, while the response incorrectly states the 11th Congressional District of Michigan. Additionally, the response includes unnecessary information about the US Senate, which is not relevant to the question. Therefore, the response does not align well with the reference answer and lacks accuracy.
+[RESULT]: 2

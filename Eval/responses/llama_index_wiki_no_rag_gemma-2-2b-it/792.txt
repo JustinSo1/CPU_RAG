@@ -1,0 +1,21 @@
+[PROMPT]: Are turtles ectothermic?
+[USER_ANSWER]: 
+
+Here's why:
+
+* **Ectothermic:** Animals that rely on external sources of heat to regulate their body temperature. 
+* **Endothermic:** Animals that generate their own internal heat.
+
+**Turtles are ectothermic.** 
+
+Here's why:
+
+* **They bask in the sun:** Turtles often bask in the sun to warm up their bodies.
+* **They move to cooler areas:** When it's too hot, turtles will seek out cooler areas like shade or water.
+* **They rely on external sources:**  Their body temperature fluctuates with the environment.
+
+Let me know if you have any other questions! 🐢 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is correct in stating that turtles are ectothermic and provides accurate and factual information to support this claim. The explanation includes relevant details about ectothermic and endothermic animals, and it describes the behaviors turtles exhibit to regulate their body temperature. This aligns with the reference answer, which simply states "Yes." The response goes beyond the reference answer by providing additional context and explanation, but it remains completely correct, accurate, and factual.
+[RESULT]: 5

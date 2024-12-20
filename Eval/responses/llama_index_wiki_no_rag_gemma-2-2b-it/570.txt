@@ -1,0 +1,15 @@
+[PROMPT]: Was Fillmore one of the founders of the University of Buffalo?
+[USER_ANSWER]: 
+
+No, Millard Fillmore was not one of the founders of the University of Buffalo. 
+
+Here's why:
+
+* **Millard Fillmore** was the 13th President of the United States. He was a politician who served from 1850 to 1853.
+* **The University of Buffalo** was founded in 1846. 
+
+While Fillmore was a prominent figure in American politics, he was not involved in the founding of the University of Buffalo. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Fillmore was indeed one of the founders of the University of Buffalo, while the response asserts the opposite. The additional information provided about Fillmore's presidency and the founding year of the University of Buffalo does not compensate for the fundamental inaccuracy regarding Fillmore's role in the university's founding.
+[RESULT]: 1

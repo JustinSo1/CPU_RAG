@@ -1,0 +1,17 @@
+[PROMPT]: Did Woodrow Wilson create the League of Nations?
+[USER_ANSWER]: 
+
+**Answer:** Yes, Woodrow Wilson was instrumental in the creation of the League of Nations. 
+
+**Explanation:**
+
+* **Wilson's Vision:** Woodrow Wilson, the President of the United States during World War I, strongly believed in international cooperation and a system of collective security to prevent future wars. He envisioned a world where nations would work together to maintain peace and solve disputes peacefully.
+* **The Fourteen Points:** Wilson outlined his vision in his "Fourteen Points" speech in 1918. This included the creation of a League of Nations, a global organization to promote international cooperation and prevent future conflicts.
+* **The Treaty of Versailles:** The Treaty of Versailles, which officially ended World War I, included the creation of the League of Nations as a key element. Wilson pushed for its inclusion, hoping it would provide a framework for international peace.
+* **Obstacles and Failure:** Despite Wilson's efforts, the League of Nations faced significant challenges. It lacked the power to enforce its decisions and was ultimately unable to prevent World War II.
+
+**In conclusion:** While the League of Nations was ultimately unsuccessful, Woodrow Wilson played a crucial role in its creation and laid the groundwork for the idea of international cooperation. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of Woodrow Wilson's role in the creation of the League of Nations, including his vision, the Fourteen Points, and the Treaty of Versailles. However, the reference answer is very brief and simply states "yes," which is completely correct and factual. The evaluated response goes beyond the simplicity of the reference answer, but it does not contain any inaccuracies or incorrect information. Therefore, it is mostly correct and factual, but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

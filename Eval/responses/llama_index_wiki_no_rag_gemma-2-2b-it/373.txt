@@ -1,0 +1,8 @@
+[PROMPT]: What is the first word on the page?
+[USER_ANSWER]: 
+
+The first word on the page is **"The"**. 
+
+[CORRECT_ANSWER]: James
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The first word on the page is "James," not "The."
+[RESULT]: 1

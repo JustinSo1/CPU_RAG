@@ -1,0 +1,22 @@
+[PROMPT]: Do wolves leave their pack?
+[USER_ANSWER]: 
+
+Wolves are highly social animals and live in packs, but they can sometimes leave their pack. Here's a breakdown of why and how:
+
+**Reasons for Leaving:**
+
+* **Age and Maturity:** Young wolves, especially those that haven't reached sexual maturity, may leave the pack to explore and find their own territory.
+* **Competition:**  If a wolf is stronger or more skilled than others in the pack, it may be able to establish its own territory and leave the pack.
+* **Conflict:**  Disagreements or conflicts within the pack can lead to a wolf leaving to avoid further tension.
+* **Reproductive Success:**  Wolves may leave to find a mate and establish their own breeding group.
+* **Environmental Changes:**  A wolf may leave if its territory is significantly altered by factors like habitat loss or climate change.
+* **Human Interaction:**  Wolves may be forced to leave their pack due to human activities like hunting or habitat destruction.
+
+**How Wolves Leave:**
+
+* **Gradual Departure:**  Wolves often leave their pack gradually, spending time exploring and establishing their own territory.
+* **Sudden Departure:**  In some cases, a wolf may leave abruptly, especially if there is a significant threat or conflict.
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed explanation of why and how wolves might leave their pack, which aligns with the reference answer that simply states "Yes." However, the response goes beyond the simplicity of the reference answer by offering additional context and information. While this extra detail is not incorrect, it is not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct but not completely aligned with the simplicity of the reference answer.
+[RESULT]: 4

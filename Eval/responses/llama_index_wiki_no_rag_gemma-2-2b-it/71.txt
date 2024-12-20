@@ -1,0 +1,12 @@
+[PROMPT]: What is the study of beetles called?
+[USER_ANSWER]:  
+ 
+The study of beetles is called **Entomology**. 
+ 
+Entomology is the branch of biology that deals with the study of insects, including beetles. 
+ 
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: coleopterology
+[FEEDBACK]: The response is mostly incorrect. While it is true that entomology is the study of insects, the specific study of beetles is called coleopterology. The response does not provide the correct term for the study of beetles, making it inaccurate based on the reference answer.
+[RESULT]: 2

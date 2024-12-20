@@ -1,0 +1,25 @@
+[PROMPT]: What is the weather like at Lake Volta?
+[USER_ANSWER]: 
+
+Lake Volta is located in Ghana, West Africa. The weather is generally warm and humid, with temperatures ranging from 70°F to 85°F (21°C to 29°C) throughout the year. 
+
+Here's a more detailed breakdown:
+
+* **Rainy Season:**  The rainy season runs from May to October, with heavy rainfall and thunderstorms. Temperatures remain relatively warm, but humidity can be very high.
+* **Dry Season:**  The dry season runs from November to April, with less rainfall and cooler temperatures. This is the best time to visit Lake Volta for sightseeing and outdoor activities.
+* **Humidity:**  Lake Volta is known for its high humidity, especially during the rainy season. 
+* **Sunshine:**  Lake Volta enjoys plenty of sunshine throughout the year.
+
+
+**Additional Notes:**
+
+* **Mosquitoes:**  Be prepared for mosquitoes, especially during the rainy season.
+* **Clothing:**  Pack light, breathable clothing and comfortable shoes.
+* **Sun Protection:**  Sunscreen and hats are recommended, even during the dry season.
+
+
+I hope this information is helpful! 
+
+[CORRECT_ANSWER]: Warm and comparatively dry
+[FEEDBACK]: The response provides a detailed and accurate description of the weather at Lake Volta, including information about temperature ranges, rainy and dry seasons, humidity, and sunshine. However, the reference answer is very concise, stating that the weather is "warm and comparatively dry." While the response is mostly correct and factual, it includes more details than necessary and does not emphasize the "comparatively dry" aspect as much as the reference answer does. Therefore, it is mostly correct but not completely aligned with the reference answer's simplicity and focus.
+[RESULT]: 4

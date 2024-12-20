@@ -1,0 +1,19 @@
+[PROMPT]: Do female polar bears weight more than the male?
+[USER_ANSWER]: 
+
+Here's the breakdown:
+
+* **Generally, yes.** Female polar bears are typically heavier than male polar bears. 
+* **Size varies.**  There can be exceptions, and the weight difference can fluctuate depending on factors like age, diet, and location.
+
+**Why are females heavier?**
+
+* **Pregnancy and nursing:** Female polar bears carry and nurse cubs, which requires significant energy reserves.
+* **Larger body size:** Females tend to have a larger body size than males, which contributes to their higher weight.
+* **Dietary differences:**  While both sexes eat seals, females may have a slightly higher caloric intake due to their larger size and the demands of pregnancy and nursing.
+
+**Important note:**  Polar bear populations are facing challenges due to climate change, which can impact their weight and size. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer clearly states "no," indicating that female polar bears do not weigh more than male polar bears. However, the response provided claims that female polar bears are typically heavier than male polar bears and provides detailed explanations to support this incorrect assertion. This contradicts the factual information given in the reference answer.
+[RESULT]: 1

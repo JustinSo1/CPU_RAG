@@ -1,0 +1,21 @@
+[PROMPT]: What percentage of the population don't speak English or French at home?
+[USER_ANSWER]: 
+
+It's impossible to give a precise percentage for this question. Here's why:
+
+* **Data Collection Challenges:**  Collecting accurate data on language use at home is difficult. People may not be willing to disclose their language preferences, or data collection methods might not be representative of the entire population.
+* **Fluidity of Language:** Language use is not static. People may switch between languages depending on the situation, making it hard to define "at home" language use.
+* **Varying Definitions:**  What constitutes "speaking English or French at home" can vary. Does it mean fluency, basic conversational skills, or just being able to understand basic phrases?
+
+**However, we can provide some general insights:**
+
+* **English:** English is the most widely spoken language in the world, but it's not the native language of everyone.  Estimates suggest that a significant portion of the global population speaks English as a second language.
+* **French:** French is another widely spoken language, but its usage is concentrated in certain regions. 
+* **Other Languages:** Many other languages are spoken at home in various parts of the world. 
+
+**Where to Find More Information:**
+
+* **National Statistics Offices:**  Government statistics offices in
+[CORRECT_ANSWER]: 28%
+[FEEDBACK]: The response does not provide a specific percentage, which is required to answer the question accurately. Instead, it discusses the challenges of data collection and the fluidity of language use, which, while informative, does not address the question directly. The reference answer is a straightforward percentage (28%), and the response fails to provide any numerical data or a direct answer. Therefore, the response is not correct, accurate, or factual based on the reference answer.
+[RESULT]: 1

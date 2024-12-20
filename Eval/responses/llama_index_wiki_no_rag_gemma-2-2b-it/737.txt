@@ -1,0 +1,19 @@
+[PROMPT]: Did Singapore's standard of living decrease since independence?
+[USER_ANSWER]: 
+
+Singapore's standard of living has **not decreased** since independence. In fact, it has **significantly improved** over the years. 
+
+Here's why:
+
+* **Economic Growth:** Singapore has experienced rapid economic growth since independence, transforming from a small, developing nation to a global economic powerhouse. This growth has led to increased income levels, better infrastructure, and improved living standards for its citizens.
+* **High Quality of Life:** Singapore boasts a high quality of life with excellent healthcare, education, and public services. Its clean and safe environment, efficient transportation system, and vibrant cultural scene contribute to its high standard of living.
+* **Technological Advancement:** Singapore has embraced technological advancements, leading to increased productivity and economic growth. This has resulted in better job opportunities, higher wages, and improved living conditions for its citizens.
+* **Social Progress:** Singapore has made significant strides in social progress, including gender equality, racial harmony, and social mobility. These factors contribute to a more inclusive and equitable society, further enhancing the standard of living for its citizens.
+
+While there may be occasional challenges and fluctuations in the economy, Singapore's overall standard of living remains high and continues to improve. 
+
+
+It's important to note that comparing living standards across
+[CORRECT_ANSWER]: No, the standard living was raised.
+[FEEDBACK]: The response is completely correct, accurate, and factual. It clearly states that Singapore's standard of living has not decreased since independence and provides detailed reasons to support this claim, including economic growth, high quality of life, technological advancement, and social progress. These points align with the reference answer, which simply states that the standard of living was raised. The response goes above and beyond by elaborating on the factors contributing to the improved standard of living, making it a comprehensive and well-supported answer.
+[RESULT]: 5

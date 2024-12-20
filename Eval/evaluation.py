@@ -55,8 +55,8 @@ def create_question_answer_df(file_name):
 def main():
     # rag-mini-wikipedia
     # file_names = glob.glob("../data/dataset/rag_wikipedia/results/chunking_neighbors/*.csv")
-    experiment_name = 'llama_index_wiki_no_rag_gpt_accuracy_stats'
-    file_names = ['llama_index_wiki_no_rag_gpt-4o.csv']
+    experiment_name = 'llama_index_wiki_no_rag_gemma-2-2b-it_accuracy_stats'
+    file_names = ['llama_index_wiki_no_rag_gemma-2-2b-it.csv']
     for file_name in file_names:
         print(f"Processing {file_name}")
 

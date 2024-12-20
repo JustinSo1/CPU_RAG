@@ -1,0 +1,8 @@
+[PROMPT]: Is the capital city Oslo?
+[USER_ANSWER]: 
+
+**Yes**, Oslo is the capital city of Norway. 
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Oslo as the capital city of Norway, which is a factual statement. However, the reference answer is "no," which suggests that the expected response should have been a simple "no" rather than an elaboration. Therefore, while the response is factually accurate, it does not align with the expected simplicity of the reference answer.
+[RESULT]: 4

@@ -1,0 +1,18 @@
+[PROMPT]: Are polar bears excellent swimmers?
+[USER_ANSWER]: 
+
+Polar bears are **excellent swimmers**, and they are perfectly adapted for life in the Arctic. Here's why:
+
+* **Thick layer of blubber:** This provides insulation and buoyancy, making it easier for them to stay afloat.
+* **Webbed feet:** These help them propel themselves through the water with speed and agility.
+* **Dense fur:** This traps air, further reducing water resistance.
+* **Strong legs:** These allow them to swim long distances and dive deep for prey.
+* **Keen sense of smell:** This helps them locate seals, their primary food source, underwater.
+
+Polar bears can swim for long periods, diving to depths of up to 10 meters to catch seals. They are also known to swim in rough seas and currents, demonstrating their exceptional swimming abilities.
+
+So, yes, polar bears are truly excellent swimmers, making them well-equipped to thrive in their icy environment.
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about why polar bears are excellent swimmers, including their physical adaptations and abilities. This aligns with the reference answer, which simply states "yes." The response goes above and beyond by offering additional context and supporting details, but it remains entirely accurate and factual.
+[RESULT]: 5

@@ -1,0 +1,18 @@
+[PROMPT]: What suborder of turtles is extinct?
+[USER_ANSWER]: 
+
+The suborder of turtles that is extinct is **Trionychinae**. 
+
+Here's why:
+
+* **Trionychinae** were a group of turtles that lived during the Cretaceous period.
+* They were characterized by their **large, bony plates** covering their shells.
+* They were **highly specialized for aquatic environments**.
+* **The extinction of Trionychinae** is believed to be linked to the **mass extinction event at the end of the Cretaceous period**, which wiped out many other groups of animals, including dinosaurs.
+
+
+Let me know if you have any other questions about turtles! 🐢 
+
+[CORRECT_ANSWER]: Paracryptodira
+[FEEDBACK]: The response is completely incorrect and inaccurate. The suborder of turtles that is extinct is Paracryptodira, not Trionychinae. The information provided about Trionychinae is not relevant to the question and does not align with the reference answer.
+[RESULT]: 1

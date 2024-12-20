@@ -1,0 +1,18 @@
+[PROMPT]: Different species of kangaroos eat what?
+[USER_ANSWER]: 
+
+Kangaroos are herbivores, which means they eat plants. 
+
+Here's a breakdown of what different species of kangaroos eat:
+
+* **Red Kangaroo:**  They primarily eat grasses, herbs, and shrubs.
+* **Eastern Grey Kangaroo:** They also eat grasses, herbs, and shrubs, but they also consume a variety of other plants, including leaves, fruits, and roots.
+* **Western Grey Kangaroo:** They have a similar diet to the Eastern Grey Kangaroo, with a focus on grasses, herbs, and shrubs.
+* **Antilopine Kangaroo:** They are known for their preference for grasses and herbs, but they also consume a variety of other plants, including leaves, fruits, and roots.
+* **Tree Kangaroo:** They are specialized herbivores, primarily eating leaves, fruits, and flowers from trees.
+
+It's important to note that the diet of kangaroos can vary depending on the season, availability of food, and individual preferences. 
+
+[CORRECT_ANSWER]: different diets
+[FEEDBACK]: The response provides a detailed and accurate breakdown of the diets of different species of kangaroos. It correctly identifies that kangaroos are herbivores and specifies the types of plants each species consumes. The information is factual and aligns with the reference answer's indication of different diets. The response also adds valuable context about the variability in diet due to factors like season and food availability, which enhances its accuracy and completeness.
+[RESULT]: 5

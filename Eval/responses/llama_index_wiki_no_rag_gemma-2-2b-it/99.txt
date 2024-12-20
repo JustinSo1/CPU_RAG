@@ -1,0 +1,10 @@
+[PROMPT]: When was Coolidge born?
+[USER_ANSWER]: 
+
+**Answer:**  Herbert Hoover was born in 1874. 
+
+**Explanation:**  This question is a bit tricky because it's designed to test your knowledge of US presidents.  You're likely to be asked about the birth dates of presidents, but it's important to remember that the question is asking for the birth date of **Coolidge**, not Hoover. 
+
+[CORRECT_ANSWER]: July 4 1872
+[FEEDBACK]: The response is completely incorrect and inaccurate. The question asks for the birth date of Coolidge, but the response provides the birth date of Herbert Hoover instead. Additionally, the explanation does not correct the mistake or provide the correct information about Coolidge's birth date. Therefore, the response does not meet the criteria for accuracy or factual correctness.
+[RESULT]: 1

@@ -1,0 +1,15 @@
+[PROMPT]: What does a polar bear's fur provide?
+[USER_ANSWER]: 
+
+A polar bear's fur provides **insulation** and **protection** from the cold. 
+
+Here's a breakdown of how:
+
+* **Insulation:** The fur is incredibly dense and hollow, trapping a layer of warm air close to the bear's body. This helps to regulate its body temperature and keep it warm even in freezing temperatures.
+* **Protection:** The fur also acts as a barrier against the elements, protecting the bear from wind, snow, and ice. 
+
+This combination of insulation and protection is essential for polar bears to survive in their harsh Arctic environment. 
+
+[CORRECT_ANSWER]: It provides the animal with effective camouflage.
+[FEEDBACK]: The response provides accurate information about the insulation and protection properties of a polar bear's fur, which are factual and correct. However, it does not address the aspect of camouflage, which is the focus of the reference answer. Therefore, while the response is factually correct, it does not fully align with the reference answer's emphasis on camouflage.
+[RESULT]: 3

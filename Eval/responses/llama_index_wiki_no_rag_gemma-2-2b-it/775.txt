@@ -1,0 +1,8 @@
+[PROMPT]: Does Theodore Roosevelt have a brother?
+[USER_ANSWER]: 
+
+Theodore Roosevelt had a **brother named Elliott Roosevelt**. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. Theodore Roosevelt did have a brother named Elliott Roosevelt. However, the reference answer is a simple "Yes," which is a more concise response to the question. The additional detail in the evaluated response is accurate but not necessary for the question asked. Therefore, it does not fully align with the simplicity of the reference answer.
+[RESULT]: 4

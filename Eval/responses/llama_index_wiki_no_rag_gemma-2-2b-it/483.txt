@@ -1,0 +1,16 @@
+[PROMPT]: Is the leopard smaller than the other members of Panthera?
+[USER_ANSWER]: 
+
+The leopard is smaller than the other members of the Panthera genus, which includes lions, tigers, jaguars, and snow leopards. 
+
+Here's why:
+
+* **Size:** Leopards are generally smaller than their larger Panthera cousins.  
+* **Weight:** Leopards typically weigh between 88-176 pounds, while lions can weigh up to 550 pounds, tigers up to 670 pounds, and jaguars up to 300 pounds.
+* **Habitat:** Leopards are adapted to living in a variety of habitats, including forests, grasslands, and mountains. This allows them to be more adaptable and smaller in size than their larger, more specialized cousins.
+
+Let me know if you have any other questions about leopards or other big cats! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the leopard is smaller than other members of the Panthera genus and provides additional details about size and weight comparisons. However, the reference answer is very brief and direct, while the response includes extra information that, although accurate, is not necessary to answer the question. The additional details about habitat and adaptability, while interesting, are not directly relevant to the size comparison.
+[RESULT]: 4

@@ -1,0 +1,16 @@
+[PROMPT]: Why did Coolidge not attend law school?
+[USER_ANSWER]: 
+
+Calvin Coolidge, the 30th President of the United States, did not attend law school. He was a self-taught lawyer, and his legal knowledge was primarily gained through reading and experience.
+
+Here's why he didn't go to law school:
+
+* **He was a self-taught lawyer:** Coolidge had a strong interest in law and politics from a young age. He read extensively on legal topics and developed a deep understanding of the law through his own research and study.
+* **He had a strong work ethic:** Coolidge was a hard worker and believed that learning could be achieved through dedication and effort. He was not interested in attending a traditional law school and felt that he could learn the necessary skills through practical experience.
+* **He had a different path in mind:** Coolidge was more interested in politics and public service than in becoming a lawyer. He believed that he could make a greater impact on society by entering politics.
+
+It's important to note that Coolidge's lack of formal legal education did not hinder his success in public service. He was a skilled politician and administrator, and he served as Governor of Massachusetts and Vice President before becoming President.
+
+[CORRECT_ANSWER]: It was too expensive
+[FEEDBACK]: The response provides a detailed explanation of why Coolidge did not attend law school, mentioning his self-taught background, strong work ethic, and interest in politics. However, it does not address the specific reason given in the reference answer, which is that law school was too expensive. Therefore, the response is not aligned with the reference answer and is mostly incorrect based on the given rubric.
+[RESULT]: 2

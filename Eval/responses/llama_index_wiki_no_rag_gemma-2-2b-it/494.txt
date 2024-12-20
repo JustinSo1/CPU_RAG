@@ -1,0 +1,8 @@
+[PROMPT]: Is the leopard one of the four 'big cats'?
+[USER_ANSWER]: 
+
+The leopard is one of the four 'big cats'. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question and provides the necessary information without any errors or inaccuracies.
+[RESULT]: 5

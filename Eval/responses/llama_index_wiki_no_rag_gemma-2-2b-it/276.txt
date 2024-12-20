@@ -1,0 +1,16 @@
+[PROMPT]: Is English Ghana's official language?
+[USER_ANSWER]: 
+
+This is a bit of a tricky question! 
+
+Here's the breakdown:
+
+* **English is widely spoken in Ghana:** It's the language of education, business, and government. 
+* **Ghana has no official language:**  This means there isn't a single language that's designated as the official language of the country. 
+* **Akan languages are prominent:**  The Akan languages are the most widely spoken in Ghana, with several different dialects. 
+
+So, while English is very important in Ghana, it's not the official language. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The reference answer clearly states that English is the official language of Ghana, while the response incorrectly claims that Ghana has no official language. Although the response provides some accurate information about the use of English and Akan languages in Ghana, it ultimately fails to correctly address the main question.
+[RESULT]: 2

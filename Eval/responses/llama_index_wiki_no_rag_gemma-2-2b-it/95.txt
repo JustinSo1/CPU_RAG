@@ -1,0 +1,18 @@
+[PROMPT]: Who appointed Harlan Fiske Stone to the Supreme Court?
+[USER_ANSWER]: 
+
+The question is a bit tricky because Harlan Fiske Stone was never appointed to the Supreme Court. 
+
+**Harlan Fiske Stone was a prominent American lawyer and judge, but he was never nominated to the Supreme Court.** 
+
+He was a very influential figure in American law, serving as:
+
+* **U.S. Attorney General:** He served under President Theodore Roosevelt.
+* **U.S. District Judge:** He served in the Southern District of New York.
+* **Chief Justice of the New York Court of Appeals:** He served in this role for a significant period.
+
+Perhaps you were thinking of another Supreme Court Justice? 
+
+[CORRECT_ANSWER]: Coolidge
+[FEEDBACK]: The response is completely incorrect and inaccurate. Harlan Fiske Stone was indeed appointed to the Supreme Court, and the correct answer is that he was appointed by President Calvin Coolidge. The response provides incorrect information about Stone's career and does not address the question accurately. Therefore, it fails to meet the criteria for correctness and factual accuracy.
+[RESULT]: 1

@@ -1,0 +1,8 @@
+[PROMPT]: Where is Uruguay's oldest church?
+[USER_ANSWER]: 
+
+The oldest church in Uruguay is located in the city of **Montevideo**. It is called **Iglesia de San Francisco**. 
+
+[CORRECT_ANSWER]: San Carlos, Maldonado.
+[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The oldest church in Uruguay is located in San Carlos, Maldonado, not Montevideo. Additionally, the name of the church provided in the response, "Iglesia de San Francisco," is not mentioned in the reference answer. Therefore, the response does not align with the factual information given in the reference answer.
+[RESULT]: 1

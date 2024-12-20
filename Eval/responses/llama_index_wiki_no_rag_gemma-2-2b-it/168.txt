@@ -1,0 +1,18 @@
+[PROMPT]: What types of unrelated water birds with similar forms are ducks sometimes confused with?
+[USER_ANSWER]: 
+
+Here's a breakdown of the types of birds that ducks are often confused with:
+
+* **Geese:**  Geese are larger than ducks, have a more prominent neck, and often have a more rounded body shape. 
+* **Swans:** Swans are the largest waterfowl, with long necks and elegant, curved bills. They are often distinguished by their white plumage and black-tipped wings.
+* **Loons:** Loons are aquatic birds with a distinctive, elongated body and a long, narrow bill. They are often confused with ducks because of their similar body shape and size.
+* **Herons:** Herons are wading birds with long legs and necks, and they often have a long, pointed bill. They are often confused with ducks because of their similar body shape and size.
+
+**Why are these birds sometimes confused with ducks?**
+
+* **Similar Size and Shape:** Many of these birds share similar body shapes and sizes with ducks, making them difficult to distinguish at a glance.
+* **Similar Plumage:** Some of these birds, like geese and swans, have similar plumage patterns to ducks, especially in the summer months.
+* **Habitat:** Ducks often inhabit similar habitats to these other birds, such as lakes, ponds
+[CORRECT_ANSWER]: loons or divers, grebes, gallinules, and coots
+[FEEDBACK]: The response provides a detailed explanation of birds that ducks are often confused with, including geese, swans, loons, and herons. However, the reference answer specifically mentions loons or divers, grebes, gallinules, and coots. While loons are correctly identified, the response does not mention grebes, gallinules, or coots, and instead includes geese, swans, and herons, which are not mentioned in the reference answer. Therefore, the response is only somewhat correct and factual based on the reference answer.
+[RESULT]: 3

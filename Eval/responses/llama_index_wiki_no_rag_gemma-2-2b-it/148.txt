@@ -1,0 +1,21 @@
+[PROMPT]: Are ducks in the Arctic Northern Hemisphere migratory?
+[USER_ANSWER]: 
+
+Ducks are generally known for their migratory patterns, but the Arctic region presents a unique challenge. 
+
+Here's a breakdown:
+
+**Yes, ducks in the Arctic are migratory, but with some important caveats:**
+
+* **Not all duck species are equally migratory:** Some ducks, like the Mallard, are highly migratory, spending their summers in the Arctic and winters in warmer regions. Others, like the Canvasback, are more sedentary, staying in the Arctic year-round.
+* **Arctic ducks face unique challenges:** The Arctic is a harsh environment with limited food sources and harsh weather conditions. This means that ducks need to be highly adaptable and efficient in their movements.
+* **Migration patterns vary:** The timing and routes of duck migration can vary depending on the species, the year, and the availability of food and water.
+
+**Here's a more detailed look at duck migration in the Arctic:**
+
+* **Arctic ducks rely on a combination of factors:**  They use the Earth's magnetic field, the position of the sun, and their own internal clocks to navigate.
+* **Migration is essential for survival:**  Ducks need to migrate to find food and breeding grounds.
+* **Climate change is impacting migration:**  Changes in temperature and
+[CORRECT_ANSWER]: Some are
+[FEEDBACK]: The response provides a detailed explanation about the migratory patterns of ducks in the Arctic, mentioning that some species are migratory while others are not. This aligns with the reference answer, which states "Some are." However, the response includes additional information that is not necessary to answer the question directly. While the extra details are accurate and factual, they are not required to meet the criteria of the reference answer. The response is mostly correct and factual, but the additional information slightly deviates from the simplicity of the reference answer.
+[RESULT]: 4

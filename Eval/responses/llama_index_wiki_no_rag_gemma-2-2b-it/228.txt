@@ -1,0 +1,8 @@
+[PROMPT]: Is Matti Vanhanen the Prime Minister of Finland?
+[USER_ANSWER]: 
+
+Matti Vanhanen was the Prime Minister of Finland from 2003 to 2007. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides accurate information about Matti Vanhanen's tenure as Prime Minister of Finland from 2003 to 2007. However, it does not directly answer the question of whether he is currently the Prime Minister of Finland. The reference answer is a simple "yes," indicating that the expected response should directly address the current status. Therefore, while the response is factually correct, it does not fully meet the criteria of directly answering the question.
+[RESULT]: 3

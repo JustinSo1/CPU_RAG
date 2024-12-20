@@ -1,0 +1,10 @@
+[PROMPT]: What was Adams' political party?
+[USER_ANSWER]: 
+
+Answer:
+
+**Federalist** 
+
+[CORRECT_ANSWER]: The Federalist Party.
+[FEEDBACK]: The response "Federalist" is correct and accurately identifies Adams' political party. However, it is not as complete as the reference answer, which includes "The" and "Party." While the essential information is conveyed, the response lacks the full phrasing provided in the reference answer.
+[RESULT]: 4

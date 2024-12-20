@@ -1,0 +1,24 @@
+[PROMPT]: Why are relations with Malaysia and Indonesia important?
+[USER_ANSWER]: 
+
+Relations with Malaysia and Indonesia are important for several reasons:
+
+**Economic:**
+
+* **Trade:** Both countries are major trading partners, with significant bilateral trade in goods and services. Indonesia is a major exporter of palm oil, rubber, and minerals, while Malaysia is a major exporter of electronics, palm oil, and rubber.
+* **Investment:** Both countries attract significant foreign investment, with Malaysia being a regional hub for manufacturing and services, and Indonesia a growing market for consumer goods and infrastructure.
+* **Regional Economic Integration:** Both countries are members of ASEAN, the Association of Southeast Asian Nations, which promotes economic cooperation and integration within the region.
+
+**Political:**
+
+* **Strategic Partnership:** Both countries have strong strategic partnerships, with close political and security ties. They cooperate on issues such as counterterrorism, maritime security, and defense.
+* **Regional Stability:** Maintaining good relations with both countries is crucial for regional stability and security in Southeast Asia.
+* **Diplomatic Influence:** Both countries have significant diplomatic influence in the region, and their cooperation is important for promoting regional peace and stability.
+
+**Cultural:**
+
+* **Shared Heritage:** Both countries share a rich cultural heritage, with strong ties to Hinduism, Islam, and indigenous traditions.
+* **People
+[CORRECT_ANSWER]: Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.
+[FEEDBACK]: The response provides a detailed and accurate explanation of the importance of relations with Malaysia and Indonesia, covering economic, political, and cultural aspects. It is factually correct and aligns well with the reference answer, which emphasizes the geographical significance of these relations. The response goes beyond the reference answer by providing specific examples and elaborating on the various dimensions of the relationship, which enhances its accuracy and factuality.
+[RESULT]: 5

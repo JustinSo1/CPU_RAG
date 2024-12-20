@@ -1,0 +1,8 @@
+[PROMPT]: What is the highest mountain in Romania?
+[USER_ANSWER]: 
+
+The highest mountain in Romania is **Moldoveanu**. 
+
+[CORRECT_ANSWER]: Moldoveanu Peak.
+[FEEDBACK]: The response correctly identifies Moldoveanu as the highest mountain in Romania, which is accurate and factual based on the reference answer. However, the use of asterisks around the name is unnecessary and slightly informal for this context. Despite this minor stylistic issue, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

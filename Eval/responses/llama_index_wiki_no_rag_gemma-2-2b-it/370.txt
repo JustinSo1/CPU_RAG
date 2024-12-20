@@ -1,0 +1,12 @@
+[PROMPT]: Is it the world 's fourth most populous country and the most populous muslim-majority nation?
+[USER_ANSWER]: 
+
+Which country is it? 
+
+**Answer:**
+
+The country is **Indonesia**. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response correctly identifies the country as Indonesia, which is accurate and factual. However, the response includes additional information that was not required by the instruction. The reference answer is a simple "yes," indicating that a concise confirmation was expected. While the response is factually correct, it does not align perfectly with the simplicity of the reference answer.
+[RESULT]: 4

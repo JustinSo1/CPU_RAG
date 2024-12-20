@@ -1,0 +1,15 @@
+[PROMPT]: Who did MassachuS08_setts send in 1774?
+[USER_ANSWER]: 
+
+The answer is **John Hancock**. 
+
+Here's why:
+
+* **The Boston Tea Party:**  John Hancock was the President of the Massachusetts Assembly and a prominent figure in the Sons of Liberty. He famously defied the British by signing the Declaration of Rights and Grievances, which was a precursor to the Boston Tea Party.
+* **The First Continental Congress:**  John Hancock was a delegate to the First Continental Congress in 1774, where he played a key role in organizing the colonists' response to British policies.
+
+Let me know if you have any other questions about the American Revolution! 
+
+[CORRECT_ANSWER]: John Adams
+[FEEDBACK]: The response is completely incorrect. The correct answer is John Adams, not John Hancock. The explanation provided about John Hancock's role in the Boston Tea Party and the First Continental Congress is accurate but irrelevant to the specific question asked. Therefore, the response does not meet the criteria for correctness, accuracy, and factuality based on the reference answer.
+[RESULT]: 1

@@ -1,0 +1,13 @@
+[PROMPT]: How many years after Cleveland left office did the U.S. win the Spanish-American War?
+[USER_ANSWER]: 
+
+This question is a bit tricky! Here's why:
+
+* **Cleveland's Presidency:** Grover Cleveland served two non-consecutive terms as President of the United States (1885-1889 and 1893-1897).
+* **Spanish-American War:** The Spanish-American War took place from April 25, 1898, to February 10, 1899.
+
+**The answer:**  The U.S. won the Spanish-American War in 1898, **while Grover Cleveland was out of office**. 
+
+[CORRECT_ANSWER]: One Year
+[FEEDBACK]: The response provides detailed information about Grover Cleveland's presidency and the timeline of the Spanish-American War. However, it fails to directly answer the question of how many years after Cleveland left office the U.S. won the war. The correct answer is "one year," but the response does not explicitly state this. Instead, it mentions that the U.S. won the war in 1898, which is accurate but does not directly address the time elapsed since Cleveland left office. Therefore, the response is somewhat correct and factual but lacks the precise answer required.
+[RESULT]: 3

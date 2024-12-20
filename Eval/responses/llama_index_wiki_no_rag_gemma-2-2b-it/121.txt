@@ -1,0 +1,19 @@
+[PROMPT]: How has Canada helped UN peacekeeping efforts?
+[USER_ANSWER]: 
+
+Canada has a long and distinguished history of contributing to UN peacekeeping efforts. Here's a breakdown of their contributions:
+
+**Historical Context:**
+
+* **Early Involvement:** Canada was one of the first countries to contribute troops to UN peacekeeping missions, starting with the Congo in the 1960s.
+* **Peacekeeping Tradition:** Canada has consistently been a major contributor to peacekeeping operations, often deploying troops and personnel to some of the most challenging and volatile situations around the world.
+
+**Key Contributions:**
+
+* **Military Personnel:** Canada has consistently provided a significant number of military personnel to UN peacekeeping missions. These personnel serve in a variety of roles, including infantry, engineering, logistics, and medical.
+* **Peacekeeping Training:** Canada has been a leader in providing training for UN peacekeepers, both in Canada and at international training centers. This training helps to ensure that peacekeepers are well-equipped to handle the challenges of their missions.
+* **Financial Contributions:** Canada has also been a major contributor to the UN peacekeeping budget, providing financial support for operations and personnel.
+* **Expertise and Experience:** Canada's peacekeeping experience has been invaluable to the UN. The country's expertise in conflict resolution, humanitarian assistance, and peacebuilding has been
+[CORRECT_ANSWER]: During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989
+[FEEDBACK]: The response provides a detailed and accurate account of Canada's contributions to UN peacekeeping efforts. It mentions Canada's early involvement, consistent contributions, and various forms of support such as military personnel, training, financial contributions, and expertise. However, it does not specifically mention the Suez Crisis of 1956 and Lester B. Pearson's role in proposing the United Nations Peacekeeping Force, which is a significant historical detail highlighted in the reference answer. While the response is mostly correct and factual, it lacks this key piece of information that would make it completely accurate.
+[RESULT]: 4

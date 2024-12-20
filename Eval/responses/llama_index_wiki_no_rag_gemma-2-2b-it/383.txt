@@ -1,0 +1,10 @@
+[PROMPT]: Did James Monroe fight in the Continental Army?
+[USER_ANSWER]: 
+
+James Monroe was a diplomat and politician, not a soldier. He was born in 1758 and served in the Virginia legislature before becoming the fifth President of the United States. 
+
+The Continental Army was formed during the American Revolutionary War (1775-1783). 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly incorrect and inaccurate. While it provides some factual information about James Monroe's life, it fails to directly answer the question. The reference answer is a simple "yes," indicating that James Monroe did indeed fight in the Continental Army. The response does not address this fact and instead focuses on Monroe's later political career and the formation of the Continental Army, which is not relevant to the question asked.
+[RESULT]: 2

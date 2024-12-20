@@ -1,0 +1,8 @@
+[PROMPT]: When did he die?
+[USER_ANSWER]: 
+
+Please provide more context. Who is "he"? 
+
+[CORRECT_ANSWER]: June 24 1908
+[FEEDBACK]: The response does not provide the correct, accurate, and factual information based on the reference answer. Instead of answering the question, it asks for more context, which means it does not address the instruction directly. Therefore, it is completely incorrect in terms of providing the required information.
+[RESULT]: 1

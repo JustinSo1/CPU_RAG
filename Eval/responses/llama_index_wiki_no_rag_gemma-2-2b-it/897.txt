@@ -1,0 +1,17 @@
+[PROMPT]: What caused Wilson to ask Congress to declare war on the Central Powers?
+[USER_ANSWER]: 
+
+Wilson's reasons for asking Congress to declare war on the Central Powers were multifaceted and complex. Here's a breakdown of the key factors:
+
+**1. Unrestricted Submarine Warfare:** Germany's policy of unrestricted submarine warfare, which targeted neutral ships, including American vessels, was a major catalyst for Wilson's call for war. This policy was seen as a blatant violation of international law and a threat to American lives and interests.
+
+**2. Zimmerman Telegram:** The intercepted Zimmerman Telegram, a secret communication between Germany and Mexico, proposed a military alliance between the two countries against the United States. This telegram further fueled American anxieties about German intentions and solidified the belief that war was inevitable.
+
+**3. Moral Obligation:** Wilson believed that the United States had a moral obligation to intervene in the war and defend democracy against the tyranny of the Central Powers. He saw the war as a struggle between freedom and oppression, and he was determined to support the Allied cause.
+
+**4. Economic Interests:** The United States had significant economic interests in the war, particularly in the form of trade with Allied nations. The war's outcome would have a direct impact on American businesses and industries.
+
+**5. Growing Public Sentiment:**  Public opinion in the United States was increasingly
+[CORRECT_ANSWER]: German began unrestricted submarine warfare
+[FEEDBACK]: The response provides a detailed and accurate explanation of the reasons behind Wilson's decision to ask Congress to declare war on the Central Powers. It correctly identifies unrestricted submarine warfare as a major catalyst, which aligns with the reference answer. Additionally, it includes other relevant factors such as the Zimmerman Telegram, moral obligation, economic interests, and growing public sentiment, which, while not mentioned in the reference answer, are factual and contribute to a comprehensive understanding of the context. However, the response is slightly incomplete as it cuts off at "Public opinion in the United States was increasingly," which affects the overall completeness.
+[RESULT]: 4

@@ -1,0 +1,17 @@
+[PROMPT]: What allows a duck to filter water out of the side of their beaks and keep food inside?
+[USER_ANSWER]: 
+
+This is a great question that highlights the amazing adaptations of animals! 
+
+Here's the breakdown:
+
+* **The Duck's Bill:**  Ducks have a unique bill structure that acts like a filter. The bill is made of keratin, the same material as our fingernails. This makes it strong and flexible.
+* **The Shape:** The bill's shape is curved and slightly pointed, allowing it to scoop up water and food.
+* **The Tongue:**  A duck's tongue is covered in tiny, backward-facing barbs. These barbs help to trap small particles of food.
+* **The Filter:** As the duck swims, it uses its bill to push water over its tongue and barbs. This process filters out the water, leaving behind the food.
+
+**In short:** The duck's bill acts like a filter, trapping food particles and pushing water out. 
+
+[CORRECT_ANSWER]: Tiny rows of plates called lamellae
+[FEEDBACK]: The response provides a detailed explanation of the duck's bill, tongue, and filtering process, which is mostly accurate. However, it does not mention the key term "lamellae," which is the specific structure that allows ducks to filter water and keep food inside. The response is mostly correct and factual but lacks the precise terminology used in the reference answer.
+[RESULT]: 4

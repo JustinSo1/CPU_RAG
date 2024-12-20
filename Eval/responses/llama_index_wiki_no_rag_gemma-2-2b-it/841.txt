@@ -1,0 +1,20 @@
+[PROMPT]: Who took a hard line that reduced violence by groups like the Ku Klux Klan?
+[USER_ANSWER]: 
+
+**Answer:**  **President Lyndon B. Johnson**
+
+**Explanation:**
+
+President Lyndon B. Johnson's administration took a hard line against the Ku Klux Klan and other white supremacist groups.  He signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965, which outlawed discrimination based on race, color, religion, sex, or national origin. These acts were crucial in dismantling Jim Crow laws and promoting racial equality.
+
+Here's why Johnson's actions are considered a hard line against violence:
+
+* **Enforcement:** Johnson's administration actively pursued legal action against KKK members and other hate groups. This included investigations, arrests, and prosecutions.
+* **Public Pressure:** Johnson's administration used the media and public pressure to highlight the dangers of hate groups and the need for civil rights.
+* **Federal Funding:** Johnson's administration cut off federal funding to organizations that promoted hate and violence.
+
+While Johnson's approach was not without its critics, it is widely recognized as a significant step in reducing violence and promoting racial equality in the United States.
+
+[CORRECT_ANSWER]: Grant
+[FEEDBACK]: The response identifies President Lyndon B. Johnson as the person who took a hard line that reduced violence by groups like the Ku Klux Klan. However, the reference answer indicates that the correct answer is Grant. While Johnson did take significant actions against racial discrimination and violence, the response does not align with the reference answer, making it mostly incorrect and inaccurate based on the given rubric.
+[RESULT]: 2

@@ -1,0 +1,25 @@
+[PROMPT]: Why are sea otters nearly extinct?
+[USER_ANSWER]: 
+
+Sea otters were nearly extinct due to **human activities**, specifically **fur trade**. 
+
+Here's a breakdown:
+
+* **Fur Trade:** In the 18th and 19th centuries, sea otters were hunted for their luxurious fur. This led to a dramatic decline in their population.
+* **Overhunting:**  Sea otters were hunted to near extinction, with thousands of them killed each year. 
+* **Habitat Loss:**  The destruction of their kelp forests and other habitats further contributed to their decline.
+* **Pollution:**  Pollution from human activities also impacted sea otters.
+
+**Conservation Efforts:**
+
+Thankfully, conservation efforts have helped sea otters recover.  These efforts include:
+
+* **Protection Laws:**  The fur trade was banned in the 1970s, and sea otters are now protected under the Endangered Species Act.
+* **Habitat Restoration:**  Efforts are underway to restore kelp forests and other habitats.
+* **Research:**  Scientists are studying sea otters to better understand their needs and how to protect them.
+
+
+While sea otters are no longer on the brink of extinction, they still face challenges.  Their populations are still recovering, and they need continued
+[CORRECT_ANSWER]: They've been hunted for their fur
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It accurately identifies the fur trade as a primary reason for the near extinction of sea otters, which aligns with the reference answer. Additionally, it provides further context by mentioning overhunting, habitat loss, and pollution, which are relevant factors but not explicitly required by the reference answer. The inclusion of conservation efforts is informative but goes beyond the scope of the question. Overall, the response is detailed and mostly accurate, but it includes extra information that is not necessary for a perfect score based on the reference answer.
+[RESULT]: 4

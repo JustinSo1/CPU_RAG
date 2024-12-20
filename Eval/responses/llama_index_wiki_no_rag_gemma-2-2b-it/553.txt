@@ -1,0 +1,10 @@
+[PROMPT]: Where was Commodore Matthew C. Perry sent to open Japan to Western trade?
+[USER_ANSWER]: 
+
+The answer is **Japan**. 
+
+Commodore Matthew C. Perry was a United States Navy officer who, in 1853, led a fleet of warships to Japan. His mission was to open Japan to Western trade and influence. 
+
+[CORRECT_ANSWER]: Japan
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly identifies Japan as the destination where Commodore Matthew C. Perry was sent to open to Western trade. Additionally, it provides accurate historical context about Perry's mission in 1853, which aligns with the reference answer.
+[RESULT]: 5

@@ -1,0 +1,23 @@
+[PROMPT]: Why are penguins countershaded?
+[USER_ANSWER]: 
+
+Countershading is a visual adaptation where the animal's upper surface is darker than its lower surface. This helps them blend into their environment. 
+
+Penguins are countershaded, and this adaptation helps them in several ways:
+
+* **Camouflage:**  The dark upper surface helps them blend into the water, while the lighter underbelly helps them blend into the sky. This makes them difficult to spot by predators.
+* **Thermoregulation:** The dark feathers trap heat, keeping the penguin warm in cold water. The lighter feathers help reflect heat, keeping them cool in the sun.
+* **Hunting:** The countershading helps them to sneak up on prey. 
+
+**Here's a breakdown of how countershading works for penguins:**
+
+* **Water:** The dark upper surface helps them blend into the dark water, making them harder for predators to spot.
+* **Sky:** The lighter underbelly helps them blend into the sky, making them harder for predators to spot from above.
+* **Hunting:** The countershading helps them to sneak up on prey, making them more successful hunters.
+
+
+**In summary, countershading is a crucial adaptation for penguins, helping them survive in their harsh environment.**
+
+[CORRECT_ANSWER]: for camouflage
+[FEEDBACK]: The response provides a detailed explanation of countershading and its benefits for penguins, including camouflage, thermoregulation, and hunting. However, the reference answer indicates that the primary reason for countershading in penguins is camouflage. While the response is mostly correct and factual, it includes additional information that is not directly related to the reference answer. Therefore, it is not completely aligned with the reference answer.
+[RESULT]: 4

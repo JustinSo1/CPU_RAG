@@ -1,0 +1,15 @@
+[PROMPT]: How many people use the bus network daily?
+[USER_ANSWER]: 
+
+Please provide the information for the following cities:
+
+* **London**
+* **New York City**
+* **Paris**
+* **Tokyo**
+
+I'm looking for the approximate daily ridership figures for each city's bus network. 
+
+[CORRECT_ANSWER]: More than 2.78 million people.
+[FEEDBACK]: The response does not provide an answer to the question "How many people use the bus network daily?" Instead, it asks for information about daily ridership figures for bus networks in specific cities, which is not relevant to the original question. Therefore, the response is completely incorrect, inaccurate, and not factual based on the reference answer.
+[RESULT]: 1

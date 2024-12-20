@@ -1,0 +1,15 @@
+[PROMPT]: Are the largest turtles aquatic?
+[USER_ANSWER]: 
+
+The largest turtles are **aquatic**. 
+
+Here's why:
+
+* **Sea turtles:** These turtles spend most of their lives in the ocean. They are adapted to life in the water, with flipper-like limbs and streamlined bodies.
+* **Freshwater turtles:** While some freshwater turtles can live in the water, they are not as adapted to it as sea turtles. They may spend some time in the water, but they are primarily terrestrial.
+
+So, while there are some freshwater turtles that can swim, the largest turtles are definitely aquatic. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct and factual. It accurately states that the largest turtles are aquatic, specifically mentioning sea turtles and their adaptations to aquatic life. However, the mention of freshwater turtles and their less aquatic nature introduces some ambiguity, as it is not directly relevant to the question about the largest turtles. This additional information, while not incorrect, slightly detracts from the clarity and directness of the response.
+[RESULT]: 4

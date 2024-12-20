@@ -1,0 +1,10 @@
+[PROMPT]: Of what state was Coolidge governor?
+[USER_ANSWER]: 
+
+Answer: Massachusetts
+
+**Explanation:** Calvin Coolidge was the 30th President of the United States. He was born and raised in Massachusetts and served as the governor of Massachusetts from 1919 to 1923. 
+
+[CORRECT_ANSWER]: MassachuS08_setts
+[FEEDBACK]: The response is completely correct, accurate, and factual. The answer "Massachusetts" matches the reference answer, and the explanation provided is accurate and adds context to the response.
+[RESULT]: 5

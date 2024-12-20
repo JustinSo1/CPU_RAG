@@ -1,0 +1,8 @@
+[PROMPT]: What are dark leopards known as colloquially?
+[USER_ANSWER]: 
+
+Dark leopards are also known as **"ghost leopards"** or **"melanistic leopards"**. 
+
+[CORRECT_ANSWER]: Black Panthers
+[FEEDBACK]: The response is somewhat correct and factual. While "melanistic leopards" is a term used to describe dark leopards, "ghost leopards" is not a commonly recognized term for them. The most accurate colloquial term is "Black Panthers," which is not mentioned in the response. Therefore, the response does not fully align with the reference answer.
+[RESULT]: 3

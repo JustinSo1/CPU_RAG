@@ -1,0 +1,15 @@
+[PROMPT]: What part of an elephant is very important for temperature regulation?
+[USER_ANSWER]: 
+
+The answer is **the trunk**. 
+
+Here's why:
+
+* **Trunk as a cooling mechanism:** Elephants use their trunks to fan themselves, much like a human would use a hand to cool down. This helps to dissipate heat from their bodies.
+* **Trunk as a heat-sensing organ:** The trunk also has a special sensory organ that helps them detect changes in temperature, allowing them to find cooler areas to rest in.
+
+While elephants have other methods of temperature regulation, like sweating and panting, their trunk plays a crucial role in keeping them cool. 
+
+[CORRECT_ANSWER]: Ears
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The reference answer indicates that the ears are very important for temperature regulation in elephants, while the response incorrectly identifies the trunk as the key part. The explanation provided about the trunk's role in cooling and heat-sensing is not accurate in the context of the primary function for temperature regulation.
+[RESULT]: 1

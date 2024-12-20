@@ -1,0 +1,17 @@
+[PROMPT]: How long was Lincoln's legal Career?
+[USER_ANSWER]: 
+
+Answer:
+
+Lincoln's legal career lasted for about **10 years**. 
+
+Here's why:
+
+* **Early Career:** Lincoln began practicing law in Illinois in the 1830s.
+* **Later Career:** He continued practicing law until the outbreak of the Civil War in 1861. 
+
+While Lincoln's legal career was relatively short compared to some other lawyers, it was a crucial period for his development as a politician and leader. 
+
+[CORRECT_ANSWER]: 23 years
+[FEEDBACK]: The response is mostly incorrect and inaccurate. Lincoln's legal career did not last for about 10 years; it actually spanned approximately 23 years, from 1837 to 1860. The response does provide some context about the early and later parts of his career, but the duration mentioned is significantly off from the factual reference answer. Therefore, the response does not meet the criteria for being mostly correct or accurate.
+[RESULT]: 2

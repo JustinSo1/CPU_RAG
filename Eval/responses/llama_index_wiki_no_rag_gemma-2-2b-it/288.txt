@@ -1,0 +1,27 @@
+[PROMPT]: Who was Kwame Nkrumah?
+[USER_ANSWER]: 
+
+Kwame Nkrumah was a Ghanaian politician and revolutionary who served as the first president of Ghana from 1957 to 1966. He is considered one of the most influential figures in African history.
+
+Here's a breakdown of his life and legacy:
+
+**Early Life and Education:**
+
+* Born in 1909 in the Gold Coast (present-day Ghana) to a prominent family.
+* Received a scholarship to study at Lincoln University in Pennsylvania, USA.
+* Developed a strong interest in Pan-Africanism and the fight for African liberation.
+
+**Political Career:**
+
+* Became involved in the nationalist movement in Ghana, advocating for independence from British colonial rule.
+* Led the Convention People's Party (CPP) to victory in the 1956 elections, becoming Ghana's first prime minister.
+* After independence, he became Ghana's first president, establishing a one-party state and promoting socialist policies.
+
+**Ideology and Policies:**
+
+* Nkrumah's ideology was based on Pan-Africanism, advocating for unity and solidarity among African nations.
+* He promoted self-reliance and economic independence for Ghana, aiming to create a "United States of Africa."
+*
+[CORRECT_ANSWER]: founder and first president
+[FEEDBACK]: The response provides a detailed and accurate account of Kwame Nkrumah's life, political career, and ideology. It correctly identifies him as the first president of Ghana and highlights his significant contributions to African history. The information about his early life, education, and political achievements is factual and aligns well with the reference answer. However, the response is incomplete as it ends abruptly without finishing the section on his ideology and policies. Despite this, the response is mostly correct, accurate, and factual.
+[RESULT]: 4

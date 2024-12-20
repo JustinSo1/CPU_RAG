@@ -1,0 +1,16 @@
+[PROMPT]: Where do sea turtles lay their eggs?
+[USER_ANSWER]: 
+
+Sea turtles lay their eggs on **beaches** that are **protected from predators** and have **soft, sandy soil**. 
+
+Here's a little more detail:
+
+* **Beaches:** They need to be sandy beaches with a gentle slope to allow the hatchlings to easily reach the water.
+* **Protected from predators:**  This means the beaches need to be away from areas with high human activity, predators like raccoons, foxes, and birds, and other threats.
+* **Soft, sandy soil:** The eggs need to be buried in soft, sandy soil to provide protection from the elements and predators.
+
+It's important to note that different species of sea turtles lay their eggs in different locations. For example, loggerhead sea turtles are known to nest on beaches in the Atlantic Ocean, while green sea turtles prefer nesting on beaches in the Pacific Ocean. 
+
+[CORRECT_ANSWER]: Holes Dug into the Mud or Sand
+[FEEDBACK]: The response provides a detailed and accurate description of where sea turtles lay their eggs, mentioning sandy beaches, protection from predators, and the need for soft, sandy soil. It also includes additional information about the nesting habits of different species of sea turtles. However, the reference answer is more concise, simply stating "holes dug into the mud or sand." While the response is mostly correct and factual, it does not align perfectly with the simplicity of the reference answer.
+[RESULT]: 4

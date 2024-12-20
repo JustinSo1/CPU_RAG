@@ -1,0 +1,8 @@
+[PROMPT]: Where was Millard Fillmore born?
+[USER_ANSWER]: 
+
+The answer is **Winterport, Maine**. 
+
+[CORRECT_ANSWER]: in a log cabin in Summerhill, New York
+[FEEDBACK]: The response is completely incorrect and inaccurate. Millard Fillmore was born in Summerhill, New York, not Winterport, Maine. The response does not align with the factual information provided in the reference answer.
+[RESULT]: 1

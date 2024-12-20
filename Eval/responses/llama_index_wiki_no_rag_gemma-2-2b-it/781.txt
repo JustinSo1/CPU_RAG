@@ -1,0 +1,19 @@
+[PROMPT]: What was Roosevelt's justification for supporting desegregation of schools in New York?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Theodore Roosevelt's justification for supporting desegregation of schools in New York was **based on the belief that all children deserved equal opportunities regardless of race.** He saw segregation as a violation of the principle of equality and believed that it was unfair to deny children of color access to quality education. 
+
+**Explanation:**
+
+While Theodore Roosevelt was a progressive reformer, he is not directly associated with the modern civil rights movement or the desegregation of schools.  His views on racial equality were more nuanced than a simple call for desegregation. 
+
+Here's a breakdown of his views:
+
+* **Progressive Era Reform:** Roosevelt was a proponent of social justice and believed in equal opportunities for all. He supported reforms like the Pure Food and Drug Act and the Meat Inspection Act, which aimed to protect consumers and improve working conditions.
+* **Racial Equality:** Roosevelt's views on race were complex. He believed in the inherent equality of all people but also held some racist beliefs. He was a strong advocate for the rights of African Americans, but he also believed in the "separate but equal" doctrine.
+* **Education:** Roosevelt believed in the importance of education for all children, regardless of race. He saw education as a tool
+[CORRECT_ANSWER]: Noting that his children had been educated with other races and there was nothing wrong with it
+[FEEDBACK]: The response provides a general justification for desegregation based on the principle of equality and the importance of education for all children, which is somewhat related to the topic. However, it does not specifically mention Roosevelt's personal experience with his children being educated with other races, which is the key point in the reference answer. The explanation section also introduces some inaccuracies and irrelevant details about Roosevelt's broader views and actions, which are not directly related to the specific justification for desegregation of schools in New York. Therefore, the response is somewhat correct but lacks the specific factual detail provided in the reference answer.
+[RESULT]: 3

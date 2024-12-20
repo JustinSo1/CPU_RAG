@@ -1,0 +1,20 @@
+[PROMPT]: What did James Monroe do before being elected governor?
+[USER_ANSWER]: 
+
+The question is a bit tricky because James Monroe was never elected governor. He was elected President of the United States. 
+
+Here's a breakdown:
+
+* **James Monroe** was the fifth President of the United States.
+* He served from 1817 to 1825.
+* He was a prominent figure in the Democratic-Republican Party.
+* Before becoming President, he held various positions in the government, including:
+    * **U.S. Representative**
+    * **U.S. Secretary of State**
+    * **U.S. Minister to France**
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: He practiced law in Virginia.
+[FEEDBACK]: The response is mostly incorrect and inaccurate. The question specifically asks about James Monroe's activities before being elected governor, but the response incorrectly states that he was never elected governor and instead focuses on his roles before becoming President. The reference answer indicates that he practiced law in Virginia, which is not mentioned in the response. The response provides some factual information about Monroe's career, but it does not address the question accurately.
+[RESULT]: 2

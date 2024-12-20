@@ -1,0 +1,15 @@
+[PROMPT]: Did Lincoln sign the National Banking Act of 1863?
+[USER_ANSWER]: 
+
+No, Abraham Lincoln did not sign the National Banking Act of 1863. 
+
+**Here's why:**
+
+* **The National Banking Act of 1863 was signed by President Andrew Johnson.**  This act was a significant piece of legislation that established a national banking system in the United States. 
+* **Abraham Lincoln was assassinated in 1865.**  He was president during the Civil War and had a strong interest in a national banking system, but he died before the act was passed.
+
+Let me know if you have any other questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely incorrect and inaccurate. Abraham Lincoln did sign the National Banking Act of 1863, contrary to what the response states. The response also incorrectly attributes the signing of the act to President Andrew Johnson and provides incorrect information about the timeline of Lincoln's presidency and assassination.
+[RESULT]: 1

@@ -1,0 +1,25 @@
+[PROMPT]: What do river otters eat?
+[USER_ANSWER]: 
+
+River otters are carnivores, which means they eat meat. Their diet consists mainly of fish, but they also eat other aquatic animals like:
+
+* **Crustaceans:** Crayfish, shrimp, and crabs
+* **Amphibians:** Frogs, toads, and salamanders
+* **Small mammals:**  Rodents, rabbits, and squirrels
+* **Birds:**  Ducklings, geese, and other waterfowl
+* **Invertebrates:** Snails, worms, and insects
+
+They are opportunistic feeders, meaning they will eat whatever is available to them. This can include things like:
+
+* **Carrion:**  Dead animals
+* **Plants:**  Occasionally, they may eat small amounts of plants, but this is not a significant part of their diet.
+
+**How do they hunt?**
+
+River otters are skilled hunters. They use their webbed feet to propel themselves through the water, and their sharp claws to catch their prey. They are also known for their playful nature, which helps them to catch fish. They often work together in groups to hunt larger prey.
+
+
+
+[CORRECT_ANSWER]: a variety of fish and shellfish, as well as small land mammals and birds
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides a detailed list of what river otters eat, including fish, crustaceans, amphibians, small mammals, birds, and invertebrates, which aligns well with the reference answer. The additional information about their opportunistic feeding habits and occasional consumption of plants and carrion is accurate but not necessary for the core answer. The explanation of their hunting methods is informative but not directly relevant to the question about their diet. Overall, the response is comprehensive and mostly accurate, but it includes some extraneous details that are not required by the question.
+[RESULT]: 4

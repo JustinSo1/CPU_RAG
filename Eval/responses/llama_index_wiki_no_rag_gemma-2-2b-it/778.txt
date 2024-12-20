@@ -1,0 +1,24 @@
+[PROMPT]: What did Roosevelt do to improve his physical condition?
+[USER_ANSWER]: 
+
+Answer:
+
+Theodore Roosevelt was a very active and energetic man, and he was known for his love of the outdoors. He engaged in a variety of physical activities, including:
+
+* **Hunting:** He was an avid hunter and often went on expeditions to hunt big game.
+* **Horseback riding:** He enjoyed riding horses and often used them for transportation and recreation.
+* **Hiking:** He was a keen hiker and enjoyed exploring the wilderness.
+* **Swimming:** He was a strong swimmer and often swam in the ocean.
+* **Boxing:** He was a skilled boxer and participated in amateur boxing matches.
+* **Tennis:** He was a passionate tennis player and enjoyed playing on the courts.
+
+He also believed in the importance of physical fitness and encouraged others to adopt a healthy lifestyle. He was a strong advocate for physical activity and believed that it was essential for good health and well-being.
+
+**In addition to these activities, Roosevelt also:**
+
+* **Followed a healthy diet:** He ate a balanced diet rich in fruits, vegetables, and whole grains.
+* **Got enough sleep:** He believed in the importance of getting enough sleep for physical and mental health.
+* **Exercised regularly:** He engaged in regular physical activity to maintain
+[CORRECT_ANSWER]: Roosevelt took up exercise
+[FEEDBACK]: The response provides a detailed and accurate account of the various physical activities that Theodore Roosevelt engaged in to improve his physical condition. It mentions specific activities such as hunting, horseback riding, hiking, swimming, boxing, and tennis, which are all factual and correct. Additionally, the response includes information about his healthy lifestyle choices, such as following a healthy diet, getting enough sleep, and exercising regularly. This level of detail goes beyond the reference answer but remains accurate and factual. However, the reference answer is very brief and general, while the response is more detailed. Despite this, the response is mostly correct, accurate, and factual based on the reference answer.
+[RESULT]: 4

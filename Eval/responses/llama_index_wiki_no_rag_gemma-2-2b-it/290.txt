@@ -1,0 +1,20 @@
+[PROMPT]: Who makes up Ghana's Parliament?
+[USER_ANSWER]: 
+
+Ghana's Parliament is made up of two chambers:
+
+* **The House of Representatives (Parliament):** This is the lower house of Parliament, with 275 members elected by the people. 
+* **The Upper House (Senate):** This is the upper house of Parliament, with 100 members appointed by the President.
+
+**Key Points:**
+
+* **Elected Members:** The House of Representatives is elected by the people, representing their constituencies.
+* **Appointed Members:** The Upper House is appointed by the President, representing the interests of the regions and the country.
+* **Composition:** The composition of Parliament reflects the diverse ethnic and regional groups in Ghana.
+
+
+Let me know if you'd like to know more about the specific roles and responsibilities of each chamber or the election process. 
+
+[CORRECT_ANSWER]: the New Patriotic Party and National Democratic Congress
+[FEEDBACK]: The response provided is completely incorrect and inaccurate based on the reference answer. The reference answer indicates that Ghana's Parliament is made up of the New Patriotic Party and the National Democratic Congress, which are political parties. The response incorrectly describes a bicameral system with a House of Representatives and an Upper House (Senate), which does not exist in Ghana's parliamentary structure. Therefore, the response does not align with the factual composition of Ghana's Parliament as indicated in the reference answer.
+[RESULT]: 1

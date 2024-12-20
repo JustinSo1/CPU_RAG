@@ -1,0 +1,13 @@
+[PROMPT]: How many long was Lincoln's formal education?
+[USER_ANSWER]: 
+
+Answer: 
+Lincoln's formal education lasted for **only 1 year**. 
+
+**Explanation:**
+
+Abraham Lincoln received a very limited formal education. He attended a school for only one year, and this was not a traditional school. He was primarily self-taught. 
+
+[CORRECT_ANSWER]: 18 months
+[FEEDBACK]: The response states that Lincoln's formal education lasted for "only 1 year," which is not completely accurate based on the reference answer of 18 months. While the response does acknowledge that Lincoln had limited formal education and was primarily self-taught, the specific duration mentioned is not entirely correct. Therefore, the response is somewhat correct but not fully accurate.
+[RESULT]: 3

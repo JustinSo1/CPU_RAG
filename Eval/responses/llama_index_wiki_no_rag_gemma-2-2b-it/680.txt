@@ -1,0 +1,8 @@
+[PROMPT]: Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?
+[USER_ANSWER]: 
+
+Please provide evidence to support your claim.
+
+[CORRECT_ANSWER]: no
+[FEEDBACK]: The response does not directly answer the question. The question requires a simple confirmation or denial, while the response asks for evidence, which is not relevant to the question. Therefore, the response is completely incorrect and does not align with the reference answer.
+[RESULT]: 1

@@ -1,0 +1,8 @@
+[PROMPT]: Are elephants the largest land animals alive today?
+[USER_ANSWER]: 
+
+Yes, elephants are the largest land animals alive today. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It directly answers the question with the same information as the reference answer, confirming that elephants are indeed the largest land animals alive today.
+[RESULT]: 5

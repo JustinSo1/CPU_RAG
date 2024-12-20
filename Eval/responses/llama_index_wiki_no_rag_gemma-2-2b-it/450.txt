@@ -1,0 +1,18 @@
+[PROMPT]: Where do joeys complete postnatal development?
+[USER_ANSWER]: 
+
+The answer is **in the pouch of the mother kangaroo**. 
+
+Here's why:
+
+* **Specialized Pouch:** Kangaroos have a pouch, a specialized fold of skin that provides a safe and warm environment for their joeys.
+* **Protection and Nourishment:** The pouch offers protection from predators and harsh weather conditions. It also provides a constant source of milk and nourishment for the developing joey.
+* **Development Stages:**  The joey spends the first few months of its life in the pouch, where it continues to grow and develop. 
+* **Independence:**  After a few months, the joey will start to venture out of the pouch and explore the world, but it will always return to the pouch for safety and comfort.
+
+
+Let me know if you have any other animal trivia questions! 
+
+[CORRECT_ANSWER]: marsupium
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that joeys complete their postnatal development in the pouch of the mother kangaroo, which is a more detailed explanation of the term "marsupium." The additional information provided about the specialized pouch, protection, nourishment, development stages, and independence of the joey is accurate and relevant. However, the response could be more concise and directly aligned with the reference answer.
+[RESULT]: 4

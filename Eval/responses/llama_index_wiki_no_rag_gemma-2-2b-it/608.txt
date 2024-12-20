@@ -1,0 +1,19 @@
+[PROMPT]: The collective noun romp is sometimes used for a group of what?
+[USER_ANSWER]: 
+
+A.  Birds
+B.  Fish
+C.  Dogs
+D.  Elephants
+
+The answer is **C. Dogs**.
+
+Here's why:
+
+* **Romp** is a playful, energetic term often used to describe a group of dogs running around and having fun. 
+
+Let me know if you have any other word puzzles! 
+
+[CORRECT_ANSWER]: Otters
+[FEEDBACK]: The response is completely incorrect. The collective noun "romp" is used for a group of otters, not dogs. The explanation provided is also inaccurate as it incorrectly associates the term "romp" with dogs. The response does not align with the reference answer and fails to provide factual information based on the given instruction.
+[RESULT]: 1

@@ -1,0 +1,20 @@
+[PROMPT]: Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?
+[USER_ANSWER]: 
+
+**Answer:**
+
+Yes, that's correct. 
+
+Here's why:
+
+* **Large, powerful hind legs:**  Kangaroos are famous for their incredible hopping ability, powered by their strong hind legs.
+* **Large feet:** Their large feet, with strong claws, provide excellent traction and stability for leaping.
+* **Long muscular tail:** The tail acts as a counterbalance, helping kangaroos maintain their balance while hopping.
+* **Small head:**  Kangaroos have a relatively small head compared to their body size, which helps them to conserve energy and focus on their powerful legs. 
+
+
+Let me know if you have any other animal trivia questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. The initial "Yes, that's correct" directly answers the question affirmatively, which aligns with the reference answer. The additional details provided about the kangaroo's physical characteristics are accurate and factual, enhancing the response. However, the reference answer is very concise, and the additional information, while correct, is not necessary to meet the criteria of the reference answer. Therefore, the response is mostly correct but includes more information than required.
+[RESULT]: 4

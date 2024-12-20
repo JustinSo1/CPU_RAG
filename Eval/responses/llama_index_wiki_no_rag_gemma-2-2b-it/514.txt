@@ -1,0 +1,17 @@
+[PROMPT]: Is the leopard an agile and graceful predator?
+[USER_ANSWER]: 
+
+The leopard is indeed known for its **agility and grace**. 
+
+Here's why:
+
+* **Powerful Legs:** Leopards have strong legs that allow them to move quickly and easily through trees and bushes.
+* **Flexible Spine:** Their flexible spine allows them to contort their bodies in ways that other big cats cannot, making them excellent climbers and stalkers.
+* **Agile Maneuvers:** They are incredibly agile, able to change direction quickly and smoothly, making them difficult to catch.
+* **Soft Paws:** Their soft paws are padded and help them move silently and stealthily.
+
+These features make the leopard a highly effective predator, able to hunt prey in a variety of environments. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It provides detailed information about the leopard's agility and grace, which aligns with the reference answer. However, the reference answer is very brief and simply states "Yes," while the response goes into much more detail. This additional detail is accurate and relevant, but it is not necessary to meet the criteria of the reference answer. Therefore, while the response is informative and accurate, it goes beyond what is required by the reference answer.
+[RESULT]: 4

@@ -1,0 +1,15 @@
+[PROMPT]: Where was the largest elephant ever recorded shot?
+[USER_ANSWER]: 
+
+The largest elephant ever recorded was shot in **Africa**. 
+
+However, it's important to note that:
+
+* **Specific locations are not always publicly available.**  Conservation efforts and research often focus on protecting elephants, so details about specific kills might not be widely shared.
+* **The term "largest" can be subjective.**  There are different ways to measure elephant size, including weight, height, and tusk length. 
+
+If you're interested in learning more about elephant conservation and the challenges they face, I recommend checking out resources from organizations like the World Wildlife Fund (WWF) or the African Wildlife Foundation. 
+
+[CORRECT_ANSWER]: Angola
+[FEEDBACK]: The response is somewhat correct as it identifies Africa as the continent where the largest elephant was shot, which is a broad but not entirely incorrect answer. However, it lacks the specific detail that the largest elephant was shot in Angola, making it less accurate and factual compared to the reference answer. The additional information about conservation efforts and the subjectivity of the term "largest" is informative but does not directly address the question asked.
+[RESULT]: 3

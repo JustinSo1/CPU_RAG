@@ -1,0 +1,16 @@
+[PROMPT]: What is the smallest German-speaking country in the world?
+[USER_ANSWER]: 
+
+The answer is **Liechtenstein**. 
+
+Here's why:
+
+* **Geography:** Liechtenstein is a small, landlocked country in Central Europe, sandwiched between Switzerland and Austria.
+* **Population:**  It has a population of around 38,000 people.
+* **German Language:**  German is the official language, and it's spoken by almost everyone.
+
+Let me know if you have any other geography questions! 
+
+[CORRECT_ANSWER]: Liechtenstein
+[FEEDBACK]: The response correctly identifies Liechtenstein as the smallest German-speaking country in the world, which aligns with the reference answer. The additional information provided about its geography, population, and language is accurate and factual, enhancing the response without introducing any inaccuracies.
+[RESULT]: 5

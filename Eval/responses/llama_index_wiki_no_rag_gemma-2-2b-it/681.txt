@@ -1,0 +1,15 @@
+[PROMPT]: Are Cubs born in December without awakening the mother ?
+[USER_ANSWER]: 
+
+This is a bit of a trick question! 
+
+Here's why:
+
+* **Cubs are born in the spring.**  They are not born in December.
+* **Cubs are born from a mother bear.**  The mother bear will usually give birth to cubs in a den, and the cubs will be born without the mother waking up. 
+
+Let me know if you have any other animal riddles! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response provides some accurate information about the birth of cubs, such as the fact that cubs are born in the spring and that they are born from a mother bear in a den. However, it does not directly answer the question about whether cubs are born in December without awakening the mother. The reference answer is a simple "yes," indicating that the mother does not awaken during the birth. The response, while informative, does not directly address the specific timing (December) and the condition (without awakening the mother) as clearly and concisely as the reference answer. Therefore, it is somewhat correct but not fully aligned with the reference answer.
+[RESULT]: 3

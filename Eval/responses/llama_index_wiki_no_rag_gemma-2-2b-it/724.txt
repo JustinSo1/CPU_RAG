@@ -1,0 +1,18 @@
+[PROMPT]: Why wasn't Romania neutral during World War II?
+[USER_ANSWER]: 
+
+Romania was a **puppet state** of Nazi Germany and its ally, the Soviet Union. 
+
+Here's why Romania wasn't neutral:
+
+* **Nazi-Soviet Pact:**  In 1939, Romania signed the Nazi-Soviet Pact, which divided Eastern Europe between the two powers. This pact essentially forced Romania to align with the Axis powers.
+* **Soviet Influence:**  The Soviet Union exerted significant influence over Romania, demanding military and economic concessions. This included the deployment of Soviet troops and the control of key industries.
+* **Military Collaboration:**  Romania actively participated in the war effort, providing troops and resources to the Axis powers. It even invaded Bessarabia (a region with a significant Romanian population) and participated in the invasion of Yugoslavia.
+* **Anti-Soviet Sentiment:**  While Romania was officially aligned with the Axis powers, it also had a significant anti-Soviet sentiment. This was due to the Soviet Union's control over Romania's economy and its influence on the country's political system.
+
+**Consequences of Romania's Neutrality:**
+
+* **Soviet Invasion:**  After the war, the Soviet Union invaded Romania in 1947, claiming that the country had not fully fulfilled its
+[CORRECT_ANSWER]: it received a Soviet ultimatum
+[FEEDBACK]: The response contains several inaccuracies and misrepresentations of historical facts. Firstly, Romania was not a puppet state of Nazi Germany and the Soviet Union simultaneously. The Nazi-Soviet Pact was signed between Germany and the Soviet Union, not Romania. Romania did not sign this pact. The Soviet Union did exert influence over Romania, but this was after the Nazi-Soviet Pact and primarily after Romania was forced to cede territories to the Soviet Union in 1940. The response also incorrectly states that Romania invaded Bessarabia; in fact, Bessarabia was part of Romania before being annexed by the Soviet Union. The response does not mention the Soviet ultimatum, which is the key reason for Romania's lack of neutrality as indicated in the reference answer. Overall, the response is mostly incorrect and inaccurate.
+[RESULT]: 2

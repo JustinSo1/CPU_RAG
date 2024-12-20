@@ -1,0 +1,16 @@
+[PROMPT]: Have penguins an average sense of hearing for birds ?
+[USER_ANSWER]: 
+
+Penguins have a surprisingly good sense of hearing, even though they are known for their swimming abilities. 
+
+Here's why:
+
+* **Specialized ear structure:** Penguins have a unique ear structure that allows them to hear sounds underwater. Their ears are positioned differently than other birds, and they have a special membrane called the "tympanic membrane" that helps them to capture sound waves.
+* **Echolocation:** Some penguins, like the Emperor penguin, use echolocation to navigate and find food in the dark and icy waters. They emit clicks and listen for the echoes to determine the location of prey.
+* **Vocalizations:** Penguins communicate with each other through a variety of vocalizations, including calls, whistles, and squawks. These sounds are used for mating, territorial defense, and social interaction.
+
+So, yes, penguins have a good sense of hearing, and it's an important part of their survival.
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response provides detailed information about penguins' sense of hearing, including their specialized ear structure, use of echolocation, and vocalizations. However, the instruction specifically asks whether penguins have an average sense of hearing for birds, and the reference answer is a simple "Yes." The response does not directly address the comparison to other birds' hearing abilities, making it somewhat off-topic. While the information provided is accurate and factual, it does not fully align with the instruction's focus on comparing penguins' hearing to that of other birds. Therefore, the response is somewhat correct and factual but not entirely aligned with the instruction.
+[RESULT]: 3

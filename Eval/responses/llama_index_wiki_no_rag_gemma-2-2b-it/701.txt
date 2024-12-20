@@ -1,0 +1,10 @@
+[PROMPT]: Did the Qataris not choose as their negotiator the respected entrepreneur and long-time resident of Doha , Muhammed bin Thani ?
+[USER_ANSWER]: 
+
+It seems that the negotiations with the United States were not as smooth as they could have been. 
+
+Please provide more context and information. 
+
+[CORRECT_ANSWER]: Yes
+[FEEDBACK]: The response does not address the question asked. The question is about whether the Qataris chose Muhammed bin Thani as their negotiator, which requires a simple confirmation or denial. Instead, the response talks about the negotiations with the United States and asks for more context, which is irrelevant to the question. Therefore, the response is completely incorrect and not factual based on the reference answer.
+[RESULT]: 1

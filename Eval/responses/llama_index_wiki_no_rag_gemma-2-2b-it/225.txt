@@ -1,0 +1,8 @@
+[PROMPT]: What body of water lies to the south of Finland?
+[USER_ANSWER]: 
+
+The answer is the **Baltic Sea**. 
+
+[CORRECT_ANSWER]: the Gulf of Finland
+[FEEDBACK]: The response is incorrect. The body of water that lies to the south of Finland is the Gulf of Finland, not the Baltic Sea. While the Baltic Sea is connected to the Gulf of Finland, it is not the specific body of water directly south of Finland. Therefore, the response is not accurate based on the reference answer.
+[RESULT]: 1

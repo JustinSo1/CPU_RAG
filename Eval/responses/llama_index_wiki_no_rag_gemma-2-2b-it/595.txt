@@ -1,0 +1,10 @@
+[PROMPT]: Does otter give birth or lay egg?
+[USER_ANSWER]: 
+
+Otters are mammals, and mammals give birth to live young. 
+
+So, otters **give birth** to their young. 
+
+[CORRECT_ANSWER]: give birth
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that otters are mammals and that mammals give birth to live young, which aligns with the reference answer "give birth." The additional information provided is accurate and supports the main point without introducing any errors.
+[RESULT]: 5

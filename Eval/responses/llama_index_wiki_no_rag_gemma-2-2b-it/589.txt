@@ -1,0 +1,16 @@
+[PROMPT]: What is one of the challenges of re-establishing a population of Eurasian otters in the UK?
+[USER_ANSWER]: 
+
+The challenge is **finding suitable habitat**. 
+
+Here's why:
+
+* **Otters are highly specialized:** They need specific riverine environments with access to both fast-flowing water for hunting and calmer areas for resting and raising young. 
+* **UK rivers are fragmented:**  Many rivers have been altered by human activity, making them unsuitable for otters. 
+* **Habitat loss:**  Development and pollution continue to degrade river ecosystems, further limiting suitable habitat.
+
+Finding suitable habitat is a major hurdle in reintroduction efforts.  It requires careful planning, habitat restoration, and ongoing monitoring to ensure the long-term survival of the reintroduced population. 
+
+[CORRECT_ANSWER]: roadkill deaths
+[FEEDBACK]: The response provided is accurate and factual in discussing the challenge of finding suitable habitat for re-establishing a population of Eurasian otters in the UK. However, it does not address the specific challenge mentioned in the reference answer, which is "roadkill deaths." While the response is detailed and correct in its own right, it does not align with the reference answer provided. Therefore, it cannot be considered completely correct based on the given rubric.
+[RESULT]: 3

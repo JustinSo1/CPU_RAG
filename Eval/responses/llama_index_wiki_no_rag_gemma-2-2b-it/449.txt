@@ -1,0 +1,23 @@
+[PROMPT]: What is a collective noun for kangaroos?
+[USER_ANSWER]: 
+
+A. Mob
+B. Herd
+C. Flock
+D. Swarm
+
+**Answer:** A. Mob
+
+**Explanation:**
+
+* **Mob:** A group of kangaroos is called a mob. 
+* **Herd:**  Herd is used for animals like cattle or sheep.
+* **Flock:** Flock is used for birds or other animals that live in flocks.
+* **Swarm:** Swarm is used for insects or other small animals that move in a dense, agitated group. 
+
+
+Let me know if you have any other animal-related questions! 
+
+[CORRECT_ANSWER]: mob, troop, or court
+[FEEDBACK]: The response correctly identifies "mob" as a collective noun for kangaroos, which aligns with the reference answer. However, the reference answer also includes "troop" and "court" as additional collective nouns for kangaroos, which the response does not mention. The explanation provided is accurate and informative, but the response is not completely comprehensive as it omits the other valid collective nouns.
+[RESULT]: 4

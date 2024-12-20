@@ -1,0 +1,10 @@
+[PROMPT]: What field did Woodrow Wilson leave law practice to study?
+[USER_ANSWER]: 
+
+The answer is **political science**. 
+
+Woodrow Wilson, a prominent American president, left law practice to pursue a career in political science. He was a passionate student of politics and government, and his interest in these fields led him to abandon his legal career. 
+
+[CORRECT_ANSWER]: history and political science
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that Woodrow Wilson left law practice to study political science. However, it omits the fact that he also studied history, which is included in the reference answer. This omission prevents the response from being completely correct.
+[RESULT]: 4

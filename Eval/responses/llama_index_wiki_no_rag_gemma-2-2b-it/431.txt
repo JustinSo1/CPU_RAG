@@ -1,0 +1,8 @@
+[PROMPT]: Where is Adams buried?
+[USER_ANSWER]: 
+
+The answer is **in the family cemetery in Quincy, Massachusetts**. 
+
+[CORRECT_ANSWER]: United First Parish Church
+[FEEDBACK]: The response is mostly incorrect. While it mentions Quincy, Massachusetts, which is the correct city, it inaccurately states that Adams is buried in the family cemetery. The correct location is the United First Parish Church. Therefore, the response does not align well with the reference answer.
+[RESULT]: 2

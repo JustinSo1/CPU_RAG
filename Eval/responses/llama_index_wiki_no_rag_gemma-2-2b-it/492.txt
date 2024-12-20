@@ -1,0 +1,8 @@
+[PROMPT]: Is the leopard an Old World mammal?
+[USER_ANSWER]: 
+
+The leopard is a **Old World** mammal. 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies the leopard as an Old World mammal. However, the use of "a **Old World**" instead of "an **Old World**" is a grammatical error. Despite this, the factual content is accurate.
+[RESULT]: 4

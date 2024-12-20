@@ -1,0 +1,17 @@
+[PROMPT]: Does Liechtenstein have an army?
+[USER_ANSWER]: 
+
+Liechtenstein has a very small population and a strong focus on neutrality. As a result, it does not have a standing army. 
+
+Here's a breakdown:
+
+* **Neutrality:** Liechtenstein has a long history of neutrality, meaning it doesn't take sides in international conflicts. This policy is enshrined in its constitution.
+* **Defense:**  Instead of a traditional army, Liechtenstein relies on a small, professional police force and a well-trained reserve force for defense.
+* **International Cooperation:**  Liechtenstein actively participates in international peacekeeping and security initiatives, demonstrating its commitment to global stability.
+
+
+Let me know if you have any other questions about Liechtenstein! 
+
+[CORRECT_ANSWER]: No.
+[FEEDBACK]: The response is mostly correct and factual. It accurately states that Liechtenstein does not have a standing army, which aligns with the reference answer. However, the additional details about neutrality, defense, and international cooperation, while informative, are not necessary to answer the question directly. The response could be more concise and to the point, similar to the reference answer.
+[RESULT]: 4

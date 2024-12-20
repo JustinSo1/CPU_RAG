@@ -1,0 +1,15 @@
+[PROMPT]: Are elephants mammals?
+[USER_ANSWER]: 
+
+Yes, elephants are mammals. Here's why:
+
+* **They give birth to live young:** Unlike reptiles or birds, elephants don't lay eggs.
+* **They have mammary glands:**  These glands produce milk to nourish their young.
+* **They are warm-blooded:**  Elephants can regulate their own body temperature.
+* **They have hair (though it's very sparse):**  While elephants have very little hair compared to other mammals, they still have it.
+
+Let me know if you have any other animal questions! 
+
+[CORRECT_ANSWER]: yes
+[FEEDBACK]: The response is completely correct, accurate, and factual. It provides detailed information about why elephants are mammals, including specific characteristics such as giving birth to live young, having mammary glands, being warm-blooded, and having hair. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5

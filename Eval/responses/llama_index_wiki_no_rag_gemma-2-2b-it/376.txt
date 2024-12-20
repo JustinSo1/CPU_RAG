@@ -1,0 +1,13 @@
+[PROMPT]: What is Monroe's father's name?
+[USER_ANSWER]: 
+
+This question is a bit tricky!  Here's why:
+
+* **The question is based on a common misconception.**  Many people assume that Monroe's father's name is "John." This is because of a popular song and a common misinterpretation of a historical event. 
+* **The truth is, Monroe's father's name is not John.**  There is no historical record of a John Monroe being the father of President John F. Kennedy.
+
+Let me know if you'd like to learn more about President John F. Kennedy or his family! 
+
+[CORRECT_ANSWER]: Spence
+[FEEDBACK]: The response is completely incorrect and inaccurate. It does not provide the correct name "Spence" as Monroe's father's name. Instead, it discusses a misconception about a different historical figure, President John F. Kennedy, which is irrelevant to the question asked. The response fails to address the actual question and provides misleading information.
+[RESULT]: 1

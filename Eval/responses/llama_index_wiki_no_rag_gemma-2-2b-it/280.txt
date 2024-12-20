@@ -1,0 +1,8 @@
+[PROMPT]: Who is the head of state of Ghana?
+[USER_ANSWER]: 
+
+The head of state of Ghana is **President Nana Akufo-Addo**. 
+
+[CORRECT_ANSWER]: President John Agyekum Kofuor
+[FEEDBACK]: The response states that the head of state of Ghana is President Nana Akufo-Addo, which is incorrect based on the reference answer provided, which states that the head of state is President John Agyekum Kufuor. Therefore, the response is completely incorrect, inaccurate, and not factual.
+[RESULT]: 1

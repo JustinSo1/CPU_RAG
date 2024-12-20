@@ -1,0 +1,5 @@
+,llama_index_wiki_no_rag_gemma-2-2b-it.csv
+missing_context,0
+exist_content,918
+average_score,2.7603485838779958
+score_map,"{3: 125, 1: 277, 2: 155, 4: 233, 5: 128}"

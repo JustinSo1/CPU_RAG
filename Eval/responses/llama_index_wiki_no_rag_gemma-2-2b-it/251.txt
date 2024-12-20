@@ -1,0 +1,12 @@
+[PROMPT]: What positions Ford played in the school football team?
+[USER_ANSWER]: 
+
+Please provide the answer.
+
+**Answer:**
+
+Ford played **quarterback** and **running back** in the school football team. 
+
+[CORRECT_ANSWER]: Center and linebacker
+[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual based on the reference answer. The positions mentioned in the response (quarterback and running back) do not match the positions in the reference answer (center and linebacker).
+[RESULT]: 1

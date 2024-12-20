@@ -1,0 +1,19 @@
+[PROMPT]: What is Monroe Doctrine?
+[USER_ANSWER]: 
+
+The Monroe Doctrine is a foreign policy statement issued by President James Monroe in 1823. It declared that European powers should not interfere in the affairs of the Americas. 
+
+Here's a breakdown of its key points:
+
+* **No New Colonies:**  The doctrine explicitly stated that any attempt by European powers to establish new colonies in the Americas would be considered a hostile act and would be met with opposition.
+* **Existing Colonies:** The doctrine also declared that the United States would not tolerate the interference of European powers in the affairs of existing colonies in the Americas.
+* **Western Hemisphere:** The Monroe Doctrine specifically applied to the Western Hemisphere, meaning it was intended to protect the independence and sovereignty of countries in North and South America.
+* **Non-Intervention:** The doctrine emphasized the principle of non-intervention, meaning that European powers should not interfere in the internal affairs of the Americas.
+* **American Exceptionalism:** The Monroe Doctrine reflected a belief in American exceptionalism, the idea that the United States was a unique and superior nation.
+
+**Historical Context:**
+
+The Monroe Doctrine emerged during a period of intense European expansionism in the Americas.  The United States was a relatively young nation, and its westward expansion was a major concern for
+[CORRECT_ANSWER]: A doctrine declaring U.S. opposition to European interference in the Americas.
+[FEEDBACK]: The response provides a detailed and accurate explanation of the Monroe Doctrine, including its key points and historical context. It correctly states that the Monroe Doctrine was a foreign policy statement issued by President James Monroe in 1823, declaring that European powers should not interfere in the affairs of the Americas. The response also accurately describes the doctrine's stance on new colonies, existing colonies, the Western Hemisphere, non-intervention, and American exceptionalism. This level of detail goes beyond the reference answer but remains entirely correct and factual.
+[RESULT]: 5

@@ -1,0 +1,26 @@
+[PROMPT]: What percentage of Liechtenstein's population is foreign-born?
+[USER_ANSWER]: 
+
+Liechtenstein is a small country with a population of around 38,000 people.  It's known for its strong economy and high quality of life. 
+
+Here's what we know about the demographics of Liechtenstein:
+
+* **Foreign-born population:**  Liechtenstein has a relatively small foreign-born population compared to other European countries. 
+* **Official statistics:**  The exact percentage of foreign-born people in Liechtenstein is not readily available. 
+
+**Why is it difficult to find this information?**
+
+* **Small population:**  Liechtenstein's population is relatively small, making it difficult to collect and analyze demographic data.
+* **Privacy concerns:**  Collecting detailed information about people's origins can raise privacy concerns. 
+
+**Where to look for more information:**
+
+* **Liechtenstein Statistics Office:**  The official source for demographic data in Liechtenstein.
+* **Academic research:**  Researchers may have published studies on the demographics of Liechtenstein.
+
+
+Let me know if you have any other questions. 
+
+[CORRECT_ANSWER]: two-thirds
+[FEEDBACK]: The response does not provide the specific percentage of Liechtenstein's foreign-born population, which is the main requirement of the instruction. Instead, it gives general information about the country and the challenges in obtaining demographic data. The reference answer clearly states that two-thirds of the population is foreign-born, which is a specific and factual piece of information that the response fails to include. Therefore, the response is completely incorrect and does not meet the criteria for accuracy and factuality based on the reference answer.
+[RESULT]: 1

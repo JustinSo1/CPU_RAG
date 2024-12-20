@@ -1,0 +1,20 @@
+[PROMPT]: How did early naturalists distinguish between leopards and panthers?
+[USER_ANSWER]: 
+
+Early naturalists distinguished between leopards and panthers primarily through **physical characteristics and geographic location**. 
+
+Here's a breakdown:
+
+* **Physical Characteristics:**
+    * **Leopards:**  Known for their distinctive rosette-shaped spots, which are typically larger and more widely spaced than those of panthers. Their spots are often darker and more defined.
+    * **Panthers:**  Often described as having a more "spotted" appearance, with smaller, more closely spaced spots that are often lighter in color. 
+* **Geographic Location:**
+    * **Leopards:**  Found in Africa, Asia, and parts of the Middle East.
+    * **Panthers:**  Historically found in the Americas, particularly in the southeastern United States.  However, the term "panther" is often used to describe a black panther, which is a melanistic leopard.
+
+**Important Note:**  The distinction between leopards and panthers was not always clear-cut.  There was often a lot of overlap in their physical characteristics, and the term "panther" was sometimes used to describe any large, black cat.  
+
+**Modern Science:**  Today, scientists use DNA analysis and other modern techniques to differentiate between leop
+[CORRECT_ANSWER]: by the length of their tails
+[FEEDBACK]: The response provided is detailed and informative, but it does not align with the reference answer, which states that early naturalists distinguished between leopards and panthers by the length of their tails. The response focuses on physical characteristics and geographic location, which are not mentioned in the reference answer. Therefore, the response is mostly incorrect based on the given score rubric.
+[RESULT]: 2

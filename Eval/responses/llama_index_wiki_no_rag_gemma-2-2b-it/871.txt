@@ -1,0 +1,15 @@
+[PROMPT]: Does Uruguay border French Guiana?
+[USER_ANSWER]: 
+
+No, Uruguay does not border French Guiana. 
+
+Here's why:
+
+* **Location:** Uruguay is a country in South America, bordering Brazil, Argentina, and the Atlantic Ocean.
+* **French Guiana:** French Guiana is a French overseas territory located on the northeastern coast of South America, bordering Brazil. 
+
+They are separated by a significant distance and the countries of Brazil and Argentina. 
+
+[CORRECT_ANSWER]: No
+[FEEDBACK]: The response is completely correct, accurate, and factual. It correctly states that Uruguay does not border French Guiana and provides additional context about the locations of both Uruguay and French Guiana, explaining their geographical separation. This additional information, while not necessary, does not detract from the accuracy of the response.
+[RESULT]: 5
