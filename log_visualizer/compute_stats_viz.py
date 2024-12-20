@@ -151,7 +151,7 @@ def visualize_rag_pipeline_timings(input_fname, output_time_fname):
     # df = df.drop('Answer', axis=1)
     time_df = df['llm_response_time']
     time_df = time_df.astype(float)
-    # print(time_df)
+    # print(time_df.mean())
     time_df.plot(title="Wiki LLM times", xlabel='Questions', ylabel='Time (s)')
     plt.tight_layout()
     plt.savefig(f"{output_time_fname}.png", dpi=300)
@@ -192,5 +192,7 @@ if __name__ == '__main__':
     # visualize_rag_pipeline_tokens_and_timings("llamaIndex_experiments/llama_index_wiki_gpt-4o.csv",
     #                                           "data/dataset/rag_wikipedia/results/full_wiki/gpt4o_wiki_time",
     #                                           "data/dataset/rag_wikipedia/results/full_wiki/gpt4o_wiki_tokens")
-    visualize_rag_pipeline_timings("llamaIndex_experiments/llama_index_wiki_no_rag_gpt-4o.csv",
-                                   "data/dataset/rag_wikipedia/results/full_wiki/gpt4o_wiki_llm_only_time")
+    # visualize_rag_pipeline_timings("llamaIndex_experiments/llama_index_wiki_no_rag_gemma-2-2b-it.csv",
+    #                                "data/dataset/rag_wikipedia/results/full_wiki/gemma-2-2b-it_wiki_llm_only_time")
+    # visualize_rag_pipeline_timings("llamaIndex_experiments/llama_index_wiki_no_rag_gpt-4o.csv",
+    #                                "data/dataset/rag_wikipedia/results/full_wiki/gemma-2-2b-it_wiki_llm_only_time")
