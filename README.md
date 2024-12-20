@@ -12,3 +12,7 @@
 
 ## Eval
 - Evaluates accuracy of experiment answers
+
+
+TODO:
+- Get the retrieved documents
