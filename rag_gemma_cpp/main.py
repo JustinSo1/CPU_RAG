@@ -4,7 +4,6 @@ import pickle
 import scann
 import multiprocessing
 import statistics
-import subprocess
 
 import numpy as np
 import pandas as pd
@@ -15,7 +14,7 @@ import pandas as pd
 #                          )
 from sentence_transformers import SentenceTransformer
 
-from model_wrappers.gemma_wrapper import GemmaCPPPython
+from rag_gemma_cpp.model_wrappers.gemma_wrapper import GemmaCPPPython
 from utils import map2embeddings, generate_summary_and_answer, read_parquet
 
 
