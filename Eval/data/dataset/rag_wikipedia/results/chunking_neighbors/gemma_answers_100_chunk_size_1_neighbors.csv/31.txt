@@ -1,5 +1,0 @@
-[PROMPT]: When did he become a professor?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: 1820
-[FEEDBACK]: The response does not provide any factual information or a specific answer to the question "When did he become a professor?" Instead, it states that the knowledge base does not have a match and offers no relevant information. This makes the response completely incorrect and not factual based on the reference answer, which is "1820."
-[RESULT]: 1

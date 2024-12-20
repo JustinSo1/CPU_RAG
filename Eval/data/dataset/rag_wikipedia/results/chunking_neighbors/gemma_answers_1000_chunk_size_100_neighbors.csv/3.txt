@@ -1,5 +1,0 @@
-[PROMPT]: Did his mother die of pneumonia?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: no
-[FEEDBACK]: The response does not directly answer the question and instead provides an explanation about the knowledge base, which is not relevant to the question asked. It does not provide any factual information regarding whether his mother died of pneumonia. Therefore, it is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1

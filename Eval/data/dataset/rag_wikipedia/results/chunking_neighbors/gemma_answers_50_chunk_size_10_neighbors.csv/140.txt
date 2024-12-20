@@ -1,5 +1,0 @@
-[PROMPT]: What is named after him?
-[USER_ANSWER]: The name of Antarctica's city is named after the scientist Sir Francis Scott.
-[CORRECT_ANSWER]: The Celsius crater on the Moon
-[FEEDBACK]: The response is completely incorrect, inaccurate, and not factual. The reference answer indicates that the correct response should be "The Celsius crater on the Moon," while the response provided mentions an unrelated and incorrect fact about a city in Antarctica named after Sir Francis Scott. There is no factual basis for the response given in relation to the reference answer.
-[RESULT]: 1

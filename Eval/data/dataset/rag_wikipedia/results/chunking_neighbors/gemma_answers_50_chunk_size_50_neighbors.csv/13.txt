@@ -1,5 +1,0 @@
-[PROMPT]: Which county was Lincoln born in?
-[USER_ANSWER]: The context provides that Lincoln was born in Springfield, Illinois.
-[CORRECT_ANSWER]: Hardin County
-[FEEDBACK]: The response is completely incorrect and inaccurate. Lincoln was not born in Springfield, Illinois; he was born in Hardin County. The response does not align with the factual information provided in the reference answer.
-[RESULT]: 1

@@ -104,7 +104,7 @@ def main():
             'score_map': dict(score_map)
         }
     df = pd.DataFrame.from_dict(accuracy_dict)
-    df.to_csv(f'{experiment_name}.csv')
+    df.to_csv(f'data/{experiment_name}.csv')
 
 
 if __name__ == '__main__':

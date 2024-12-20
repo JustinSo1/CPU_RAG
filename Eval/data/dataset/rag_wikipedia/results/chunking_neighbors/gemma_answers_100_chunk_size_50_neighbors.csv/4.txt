@@ -1,5 +1,0 @@
-[PROMPT]: How many long was Lincoln's formal education?
-[USER_ANSWER]: Lincoln's formal education consisted of about 18 months of schooling, primarily self-taught.
-[CORRECT_ANSWER]: 18 months
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly states that Lincoln's formal education consisted of about 18 months of schooling, which aligns with the reference answer. However, the additional detail about being primarily self-taught, while true, is not necessary for the specific question asked. This extra information does not detract significantly from the accuracy but does make the response slightly more verbose than required.
-[RESULT]: 4

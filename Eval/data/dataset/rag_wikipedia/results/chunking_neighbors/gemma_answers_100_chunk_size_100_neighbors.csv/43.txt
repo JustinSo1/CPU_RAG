@@ -1,5 +1,0 @@
-[PROMPT]: When did he publish a collection?
-[USER_ANSWER]: The context does not provide any information about when Theodore Roosevelt published a collection of his writings, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: 1733
-[FEEDBACK]: The response is completely incorrect and inaccurate based on the reference answer. The reference answer indicates a specific year (1733), while the response states that there is no information provided about the publication date. This shows a clear discrepancy between the response and the reference answer.
-[RESULT]: 1

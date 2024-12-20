@@ -1,5 +1,0 @@
-[PROMPT]: Is Avogadro 's number commonly used to compute the results of chemical reactions ?
-[USER_ANSWER]: The context does not provide any information about whether Avogadro's number is commonly used to compute the results of chemical reactions, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not address the question directly and instead mentions the lack of context, which is not relevant to the question asked. The question is about the common use of Avogadro's number in chemical reactions, and the correct answer is simply "yes." The response fails to provide this information and is therefore completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1

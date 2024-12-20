@@ -1,5 +1,0 @@
-[PROMPT]: Did Lincoln beat John C. Breckinridge in the 1860 election?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response does not directly answer the question about whether Lincoln beat John C. Breckinridge in the 1860 election. Instead, it states that the knowledge base does not have a match and provides no factual information. This makes the response completely incorrect and not factual based on the reference answer, which is a simple "yes."
-[RESULT]: 1

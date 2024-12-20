@@ -1,5 +1,0 @@
-[PROMPT]: Did Abraham Lincoln live in the Frontier?
-[USER_ANSWER]: The context does not provide any information about Abraham Lincoln's residence, so I cannot answer this question from the provided context.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not address the question directly and fails to provide the correct information. The reference answer is a simple "Yes," indicating that Abraham Lincoln did live in the Frontier. The evaluated response incorrectly states that the context does not provide information, which is not relevant to the question itself. Therefore, the response is completely incorrect and inaccurate based on the reference answer.
-[RESULT]: 1

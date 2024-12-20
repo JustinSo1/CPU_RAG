@@ -1,7 +1,0 @@
-[PROMPT]: The Celsius crater on the Moon is what?
-[USER_ANSWER]: Sure, here's an answer to the question:
-
-The Celsius crater on the Moon is named after the astronomer and physicist Anders Celsius, who proposed the Celsius scale of temperature.
-[CORRECT_ANSWER]: named after him
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies that the Celsius crater on the Moon is named after Anders Celsius, who proposed the Celsius scale of temperature. However, the additional information about Anders Celsius being an astronomer and physicist, while accurate, is not necessary to answer the question directly. The reference answer is more concise and directly to the point.
-[RESULT]: 4

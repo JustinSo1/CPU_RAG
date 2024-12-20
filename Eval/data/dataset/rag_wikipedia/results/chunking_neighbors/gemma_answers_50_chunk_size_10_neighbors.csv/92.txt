@@ -1,5 +1,0 @@
-[PROMPT]: Is it true that he became a professor in 1820?
-[USER_ANSWER]: Sure, the context says that he became a professor of physics in 1820.
-[CORRECT_ANSWER]: yes
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It confirms that he became a professor in 1820, which aligns with the reference answer. However, the additional detail about him being a professor of physics, while potentially accurate, is not necessary for the response and slightly deviates from the simplicity of the reference answer.
-[RESULT]: 4

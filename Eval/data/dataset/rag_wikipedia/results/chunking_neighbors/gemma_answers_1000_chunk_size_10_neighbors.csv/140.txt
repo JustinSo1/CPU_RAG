@@ -1,5 +1,0 @@
-[PROMPT]: What is named after him?
-[USER_ANSWER]: Sure, the name "Tesla" is named after Nikola Tesla, a renowned Serbian physicist and inventor.
-[CORRECT_ANSWER]: The Celsius crater on the Moon
-[FEEDBACK]: The response is completely incorrect and not factual based on the reference answer. The reference answer specifies that the Celsius crater on the Moon is named after him, while the response incorrectly states that "Tesla" is named after Nikola Tesla. There is no alignment between the response and the reference answer.
-[RESULT]: 1

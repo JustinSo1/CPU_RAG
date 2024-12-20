@@ -1,5 +1,0 @@
-[PROMPT]: Did Lincoln's Wife's Family support slavery?
-[USER_ANSWER]: I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge.
-[CORRECT_ANSWER]: Yes
-[FEEDBACK]: The response does not address the question directly and does not provide any factual information regarding whether Lincoln's wife's family supported slavery. It is not correct, accurate, or factual based on the reference answer.
-[RESULT]: 1

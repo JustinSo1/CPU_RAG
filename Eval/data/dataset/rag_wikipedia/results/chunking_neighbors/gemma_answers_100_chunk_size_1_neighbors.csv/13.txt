@@ -1,5 +1,0 @@
-[PROMPT]: Which county was Lincoln born in?
-[USER_ANSWER]: The context specifies that Lincoln was born in Hardin County, Kentucky.
-[CORRECT_ANSWER]: Hardin County
-[FEEDBACK]: The response is mostly correct, accurate, and factual. It correctly identifies Hardin County as the place where Lincoln was born. However, the additional information "The context specifies that" and "Kentucky" is not necessary for the answer to be complete and accurate based on the reference answer. The reference answer is more concise and to the point.
-[RESULT]: 4

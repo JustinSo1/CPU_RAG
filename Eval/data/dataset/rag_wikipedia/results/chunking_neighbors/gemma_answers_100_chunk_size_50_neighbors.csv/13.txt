@@ -1,7 +1,0 @@
-[PROMPT]: Which county was Lincoln born in?
-[USER_ANSWER]: Abraham Lincoln was born in Hardin County, Illinois.
-
-[I couldn't find a good match in my knowledge base for your question, hence I answer based on my own knowledge].
-[CORRECT_ANSWER]: Hardin County
-[FEEDBACK]: The response is mostly incorrect and inaccurate. Abraham Lincoln was born in Hardin County, but it was in Kentucky, not Illinois. The additional statement about the knowledge base does not contribute to the accuracy of the answer.
-[RESULT]: 2
