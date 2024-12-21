@@ -1,3 +1,6 @@
 [submodule "gemma-cpp-python"]
 	path = gemma-cpp-python
 	url = git@github.com:namtranase/gemma-cpp-python.git
+[submodule "RAG_GemmaCPP"]
+	path = RAG_GemmaCPP
+	url = git@github.com:JustinSo1/RAG_GemmaCPP.git
