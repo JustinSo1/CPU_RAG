@@ -1,5 +1,11 @@
+import os
+
+import pandas as pd
+from datasets import load_dataset
+from langchain_openai import AzureChatOpenAI
 from llama_index.core import Document, StorageContext, VectorStoreIndex
 from llama_index.core.node_parser import SentenceSplitter
+from llama_index.llms.langchain import LangChainLLM
 from llama_index.llms.llama_cpp import LlamaCPP
 from enum import Enum
 
@@ -70,3 +76,36 @@ def create_llama_cpp_model(model_url):
         verbose=True,
     )
     return llm
+
+
+def load_the_dataset(hf_path, ):
+    ds = load_dataset("rag-datasets/rag-mini-wikipedia", "question-answer")
+    return ds
+
+
+def create_question_answer_df(file_name):
+    df = pd.read_csv(file_name, index_col=0)
+    df = df.transpose()
+    df = df['Answer']
+    return df
+
+
+def create_gpt4o_model():
+    llm_model = AzureChatOpenAI(
+        deployment_name=os.environ['MODEL'],
+        openai_api_version=os.environ['API_VERSION'],
+        openai_api_key=os.environ['OPENAI_API_KEY'],
+        azure_endpoint=os.environ['OPENAI_API_BASE'],
+        openai_organization=os.environ['OPENAI_ORGANIZATION']
+    )
+    llm_predictor = LangChainLLM(llm=llm_model)
+    return llm_predictor
+
+
+def create_llm_model(model_name):
+    llm_models = {
+        LLMName.GEMMA2_2B_IT: lambda: create_llama_cpp_model(
+            "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"),
+        LLMName.GPT_4o: lambda: create_gpt4o_model(),
+    }
+    return llm_models.get(model_name, lambda: "Invalid arg")()

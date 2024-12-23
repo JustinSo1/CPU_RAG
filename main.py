@@ -1,9 +1,9 @@
 import logging
-import os
 import sys
+import time
 from datetime import datetime
 
-from llama_index.llms.langchain import LangChainLLM
+from datasets import load_dataset
 # Transformers package import needs to be at top or else SIG errors
 from transformers import AutoTokenizer
 import faiss
@@ -16,13 +16,12 @@ from llama_index.core.callbacks import TokenCountingHandler, CallbackManager
 from llama_index.core.indices.vector_store import VectorIndexRetriever
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.vector_stores.faiss import FaissVectorStore
-from langchain_openai import AzureChatOpenAI
 
 from RAGQueryEngine import RAGQueryEngine
-from utils import create_llama_cpp_model, LLMName
+from utils import LLMName, construct_index, create_llm_model
 
 
-def main(llm_model):
+def main(llm_model, experiment_output_file, is_index_created=False):
     # Define llm parameters
 
     tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-2b-it")
@@ -31,10 +30,9 @@ def main(llm_model):
     )
     embed_model = HuggingFaceEmbedding(model_name="thenlper/gte-large")
 
-    text_corpus = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/passages.parquet/part.0.parquet")
-    question_answer = pd.read_parquet("hf://datasets/rag-datasets/rag-mini-wikipedia/data/test.parquet/part.0.parquet")
-    questions = question_answer['question'].tolist()
-    answers = question_answer['answer'].tolist()
+    question_answer_ds = load_dataset("rag-datasets/rag-mini-wikipedia", "question-answer")
+    questions = question_answer_ds['test']['question']
+    answers = question_answer_ds['test']['answer']
 
     token_counter = TokenCountingHandler(
         tokenizer=tokenizer
@@ -46,20 +44,23 @@ def main(llm_model):
     llama_index_embeddings_path = "data/dataset/rag_wikipedia/embeddings/llama_index_embeddings/"
 
     # create vector store index
+    # 1024 is the embedding dimension length
     faiss_index = faiss.IndexFlatL2(1024)
     vector_store = FaissVectorStore(faiss_index=faiss_index)
-    # index_start_build_time = time.perf_counter()
-    # index = construct_index(text_corpus, embed_model, llama_index_embeddings_path, vector_store)
-    # index_end_build_time = time.perf_counter()
-    # logging.log(logging.INFO, f"Index build time: {index_end_build_time - index_start_build_time}s")
-
-    # rebuild storage context
-    storage_context = StorageContext.from_defaults(persist_dir=llama_index_embeddings_path,
-                                                   vector_store=vector_store.from_persist_dir(
-                                                       persist_dir=llama_index_embeddings_path
-                                                   ))
-    # # load index
-    index = load_index_from_storage(storage_context=storage_context)
+    if not is_index_created:
+        text_corpus_ds = load_dataset("rag-datasets/rag-mini-wikipedia", "text-corpus")
+        index_start_build_time = time.perf_counter()
+        index = construct_index(text_corpus_ds['passages'], embed_model, llama_index_embeddings_path, vector_store)
+        index_end_build_time = time.perf_counter()
+        logging.log(logging.INFO, f"Index build time: {index_end_build_time - index_start_build_time}s")
+    else:
+        # rebuild storage context
+        storage_context = StorageContext.from_defaults(persist_dir=llama_index_embeddings_path,
+                                                       vector_store=vector_store.from_persist_dir(
+                                                           persist_dir=llama_index_embeddings_path
+                                                       ))
+        # # load index
+        index = load_index_from_storage(storage_context=storage_context)
 
     # configure retriever
     retriever = VectorIndexRetriever(
@@ -100,33 +101,13 @@ def main(llm_model):
         break
     df = pd.DataFrame.from_dict(answer_dict)
     print(df)
-    # df.to_csv("llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv")
-
-
-def create_gpt4o_model():
-    llm_model = AzureChatOpenAI(
-        deployment_name=os.environ['MODEL'],
-        openai_api_version=os.environ['API_VERSION'],
-        openai_api_key=os.environ['OPENAI_API_KEY'],
-        azure_endpoint=os.environ['OPENAI_API_BASE'],
-        openai_organization=os.environ['OPENAI_ORGANIZATION']
-    )
-    llm_predictor = LangChainLLM(llm=llm_model)
-    return llm_predictor
-
-
-def create_llm_model(model_name):
-    llm_models = {
-        LLMName.GEMMA2_2B_IT: lambda: create_llama_cpp_model(
-            "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"),
-        LLMName.GPT_4o: lambda: create_gpt4o_model(),
-    }
-    return llm_models.get(model_name, lambda: "Invalid arg")()
+    df.to_csv(experiment_output_file)
 
 
 if __name__ == '__main__':
     load_dotenv('.env')
     experiment_name = "gemma2-2b-it_rag_wiki"
+    llm_model_name = LLMName.GEMMA2_2B_IT
     model_url = "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"
 
     log_file = f"logs/{experiment_name}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.log"
@@ -137,5 +118,5 @@ if __name__ == '__main__':
     logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
     with open(log_file, "a") as log:
         sys.stderr = log
-        llm = create_llm_model(LLMName.GEMMA2_2B_IT)
-        main(llm)
+        llm = create_llm_model(llm_model_name)
+        main(llm, "test.csv", True)

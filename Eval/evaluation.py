@@ -3,14 +3,9 @@ import re
 from pathlib import Path
 
 import pandas as pd
-from datasets import load_dataset
 
 from api_call import API_CLIENT
-
-
-def load_the_dataset():
-    ds = load_dataset("rag-datasets/rag-mini-wikipedia", "question-answer")
-    return ds
+from utils import load_the_dataset, create_question_answer_df
 
 
 def process_feedback(feedback, question_id, input_prompt, user_answer, correct_answer, response_dir):
@@ -43,13 +38,6 @@ def count_context_cases(df):
     counter_context_missing = df.str.count('|'.join(failures)).sum()
     counter_context_exist = df.shape[0] - counter_context_missing
     return counter_context_exist, counter_context_missing
-
-
-def create_question_answer_df(file_name):
-    df = pd.read_csv(file_name, index_col=0)
-    df = df.transpose()
-    df = df['Answer']
-    return df
 
 
 def main():
