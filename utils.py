@@ -1,6 +1,12 @@
 from llama_index.core import Document, StorageContext, VectorStoreIndex
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.llms.llama_cpp import LlamaCPP
+from enum import Enum
+
+
+class LLMName(Enum):
+    GEMMA2_2B_IT = 1
+    GPT_4o = 2
 
 
 def get_documents(df):

@@ -1,6 +1,9 @@
 import logging
+import os
 import sys
 from datetime import datetime
+
+from llama_index.llms.langchain import LangChainLLM
 # Transformers package import needs to be at top or else SIG errors
 from transformers import AutoTokenizer
 import faiss
@@ -13,30 +16,15 @@ from llama_index.core.callbacks import TokenCountingHandler, CallbackManager
 from llama_index.core.indices.vector_store import VectorIndexRetriever
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.vector_stores.faiss import FaissVectorStore
+from langchain_openai import AzureChatOpenAI
 
 from RAGQueryEngine import RAGQueryEngine
-from utils import create_llama_cpp_model
+from utils import create_llama_cpp_model, LLMName
 
 
-def main():
-    # os.environ["OPENAI_API_KEY"] = "random"
-    # model_url = "https://huggingface.co/google/gemma-2-2b-it-GGUF/resolve/main/2b_it_v2.gguf"
-    model_url = "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"
-    llm = create_llama_cpp_model(model_url)
-    load_dotenv('.env')
+def main(llm_model):
+    # Define llm parameters
 
-    # # Define llm parameters
-    #    llm = AzureChatOpenAI(
-    #        deployment_name=os.environ['MODEL'],
-    #        openai_api_version=os.environ['API_VERSION'],
-    #        openai_api_key=os.environ['OPENAI_API_KEY'],
-    #        azure_endpoint=os.environ['OPENAI_API_BASE'],
-    #        openai_organization=os.environ['OPENAI_ORGANIZATION']
-    #    )
-    #    llm_predictor = LangChainLLM(llm=llm)
-
-    # response = llm_predictor.complete("Hello! Can you tell me a poem about cats and dogs?")
-    # print(response.text)
     tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-2b-it")
     set_global_tokenizer(
         tokenizer
@@ -52,14 +40,9 @@ def main():
         tokenizer=tokenizer
     )
 
-    #    Settings.llm = llm_predictor
-    Settings.llm = llm
+    Settings.llm = llm_model
     Settings.embed_model = embed_model
     Settings.callback_manager = CallbackManager([token_counter])
-    # Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
-    # Settings.num_output = 512
-    # Settings.context_window = 3900
-
     llama_index_embeddings_path = "data/dataset/rag_wikipedia/embeddings/llama_index_embeddings/"
 
     # create vector store index
@@ -88,19 +71,7 @@ def main():
     response_synthesizer = get_response_synthesizer()
 
     # assemble query engine
-    # query_engine = RetrieverQueryEngine(
-    #     retriever=retriever,
-    #     response_synthesizer=response_synthesizer,
-    #     # node_postprocessors=[SimilarityPostprocessor(similarity_cutoff=0.0)],
-    # )
     query_engine = RAGQueryEngine(retriever=retriever, response_synthesizer=response_synthesizer)
-    logging.log(logging.INFO, f"""
-        Embedding Tokens: {token_counter.total_embedding_token_count}
-        LLM Prompt Tokens: {token_counter.prompt_llm_token_count}
-        LLM Completion Tokens: {token_counter.completion_llm_token_count}
-        Total LLM Token Count: {token_counter.total_llm_token_count}
-        """
-                )
     answer_dict = {}
     for i, (question, answer) in enumerate(zip(questions, answers), 0):
         print(f"Question #{i}")
@@ -132,16 +103,39 @@ def main():
     # df.to_csv("llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv")
 
 
+def create_gpt4o_model():
+    llm_model = AzureChatOpenAI(
+        deployment_name=os.environ['MODEL'],
+        openai_api_version=os.environ['API_VERSION'],
+        openai_api_key=os.environ['OPENAI_API_KEY'],
+        azure_endpoint=os.environ['OPENAI_API_BASE'],
+        openai_organization=os.environ['OPENAI_ORGANIZATION']
+    )
+    llm_predictor = LangChainLLM(llm=llm_model)
+    return llm_predictor
+
+
+def create_llm_model(model_name):
+    llm_models = {
+        LLMName.GEMMA2_2B_IT: lambda: create_llama_cpp_model(
+            "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"),
+        LLMName.GPT_4o: lambda: create_gpt4o_model(),
+    }
+    return llm_models.get(model_name, lambda: "Invalid arg")()
+
+
 if __name__ == '__main__':
-    log_file = f"logs/gemma_llamaindex_wiki_{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.log"
+    load_dotenv('.env')
+    experiment_name = "gemma2-2b-it_rag_wiki"
+    model_url = "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"
+
+    log_file = f"logs/{experiment_name}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.log"
     logging.basicConfig(level=logging.INFO, filename=log_file,
                         filemode='a',
                         format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                         datefmt='%H:%M:%S')
-    # logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
-    # logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
     logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
-    # logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stderr))
     with open(log_file, "a") as log:
         sys.stderr = log
-        main()
+        llm = create_llm_model(LLMName.GEMMA2_2B_IT)
+        main(llm)
