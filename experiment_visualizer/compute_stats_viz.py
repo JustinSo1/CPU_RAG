@@ -143,6 +143,7 @@ def visualize_rag_pipeline_tokens_and_timings(input_fname, output_time_fname, ou
     plt.tight_layout()
     plt.savefig(f"{output_token_fname}.png", dpi=300)
 
+
 def visualize_rag_pipeline_timings(input_fname, output_time_fname):
     df = pd.read_csv(input_fname, index_col=0)
     # print(df)
