@@ -1,5 +1,4 @@
 import logging
-import os
 import sys
 from datetime import datetime
 # Transformers package import needs to be at top or else SIG errors
@@ -7,63 +6,16 @@ from transformers import AutoTokenizer
 import faiss
 import pandas as pd
 from dotenv import load_dotenv
-from langchain_openai import AzureChatOpenAI
-from llama_index.core import Document, Settings, get_response_synthesizer
+from llama_index.core import Settings, get_response_synthesizer
 from llama_index.core import StorageContext, load_index_from_storage
-from llama_index.core import VectorStoreIndex
 from llama_index.core import set_global_tokenizer
 from llama_index.core.callbacks import TokenCountingHandler, CallbackManager
 from llama_index.core.indices.vector_store import VectorIndexRetriever
-from llama_index.core.node_parser import SentenceSplitter
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.llms.langchain import LangChainLLM
-from llama_index.llms.llama_cpp import LlamaCPP
 from llama_index.vector_stores.faiss import FaissVectorStore
 
 from RAGQueryEngine import RAGQueryEngine
-
-
-# from utils import read_parquet
-
-def get_documents(df):
-    documents = [
-        Document(
-            text=row['passage'],
-            # metadata={
-            #     'ID': row['ID'],
-            #     'Type': row['Type']
-            # }
-        )
-        for _, row in df.iterrows()
-    ]
-    # print(documents)
-    return documents
-
-
-def split_documents(documents, embed_model):
-    splitter = SentenceSplitter(
-        chunk_size=200,
-        chunk_overlap=0,
-        paragraph_separator="\n\n"
-    )
-    nodes = splitter.get_nodes_from_documents(documents, show_progress=True)
-    # splitter = SemanticSplitterNodeParser.from_defaults(embed_model=embed_model)
-    # nodes = splitter.build_semantic_nodes_from_documents(documents, show_progress=True)
-    return nodes
-
-
-def construct_index(text_corpus, embed_model, llama_index_embeddings_path, vector_store):
-    print("Building index")
-    documents = get_documents(text_corpus)
-    nodes = split_documents(documents, embed_model)
-
-    storage_context = StorageContext.from_defaults(vector_store=vector_store)
-    index = VectorStoreIndex(nodes, embed_model=embed_model, show_progress=True, storage_context=storage_context)
-
-    index.storage_context.persist(persist_dir=llama_index_embeddings_path)
-
-    print("Built index")
-    return index
+from utils import create_llama_cpp_model
 
 
 def main():
@@ -71,17 +23,17 @@ def main():
     # model_url = "https://huggingface.co/google/gemma-2-2b-it-GGUF/resolve/main/2b_it_v2.gguf"
     model_url = "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf"
     llm = create_llama_cpp_model(model_url)
-    load_dotenv('../.env')
+    load_dotenv('.env')
 
     # # Define llm parameters
-#    llm = AzureChatOpenAI(
-#        deployment_name=os.environ['MODEL'],
-#        openai_api_version=os.environ['API_VERSION'],
-#        openai_api_key=os.environ['OPENAI_API_KEY'],
-#        azure_endpoint=os.environ['OPENAI_API_BASE'],
-#        openai_organization=os.environ['OPENAI_ORGANIZATION']
-#    )
-#    llm_predictor = LangChainLLM(llm=llm)
+    #    llm = AzureChatOpenAI(
+    #        deployment_name=os.environ['MODEL'],
+    #        openai_api_version=os.environ['API_VERSION'],
+    #        openai_api_key=os.environ['OPENAI_API_KEY'],
+    #        azure_endpoint=os.environ['OPENAI_API_BASE'],
+    #        openai_organization=os.environ['OPENAI_ORGANIZATION']
+    #    )
+    #    llm_predictor = LangChainLLM(llm=llm)
 
     # response = llm_predictor.complete("Hello! Can you tell me a poem about cats and dogs?")
     # print(response.text)
@@ -100,7 +52,7 @@ def main():
         tokenizer=tokenizer
     )
 
-#    Settings.llm = llm_predictor
+    #    Settings.llm = llm_predictor
     Settings.llm = llm
     Settings.embed_model = embed_model
     Settings.callback_manager = CallbackManager([token_counter])
@@ -108,7 +60,7 @@ def main():
     # Settings.num_output = 512
     # Settings.context_window = 3900
 
-    llama_index_embeddings_path = "../data/dataset/rag_wikipedia/embeddings/llama_index_embeddings/"
+    llama_index_embeddings_path = "data/dataset/rag_wikipedia/embeddings/llama_index_embeddings/"
 
     # create vector store index
     faiss_index = faiss.IndexFlatL2(1024)
@@ -172,34 +124,12 @@ def main():
             """
                     )
         token_counter.reset_counts()
-#        if i == 50:
-#            break
-#        break
+        #        if i == 50:
+        #            break
+        break
     df = pd.DataFrame.from_dict(answer_dict)
     print(df)
-    df.to_csv("llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv")
-
-
-def create_llama_cpp_model(model_url):
-    llm = LlamaCPP(
-        # You can pass in the URL to a GGML model to download it automatically
-        model_url=model_url,
-        # optionally, you can set the path to a pre-downloaded model instead of model_url
-        # model_path="../data/models/gemma2/gemma-2-2b-it.Q5_K_M.gguf",
-        temperature=0.1,
-        max_new_tokens=256,
-        context_window=8192,
-        # kwargs to pass to __call__()
-        # generate_kwargs={},
-        # kwargs to pass to __init__()
-        # set to at least 1 to use GPU
-        model_kwargs={"repeat_penalty": 1, "penalize_nl": False, "chat_format": "gemma"},
-        # transform inputs into Llama2 format
-        # messages_to_prompt=messages_to_prompt,
-        # completion_to_prompt=completion_to_prompt,
-        verbose=True,
-    )
-    return llm
+    # df.to_csv("llama_index_wiki_gemma-2-2b-it-Q5_K_M.csv")
 
 
 if __name__ == '__main__':
