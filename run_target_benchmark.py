@@ -1,11 +1,6 @@
-# from target_benchmark.evaluators import TARGET, get_task_names
-# from target_benchmark.retrievers import AbsStandardEmbeddingRetriever
-# from target_benchmark.tasks import QuestionAnsweringTask
-
 from CustomRetriever import Retriever
 from CustomGenerator import CustomGenerator
 
-import pandas as pd
 from datasets import load_dataset
 
 from target.target_benchmark.evaluators.TARGET import TARGET

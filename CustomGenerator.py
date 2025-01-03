@@ -3,6 +3,7 @@ from openai import AzureOpenAI
 import os
 from dotenv import load_dotenv
 
+
 class CustomGenerator(AbsGenerator):
     def __init__(self):
         # Set the current working directory to the directory of this script
@@ -10,7 +11,7 @@ class CustomGenerator(AbsGenerator):
 
         # Load environment file for secrets
         try:
-            if not load_dotenv('target/.env'):
+            if not load_dotenv('.env'):
                 raise TypeError
         except TypeError:
             print('Unable to load .env file.')
@@ -33,9 +34,9 @@ class CustomGenerator(AbsGenerator):
         input_text = f"Table: {table_str}\nQuestion: {query}\nAnswer:"
         print(f"Generating answer for input: {input_text}")
 
-        messages=[
-            {"role": "system","content": "You are a QA chatbot"},
-            {"role": "user","content": input_text},
+        messages = [
+            {"role": "system", "content": "You are a QA chatbot"},
+            {"role": "user", "content": input_text},
         ]
 
         # Use the loaded generator model

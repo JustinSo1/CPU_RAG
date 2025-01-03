@@ -1,3 +1,4 @@
+# Uses RAG pipeline to answer questions
 import logging
 import sys
 import time
@@ -119,4 +120,4 @@ if __name__ == '__main__':
     with open(log_file, "a") as log:
         sys.stderr = log
         llm = create_llm_model(llm_model_name)
-        main(llm, "test.csv", True)
+        main(llm, "data/dataset/rag_wikipedia/results/test.csv", True)
