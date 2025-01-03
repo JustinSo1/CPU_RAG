@@ -10,7 +10,7 @@ class CustomGenerator(AbsGenerator):
 
         # Load environment file for secrets
         try:
-            if not load_dotenv('.env'):
+            if not load_dotenv('target/.env'):
                 raise TypeError
         except TypeError:
             print('Unable to load .env file.')
