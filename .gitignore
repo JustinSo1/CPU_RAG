@@ -6,6 +6,7 @@ __pycache__/
 **/embeddings/**
 # C extensions
 *.so
+!TARGET/
 
 # Distribution / packaging
 .Python
