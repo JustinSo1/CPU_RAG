@@ -3,18 +3,19 @@ from sentence_transformers import SentenceTransformer
 from typing import Dict
 import numpy as np
 
+
 class Retriever(AbsStandardEmbeddingRetriever):
     def __init__(self, expected_corpus_format: str = "nested array", model_name: str = "thenlper/gte-large", **kwargs):
         super().__init__(expected_corpus_format=expected_corpus_format)
         self.embedding_model = SentenceTransformer(model_name)
 
-    #return the embeddings for the query as a numpy array
+    # return the embeddings for the query as a numpy array
     def embed_query(self, query: str, dataset_name: str, **kwargs) -> np.ndarray:
         return self.embedding_model.encode(query, convert_to_numpy=True)
 
     # returns embedding of the passed in table as a numpy array
     def embed_corpus(self, dataset_name: str, corpus_entry: Dict) -> np.ndarray:
-       # Extract context and table information
+        # Extract context and table information
         context = corpus_entry.get("context", [{}])
         table = corpus_entry.get("table", None)
 

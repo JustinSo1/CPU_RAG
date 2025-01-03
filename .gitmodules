@@ -4,3 +4,6 @@
 [submodule "RAG_GemmaCPP"]
 	path = RAG_GemmaCPP
 	url = git@github.com:JustinSo1/RAG_GemmaCPP.git
+[submodule "target"]
+	path = target
+	url = git@github.com:target-benchmark/target.git
